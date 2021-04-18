@@ -1,7 +1,7 @@
 import json
 
 
-with open("ukdb.csv", "r", encoding="utf_8") as f:
+with open("kdb.csv", "r", encoding="utf_8") as f:
     l=[]
     for i in range(19075):
         tmp = f.readline().split('"')
