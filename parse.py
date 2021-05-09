@@ -1,24 +1,24 @@
 import json
 
 
-with open("kdb.csv", "r", encoding="utf_8") as f:
+with open("ukdb.csv", "r", encoding="utf_8") as f:
     l=[]
-    for i in range(19075):
-        tmp = f.readline().split('"')
+    for i in range(19805):
+        tmp1 = f.readline().split('"')
 
-        if tmp[15] == "":
-            tmp[15] = " " 
+        if tmp1[15] == "":
+            tmp1[15] = " " 
 
-        if not "" in set([tmp[1], tmp[3], tmp[11], tmp[13], tmp[15], tmp[21]]):
-            l.append([tmp[1], tmp[3], tmp[11], tmp[13], tmp[15], tmp[21]])
+        if not "" in set([tmp1[1], tmp1[3], tmp1[11], tmp1[13], tmp1[15], tmp1[21]]):
+            l.append([tmp1[1], tmp1[3], tmp1[11], tmp1[13], tmp1[15], tmp1[21]])
 
-json_data = []
+json_data = {}
 l.pop(0)
 
-for data in l:
-    json_data.append({"id": data[0], "name": data[1], "module": data[2], "period": data[3], "room": data[4], "note": data[5]})
+for i in l:
+    json_data[i[0]] = i[1:]
 
-enc = json.dumps(json_data, indent=2, ensure_ascii=False)
+enc = json.dumps(json_data,ensure_ascii=False)
 
 with open("kdb.json", "w") as f:
     f.write(enc)
