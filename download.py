@@ -57,13 +57,10 @@ changed = open("tmp.csv", "r", encoding="utf-8")
 # no change
 if original == changed:
     os.remove("tmp.csv")
-    os.environ["UPDATED"] = "No"
-    print("No change")
 
 else:
     os.remove("kdb.csv")
     os.rename("tmp.csv", "kdb.csv")
-    os.environ["UPDATED"] = "Yes"
 
 original.close()
 changed.close()
