@@ -24,9 +24,12 @@ jobs:
           python -m pip install -U pip
           pip install requests
       - name: Synchronize the csv file with an up-to-date one
+        env:
+          UPDATED: No
         run: |
           python download.py
       - name: Push and Commit
+        if: ${{ UPDATED == "Yes" }}
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"

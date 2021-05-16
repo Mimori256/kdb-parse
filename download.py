@@ -47,7 +47,23 @@ csv_post["outputFormat"] = 0
 response = session.post(do_url, data=csv_post)
 
 # output
-filename = "kdb.csv"
-
-with open(filename, "w", encoding="utf-8") as fp :
+with open("tmp.csv", "w", encoding="utf-8") as fp :
 	fp.write(response.text)
+
+# compare file
+original = open("kdb.csv", "r", encoding="utf-8")
+changed = open("tmp.csv", "r", encoding="utf-8")
+
+# no change
+if original == changed:
+    os.remove("tmp.csv")
+    os.environ["UPDATED"] = "No"
+    print("No change")
+
+else:
+    os.remove("kdb.csv")
+    os.rename("tmp.csv", "kdb.csv")
+    os.environ["UPDATED"] = "Yes"
+
+original.close()
+changed.close()
