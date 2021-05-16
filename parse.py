@@ -3,8 +3,11 @@ import json
 
 with open("kdb.csv", "r", encoding="utf_8") as f:
     l=[]
-    for i in range(19805):
-        tmp1 = f.readline().split('"')
+    lines = f.readlines()
+    # remove the header
+    lines.pop(0)
+    for line in lines:
+        tmp1 = line.split('"')
 
         if tmp1[15] == "":
             tmp1[15] = " " 
