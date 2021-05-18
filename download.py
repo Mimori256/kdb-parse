@@ -1,12 +1,22 @@
 import os
+import datetime
 import requests
 import urllib.parse
 
-year = 2021
+now = datetime.datetime.now()
+year = now.year
+month = now.month
+
+if month < 4:
+    nendo = year - 1
+
+else:
+    nendo = year
+
 post = {
 	"index": "",
 	"locale": "",
-	"nendo": year,
+	"nendo": nendo,
 	"termCode": "",
 	"dayCode": "",
 	"periodCode": "",
@@ -57,8 +67,10 @@ changed = open("tmp.csv", "r", encoding="utf-8")
 # no change
 if original == changed:
     os.remove("tmp.csv")
+    print("No change")
 
 else:
+    print("CSV updated")
     os.remove("kdb.csv")
     os.rename("tmp.csv", "kdb.csv")
 
