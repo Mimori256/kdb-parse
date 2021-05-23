@@ -31,7 +31,6 @@ jobs:
           python 
       - name: Push and Commit
         run: |
-          git add -N . 
           if ! git diff --exit-code --quiet
           then
             git config --global user.email "action@github.com"
