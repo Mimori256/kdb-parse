@@ -38,5 +38,5 @@ jobs:
             git config --global user.email "action@github.com"
             git config --global user.name "GitHub Action"
             git commit -m "update csv: $(date +%Y%m%d)"
-            git push origin master
+            git push
           fi
