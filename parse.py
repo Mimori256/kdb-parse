@@ -1,6 +1,6 @@
 import json
 
-
+#Parse csv to kdb.json
 with open("kdb.csv", "r", encoding="utf_8") as f:
     l=[]
     lines = f.readlines()
