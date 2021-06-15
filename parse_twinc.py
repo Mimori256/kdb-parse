@@ -18,7 +18,6 @@ class Class():
         
         return self.module"""
 
-    def separate_module(self):
 
 
 def create_class_list():
@@ -49,6 +48,15 @@ def create_class_list():
         return class_list
 
 
+def is_multiple_terms(module):
+
+    if module.find("春") + module.find("秋") != -2:
+        return True
+
+    else:
+        return False
+
+
 def main():
 
     class_list = create_class_list()
@@ -57,10 +65,68 @@ def main():
     for c in class_list:
         class_id = c.class_id
         name = c.name
-        module = c.separate_module()
+        module = c.module
         period = c.period
         room = c.room
         description = c.description
+
+        module_tmp = module.split()
+        period_tmp = period.split()
+
+        module_list = []
+        period_list = []
+
+        module_len = len(module_tmp)
+        period_len = len(period_tmp)
+
+        if module_len == period_len:
+
+            for i in range(module_len):
+
+                if is_multiple_terms(module_tmp[i]):
+                    split_index = module.find("秋")
+                    module_list.append(module_tmp[i][0:split_index])
+                    module_list.append(module_tmp[i][split_index:])
+                    period_list.append(period_tmp[i])
+                    period_list.append(period_tmp[i])
+
+                else:
+                    module_list.append(module_tmp[i])
+                    period_list.append(period_tmp[i])
+
+            assert len(module_list) == len(period_list)
+        
+        # In this case, period_len equals 1
+        elif module_len > period_len:
+
+            for i in range(module_len):
+                
+                if is_multiple_terms(module_tmp[i]):
+                    split_index = module.find("秋")
+                    module_list.append(module_tmp[i][0:split_index])
+                    module_list.append(module_tmp[i][split_index:])
+                    period_list.append(period_tmp[0])
+                    period_list.append(period_tmp[0])
+
+                else:
+                    module_list.append(module_tmp[i])
+                    period_list.append(period_tmp[0])
+
+            assert len(module_list) == len(period_list)
+
+        elif module_len == 1:
+            for i in range(period_len):
+                module_list.append(module_tmp[0])
+                period_list.append(period_tmp[i])
+
+            assert len(module_list) == len(period_list)
+            
+        else:
+            print("{}:{}:{}".format(name,module_tmp,period_tmp))
+
+
+
+            
 
 
 
