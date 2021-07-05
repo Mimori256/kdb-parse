@@ -40,6 +40,10 @@ kdb_url = "https://kdb.tsukuba.ac.jp/"
 session = requests.session()
 response = session.get(kdb_url)
 
+if response.status_code != 200:
+    raise ValueError("Connection Error")
+
+
 do_url = response.url
 qs = urllib.parse.urlparse(do_url).query
 query_dict = urllib.parse.parse_qs(qs)
