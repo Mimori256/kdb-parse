@@ -160,6 +160,9 @@ for course in class_list:
     for i in range(len(course.period)):
         course.period[i] = parse_timetable(course.period[i])
 
+    if course.terms == [[]]:
+        course.terms = [["通年"]]
+
     subject_map[course.class_id] = course.as_json()
 
 enc = json.dumps(subject_map,ensure_ascii=False)
