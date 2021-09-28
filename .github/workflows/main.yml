@@ -27,6 +27,7 @@ jobs:
         run: |
           python download.py
           python parse.py
+          python parse_twinc.py
       - name: Update JSON file
         run: |
           python 
