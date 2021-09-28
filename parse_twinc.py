@@ -5,6 +5,7 @@ import re
 global WEEKDAY_LIST, SEASONS
 WEEKDAY_LIST =  ["月","火","水","木","金","土","日"]
 SEASONS = ["春","秋"]
+MODULE_LIST = ["春A", "春B", "春C", "秋A", "秋B", "秋C", "夏季休業中", "春季休業中"]
 
 
 class Class():
@@ -117,6 +118,7 @@ for course in class_list:
                 if char == "休":
                     group.append(SEASONS.index(season) + 6)
 
+        group = list(map(lambda x: MODULE_LIST[x], group))
         course.terms.append(group)
     
     term_str_array = course.period_tmp.split(" ")
