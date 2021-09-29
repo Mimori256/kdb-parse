@@ -2,10 +2,13 @@ import json
 import re
 
 # Global consts
-global WEEKDAY_LIST, SEASONS
+global WEEKDAY_LIST, SEASONS, MODULE_LIST, SPRING_MODULE_LIST, FALL_MODULE_LIST, SPECIAL_MODULE_LIST
 WEEKDAY_LIST =  ["月","火","水","木","金","土","日"]
 SEASONS = ["春","秋"]
 MODULE_LIST = ["春A", "春B", "春C", "秋A", "秋B", "秋C", "夏季休業中", "春季休業中"]
+SPRING_MODULE_LIST = ["春A", "春B", "春C"]
+FALL_MODULE_LIST = ["秋A", "秋B", "秋C"]
+SPECIAL_MODULE_LIST = ["夏季休業中", "春季休業中"]
 
 
 class Class():
@@ -22,6 +25,49 @@ class Class():
 
     def as_json(self):
         return {"class_id": self.class_id, "name": self.name, "module": self.terms, "period": self.period, "room": self.room, "description": self.description}
+
+    def parsed_module(self):
+        module = self.terms
+        for i in range(len(module)):
+            res = []
+            special_module_list = []
+            spring_table = [False, False, False]
+            fall_table = [False, False, False]
+            for j in range(len(module[i])):
+                if module[i][j] in SPRING_MODULE_LIST:
+                    spring_table[SPRING_MODULE_LIST.index(module[i][j])] = True
+                elif module[i][j] in FALL_MODULE_LIST:
+                    fall_table[FALL_MODULE_LIST.index(module[i][j])] = True
+                #夏季休業中 or 春季休業中
+                else:
+                    special_module_list.append(module[i][j])
+
+            if any(spring_table):
+                res.append(check_table(spring_table, "春"))
+            if any(fall_table):
+                res.append(check_table(fall_table, "秋"))
+
+            for element in special_module_list:
+                res.append(element)
+
+            module[i] = res
+
+        return module
+    
+
+def check_table(table, season):
+
+    ABC_LIST = ["A", "B", "C"]
+    module = ""
+    if any(table):
+        module = season
+        for i in range(len(table)):
+            if table[i]:
+                module += ABC_LIST[i]
+        return module 
+
+
+
 
 
 def create_class_list():
@@ -161,6 +207,8 @@ for course in class_list:
 
     for i in range(len(course.period)):
         course.period[i] = parse_timetable(course.period[i])
+
+    course.terms = course.parsed_module()
 
     if course.terms == [[]]:
         course.terms = [["通年"]]
