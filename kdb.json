@@ -159,6 +159,14 @@
     "11/4,11/18,12/2 対面",
     "1.0"
   ],
+  "01AA052": [
+    "バイオインフォマティクス演習",
+    "秋B",
+    "集中",
+    " ",
+    "12/15-12/16 対面",
+    "1.0"
+  ],
   "01AA053": [
     "バイオイメージング演習",
     "秋A",
@@ -2996,7 +3004,7 @@
     "秋AB",
     "月・木3",
     "自然B118",
-    "0AJC031と同一。 要望があれば英語で授業. オンライン(オンデマンド型) 対面。",
+    "0AJC031と同一。 要望があれば英語で授業. 対面",
     "2.0"
   ],
   "01BC097": [
@@ -3276,7 +3284,7 @@
     "秋AB",
     "火2",
     " ",
-    "西暦偶数年度開講。 0AJCB02と同一。 対面。",
+    "西暦偶数年度開講。 0AJCB02と同一。 対面。自然系学系D棟413",
     "1.0"
   ],
   "01BC360": [
@@ -4540,7 +4548,7 @@
     "秋AB",
     "月4",
     " ",
-    "西暦偶数年度開講。 0AJCE04と同一。 オンライン(オンデマンド型)",
+    "西暦偶数年度開講。 0AJCE04と同一。 対面",
     "1.0"
   ],
   "01BC630": [
@@ -5073,10 +5081,10 @@
   ],
   "01BD106": [
     "無機化学特論",
-    "秋ABC",
+    "秋B",
     "集中",
     " ",
-    "西暦偶数年度開講。 0AJED04と同一。 要望があれば英語で授業",
+    "自然系学系B棟 B114 西暦偶数年度開講。 0AJED04と同一。 12/14,15 要望があれば英語で授業. 対面",
     "1.0"
   ],
   "01BD120": [
@@ -7684,7 +7692,7 @@
     "秋A",
     "集中",
     " ",
-    "0AJJA07と同一。",
+    "0AJJA07と同一。 10/3、4",
     "1.0"
   ],
   "01BF215": [
@@ -10611,7 +10619,7 @@
     "資産評価論",
     "秋AB",
     "月5,6",
-    " ",
+    "3E404",
     "「資産価格理論」(01CN102)、「投資科学」(01CN302)の両方の単位を修得した者の履修は認めない。片方だけ修得している場合は可とする。 0AL5107と同一。 オンライン(オンデマンド型)",
     "2.0"
   ],
@@ -17206,6 +17214,14 @@
     " ",
     "西暦偶数年度開講。 西暦偶数年度開講。 0ADL501と同一。 開講時間はすべて15:10-17:50。開講日は専攻HPに掲載。",
     "1.0"
+  ],
+  "01LA509": [
+    "独占禁止法I",
+    "秋C",
+    "木7,8,土4,5",
+    " ",
+    "0ADL505と同一。",
+    "2.0"
   ],
   "01LA511": [
     "環境法",
@@ -23908,7 +23924,7 @@
     "春AB",
     "火5,6",
     " ",
-    "In Spring AB, this class will take place online. * Class size is limited to 50 students. This class is the same contents as 0AL0001, 0AL0012, 02CA102 and 02CA117. 0AL0000と同一。 英語で授業。 オンライン(同時双方向型) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "In Spring AB, this class will take place online. * Class size is limited to 50 students. This class is the same contents as 0AL0001, 0AL0012, 02CA102 and 02CA117. For exchange students, only those enrolled in the SIE program are eligible to take this course. 0AL0000と同一。 英語で授業。 オンライン(同時双方向型) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "2.0"
   ],
   "02CA102": [
@@ -23924,7 +23940,7 @@
     "春AB",
     "木5,6",
     "総合B108",
-    "* In Spring AB, this course will take place face-to-face. * Students wishing to take this course should have already completed Introductory Technical Writing. Class size is limited to 12 students. This class is the same contents as 0AL0003 and 02CA104. 0AL0002と同一。 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* In Spring AB, this course will take place face-to-face. * Students wishing to take this course should have already completed Introductory Technical Writing. Class size is limited to 12 students. This class is the same contents as 0AL0003 and 02CA104. For exchange students, only those enrolled in the SIE program are eligible to take this course. 0AL0002と同一。 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "2.0"
   ],
   "02CA104": [
@@ -29311,6 +29327,14 @@
     "非常勤講師",
     "1.0"
   ],
+  "02FA905": [
+    "市場経済と競争法",
+    "秋C",
+    "金7,8",
+    " ",
+    "0BDL907と同一。",
+    "1.0"
+  ],
   "02FA911": [
     "現代社会保障法",
     "通年",
@@ -31299,7 +31323,7 @@
     "生体計測",
     "秋AB",
     "木3,4",
-    "3A312",
+    "3A213",
     "本プログラムの学生以外が受講する場合は担当教員の許可を得ること.最低開講人数:3 西暦偶数年度開講。 0AL5701と同一。 対面",
     "2.0"
   ],
@@ -31385,7 +31409,7 @@
   ],
   "02RB403": [
     "リサーチデザイン演習",
-    "春ABC",
+    "秋ABC",
     "随時",
     " ",
     "受講生は本プログラムの学生に限る.2023年度以降開講せず.",
@@ -31723,8 +31747,8 @@
     "ワークライフミックス―モーハウスに学ぶパラダイムシフト",
     "夏季休業中",
     "集中",
-    " ",
-    "9/17, 9/28 対面",
+    "2C107",
+    "授業実施場所について、9/17はララガーデン（モーハウスショップとララガーデン内の集会室）、9/28は筑波キャンパス2C107で実施します。 9/17, 9/28 対面",
     "1.0"
   ],
   "0A00405": [
@@ -32172,7 +32196,7 @@
     "秋C春季休業中",
     "集中",
     " ",
-    "集中形式で実施する。大島現地実習(2泊3日を予定)は秋Cを予定する。また、事前学習と事後学習を行う。日程の詳細については、自然保護寄付講座のウェブサイトと掲示により行う。宿泊、移動の関係から人数制限を行う場合がある。英語でも対応する。今年度は伊豆大島をフィールドとするが、来年度以降のフィールドは変更される場合がある。 要望があれば英語で授業",
+    "集中形式で実施する。秋Cに事前学習を行い、大島現地実習(2泊3日を予定)は春季休業集中を予定、のちに事後学習を行う。日程の詳細については、自然保護寄付講座のウェブサイトと掲示により行う。宿泊、移動の関係から人数制限を行う場合がある。英語でも対応する。今年度は伊豆大島をフィールドとするが、来年度以降のフィールドは変更される場合がある。 2/16-2/19 要望があれば英語で授業",
     "1.0"
   ],
   "0A0A201": [
@@ -36359,6 +36383,14 @@
     "01LA513と同一。",
     "3.0"
   ],
+  "0ADL505": [
+    "独占禁止法",
+    "秋C",
+    "木7,8,土4,5",
+    " ",
+    "01LA509と同一。",
+    "2.0"
+  ],
   "0ADL506": [
     "企業の組織・活動と労働法",
     "秋AB",
@@ -38724,7 +38756,7 @@
     "秋AB",
     "月・木3",
     "自然B118",
-    "01BC096と同一。 要望があれば英語で授業. オンライン(オンデマンド型) 対面。",
+    "01BC096と同一。 要望があれば英語で授業. 対面",
     "2.0"
   ],
   "0AJC036": [
@@ -38836,7 +38868,7 @@
     "秋AB",
     "火2",
     " ",
-    "西暦偶数年度開講。 01BC351と同一。 対面。",
+    "西暦偶数年度開講。 01BC351と同一。 対面。自然系学系D棟413",
     "1.0"
   ],
   "0AJCB06": [
@@ -39332,7 +39364,7 @@
     "秋AB",
     "月4",
     " ",
-    "西暦偶数年度開講。 01BC625と同一。 オンライン(オンデマンド型)",
+    "西暦偶数年度開講。 01BC625と同一。 対面",
     "1.0"
   ],
   "0AJCE05": [
@@ -40577,10 +40609,10 @@
   ],
   "0AJED04": [
     "無機化学特論",
-    "秋ABC",
+    "秋B",
     "集中",
     " ",
-    "西暦偶数年度開講。 01BD106と同一。 要望があれば英語で授業",
+    "自然系学系B棟 B114 西暦偶数年度開講。 01BD106と同一。 12/14,15 要望があれば英語で授業. 対面",
     "1.0"
   ],
   "0AJED05": [
@@ -41660,7 +41692,7 @@
     "秋A",
     "集中",
     " ",
-    "01BF213と同一。",
+    "01BF213と同一。 10/3、4",
     "1.0"
   ],
   "0AJJA08": [
@@ -43092,7 +43124,7 @@
     "春AB",
     "火5,6",
     " ",
-    "In Spring AB, this class will take place online. * Class size is limited to 50 students. This class is the same contents as 0AL0001, 0AL0012, 02CA102 and 02CA117. 02CA101と同一。 英語で授業。 オンライン(同時双方向型) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "In Spring AB, this class will take place online. * Class size is limited to 50 students. This class is the same contents as 0AL0001, 0AL0012, 02CA102 and 02CA117. For exchange students, only those enrolled in the SIE program are eligible to take this course. 02CA101と同一。 英語で授業。 オンライン(同時双方向型) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "2.0"
   ],
   "0AL0001": [
@@ -43100,7 +43132,7 @@
     "秋AB",
     "火5,6",
     "総合B112-1",
-    "* Class size is limited to 50 students. This class is the same contents as 0AL0000 and 0AL0012. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Class size is limited to 50 students. This class is the same contents as 0AL0000 and 0AL0012. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "2.0"
   ],
   "0AL0002": [
@@ -43108,15 +43140,15 @@
     "春AB",
     "木5,6",
     "総合B108",
-    "* In Spring AB, this course will take place face-to-face. * Students wishing to take this course should have already completed Introductory Technical Writing. Class size is limited to 12 students. This class is the same contents as 0AL0003 and 02CA104. 02CA103と同一。 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* In Spring AB, this course will take place face-to-face. * Students wishing to take this course should have already completed Introductory Technical Writing. Class size is limited to 12 students. This class is the same contents as 0AL0003 and 02CA104. For exchange students, only those enrolled in the SIE program are eligible to take this course. 02CA103と同一。 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "2.0"
   ],
   "0AL0003": [
-    "テクニカルライティング発展",
+    "アカデミック・プレゼンテーション1",
     "秋AB",
     "木5,6",
     "総合B108",
-    "* Students wishing to take this course should have already completed Introductory Technical Writing. Class size is limited to 12 students. This class is the same contents as 0AL0002. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Students wishing to take this course should have already completed Introductory Technical Writing. Class size is limited to 12 students. This class is the same contents as 0AL0002. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "2.0"
   ],
   "0AL0004": [
@@ -43124,7 +43156,7 @@
     "春AB",
     "火2",
     "総合B108",
-    "* This class (2nd period) will take place face-to_face. * Class size is limited to 18 students. This class is the same contents as 0AL0005. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* This class (2nd period) will take place face-to_face. * Class size is limited to 18 students. This class is the same contents as 0AL0005. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "0AL0005": [
@@ -43132,7 +43164,7 @@
     "春AB",
     "火3",
     " ",
-    "* This class (3rd period) will take place online. * Class size is limited to 18 students. This class is the same contents as 0AL0004. 英語で授業。 オンライン(同時双方向型) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* This class (3rd period) will take place online. * Class size is limited to 18 students. This class is the same contents as 0AL0004. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 オンライン(同時双方向型) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "0AL0006": [
@@ -43140,7 +43172,7 @@
     "秋AB",
     "火2",
     "総合B108",
-    "* Class size is limited to 18 students. This class is the same contents as 0AL0007. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Class size is limited to 18 students. This class is the same contents as 0AL0007. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "0AL0007": [
@@ -43148,7 +43180,7 @@
     "秋AB",
     "火3",
     "総合B108",
-    "* Class size is limited to 18 students. This class is the same contents as 0AL0006. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Class size is limited to 18 students. This class is the same contents as 0AL0006. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "0AL0008": [
@@ -43156,7 +43188,7 @@
     "春AB",
     "木2",
     "総合B108",
-    "* This class (2nd period) will take place face-to-face. * Class size is limited to 24 students. This class is the same contents as 0AL0009. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* This class (2nd period) will take place face-to-face. * Class size is limited to 24 students. This class is the same contents as 0AL0009. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "0AL0009": [
@@ -43164,7 +43196,7 @@
     "春AB",
     "木3",
     " ",
-    "* This class (3rd period) will take place online. * Class size is limited to 24 students. This class is the same contents as 0AL0008. 英語で授業。 オンライン(同時双方向型) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* This class (3rd period) will take place online. * Class size is limited to 24 students. This class is the same contents as 0AL0008. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 オンライン(同時双方向型) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "0AL0010": [
@@ -43172,7 +43204,7 @@
     "秋AB",
     "木2",
     "総合B108",
-    "* Class size is limited to 24 students. This class is the same contents as 0AL0011. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Class size is limited to 24 students. This class is the same contents as 0AL0011. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "0AL0011": [
@@ -43180,7 +43212,7 @@
     "秋AB",
     "木3",
     "総合B108",
-    "* Class size is limited to 24 students. This class is the same contents as 0AL0010. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Class size is limited to 24 students. This class is the same contents as 0AL0010. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "0AL0100": [
@@ -43555,7 +43587,7 @@
     "資産評価論",
     "秋AB",
     "月5,6",
-    " ",
+    "3E404",
     "01CN305と同一。 オンライン(オンデマンド型)",
     "2.0"
   ],
@@ -44515,7 +44547,7 @@
     "生体計測",
     "秋AB",
     "木3,4",
-    "3A312",
+    "3A213",
     "英語で授業 西暦偶数年度開講。 02RB211と同一。 対面",
     "2.0"
   ],
@@ -45453,6 +45485,14 @@
     "集中",
     " ",
     "11/4,11/18,12/2 対面",
+    "1.0"
+  ],
+  "0ANA027": [
+    "バイオインフォマティクス演習",
+    "秋B",
+    "集中",
+    " ",
+    "12/15-12/16 対面",
     "1.0"
   ],
   "0ANA029": [
@@ -54508,7 +54548,7 @@
     "秋ABC",
     "集中",
     " ",
-    "英語で授業。 10/1-3,11/11-12,1/6-7 オンライン(オンデマンド型). オンライン(同時双方向型) Detailed schedule will be announced by the instructor",
+    "英語で授業。 Detailed schedule will be announced by the instructor",
     "1.0"
   ],
   "0ATQ005": [
@@ -56529,10 +56569,10 @@
   ],
   "0ATV107": [
     "遺産保護行政論",
-    "秋B",
+    "秋A",
     "集中",
     " ",
-    "非常勤講師 オンライン(同時双方向型)",
+    "非常勤講師 11/5-11/6 オンライン(同時双方向型)",
     "1.0"
   ],
   "0ATV109": [
@@ -56553,10 +56593,10 @@
   ],
   "0ATV111": [
     "Global Project: Designing Heritage Research(グローバルに考究するヘリテージ研究デザイン)",
-    "通年",
+    "夏季休業中 秋ABC",
     "集中",
     " ",
-    "一定の基準を設け，履修生数を限定する場合がある。【教学マネジメント室支援科目】 オンライン（同時双方向型）および対面の併用：「プロジェクトルーム（共同研究棟Ａ212）」および筑波大学学内未活用施設でのオンライン併用型演習・作業（オンラインの場合には，Microsoft TEAMS/STREAMを使用）。および学外演習（東京都・茨城県や市区行政，東京都荒川区・台東区および茨城県つくば市近郊の未活用遺産サイト等） 英語で授業。",
+    "一定の基準を設け，履修生数を限定する場合がある。【教学マネジメント室支援科目】 オンライン（同時双方向型）および対面の併用：「プロジェクトルーム（共同研究棟Ａ212）」および筑波大学学内未活用施設でのオンライン併用型演習・作業（オンラインの場合には，Microsoft TEAMS/STREAMを使用）。および学外演習（東京都・茨城県や市区行政，東京都荒川区・台東区および茨城県つくば市近郊の未活用遺産サイト等） 英語で授業。 9/28-9/30",
     "2.0"
   ],
   "0ATV201": [
@@ -58124,7 +58164,7 @@
     "秋A",
     "集中",
     " ",
-    "英語で授業。 その他の実施形態 Combination of Online (Asynchronous) and Online (Synchronous) Two times online (Synchronous) classes during these days. 1. 8 Oct. (Fri) from 16:00 (JST): Introduction and overview (about 30 minutes) 2. 15 Oct. (Fri) From 16:00 (JST) : Summary lecture, Question-and-answer and Closing (about 60 minutes)",
+    "英語で授業。 10/7,10/10-10/14 その他の実施形態 Combination of Online (Asynchronous) and Online (Synchronous) Two times online (Synchronous) classes during these days. 1. 8 Oct. (Fri) from 16:00 (JST): Introduction and overview (about 30 minutes) 2. 15 Oct. (Fri) From 16:00 (JST) : Summary lecture, Question-and-answer and Closing (about 60 minutes)",
     "1.0"
   ],
   "0AXA702": [
@@ -60101,6 +60141,14 @@
     "応談",
     " ",
     "「比較労働法の基礎Ⅰ」と同様のねらいを持った科目であり、両科目を隔年で開講する。講読文献は両科目で異なるものとし、どちらを先に受講してもよい。春学期開始後に履修登録者と相談の上で年間の授業計画を決定する。 西暦偶数年度開講。 02FA912と同一。",
+    "1.0"
+  ],
+  "0BDL907": [
+    "市場経済と競争法",
+    "秋C",
+    "金7,8",
+    " ",
+    "02FA905と同一。",
     "1.0"
   ],
   "0BDL908": [
@@ -67164,7 +67212,7 @@
     "秋AB",
     "火・木5,6",
     " ",
-    "英語で授業。 その他の実施形態 選択必修科目 ※授業形態（対面もしくはオンライン）については、科目担当教員に問い合わせること。 ",
+    "英語で授業。 その他の実施形態 選択必修科目 ※授業形態（対面もしくはオンライン）については、科目担当教員に問い合わせること。 オンライン講義の場合は、フランスボルドー大学から参加する学生への配慮とし て講義開始時間を45分遅らせ５限を15:15開始ではなく16:00から開始する。また 講義内容に応じて７限を実施することが数回ある。",
     "5.0"
   ],
   "0BTX061": [
@@ -68739,8 +68787,8 @@
     "First Year Seminar",
     "夏季休業中",
     "集中",
-    " ",
-    "For students in Undergraduate Program of International Social Studies. 英語で授業。 オンライン(同時双方向型)",
+    "1C310",
+    "For students in Undergraduate Program of International Social Studies. 英語で授業。 9/15,9/16 対面",
     "1.0"
   ],
   "1190222": [
@@ -69779,7 +69827,7 @@
     "Living in Japan as Foreign Students",
     "秋AB",
     "金3",
-    " ",
+    "共同利用棟A201",
     "For students in Undergraduate Program of International Social Studies, JTP and other international students JTP. CDP. オンライン(同時双方向型)",
     "1.0"
   ],
@@ -69971,7 +70019,7 @@
     "Topics in Social Sciences",
     "秋AB",
     "水2",
-    " ",
+    "1C406",
     "1E90011と同一。 英語で授業。 JTP. オンライン(同時双方向型)",
     "1.0"
   ],
@@ -70099,7 +70147,7 @@
     "Topics in Social Sciences",
     "秋AB",
     "水2",
-    " ",
+    "1C406",
     "1490011と同一。 英語で授業。 JTP",
     "1.0"
   ],
@@ -83100,7 +83148,7 @@
     "秋AB",
     "月4",
     " ",
-    "西暦偶数年度開講。 オンライン(オンデマンド型) 授業形態は状I況に応じて変更する可能性がある",
+    "西暦偶数年度開講。 対面 授業形態は状I況に応じて変更する可能性がある",
     "1.0"
   ],
   "AB81H43": [
@@ -83188,7 +83236,7 @@
     "秋AB",
     "金4",
     " ",
-    "西暦偶数年度開講。 実務経験教員. オンライン(同時双方向型) 授業形態は状況に応じて変更する可能性がある",
+    "西暦偶数年度開講。 実務経験教員. 対面 授業形態は状況に応じて変更する可能性がある",
     "1.0"
   ],
   "AB83E31": [
@@ -83204,7 +83252,7 @@
     "秋AB",
     "金2",
     " ",
-    "西暦偶数年度開講。 実務経験教員. オンライン(同時双方向型) 授業形態は状況に応じて変更する可能性がある",
+    "西暦偶数年度開講。 実務経験教員. 対面 授業形態は状況に応じて変更する可能性がある",
     "1.0"
   ],
   "AB83F42": [
@@ -84835,7 +84883,7 @@
     "専門英語IB",
     "秋ABC",
     "木5",
-    "2B412",
+    "2C107",
     "英語で授業。 オンライン(同時双方向型) 英語で授業。 比較文化学類2班対象。 シラバスは英語版を見てください。",
     "1.5"
   ],
@@ -86323,7 +86371,7 @@
     "比較宗教演習II",
     "秋AB",
     "応談",
-    "2C407",
+    " ",
     "AC31732, AC65312の単位取得者は履修できない。 西暦偶数年度開講。 その他の実施形態",
     "1.0"
   ],
@@ -87212,7 +87260,7 @@
     "秋AB",
     "集中",
     " ",
-    "2018年度以前の日本語・日本文化学類入学者はAE12に相当。交通費・見学入館料・食事代などは自己負担とする。 履修希望者多数の場合は人数制限を行う(25名程度)。事前学習、現地見学合わせて土日に3日間の予定で開講する。日程は後日掲示。 G科目. 対面",
+    "2018年度以前の日本語・日本文化学類入学者はAE12に相当。交通費・見学入館料・食事代などは自己負担とする。 履修希望者多数の場合は人数制限を行う(25名程度)。事前学習、現地見学合わせて土日に3日間の予定で開講する。 10/9,11/13,11/23 G科目. 対面",
     "1.0"
   ],
   "AE14B13": [
@@ -87619,7 +87667,7 @@
     "社会学の最前線チュートリアル",
     "秋ABC",
     "応談",
-    " ",
+    "1B309,1B310",
     "今年度の「社会学の最前線」を履修中であること。原則として1年次生のみ履修可。総合学域群生の履修を優先するが、定員に満たない場合は、社会・国際学群→他学群の優先順位で、他学群生の履修も認める。履修希望者が定員を上回った場合は選抜をおこなう。定員、履修条件、選抜方法、開講日等の詳細はシラバスを参照のこと。 対面",
     "1.0"
   ],
@@ -87771,7 +87819,7 @@
     "現代社会論",
     "秋AB",
     "月3,4",
-    " ",
+    "1H101",
     "▼社会・国際学群 コア・カリキュラム BC11801と同一。 BC11801と同一。 主専攻必修科目. オンライン(オンデマンド型) 社会教育主事",
     "2.0"
   ],
@@ -87787,7 +87835,7 @@
     "知識社会学",
     "秋AB",
     "月2,3",
-    " ",
+    "共同利用棟A101",
     "オンライン(オンデマンド型)",
     "2.0"
   ],
@@ -87883,7 +87931,7 @@
     "社会学研究法B",
     "秋AB",
     "水5",
-    " ",
+    "1B203",
     "主専攻必修科目. オンライン(オンデマンド型). オンライン(同時双方向型)",
     "1.0"
   ],
@@ -87891,7 +87939,7 @@
     "卒業論文演習",
     "通年",
     "応談",
-    "1B204",
+    " ",
     "「卒業論文」と併せて履修すること。 主専攻必修科目. オンライン(オンデマンド型). オンライン(同時双方向型)",
     "4.0"
   ],
@@ -87999,10 +88047,26 @@
     "社会学類を含め、全ての学類・専門学群・学位プログラムの学生の履修を歓迎します。This course welcomes students of both College of Social Sciences and other colleges, schools and programmes. BC11721と同一。 対面 オンライン（同時双方向）でも受講することができる。場合により、オンライン（同時双方向）のみに切り替える可能性もある。",
     "2.0"
   ],
+  "BB23011": [
+    "刑法総論",
+    "秋ABC",
+    "金5,6",
+    " ",
+    "オンライン(オンデマンド型)",
+    "3.0"
+  ],
   "BB23021": [
     "刑法各論",
     "春ABC",
     "火3,4",
+    " ",
+    "オンライン(オンデマンド型)",
+    "3.0"
+  ],
+  "BB23501": [
+    "刑事訴訟法",
+    "秋AB",
+    "火5,6",
     " ",
     "オンライン(オンデマンド型)",
     "3.0"
@@ -88083,7 +88147,7 @@
     "会社法II",
     "秋AB",
     "火2,木1",
-    " ",
+    "1C403",
     "会社法Iの範囲の理解を前提とした授業なので、会社法Iを履修済みであることが望ましい。 オンライン(オンデマンド型). オンライン(同時双方向型) manaba を中心として、適宜MS Teams, Zoom 等の混合を考えています。",
     "2.0"
   ],
@@ -88099,7 +88163,7 @@
     "電子記録債権法(電子手形)",
     "秋AB",
     "月4",
-    " ",
+    "1C403",
     "平成23年度までの「商法III」、平成24年度の「電子手形法」に相当する。本年度有価証券法基礎を受講している者、または有価証券法基礎の単位修得者のみ受講可能。 オンライン(オンデマンド型). オンライン(同時双方向型) manaba を中心として、適宜MS Teams, Zoom 等の混合を考えています。",
     "1.0"
   ],
@@ -88107,7 +88171,7 @@
     "金融商品取引法I",
     "秋AB",
     "金4",
-    " ",
+    "1C403",
     "金融商品取引法IIを受講する場合は必ず履修のこと。 オンライン(オンデマンド型). オンライン(同時双方向型) manaba を中心として、適宜MS Teams, Zoom 等の混合を考えています。",
     "1.0"
   ],
@@ -88115,7 +88179,7 @@
     "金融商品取引法II",
     "秋AB",
     "金5",
-    " ",
+    "1C403",
     "金融商品取引法Iを受講している場合のみ、受講可能。 オンライン(オンデマンド型). オンライン(同時双方向型) manaba を中心として、適宜MS Teams, Zoom 等の混合を考えています。",
     "1.0"
   ],
@@ -88219,7 +88283,7 @@
     "憲法演習II",
     "秋AB",
     "木5,6",
-    "1C405",
+    "1C403",
     "社会学類を含め、全ての学類・専門学群・学位プログラムの学生の履修を歓迎します。This course welcomes students of both College of Social Sciences and other colleges, schools and programmes. 西暦偶数年度開講。 対面 オンライン（同時双方向）でも受講することができる。場合により、オンライン（同時双方向）のみに切り替える可能性もある。",
     "2.0"
   ],
@@ -88275,7 +88339,7 @@
     "商法演習II",
     "秋AB",
     "金6,応談",
-    " ",
+    "共同利用棟A103",
     "西暦偶数年度開講。 オンライン(オンデマンド型). オンライン(同時双方向型) manaba を中心として、適宜MS Teams, Zoom 等の混合を考えています。",
     "2.0"
   ],
@@ -88339,7 +88403,7 @@
     "法哲学演習II",
     "秋BC",
     "火5,6",
-    " ",
+    "1C210",
     "輪読文献について、全毎週A4でおおむね1頁の「文献コメントシート」の提出を員に求める。その提出をもって出席として扱う。同シートには、文献の要旨および疑問・異論・論点・コメントを記入してもらう。 西暦偶数年度開講。 オンライン(同時双方向型)",
     "2.0"
   ],
@@ -88363,7 +88427,7 @@
     "国際政治史",
     "秋AB",
     "木5,6",
-    " ",
+    "共同利用棟A201",
     "旧科目名「政治外交史」。「政治外交史」の単位取得者は履修不可。 BC11651と同一。 主専攻必修科目. その他の実施形態 対面とオンラインを併用する予定。詳細はmanabaで告知する。",
     "2.0"
   ],
@@ -88379,8 +88443,8 @@
     "比較政治学",
     "秋AB",
     "月1,2",
-    " ",
-    "西暦偶数年度開講。 オンライン(オンデマンド型)",
+    "共同利用棟A201",
+    "西暦偶数年度開講。 対面",
     "2.0"
   ],
   "BB31171": [
@@ -88419,8 +88483,8 @@
     "現代政治外交",
     "秋AB",
     "火1,2",
-    " ",
-    "平成30年度までの「現代政治外交I」(BB31401)および「現代政治外交II」(BB31411)の要所に対応。「現代政治外交I」または「現代政治外交II」の単位取得者は履修不可。 西暦偶数年度開講。 オンライン(オンデマンド型)",
+    "1H101",
+    "平成30年度までの「現代政治外交I」(BB31401)および「現代政治外交II」(BB31411)の要所に対応。「現代政治外交I」または「現代政治外交II」の単位取得者は履修不可。 西暦偶数年度開講。 対面",
     "2.0"
   ],
   "BB31421": [
@@ -88428,7 +88492,7 @@
     "秋AB",
     "金2,3",
     "共同利用棟A101",
-    "平成30年度までの「政治外交史」(BB31031)に一部対応。「政治外交史」の単位取得者は履修不可。 西暦偶数年度開講。 オンライン(オンデマンド型)",
+    "平成30年度までの「政治外交史」(BB31031)に一部対応。「政治外交史」の単位取得者は履修不可。 西暦偶数年度開講。 対面",
     "2.0"
   ],
   "BB31451": [
@@ -88483,8 +88547,8 @@
     "政治学外書講読II(英語)",
     "秋AB",
     "火5",
-    " ",
-    "社会学類の学生の受講を優先する。 オンライン(オンデマンド型)",
+    "1B201",
+    "社会学類の学生の受講を優先する。 対面",
     "1.0"
   ],
   "BB31541": [
@@ -88515,8 +88579,8 @@
     "政治学入門演習",
     "春AB秋AB",
     "木2",
-    " ",
-    "社会学類の学生の受講を優先する。 オンライン(同時双方向型) 旧科目番号BB32122。「政治学入門演習」の単位取得者は履修不可。",
+    "1B210",
+    "社会学類の学生の受講を優先する。 対面 旧科目番号BB32122。「政治学入門演習」の単位取得者は履修不可。",
     "2.0"
   ],
   "BB31998": [
@@ -88532,7 +88596,7 @@
     "春AB秋AB",
     "火4",
     "1B203",
-    "その他の実施形態 対面とオンライン（同時双方向型）を併用する予定。初回授業についてはmanabaで告知する。",
+    "対面 初回授業についてはmanabaで告知する。",
     "2.0"
   ],
   "BB32162": [
@@ -88540,7 +88604,7 @@
     "春AB秋AB",
     "火4",
     "1B203",
-    "その他の実施形態 対面とオンライン（同時双方向型）を併用する予定。初回授業についてはmanabaで告知する。",
+    "対面 初回授業についてはmanabaで告知する。",
     "2.0"
   ],
   "BB32172": [
@@ -88548,7 +88612,7 @@
     "春AB秋AB",
     "金6",
     "1B308",
-    "その他の実施形態 オンライン（同時双方向型）と対面の併用。",
+    "対面 オンライン（同時双方向型）と対面の併用。",
     "2.0"
   ],
   "BB32182": [
@@ -88556,7 +88620,7 @@
     "春AB秋AB",
     "金6",
     "1B308",
-    "その他の実施形態 オンライン（同時双方向型）と対面の併用。",
+    "対面 オンライン（同時双方向型）と対面の併用。",
     "2.0"
   ],
   "BB32192": [
@@ -88564,7 +88628,7 @@
     "春AB秋AB",
     "火6",
     "1B203",
-    "事前に受講許可を得ていない者の履修は認めない。原則として対面で実施。",
+    "事前に受講許可を得ていない者の履修は認めない。原則として対面で実施。 対面",
     "2.0"
   ],
   "BB32202": [
@@ -88572,31 +88636,31 @@
     "春AB秋AB",
     "火6",
     "1B203",
-    "事前に受講許可を得ていない者の履修は認めない。原則として対面で実施。",
+    "事前に受講許可を得ていない者の履修は認めない。原則として対面で実施。 対面",
     "2.0"
   ],
   "BB32252": [
     "アメリカ外交史演習I",
     "春AB秋AB",
     "金4",
-    " ",
-    "オンライン(同時双方向型)",
+    "1B210",
+    "対面",
     "2.0"
   ],
   "BB32262": [
     "アメリカ外交史演習II",
     "春AB秋AB",
     "金4",
-    " ",
-    "オンライン(同時双方向型)",
+    "1B210",
+    "対面",
     "2.0"
   ],
   "BB32312": [
     "計量分析演習I",
     "春AB秋AB",
     "火2",
-    " ",
-    "オンライン(オンデマンド型)",
+    "1C206,1C402",
+    "対面",
     "2.0"
   ],
   "BB32322": [
@@ -88604,7 +88668,7 @@
     "春AB秋AB",
     "火2",
     " ",
-    "オンライン(オンデマンド型)",
+    "対面",
     "2.0"
   ],
   "BB32332": [
@@ -88612,7 +88676,7 @@
     "春AB秋AB",
     "月6",
     "1B308",
-    "その他の実施形態 オンライン（同時双方向型）と対面の併用",
+    "対面 オンライン（同時双方向型）と対面の併用",
     "2.0"
   ],
   "BB32342": [
@@ -88620,7 +88684,7 @@
     "春AB秋AB",
     "月6",
     "1B308",
-    "その他の実施形態 オンライン（同時双方向型）と対面の併用",
+    "対面 オンライン（同時双方向型）と対面の併用",
     "2.0"
   ],
   "BB32352": [
@@ -88628,7 +88692,7 @@
     "春AB秋AB",
     "木4",
     "1B202",
-    "原則として対面。状況次第でオンライン（同時双方向型）",
+    "対面 原則として対面。状況次第でオンライン（同時双方向型）",
     "2.0"
   ],
   "BB32362": [
@@ -88636,7 +88700,7 @@
     "春AB秋AB",
     "木4",
     "1B202",
-    "原則として対面。状況次第でオンライン（同時双方向型）",
+    "対面 原則として対面。状況次第でオンライン（同時双方向型）",
     "2.0"
   ],
   "BB41051": [
@@ -88683,8 +88747,8 @@
     "実証分析入門",
     "秋AB",
     "木3,4",
-    " ",
-    "2021年度までの経済統計論に該当する。 オンライン(オンデマンド型). オンライン(同時双方向型). 対面",
+    "1C305",
+    "2021年度までの経済統計論に該当する。 対面",
     "2.0"
   ],
   "BB41181": [
@@ -88707,7 +88771,7 @@
     "産業組織論",
     "秋AB",
     "火4,5",
-    " ",
+    "1C403",
     "FH25061と同一。 オンライン(オンデマンド型). オンライン(同時双方向型)",
     "2.0"
   ],
@@ -88716,7 +88780,7 @@
     "秋AB",
     "月3,4",
     "共同利用棟A201",
-    "社会・国際学群および総合学域群の学生のみ履修可能。緊急事態宣言の発出等の際はオンラインで実施する。 BC11981と同一。 オンライン(オンデマンド型). 対面",
+    "社会・国際学群および総合学域群の学生のみ履修可能。緊急事態宣言の発出等の際はオンラインで実施する。 BC11981と同一。 対面",
     "2.0"
   ],
   "BB41321": [
@@ -88731,8 +88795,8 @@
     "経済思想史II",
     "秋AB",
     "金4,5",
-    " ",
-    "オンライン(オンデマンド型)",
+    "1B308",
+    "対面",
     "2.0"
   ],
   "BB41341": [
@@ -88748,7 +88812,7 @@
     "秋C",
     "火・木2,3",
     "共同利用棟A101",
-    "現代経済史を履修済みであることを条件とする。 西暦偶数年度開講。 オンライン(オンデマンド型). オンライン(同時双方向型). 対面",
+    "現代経済史を履修済みであることを条件とする。 西暦偶数年度開講。 対面",
     "2.0"
   ],
   "BB41381": [
@@ -88811,8 +88875,8 @@
     "Economic History",
     "秋AB",
     "月3,4",
-    " ",
-    "Online lecture This class will be lectured in English. BE22241と同一。 英語で授業。 オンライン(同時双方向型)",
+    "1B302",
+    "Online lecture This class will be lectured in English. BE22241と同一。 英語で授業。 対面",
     "2.0"
   ],
   "BB41561": [
@@ -88867,7 +88931,7 @@
     "経済学演習II-2 秋",
     "秋AB",
     "月3,4",
-    " ",
+    "1B309",
     "留学または休学を除き、春学期も演習IIを履修すること。 オンライン(同時双方向型)",
     "2.0"
   ],
@@ -88883,8 +88947,8 @@
     "経済学演習III-2秋",
     "秋AB 秋C",
     "水4 水3,4",
-    " ",
-    "留学または休学を除き、春学期も演習IIIを履修すること。 オンライン(同時双方向型)",
+    "1B210",
+    "留学または休学を除き、春学期も演習IIIを履修すること。 対面",
     "2.0"
   ],
   "BB45582": [
@@ -88900,7 +88964,7 @@
     "秋C",
     "火・木4,5",
     "1C504",
-    "留学または休学を除き、春学期も演習Vを履修すること。緊急事態宣言の発出等の際はオンラインで実施する。 対面 オンライン(同時双方向型). 対面",
+    "留学または休学を除き、春学期も演習Vを履修すること。緊急事態宣言の発出等の際はオンラインで実施する。 対面 対面",
     "2.0"
   ],
   "BB45682": [
@@ -88915,8 +88979,8 @@
     "経済学演習 VI-2 秋",
     "秋ABC",
     "金2,3",
-    " ",
-    "留学または休学を除き、春学期も演習VIを履修すること。 オンライン(オンデマンド型)",
+    "1B309",
+    "留学または休学を除き、春学期も演習VIを履修すること。 対面",
     "3.0"
   ],
   "BB45782": [
@@ -89131,7 +89195,7 @@
     "政治外交史",
     "秋AB",
     "木5,6",
-    " ",
+    "共同利用棟A201",
     "旧科目名「政治外交史」。「政治外交史」の単位取得者は履修不可。 BB31031と同一。 主専攻必修科目. その他の実施形態 対面とオンラインを併用する予定。詳細はmanabaで告知する。",
     "2.0"
   ],
@@ -89163,7 +89227,7 @@
     "現代社会論",
     "秋AB",
     "月3,4",
-    " ",
+    "1H101",
     "▼社会・国際学群 コア・カリキュラム BC11801と同一。 BB11021と同一。 主専攻必修科目. オンライン(オンデマンド型) 社会教育主事",
     "2.0"
   ],
@@ -89228,7 +89292,7 @@
     "秋AB",
     "月3,4",
     "共同利用棟A201",
-    "社会・国際学群および総合学域群の学生のみ履修可能。緊急事態宣言の発出等の際はオンラインで実施する。 BB41301と同一。 オンライン(オンデマンド型). 対面",
+    "社会・国際学群および総合学域群の学生のみ履修可能。緊急事態宣言の発出等の際はオンラインで実施する。 BB41301と同一。 対面",
     "2.0"
   ],
   "BC12061": [
@@ -89426,8 +89490,8 @@
   "BC12624": [
     "コンピュータグラフィックス基礎",
     "秋AB",
-    "火3,4",
-    "3A209",
+    "火3 火4",
+    "3A202",
     "GB13704, GC23304と同一。 オンライン(オンデマンド型)",
     "2.0"
   ],
@@ -89667,7 +89731,7 @@
     "History of Economic Thought",
     "秋AB",
     "木5,6",
-    " ",
+    "1B303",
     "The course is conducted online for the fall semester on MS Teams system. BE22821と同一。 英語で授業。 JTP. 対面",
     "2.0"
   ],
@@ -89915,7 +89979,7 @@
     "Seminar A2",
     "秋AB",
     "随時",
-    " ",
+    "1B402",
     "英語で授業。 対面",
     "1.0"
   ],
@@ -89923,7 +89987,7 @@
     "Seminar A3",
     "秋AB",
     "随時",
-    " ",
+    "1B202",
     "英語で授業。 対面",
     "1.0"
   ],
@@ -89931,7 +89995,7 @@
     "Seminar A4",
     "秋AB",
     "随時",
-    " ",
+    "1C305",
     "英語で授業。 対面",
     "1.0"
   ],
@@ -89963,7 +90027,7 @@
     "Seminar B2",
     "秋C",
     "随時",
-    " ",
+    "1B402",
     "英語で授業。 対面",
     "1.0"
   ],
@@ -89971,7 +90035,7 @@
     "Seminar B3",
     "秋C",
     "随時",
-    " ",
+    "1B202",
     "英語で授業。 対面",
     "1.0"
   ],
@@ -89979,7 +90043,7 @@
     "Seminar B4",
     "秋C",
     "随時",
-    " ",
+    "1C305",
     "英語で授業。 対面",
     "1.0"
   ],
@@ -90059,7 +90123,7 @@
     "Seminar D2",
     "秋AB",
     "随時",
-    " ",
+    "1B402",
     "英語で授業。 対面",
     "1.0"
   ],
@@ -90067,7 +90131,7 @@
     "Seminar D3",
     "秋AB",
     "随時",
-    " ",
+    "1B202",
     "英語で授業。 対面",
     "1.0"
   ],
@@ -90075,7 +90139,7 @@
     "Seminar D4",
     "秋AB",
     "随時",
-    " ",
+    "1C305",
     "英語で授業。 対面",
     "1.0"
   ],
@@ -90107,7 +90171,7 @@
     "Seminar E2",
     "秋C",
     "随時",
-    " ",
+    "1B402",
     "英語で授業。 対面",
     "1.0"
   ],
@@ -90115,7 +90179,7 @@
     "Seminar E3",
     "秋C",
     "随時",
-    " ",
+    "1B202",
     "英語で授業。 対面",
     "1.0"
   ],
@@ -90123,7 +90187,7 @@
     "Seminar E4",
     "秋C",
     "随時",
-    " ",
+    "1C305",
     "英語で授業。 対面",
     "1.0"
   ],
@@ -90212,7 +90276,7 @@
     "秋AB",
     "集中",
     " ",
-    "Course Semester/Module is subject to change. Course details will be announced through TWINS Bulletin Board. Non-native speakers of English are encouraged to attend this course. Online (Synchronous) 英語で授業。 JTP equivalent to ",
+    "Course Semester/Module is subject to change. Course details will be announced through TWINS Bulletin Board. Non-native speakers of English are encouraged to attend this course. Online (Synchronous) 英語で授業。 JTP. 対面 equivalent to ",
     "2.0"
   ],
   "BE21051": [
@@ -90227,7 +90291,7 @@
     "Japanese Learning Support I",
     "秋AB",
     "月4,5",
-    " ",
+    "1B303",
     "The number of students is limited to 25.This class is aiming for an equivalent of N2 of the Japanese Language Proficiency Test. Hybrid(face-to-face and synchronous) JTP. 対面",
     "2.0"
   ],
@@ -90235,7 +90299,7 @@
     "Japanese Learning Support II",
     "秋C",
     "月4,5,金3,4",
-    " ",
+    "1B402",
     "The number of students is limited to 25.This class is aiming for an equivalent of N2 (N3) of JLPT. JTP. 対面",
     "2.0"
   ],
@@ -90307,7 +90371,7 @@
     "Introduction to Political Science",
     "秋AB",
     "月1,2",
-    " ",
+    "1C310",
     "Equivalent to ",
     "2.0"
   ],
@@ -90315,7 +90379,7 @@
     "Introduction to Sociology",
     "秋AB",
     "木4,5",
-    " ",
+    "1C405",
     "Bruce, Steve(2018) Sociology: A Very Short Introduction, Oxford University Press. Giddens,A. and Sutton,P.W.(2017) Sociology 8th Edition, Polity. 英語で授業。 対面",
     "2.0"
   ],
@@ -90331,7 +90395,7 @@
     "Quantitative Methods for Social Sciences",
     "秋AB",
     "火3,4",
-    " ",
+    "2D204",
     "Students learn course materials through video lectures. They also attend live computer lab sessions that are held online during a part of the class time. 英語で授業。 G科目. 対面 The number of students is limited to 20. Priorities are given to students from the College of Social Sciences and the College of International Studies.",
     "2.0"
   ],
@@ -90347,7 +90411,7 @@
     "Monetary Economics",
     "秋AB",
     "火1,2",
-    " ",
+    "1B202",
     "The course is conducted online for the fall semester using the MS Teams and reading materials are uploaded on Manaba system. 英語で授業。 JTP. G科目. 対面",
     "2.0"
   ],
@@ -90403,8 +90467,8 @@
     "Economic History",
     "秋AB",
     "月3,4",
-    " ",
-    "Online lecture This class will be lectured in English. BB41541と同一。 英語で授業。 オンライン(同時双方向型)",
+    "1B302",
+    "Online lecture This class will be lectured in English. BB41541と同一。 英語で授業。 対面",
     "2.0"
   ],
   "BE22251": [
@@ -90523,7 +90587,7 @@
     "Sociology of Migration",
     "秋AB",
     "木1,2",
-    " ",
+    "1B202",
     "Limited to 30 students. 西暦偶数年度開講。 英語で授業。 G科目. 対面 Biennial Course (offered in even years)",
     "2.0"
   ],
@@ -90531,7 +90595,7 @@
     "History of Economic Thought",
     "秋AB",
     "木5,6",
-    " ",
+    "1B303",
     "The course is conducted online for the fall semester on MS Teams system. BC16021と同一。 英語で授業。 JTP. 対面",
     "2.0"
   ],
@@ -93356,7 +93420,7 @@
     "秋B",
     "木・金4-6",
     "2D410",
-    "前年度の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "事前の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "1.5"
   ],
   "EB16003": [
@@ -93372,7 +93436,7 @@
     "春季休業中",
     "集中",
     "下田臨海実験センター",
-    "英語で授業。 3/6-3/10 前年度の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面 生物学類生優先で人数制限あり。EG36013修得者の履修は認めない。",
+    "英語で授業。 3/6-3/10 事前の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面 生物学類生優先で人数制限あり。EG36013修得者の履修は認めない。",
     "1.5"
   ],
   "EB16053": [
@@ -93380,7 +93444,7 @@
     "春季休業中",
     "集中",
     "菅平",
-    "山岳科学センター菅平高原実験所にて実施する 英語で授業。 2/27-3/3 前年度の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面 EB16063,EG29103修得者の履修は認めない。日本語対応可",
+    "山岳科学センター菅平高原実験所にて実施する 英語で授業。 2/27-3/3 事前の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面 EB16063,EG29103修得者の履修は認めない。日本語対応可",
     "1.5"
   ],
   "EB16113": [
@@ -93388,7 +93452,7 @@
     "春C",
     "集中",
     "下田臨海実験センター",
-    "7/11-7/15 前年度の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "7/11-7/15 事前の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "1.5"
   ],
   "EB16153": [
@@ -93396,7 +93460,7 @@
     "春C",
     "集中",
     "菅平",
-    "7/25-7/30 前年度の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "7/25-7/30 事前の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "1.5"
   ],
   "EB16213": [
@@ -93404,7 +93468,7 @@
     "春季休業中",
     "集中",
     "下田臨海実験センター",
-    "3/20-3/24 前年度の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "3/20-3/24 事前の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "1.5"
   ],
   "EB16263": [
@@ -93412,7 +93476,7 @@
     "夏季休業中 秋A",
     "集中",
     " ",
-    "履修条件:原則として3年次以後での履修が望ましい。前提科目:実習前もしくは実習後に植物系統分類学IIIを併せて受講すると理解が深まる。 9/26-9/30,10/1 菅平高原実験所で実施する。. 前年度の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談). 対面",
+    "履修条件:原則として3年次以後での履修が望ましい。前提科目:実習前もしくは実習後に植物系統分類学IIIを併せて受講すると理解が深まる。 9/26-9/30,10/1 菅平高原実験所で実施する。. 事前の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談). 対面",
     "1.5"
   ],
   "EB16313": [
@@ -93420,7 +93484,7 @@
     "夏季休業中",
     "集中",
     "下田臨海実験センター",
-    "9/5-9/9 前年度の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談)",
+    "9/5-9/9 事前の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談)",
     "1.5"
   ],
   "EB16353": [
@@ -93428,7 +93492,7 @@
     "春C",
     "集中,応談",
     " ",
-    "長野県で実施する。 7/25-7/29 前年度の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "長野県で実施する。 7/25-7/29 事前の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "1.5"
   ],
   "EB16363": [
@@ -93436,7 +93500,7 @@
     "夏季休業中",
     "集中",
     " ",
-    "9/12-9/16 菅平高原実験所で実施する。. 前年度の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談). 対面",
+    "9/12-9/16 菅平高原実験所で実施する。. 事前の履修調整で許可を受けていること。. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談). 対面",
     "1.5"
   ],
   "EB16413": [
@@ -93444,7 +93508,7 @@
     "春C",
     "集中",
     "下田臨海実験センター",
-    "7/18-7/22 前年度の履修調整で許可を受けていること。. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談). 対面",
+    "7/18-7/22 事前の履修調整で許可を受けていること。. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談). 対面",
     "1.5"
   ],
   "EB16913": [
@@ -93612,7 +93676,7 @@
     "春A",
     "月・火4-6",
     "2B403",
-    "前年度の履修調整で許可を受けていること。. 多様性コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "事前の履修調整で許可を受けていること。. 多様性コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "1.5"
   ],
   "EB50153": [
@@ -93660,7 +93724,7 @@
     "春A",
     "木・金4-6",
     "2D417",
-    "植物系統分類学Iの事前又は同時履修が必要。 前年度の履修調整で許可を受けていること。. 多様性コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "植物系統分類学Iの事前又は同時履修が必要。 事前の履修調整で許可を受けていること。. 多様性コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "1.5"
   ],
   "EB50263": [
@@ -93668,7 +93732,7 @@
     "春B",
     "木・金4-6",
     "2D417",
-    "植物系統分類学Iの事前又は同時履修が必要。 英語で授業。 前年度の履修調整で許可を受けていること。. 多様性コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面 EG30263修得者の履修は認めない。",
+    "植物系統分類学Iの事前又は同時履修が必要。 英語で授業。 事前の履修調整で許可を受けていること。. 多様性コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面 EG30263修得者の履修は認めない。",
     "1.5"
   ],
   "EB51111": [
@@ -93716,7 +93780,7 @@
     "夏季休業中",
     "集中",
     "菅平",
-    "8/29-9/2 前年度の履修調整で許可を受けていること。. 多様性コース. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談). 対面",
+    "8/29-9/2 事前の履修調整で許可を受けていること。. 多様性コース. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談). 対面",
     "1.5"
   ],
   "EB52011": [
@@ -93732,7 +93796,7 @@
     "秋AB",
     "木4-6",
     "2B403",
-    "前年度の履修調整で許可を受けていること。. 多様性コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "事前の履修調整で許可を受けていること。. 多様性コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "1.5"
   ],
   "EB59053": [
@@ -93740,7 +93804,7 @@
     "春C",
     "集中",
     "2B501,2B503",
-    "7/18-7/22 前年度の履修調整で許可を受けていること。. 多様性コース. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談). 対面",
+    "7/18-7/22 事前の履修調整で許可を受けていること。. 多様性コース. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談). 対面",
     "1.5"
   ],
   "EB59101": [
@@ -93820,7 +93884,7 @@
     "秋AB",
     "木4,5",
     "2D202,2D309",
-    "FCC3923と同一。 前年度の履修調整で許可を受けていること。. 情報コース. 学研災に加入していること。. 履修登録は事務で行う。. オンライン(同時双方向型). 対面 FC13823修得者の履修は認めない。",
+    "FCC3923と同一。 事前の履修調整で許可を受けていること。. 情報コース. 学研災に加入していること。. 履修登録は事務で行う。. オンライン(同時双方向型). 対面 FC13823修得者の履修は認めない。",
     "1.0"
   ],
   "EB62011": [
@@ -93852,7 +93916,7 @@
     "春B",
     "木・金4-6",
     "2D413",
-    "前年度の履修調整で許可を受けていること。. 情報コース. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。 EB63193修得者の履修は認めない。",
+    "事前の履修調整で許可を受けていること。. 情報コース. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。 EB63193修得者の履修は認めない。",
     "1.5"
   ],
   "EB62104": [
@@ -93932,7 +93996,7 @@
     "夏季休業中",
     "集中",
     " ",
-    "英語で授業。 9/24-9/28 前年度の履修調整で許可を受けていること。. 情報コース. 学研災に加入していること。. 履修登録は事務で行う。. オンライン(同時双方向型)",
+    "英語で授業。 9/24-9/28 事前の履修調整で許可を受けていること。. 情報コース. 学研災に加入していること。. 履修登録は事務で行う。. オンライン(同時双方向型)",
     "1.5"
   ],
   "EB71011": [
@@ -93964,7 +94028,7 @@
     "秋B",
     "月・火4-6",
     "2D417",
-    "前年度の履修調整で許可を受けていること。. 分子細胞コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面 細胞生物学Iの事前履修が必要。",
+    "事前の履修調整で許可を受けていること。. 分子細胞コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面 細胞生物学Iの事前履修が必要。",
     "1.5"
   ],
   "EB71153": [
@@ -93972,7 +94036,7 @@
     "春A",
     "木・金4-6",
     "2D413",
-    "英語で授業。 前年度の履修調整で許可を受けていること。. 分子細胞コース. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。. 対面 EG35153修得者の履修は認めない。",
+    "英語で授業。 事前の履修調整で許可を受けていること。. 分子細胞コース. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。. 対面 EG35153修得者の履修は認めない。",
     "1.5"
   ],
   "EB72111": [
@@ -93996,7 +94060,7 @@
     "春A",
     "月・火4-6",
     "2D410",
-    "前年度の履修調整で許可を受けていること。. 分子細胞コース. 人間生物コース. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談). 対面 EB72153修得者の履修は認めない。",
+    "事前の履修調整で許可を受けていること。. 分子細胞コース. 人間生物コース. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。. 英語対応可(要相談). 対面 EB72153修得者の履修は認めない。",
     "1.5"
   ],
   "EB72173": [
@@ -94004,7 +94068,7 @@
     "春B",
     "月・火4-6",
     "2D410",
-    "前年度の履修調整で許可を受けていること。. 分子細胞コース. 人間生物コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面 EB72153修得者の履修は認めない。",
+    "事前の履修調整で許可を受けていること。. 分子細胞コース. 人間生物コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面 EB72153修得者の履修は認めない。",
     "1.5"
   ],
   "EB72211": [
@@ -94020,7 +94084,7 @@
     "夏季休業中",
     "集中",
     "下田臨海実験センター",
-    "9/12-9/16 前年度の履修調整で許可を受けていること。. 分子細胞コース. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "9/12-9/16 事前の履修調整で許可を受けていること。. 分子細胞コース. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "1.5"
   ],
   "EB72911": [
@@ -94060,7 +94124,7 @@
     "春C",
     "集中",
     "2D309",
-    "7/18-7/22 前年度の履修調整で許可を受けていること。. 分子細胞コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "7/18-7/22 事前の履修調整で許可を受けていること。. 分子細胞コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "1.5"
   ],
   "EB74111": [
@@ -94076,7 +94140,7 @@
     "秋AB",
     "金1",
     "2B208,2B209",
-    "授業は対面で行う。一部の講義はオンデマンド形式で対応します。実施様態の詳細など、履修に際し、適宜、最新のシラバスやmanaba等の情報を確認してください。 This lecture is carried out face-to-face, and some lectures will be available in on-demand. See Syllabus or recent information from manaba for detail. 英語で授業。 分子細胞コース. JTP. オンライン(オンデマンド型) 1-5回目:岩井, 対面+オンデマンド型オンライン 6-10回目 : 寿崎、対面 EG34131修得者の履修は認めない。",
+    "授業は対面で行う。一部の講義はオンデマンド形式で対応します。実施様態の詳細など、履修に際し、適宜、最新のシラバスやmanaba等の情報を確認してください。 This lecture is carried out face-to-face, and some lectures will be available in on-demand. See Syllabus or recent information from manaba for detail. 英語で授業。 分子細胞コース. JTP. オンライン(同時双方向型). 対面. オンライン(オンデマンド型) 1-5回目:岩井, 対面+オンデマンド型オンライン 6-10回目 : 寿崎、対面 EG34131修得者の履修は認めない。",
     "1.0"
   ],
   "EB74163": [
@@ -94084,7 +94148,7 @@
     "秋A",
     "月・火4-6",
     "2D413",
-    "英語で授業。 前年度の履修調整で許可を受けていること。. 分子細胞コース. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。. 対面 EG34163修得者の履修は認めない。",
+    "英語で授業。 事前の履修調整で許可を受けていること。. 分子細胞コース. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。. 対面 EG34163修得者の履修は認めない。",
     "1.5"
   ],
   "EB74211": [
@@ -94108,7 +94172,7 @@
     "秋A",
     "木・金4-6",
     "2D410",
-    "英語で授業。 前年度の履修調整で許可を受けていること。. 分子細胞コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面 EG34273修得者の履修は認めない。",
+    "英語で授業。 事前の履修調整で許可を受けていること。. 分子細胞コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面 EG34273修得者の履修は認めない。",
     "1.5"
   ],
   "EB80011": [
@@ -94132,7 +94196,7 @@
     "春A",
     "月・火・木・金4-6",
     "2D318",
-    "前年度の履修調整で許可を受けていること。. 応用生物コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "事前の履修調整で許可を受けていること。. 応用生物コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "3.0"
   ],
   "EB80053": [
@@ -94140,7 +94204,7 @@
     "秋B",
     "月・火・木・金4-6",
     "2D318",
-    "前年度の履修調整で許可を受けていること。. 応用生物コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "事前の履修調整で許可を受けていること。. 応用生物コース. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "3.0"
   ],
   "EB80211": [
@@ -94244,7 +94308,7 @@
     "秋A",
     "木・金4-6",
     "2D413",
-    "前年度の履修調整で許可を受けていること。. 応用生物コース. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
+    "事前の履修調整で許可を受けていること。. 応用生物コース. 遺伝子組換え実験を含む. 学研災に加入していること。. 履修登録は事務で行う。. 対面",
     "1.5"
   ],
   "EB90011": [
@@ -94443,7 +94507,7 @@
     "資源生物学",
     "秋C",
     "木1,2",
-    " ",
+    "2B507,2B508",
     "定員120名。生物資源学類生および教員免許 理科(中学校・高等学校教諭一種)・農業(高等学校教諭一種)取得希望者優先。 その他の実施形態",
     "1.0"
   ],
@@ -94465,8 +94529,8 @@
   ],
   "EC12131": [
     "化学",
-    "春AB 春C 秋ABC",
-    "水2 水2 木3",
+    "春ABC 秋ABC",
+    "水2 木3",
     "2H201",
     "「化学」(EC12101)、「化学Ⅰ」(EC12111)及び「化学II」(EC12121)を修得済みの者は履修できない。 対面",
     "3.0"
@@ -94492,7 +94556,7 @@
     "秋AB",
     "金4-6",
     "2B301 2B303 2B401",
-    "EC12113修得済みの者は履修できない。初回ガイダンスについては、シラバスを参照のこと。 EG50163と同一。 10/7-10/28,11/9,10/7-10/28,11/9,10/7-10/28,11/9,11/11-12/2,11/11-12/2,11/11-12/2 対面",
+    "EC12113修得済みの者は履修できない。初回ガイダンスについては、シラバスを参照のこと。 EG50163と同一。 10/7-10/28,11/9,11/11-12/2 対面",
     "1.0"
   ],
   "EC12171": [
@@ -94577,9 +94641,9 @@
   ],
   "EC12331": [
     "基礎数学",
-    "春AB 春C 秋ABC",
-    "金3 金3 月3",
-    "2H101",
+    "春ABC 秋ABC",
+    "金3 月3",
+    "2H201",
     "「基礎数学」(EC12051)、「基礎数学I」(EC12311)及び「基礎数学II」(EC12321)を修得した者は履修できない。 対面",
     "3.0"
   ],
@@ -94603,7 +94667,7 @@
     "生物資源としての遺伝子とゲノム",
     "秋AB",
     "木5",
-    " ",
+    "2H101",
     "定員300名 専門導入科目(事前登録対象). オンライン(オンデマンド型)",
     "1.0"
   ],
@@ -94795,7 +94859,7 @@
     "園芸学",
     "秋AB",
     "金5,6",
-    " ",
+    "2B411",
     "横断領域科目「食料」 その他の実施形態",
     "2.0"
   ],
@@ -94803,7 +94867,7 @@
     "資源植物保護学",
     "秋C",
     "月・金1,2",
-    " ",
+    "2B412",
     "横断領域科目「食料」 その他の実施形態",
     "2.0"
   ],
@@ -94811,7 +94875,7 @@
     "資源動物学",
     "秋AB",
     "火4,5",
-    " ",
+    "2C310",
     "横断領域科目「食料」 その他の実施形態",
     "2.0"
   ],
@@ -94883,7 +94947,7 @@
     "酵素化学",
     "秋C",
     "水5,6",
-    " ",
+    "2B411",
     "その他の実施形態",
     "1.0"
   ],
@@ -95091,7 +95155,7 @@
     "分子生物学",
     "秋AB",
     "木1,2",
-    " ",
+    "2H101",
     "基幹科目 (コース共通) 農林生物学コース 応用生命化学コース 環境工学コース その他の実施形態",
     "2.0"
   ],
@@ -95179,7 +95243,7 @@
     "蔬菜生産学",
     "春AB 秋AB",
     "火3 火2",
-    " ",
+    "2D205",
     "横断領域科目「食料」 その他の実施形態",
     "2.0"
   ],
@@ -95187,7 +95251,7 @@
     "果樹生産利用学",
     "春AB秋AB",
     "金2",
-    " ",
+    "2C107",
     "横断領域科目「食料」 その他の実施形態",
     "2.0"
   ],
@@ -95195,7 +95259,7 @@
     "植物病理学",
     "春AB秋AB",
     "金3",
-    " ",
+    "2C102",
     "横断領域科目「食料」 その他の実施形態",
     "2.0"
   ],
@@ -95219,7 +95283,7 @@
     "植物寄生菌学",
     "春AB秋AB",
     "木1",
-    " ",
+    "2C410",
     "横断領域科目「環境」 その他の実施形態",
     "2.0"
   ],
@@ -95251,7 +95315,7 @@
     "植物生物工学",
     "春AB 秋AB",
     "月4 金4",
-    " ",
+    "2B206",
     "横断領域科目「食料」 実務経験教員. その他の実施形態",
     "2.0"
   ],
@@ -95267,7 +95331,7 @@
     "動物生産学",
     "秋AB",
     "水1",
-    " ",
+    "2B206",
     "横断領域科目「食料」 EC31081を修得済みの者は履修できない。 その他の実施形態",
     "1.0"
   ],
@@ -95299,7 +95363,7 @@
     "食品機能学",
     "秋AB",
     "水4",
-    " ",
+    "2B412",
     "横断領域科目「食料」「国際」 実務経験教員. その他の実施形態",
     "1.0"
   ],
@@ -95323,7 +95387,7 @@
     "園芸生産技術論",
     "秋C",
     "金1,2",
-    " ",
+    "2B206",
     "その他の実施形態",
     "1.0"
   ],
@@ -95340,7 +95404,7 @@
     "秋C",
     "集中",
     " ",
-    "「野生動物保護管理学」(EC31221)を履修済みの者は履修できない。 2/1，2/2 その他の実施形態",
+    "「野生動物保護管理学」(EC31221)を履修済みの者は履修できない。 2/1，2/2 対面",
     "1.0"
   ],
   "EC31461": [
@@ -95475,7 +95539,7 @@
     "応用微生物学",
     "秋AB",
     "月1,2",
-    " ",
+    "2C310",
     "その他の実施形態",
     "2.0"
   ],
@@ -95491,7 +95555,7 @@
     "土壌科学",
     "秋AB",
     "金3,4",
-    " ",
+    "2C403",
     "横断領域科目「環境」 その他の実施形態",
     "2.0"
   ],
@@ -95540,7 +95604,7 @@
     "春C夏季休業中",
     "集中",
     " ",
-    "詳細はシラバス参照のこと。事前に実習ガイダンスを行うので受講希望者は必ず出席すること。EC32223を修得した者は履修できない。8/10-8/13開講予定（開講日が変更される場合がある。実習ガイダンスにて開講日を連絡する）。筑波大学山岳科学センター菅平高原実験所にて開講。 8/10,8/11-8/13 対面",
+    "詳細はシラバス参照のこと。事前に実習ガイダンスを行うので受講希望者は必ず出席すること。EC32223を修得した者は履修できない。8/10-8/12開講予定（開講日が変更される場合がある。実習ガイダンスにて開講日を連絡する）。筑波大学山岳科学センター菅平高原実験所にて開講。 8/10,8/11-8/12 対面",
     "1.0"
   ],
   "EC32241": [
@@ -95563,7 +95627,7 @@
     "農薬化学",
     "秋AB",
     "水2",
-    " ",
+    "2C107",
     "EC32271を修得した者は履修できない。2023年度以降開講なし その他の実施形態",
     "1.0"
   ],
@@ -95771,7 +95835,7 @@
     "環境修復生物工学",
     "秋AB",
     "月4",
-    " ",
+    "2B206",
     "その他の実施形態",
     "1.0"
   ],
@@ -95931,7 +95995,7 @@
     "植物育種学",
     "春AB秋AB",
     "火1",
-    " ",
+    "2B208,2B209",
     "(コース共通) 農林生物学コース 環境工学コース 横断領域科目「食料」「国際」 その他の実施形態",
     "2.0"
   ],
@@ -95979,7 +96043,7 @@
     "農村・農地工学",
     "秋AB",
     "月1,2",
-    " ",
+    "2B309",
     "「生産基盤工学(EC33151)」、「農村計画学(EC33271)」、「農村・農地工学(EC33151)」を修得済みの者は履修できない。(コース共通) 環境工学コース 社会経済学コース その他の実施形態",
     "2.0"
   ],
@@ -97508,7 +97572,7 @@
     "秋AB",
     "金4-6",
     "2B301 2B303 2B401",
-    "EC12113修得済みの者は履修できない。初回ガイダンスについては、シラバスを参照のこと。 EC12163と同一。 10/7-10/28,11/9,10/7-10/28,11/9,10/7-10/28,11/9,11/11-12/2,11/11-12/2,11/11-12/2 対面",
+    "EC12113修得済みの者は履修できない。初回ガイダンスについては、シラバスを参照のこと。 EC12163と同一。 10/7-10/28,11/9,11/11-12/2 対面",
     "1.0"
   ],
   "EG50193": [
@@ -100180,7 +100244,7 @@
     "秋AB",
     "木4,5",
     "2D202,2D309",
-    "EB61083と同一。 前年度の履修調整で許可を受けていること。. 情報コース. 学研災に加入していること。. 履修登録は事務で行う。. オンライン(同時双方向型). 対面 FC13823修得者の履修は認めない。",
+    "EB61083と同一。 事前の履修調整で許可を受けていること。. 情報コース. 学研災に加入していること。. 履修登録は事務で行う。. オンライン(同時双方向型). 対面 FC13823修得者の履修は認めない。",
     "1.0"
   ],
   "FCC4071": [
@@ -104931,7 +104995,7 @@
     "産業組織論",
     "秋AB",
     "火4,5",
-    " ",
+    "1C403",
     "BB41281と同一。 オンライン(オンデマンド型). オンライン(同時双方向型)",
     "2.0"
   ],
@@ -106219,15 +106283,15 @@
     "微分積分A",
     "秋AB",
     "金3,4",
-    "3B302",
+    "3B203",
     "情報科学類生は1・2クラスを対象とする。定員を超過した場合は履修調整をする場合がある（情報科学類生および総合学域 群生(情報科学類への移行希望者・学籍番号の下一桁が奇数)優先）。履修申請期限は9月21日(水)まで。 オンライン(オンデマンド型) 2018年度までに開設された「解析学I」(GB10314,GB10324)の単位を修得した者 の履修は認めない。",
     "2.0"
   ],
   "GA15321": [
     "微分積分A",
     "秋AB",
-    "金3,4",
-    " ",
+    "金3 金4",
+    "3A308",
     "情報科学類生は3・4クラスを対象とする。定員を超過した場合は履修調整をする場合がある（情報科学類生および総合学域 群生(情報科学類への移行希望者・学籍番号の下一桁が偶数)優先）。履修申請期 限は9月21日(水)まで。 オンライン(オンデマンド型) 2018年度までに開設された「解析学I」(GB10314,GB10324)の単位を修得した者 の履修は認めない。",
     "2.0"
   ],
@@ -106419,7 +106483,7 @@
     "シミュレーション物理",
     "秋C",
     "木1,2",
-    "3A311",
+    "3A405",
     "オンライン(オンデマンド型) 対面",
     "1.0"
   ],
@@ -106523,7 +106587,7 @@
     "システム制御概論",
     "秋AB",
     "金3,4",
-    "3B203",
+    "3B302",
     "オンライン(オンデマンド型). 対面 オンデマンド型を基本とし可能であれば対面で実施する。詳細は後日発表する。試験は対面実施します．",
     "2.0"
   ],
@@ -106610,8 +106674,8 @@
   "GB13704": [
     "コンピュータグラフィックス基礎",
     "秋AB",
-    "火3,4",
-    "3A209",
+    "火3 火4",
+    "3A202",
     "BC12624, GC23304と同一。 オンライン(オンデマンド型)",
     "2.0"
   ],
@@ -106995,7 +107059,7 @@
     " プログラム言語処理",
     "秋AB",
     "金1,2",
-    "3A405",
+    "3A209",
     "オンライン(オンデマンド型) 2021年度まで開設されていた「 プログラム言語処理」(GB31301)の単位を修得した者の履修は認めない。",
     "2.0"
   ],
@@ -107538,8 +107602,8 @@
   "GC23304": [
     "CG基礎",
     "秋AB",
-    "火3,4",
-    "3A209",
+    "火3 火4",
+    "3A202",
     "BC12624, GB13704と同一。 オンライン(オンデマンド型)",
     "2.0"
   ],
