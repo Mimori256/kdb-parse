@@ -1129,10 +1129,10 @@
   ],
   "01AC162": [
     "堆積地形論",
-    "春C",
+    "夏季休業中",
     "集中",
     " ",
-    "西暦偶数年度開講。 西暦偶数年度開講。 0ANC332と同一。",
+    "西暦偶数年度開講。 西暦偶数年度開講。 0ANC332と同一。 9/29-9/30",
     "1.0"
   ],
   "01AC167": [
@@ -3981,6 +3981,14 @@
     "集中",
     " ",
     "0AJCF41と同一。 詳細後日周知",
+    "1.0"
+  ],
+  "01BC507": [
+    "プラズマ特講II",
+    "秋C",
+    "集中",
+    " ",
+    "詳細後日周知",
     "1.0"
   ],
   "01BC510": [
@@ -9228,7 +9236,7 @@
     "秋AB",
     "火5,6",
     "総合B0110",
-    "0AL0301と同一。 オンライン(オンデマンド型)",
+    "0AL0301と同一。 オンライン(オンデマンド型) オンライン対面併用。",
     "2.0"
   ],
   "01CF110": [
@@ -9660,7 +9668,7 @@
     "秋AB",
     "火3,4",
     "総合B0110",
-    "0AL5409と同一。 英語で授業。 オンライン(オンデマンド型)",
+    "0AL5409と同一。 英語で授業。 オンライン(オンデマンド型). 対面",
     "2.0"
   ],
   "01CH305": [
@@ -9700,7 +9708,7 @@
     "秋AB",
     "月3,4",
     "3B302",
-    "西暦偶数年度開講。 0AL5435と同一。 オンライン(オンデマンド型)",
+    "西暦偶数年度開講。 0AL5435と同一。 対面",
     "2.0"
   ],
   "01CH404": [
@@ -10012,7 +10020,7 @@
     "秋AB",
     "金3,4",
     "3L207",
-    "0AL5502と同一。 オンライン(オンデマンド型)",
+    "0AL5502と同一。 その他の実施形態",
     "2.0"
   ],
   "01CK104": [
@@ -10036,7 +10044,7 @@
     "秋AB",
     "金1,2",
     "3A204",
-    "0AL5512と同一。 対面 対面で開講する予定である。ビデオ収録によりオンラインでも配信する。ただし、状況によって全面的なオンライン実施に移行する可能性もある。",
+    "0AL5512と同一。 対面 対面で開講する予定である。",
     "2.0"
   ],
   "01CK203": [
@@ -10108,7 +10116,7 @@
     "秋AB",
     "月5,6",
     "3L207",
-    "0AL5511と同一。 オンライン(オンデマンド型)",
+    "0AL5511と同一。 対面",
     "2.0"
   ],
   "01CK305": [
@@ -10140,7 +10148,7 @@
     "秋B",
     "集中",
     " ",
-    "0AL5513と同一。 11/12,11/13,11/19,11/20 オンライン(同時双方向型)",
+    "0AL5513と同一。 11/12,11/13,11/19,11/20 その他の実施形態 オンライン(オンデマンド)と対面を併用",
     "2.0"
   ],
   "01CK401": [
@@ -10369,10 +10377,10 @@
   ],
   "01CN056": [
     "社会工学特別講義I",
-    "秋AB",
+    "秋B",
     "集中",
     "3E404",
-    "The class will be taught in English, with optional explanation in Japanese. 02CN054, 0AL5115と同一。 オンライン(同時双方向型) The class will be held online.Open in the even academic years.",
+    "The class will be taught in English, with optional explanation in Japanese. 02CN054, 0AL5115と同一。 11/19,11/20,12/3,12/4 対面 The class will be held online.Open in the even academic years.",
     "2.0"
   ],
   "01CN058": [
@@ -10588,7 +10596,7 @@
     "秋AB",
     "月3,4",
     " ",
-    "0AL5108と同一。 オンライン(オンデマンド型)",
+    "0AL5108と同一。 その他の実施形態 オンラインと対面の併用",
     "2.0"
   ],
   "01CN304": [
@@ -10660,7 +10668,7 @@
     "秋AB",
     "火5,6",
     " ",
-    "0AL0109と同一。 その他の実施形態 オンデマンド主体（一部、同時双方向）",
+    "0AL0109と同一。 その他の実施形態 対面講義を原則とする（必要・状況に応じてオンライン・オンデマンド・LIVE配信を活用する）",
     "2.0"
   ],
   "01CN411": [
@@ -10780,7 +10788,7 @@
     "秋A",
     "金5,6",
     "3C201",
-    "履修希望者が多い場合、サービス工学学位プログラムの学生以外は、履修を制限する可能性もある。 0AL0202と同一。 その他の実施形態",
+    "履修希望者が多い場合、サービス工学学位プログラムの学生以外は、履修を制限する可能性もある。 0AL0202と同一。 対面",
     "1.0"
   ],
   "01CN904": [
@@ -11523,7 +11531,7 @@
     "文化変動論演習III",
     "通年",
     "火2",
-    "3K325",
+    "3K227",
     "2022年度より2年おき開講。 02DJ347と同一。 授業形式はシラバスの「その他」欄で確認してください。",
     "3.0"
   ],
@@ -11563,7 +11571,7 @@
     "公共政策およびマネージメントの基礎",
     "秋AB",
     "火5,6",
-    " ",
+    "3B304",
     "new public management",
     "2.0"
   ],
@@ -11665,10 +11673,10 @@
   ],
   "01DP239": [
     "インドネシア語文化研究III",
-    "春C",
-    "金4",
+    "春C 夏季休業中",
+    "金4 集中",
     " ",
-    "7/8,7/15,7/22,7/29,8/5 オンライン(同時双方向型)",
+    "7/8,7/15,7/22,7/29,8/5,9/15-17 オンライン(同時双方向型)",
     "1.0"
   ],
   "01DP240": [
@@ -12699,15 +12707,15 @@
     "大学院生のためのアカデミックライティング",
     "秋AB",
     "金1,2",
-    " ",
-    "英語で授業。 火1,2限、金5,6限",
+    "3B304",
+    "英語で授業。 金1,2限",
     "2.0"
   ],
   "01DZ677": [
     "公共政策およびマネージメントの基礎",
     "秋AB",
     "火5,6",
-    " ",
+    "3B304",
     "new public management",
     "2.0"
   ],
@@ -15113,10 +15121,10 @@
   ],
   "01EK311": [
     "スポーツ健康科学論I",
-    "秋ABC",
+    "秋B",
     "集中",
     " ",
-    "開講未定 西暦偶数年度開講。 0ATS371と同一。",
+    "開講未定 西暦偶数年度開講。 0ATS371と同一。 12/3,12/4,12/10",
     "1.0"
   ],
   "01EK312": [
@@ -17523,7 +17531,7 @@
     "要求分析とプロジェクト管理",
     "秋AB",
     "月1,2",
-    " ",
+    "7A210",
     "偶数年度は日本語で授業,奇数年度は英語で授業;メディアサイエンス専門科目;教職科目 01MBB01, 0ATW117と同一。 その他の実施形態",
     "2.0"
   ],
@@ -17563,7 +17571,7 @@
     "問題記述と形式化",
     "秋AB",
     "月1,2",
-    " ",
+    "7A210",
     "偶数年度は日本語で授業,奇数年度は英語で授業;メディアサイエンス専門科目;教職科目 01MBA09, 0ATW117と同一。 その他の実施形態",
     "2.0"
   ],
@@ -17603,7 +17611,7 @@
     "コンテンツ制作論",
     "秋AB",
     "火5,6",
-    " ",
+    "7A210",
     "偶数年度は日本語で授業,奇数年度は英語で授業;メディアサイエンス専門科目 01MBB12, 0ATW113と同一。 その他の実施形態",
     "2.0"
   ],
@@ -17619,7 +17627,7 @@
     "画像・映像メディア処理",
     "秋AB",
     "火1,2",
-    " ",
+    "7A210",
     "偶数年度は日本語で授業,奇数年度は英語で授業;メディアサイエンス専門科目;教職科目 01MBC04, 0ATW114と同一。 その他の実施形態",
     "2.0"
   ],
@@ -17635,7 +17643,7 @@
     "ヒューマンコンピュータ・インタラクション",
     "秋AB",
     "火3,4",
-    " ",
+    "7A210",
     "偶数年度は英語で授業,奇数年度は日本語で授業;情報インタラクション専門科目;教職科目 0ATW13Bと重複履修不可。 01MBC16, 0ATW134と同一。 対面",
     "2.0"
   ],
@@ -17643,7 +17651,7 @@
     "情報デザイン",
     "秋AB",
     "火5,6",
-    " ",
+    "7A210",
     "偶数年度は日本語で授業,奇数年度は英語で授業;メディアサイエンス専門科目 01MBB07, 0ATW113と同一。 その他の実施形態",
     "2.0"
   ],
@@ -17691,7 +17699,7 @@
     "デジタルドキュメント",
     "秋AB",
     "木1,2",
-    " ",
+    "7A210",
     "偶数年度は英語で授業,奇数年度は日本語で授業;情報インタラクション専門科目 0ATW13Cと重複履修不可。 01MBC03, 0ATW137と同一。 対面",
     "2.0"
   ],
@@ -17699,7 +17707,7 @@
     "デジタルライブラリ",
     "秋AB",
     "木1,2",
-    " ",
+    "7A210",
     "偶数年度は英語で授業,奇数年度は日本語で授業;情報インタラクション専門科目 0ATW13Cと重複履修不可。 01MBC02, 0ATW137と同一。 対面",
     "2.0"
   ],
@@ -17707,7 +17715,7 @@
     "デジタルアーカイビング",
     "秋AB",
     "火1,2",
-    " ",
+    "7A210",
     "偶数年度は日本語で授業,奇数年度は英語で授業;メディアサイエンス専門科目;教職科目 01MBB09, 0ATW114と同一。 その他の実施形態",
     "2.0"
   ],
@@ -17795,7 +17803,7 @@
     "学習環境の構築",
     "秋AB",
     "火3,4",
-    " ",
+    "7A210",
     "偶数年度は英語で授業,奇数年度は日本語で授業;情報インタラクション専門科目;教職科目 0ATW13Bと重複履修不可。 01MBB11, 0ATW134と同一。 対面",
     "2.0"
   ],
@@ -23916,7 +23924,7 @@
     "秋AB",
     "火5,6",
     "総合B112-1",
-    "* Class size is limited to 50 students. This class is the same contents as 02CA101 and 02CA117. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Class size is limited to 50 students. This class is the same contents as 02CA101 and 02CA117. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "2.0"
   ],
   "02CA103": [
@@ -23932,7 +23940,7 @@
     "秋AB",
     "木5,6",
     "総合B108",
-    "* Students wishing to take this course should have already completed Introductory Technical Writing. Class size is limited to 12 students. This class is the same contents as 02CA103. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Students wishing to take this course should have already completed Introductory Technical Writing. Class size is limited to 12 students. This class is the same contents as 02CA103. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "2.0"
   ],
   "02CA109": [
@@ -23948,7 +23956,7 @@
     "秋AB",
     "火2",
     "総合B108",
-    "* Students who took 02CA105 or 02CA106 cannot take this course for credit ? however, they are welcome to audit it. Class size is limited to 18 students. This class is the same contents as 02CA114. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Students who took 02CA105 or 02CA106 cannot take this course for credit ? however, they are welcome to audit it. Class size is limited to 18 students. This class is the same contents as 02CA114. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "02CA111": [
@@ -23964,7 +23972,7 @@
     "秋AB",
     "木2",
     "総合B108",
-    "* Students who took 02CA107 or 02CA108 cannot take this course for credit ? however, they are welcome to audit it. Class size is limited to 24 students. This class is the same contents as 02CA116. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Students who took 02CA107 or 02CA108 cannot take this course for credit ? however, they are welcome to audit it. Class size is limited to 24 students. This class is the same contents as 02CA116. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "02CA113": [
@@ -23980,7 +23988,7 @@
     "秋AB",
     "火3",
     "総合B108",
-    "* Students who took 02CA105 or 02CA106 cannot take this course for credit ? however, they are welcome to audit it. Class size is limited to 18 students. This class is the same contents as 02CA110. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Students who took 02CA105 or 02CA106 cannot take this course for credit ? however, they are welcome to audit it. Class size is limited to 18 students. This class is the same contents as 02CA110. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "02CA115": [
@@ -23996,7 +24004,7 @@
     "秋AB",
     "木3",
     "総合B108",
-    "* Students who took 02CA107 or 02CA108 cannot take this course for credit ? however, they are welcome to audit it. Class size is limited to 24 students. This class is the same contents as 02CA112. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Students who took 02CA107 or 02CA108 cannot take this course for credit ? however, they are welcome to audit it. Class size is limited to 24 students. This class is the same contents as 02CA112. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "02CB001": [
@@ -24409,10 +24417,10 @@
   ],
   "02CN054": [
     "社会工学特別講義I",
-    "秋AB",
+    "秋B",
     "集中",
     "3E404",
-    "The class will be taught in English, with optional explanation in Japanese. 01CN056, 0AL5115と同一。 オンライン(同時双方向型) The class will be held online.Open in the even academic years.",
+    "The class will be taught in English, with optional explanation in Japanese. 01CN056, 0AL5115と同一。 11/19,11/20,12/3,12/4 対面 The class will be held online.Open in the even academic years.",
     "2.0"
   ],
   "02CN056": [
@@ -25947,7 +25955,7 @@
     "文化変動論特別演習III",
     "通年",
     "火2",
-    "3K325",
+    "3K227",
     "2022年度より2年おき開講。 01DF571と同一。 授業形式はシラバスの「その他」欄で確認してください。",
     "3.0"
   ],
@@ -26327,6 +26335,22 @@
     "履修は図書館情報メディア専攻学生に限る。 02MA109と同一。",
     "2.0"
   ],
+  "02DMM11": [
+    "日本社会・政治とインターネット2",
+    "秋C",
+    "集中",
+    " ",
+    "0ABE593と同一。 1/28,29 オンライン(同時双方向型)",
+    "1.0"
+  ],
+  "02DMN11": [
+    "言語政策と日本語論1",
+    "秋C",
+    "集中",
+    " ",
+    "0ABE594と同一。 1/23-27 オンライン(同時双方向型)",
+    "1.0"
+  ],
   "02DMP06": [
     "国際政治と共生3B",
     "秋AB",
@@ -26412,7 +26436,7 @@
     "秋AB",
     "火3",
     " ",
-    "西暦偶数年度開講。 0BBE813と同一。 オンライン(同時双方向型)",
+    "人社A316 西暦偶数年度開講。 0BBE813と同一。 対面",
     "1.0"
   ],
   "02DMW23": [
@@ -31812,7 +31836,7 @@
     "秋A",
     "集中",
     " ",
-    "教室:5C212 対面",
+    "教室:5C212 10/20, 10/21, 10/22 対面",
     "1.0"
   ],
   "0A00505": [
@@ -34188,7 +34212,7 @@
     "秋AB",
     "月2",
     " ",
-    "西暦偶数年度開講。 対面 授業形態（オンライン・対面など）については、開講1週間前までに、manabaで通知する。",
+    "西暦偶数年度開講。 授業形態（オンライン・対面など）については、開講1週間前までに、manabaで通知する。",
     "1.0"
   ],
   "0ABALB1": [
@@ -35035,7 +35059,7 @@
     "文化変動論演習A",
     "秋AB",
     "火1",
-    "3K325",
+    "3K227",
     "西暦偶数年度開講。 授業形式はシラバスの「その他」欄で確認してください。",
     "1.0"
   ],
@@ -35315,7 +35339,7 @@
     "グローバル・ガバナンス論演習",
     "秋AB",
     "木2",
-    "3K226",
+    "8A409",
     "授業形式はシラバスの「その他」欄で確認してください。 西暦偶数年度開講。 英語で授業。 English is a main language of instruction, but Japanese may be used if necessary.",
     "1.0"
   ],
@@ -35345,9 +35369,9 @@
   ],
   "0ABE001": [
     "国際日本研究のための日本語",
-    "秋AB",
+    "秋A 秋B",
     "火1",
-    " ",
+    "人社B316",
     "オンライン(オンデマンド型)",
     "1.0"
   ],
@@ -35652,6 +35676,14 @@
     "秋AB",
     "月3",
     " ",
+    "人社共同研究棟A604 西暦偶数年度開講。 対面",
+    "1.0"
+  ],
+  "0ABE328": [
+    "東アジアの古典学と文字文化2A",
+    "秋AB",
+    "月5",
+    " ",
     "西暦偶数年度開講。 オンライン(同時双方向型)",
     "1.0"
   ],
@@ -35836,7 +35868,7 @@
     "秋AB",
     "月2",
     " ",
-    "科目等履修生の条件：旧・日本語教師養成プログラム修了者に限る オンライン(同時双方向型)",
+    "科目等履修生の条件：旧・日本語教師養成プログラム修了者に限る。人社A202 対面",
     "1.0"
   ],
   "0ABE382": [
@@ -35844,7 +35876,7 @@
     "秋AB",
     "木4",
     " ",
-    "科目等履修生の条件：旧・日本語教師養成プログラム修了者に限る オンライン(同時双方向型)",
+    "科目等履修生の条件：旧・日本語教師養成プログラム修了者に限る。人社A316 対面",
     "1.0"
   ],
   "0ABE383": [
@@ -35909,6 +35941,22 @@
     "集中",
     " ",
     "意欲のある人ならば制限することは原則としてないものの、履修可能かどうかについて相談したい人はあらかじめ平山にメールを下さい。 02DML05と同一。 10/8,11/12,1/19 オンライン(オンデマンド型). 対面",
+    "1.0"
+  ],
+  "0ABE593": [
+    "日本社会・政治とインターネット1",
+    "秋C",
+    "集中",
+    " ",
+    "02DMM11と同一。 1/28,29 オンライン(同時双方向型)",
+    "1.0"
+  ],
+  "0ABE594": [
+    "言語政策と日本語論1",
+    "秋C",
+    "集中",
+    " ",
+    "02DMN11と同一。 1/23-27 オンライン(同時双方向型)",
     "1.0"
   ],
   "0ABE800": [
@@ -38068,7 +38116,7 @@
     "秋AB",
     "水1,2",
     "3B303",
-    "再生可能エネルギーついて学ぶ意欲があれば、所属に関わらず、様々な専門分野からの受講を歓迎する。 01CM440と同一。 オンライン(オンデマンド型). その他の実施形態 オンライン(オンデマンド型)を原則として、同時双方向型を適宜組み合わせる",
+    "再生可能エネルギーついて学ぶ意欲があれば、所属に関わらず、様々な専門分野からの受講を歓迎する。 01CM440と同一。 オンライン(オンデマンド型). 対面",
     "2.0"
   ],
   "0AH0204": [
@@ -39031,6 +39079,14 @@
     "01BC362と同一。 詳細後日周知",
     "1.0"
   ],
+  "0AJCB43": [
+    "素粒子実験特講II",
+    "秋B",
+    "集中",
+    " ",
+    "詳細後日周知",
+    "1.0"
+  ],
   "0AJCC01": [
     "宇宙物理セミナーI",
     "春ABC",
@@ -39165,6 +39221,14 @@
     "集中",
     " ",
     "01BC369と同一。 その他の実施形態 オンラインで実施するが方法は未定",
+    "1.0"
+  ],
+  "0AJCC42": [
+    "宇宙物理特講II",
+    "秋A",
+    "集中",
+    " ",
+    "詳細後日周知",
     "1.0"
   ],
   "0AJCC43": [
@@ -39591,6 +39655,14 @@
     "01BC616と同一。 要望があれば英語で授業. その他の実施形態 対面とOLを併用する",
     "3.0"
   ],
+  "0AJCE60": [
+    "物性理論特講I",
+    "秋ABC",
+    "集中",
+    " ",
+    "詳細後日周知",
+    "1.0"
+  ],
   "0AJCE61": [
     "物性理論特講II",
     "秋ABC",
@@ -39717,6 +39789,14 @@
     "集中",
     " ",
     "01BC506と同一。 詳細後日周知",
+    "1.0"
+  ],
+  "0AJCF42": [
+    "プラズマ特講II",
+    "秋C",
+    "集中",
+    " ",
+    "詳細後日周知",
     "1.0"
   ],
   "0AJCG01": [
@@ -43140,7 +43220,7 @@
     "秋AB",
     "火5,6",
     "総合B112-1",
-    "* Class size is limited to 50 students. This class is the same contents as 0AL0000 and 0AL0012. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Class size is limited to 50 students. This class is the same contents as 0AL0000 and 0AL0012. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "2.0"
   ],
   "0AL0002": [
@@ -43156,7 +43236,7 @@
     "秋AB",
     "木5,6",
     "総合B108",
-    "* Students wishing to take this course should have already completed Introductory Technical Writing. Class size is limited to 12 students. This class is the same contents as 0AL0002. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Students wishing to take this course should have already completed Introductory Technical Writing. Class size is limited to 12 students. This class is the same contents as 0AL0002. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "2.0"
   ],
   "0AL0004": [
@@ -43180,7 +43260,7 @@
     "秋AB",
     "火2",
     "総合B108",
-    "* Class size is limited to 18 students. This class is the same contents as 0AL0007. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Class size is limited to 18 students. This class is the same contents as 0AL0007. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "0AL0007": [
@@ -43188,7 +43268,7 @@
     "秋AB",
     "火3",
     "総合B108",
-    "* Class size is limited to 18 students. This class is the same contents as 0AL0006. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Class size is limited to 18 students. This class is the same contents as 0AL0006. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "0AL0008": [
@@ -43212,7 +43292,7 @@
     "秋AB",
     "木2",
     "総合B108",
-    "* Class size is limited to 24 students. This class is the same contents as 0AL0011. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Class size is limited to 24 students. This class is the same contents as 0AL0011. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "0AL0011": [
@@ -43220,7 +43300,7 @@
     "秋AB",
     "木3",
     "総合B108",
-    "* Class size is limited to 24 students. This class is the same contents as 0AL0010. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 (may be subject to change) * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
+    "* Class size is limited to 24 students. This class is the same contents as 0AL0010. For exchange students, only those enrolled in the SIE program are eligible to take this course. 英語で授業。 対面 * To enroll, please sign up on TWINS and come to the first class. During the first two weeks, priority will be given to students from Systems and Information Engineering. During this time, students from other graduate schools can register and attend. However, this does not guarantee enrollment. After week 2, if there is space, students from other graduate schools can enroll.",
     "1.0"
   ],
   "0AL0100": [
@@ -43300,7 +43380,7 @@
     "秋AB",
     "火5,6",
     " ",
-    "01CN405と同一。 その他の実施形態 オンデマンド主体（一部、同時双方向）",
+    "01CN405と同一。 その他の実施形態 対面講義を原則とする（必要・状況に応じてオンライン・オンデマンド・LIVE配信を活用する）",
     "2.0"
   ],
   "0AL0110": [
@@ -43332,7 +43412,7 @@
     "秋A",
     "金5,6",
     "3C201",
-    "履修人数によりサービス工学学位プログラム以外の学生の履修を制限することもある。 01CN903と同一。 その他の実施形態 オンライン同時双方向型とオンデマンドの併用",
+    "履修人数によりサービス工学学位プログラム以外の学生の履修を制限することもある。 01CN903と同一。 対面",
     "1.0"
   ],
   "0AL0203": [
@@ -43396,7 +43476,7 @@
     "秋AB",
     "火5,6",
     "総合B0110",
-    "01CF109と同一。 オンライン(オンデマンド型)",
+    "01CF109と同一。 オンライン(オンデマンド型) オンライン対面併用。",
     "2.0"
   ],
   "0AL0302": [
@@ -43604,7 +43684,7 @@
     "秋AB",
     "月3,4",
     " ",
-    "01CN303と同一。 オンライン(オンデマンド型)",
+    "01CN303と同一。 その他の実施形態 オンラインと対面の併用",
     "2.0"
   ],
   "0AL5109": [
@@ -43657,10 +43737,10 @@
   ],
   "0AL5115": [
     "社会工学特別講義I",
-    "秋AB",
+    "秋B",
     "集中",
     "3E404",
-    "The class will be taught in English, with optional explanation in Japanese. 01CN056, 02CN054と同一。 オンライン(同時双方向型) The class will be held online.Open in the even academic years.",
+    "The class will be taught in English, with optional explanation in Japanese. 01CN056, 02CN054と同一。 11/19,11/20,12/3,12/4 対面 The class will be held online.Open in the even academic years.",
     "2.0"
   ],
   "0AL5117": [
@@ -43964,7 +44044,7 @@
     "秋AB",
     "火3,4",
     "総合B0110",
-    "01CH304と同一。 英語で授業。 オンライン(オンデマンド型)",
+    "01CH304と同一。 英語で授業。 オンライン(オンデマンド型). 対面",
     "2.0"
   ],
   "0AL5410": [
@@ -44132,7 +44212,7 @@
     "秋AB",
     "月3,4",
     "3B302",
-    "西暦偶数年度開講。 01CH402と同一。 オンライン(オンデマンド型)",
+    "西暦偶数年度開講。 01CH402と同一。 対面",
     "2.0"
   ],
   "0AL5436": [
@@ -44196,7 +44276,7 @@
     "秋AB",
     "金3,4",
     "3L207",
-    "01CK102と同一。 オンライン(オンデマンド型)",
+    "01CK102と同一。 その他の実施形態",
     "2.0"
   ],
   "0AL5503": [
@@ -44252,7 +44332,7 @@
     "秋AB",
     "月5,6",
     "3L207",
-    "01CK302と同一。 オンライン(オンデマンド型)",
+    "01CK302と同一。 対面",
     "2.0"
   ],
   "0AL5512": [
@@ -44260,7 +44340,7 @@
     "秋AB",
     "金1,2",
     "3A204",
-    "01CK109と同一。 対面 対面で開講する予定である。ビデオ収録によりオンラインでも配信する。ただし、状況によって全面的なオンライン実施に移行する可能性もある。",
+    "01CK109と同一。 対面 対面で開講する予定である。",
     "2.0"
   ],
   "0AL5513": [
@@ -44268,7 +44348,7 @@
     "秋B",
     "集中",
     " ",
-    "01CK313と同一。 11/12,11/13,11/19,11/20 オンライン(同時双方向型)",
+    "01CK313と同一。 11/12,11/13,11/19,11/20 その他の実施形態 オンライン(オンデマンド)と対面を併用",
     "2.0"
   ],
   "0AL5514": [
@@ -44436,7 +44516,7 @@
     "秋AB",
     "金3,4",
     "3B402",
-    "準コア科目 01CM312と同一。 オンライン(オンデマンド型)",
+    "準コア科目 01CM312と同一。 オンライン(オンデマンド型). 対面",
     "2.0"
   ],
   "0AL5611": [
@@ -47289,10 +47369,10 @@
   ],
   "0ANC332": [
     "堆積地形論",
-    "春C",
+    "夏季休業中",
     "集中",
     " ",
-    "西暦偶数年度開講。 01AC162と同一。",
+    "西暦偶数年度開講。 01AC162と同一。 9/29-9/30",
     "1.0"
   ],
   "0ANC333": [
@@ -49223,6 +49303,14 @@
     "対面",
     "1.0"
   ],
+  "0ATAE27": [
+    "人文地理学演習I",
+    "秋AB",
+    "火1",
+    "8B407",
+    "対面",
+    "1.0"
+  ],
   "0ATAE28": [
     "人文地理学演習II",
     "秋AB 春季休業中",
@@ -49395,7 +49483,7 @@
     "総合数理学A",
     "秋A",
     "月・金5",
-    " ",
+    "8B204",
     "対面",
     "1.0"
   ],
@@ -54650,7 +54738,7 @@
   "0ATQ205": [
     "Seminar in Sport Science and Medicine I (スポーツ医科学演習 I)",
     "秋ABC",
-    "随時1",
+    "随時",
     " ",
     "英語で授業。 その他の実施形態 Under present condition of international students potential absence in October need for an online link together with face-to-face.",
     "2.0"
@@ -54658,7 +54746,7 @@
   "0ATQ206": [
     "Seminar in Sport Science and Medicine II (スポーツ医科学演習 II)",
     "春ABC",
-    "随時1",
+    "随時",
     " ",
     "英語で授業。 その他の実施形態",
     "2.0"
@@ -54744,7 +54832,7 @@
     "1.0"
   ],
   "0ATQ217": [
-    "Cross-Cultural Communication (異文化コミュニケーション 秋)",
+    "Cross-Cultural Communication (異文化コミュニケーション)",
     "秋AB",
     "金5",
     " ",
@@ -55001,10 +55089,10 @@
   ],
   "0ATS371": [
     "スポーツ健康科学論I",
-    "秋ABC",
+    "秋B",
     "集中",
     " ",
-    "西暦偶数年度開講。 01EK311と同一。",
+    "西暦偶数年度開講。 01EK311と同一。 12/3,12/4,12/10",
     "1.0"
   ],
   "0ATS410": [
@@ -56787,7 +56875,7 @@
     "メディアデザイン",
     "秋AB",
     "火5,6",
-    " ",
+    "7A210",
     "偶数年度は日本語で授業,奇数年度は英語で授業;メディアサイエンス専門科目 01MBB07, 01MBB12と同一。 その他の実施形態",
     "2.0"
   ],
@@ -56795,7 +56883,7 @@
     "ビジュアライゼーション",
     "秋AB",
     "火1,2",
-    " ",
+    "7A210",
     "偶数年度は日本語で授業,奇数年度は英語で授業;メディアサイエンス専門科目;教職科目 01MBB09, 01MBC04と同一。 その他の実施形態",
     "2.0"
   ],
@@ -56819,7 +56907,7 @@
     "構造化データ",
     "秋AB",
     "月1,2",
-    " ",
+    "7A210",
     "偶数年度は日本語で授業,奇数年度は英語で授業;メディアサイエンス専門科目;教職科目 01MBA09, 01MBB01と同一。 その他の実施形態",
     "2.0"
   ],
@@ -56859,7 +56947,7 @@
     "ヒューマンコンピュータインタラクション",
     "秋AB",
     "火3,4",
-    " ",
+    "7A210",
     "偶数年度は英語で授業,奇数年度は日本語で授業;情報インタラクション専門科目;教職科目 0ATW13Bと重複履修不可。 01MBB11, 01MBC16と同一。 対面",
     "2.0"
   ],
@@ -56883,7 +56971,7 @@
     "デジタルヒューマニティーズ",
     "秋AB",
     "木1,2",
-    " ",
+    "7A210",
     "偶数年度は英語で授業,奇数年度は日本語で授業;情報インタラクション専門科目 0ATW13Cと重複履修不可。 01MBC02, 01MBC03と同一。 対面",
     "2.0"
   ],
@@ -57596,7 +57684,7 @@
     "秋AB",
     "月・火2-4",
     " ",
-    "英語で授業。 オンライン(同時双方向型). 対面",
+    "英語で授業。 10/3,10/10,10/17,10/24,10/31,10/4,10/11,10/18,10/25,11/1 対面",
     "3.0"
   ],
   "0AVC111": [
@@ -59059,7 +59147,7 @@
     "文化変動論特別演習AII",
     "秋AB",
     "火2",
-    "3K325",
+    "3K227",
     "西暦偶数年度開講。 授業形式はシラバスの「その他」欄で確認してください。",
     "1.0"
   ],
@@ -59388,7 +59476,7 @@
     "秋AB",
     "木6",
     " ",
-    "西暦偶数年度開講。 オンライン(同時双方向型)",
+    "人社共同研究棟A604 西暦偶数年度開講。 対面",
     "1.0"
   ],
   "0BBE206": [
@@ -59674,9 +59762,9 @@
   "0BBE707": [
     "Migration and Multicultural Studies 4",
     "秋AB",
-    "火6",
+    "応談",
     " ",
-    "西暦偶数年度開講。 オンライン(同時双方向型)",
+    "人社共同研究棟A604 西暦偶数年度開講。 対面",
     "1.0"
   ],
   "0BBE710": [
@@ -59772,7 +59860,7 @@
     "秋AB",
     "火3",
     " ",
-    "西暦偶数年度開講。 02DMW20と同一。 オンライン(同時双方向型)",
+    "人社A316 西暦偶数年度開講。 02DMW20と同一。 対面",
     "1.0"
   ],
   "0BBE816": [
@@ -69828,7 +69916,7 @@
     "秋BC",
     "木3",
     "5C404",
-    "The number of students is limited to 20. If the number of students exceeds the capacity, priority will be given to international students, mainly first-year students. The Lecture is conducted in English. Online(Asynchronous) 英語で授業。 対面",
+    "The number of students is limited to 20. If the number of students exceeds the capacity, priority will be given to international students, mainly first-year students. The Lecture is conducted in English. face-to-face 英語で授業。 対面",
     "1.0"
   ],
   "1390111": [
@@ -75859,8 +75947,8 @@
     "フランス語圏の言語と文化B",
     "秋ABC",
     "火5",
-    " ",
-    "選択・自由科目。主として人文・比文・日日・情報・医学対象。「フランス語圏の言語と文化A」の履修者に限る。主にフランス語で授業を行います。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "CA307",
+    "選択・自由科目。主として人文・比文・日日・情報・医学対象。「フランス語圏の言語と文化A」の履修者に限る。主にフランス語で授業を行います。 G科目. 対面",
     "1.0"
   ],
   "3354212": [
@@ -75995,24 +76083,24 @@
     "応用フランス語会話B",
     "秋ABC",
     "月4",
-    " ",
-    "全学群対象。原則、「フランス語基礎」A及びBの履修者に限る。 主にフランス語で授業を行います。英語での対応可能。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "CA307",
+    "全学群対象。原則、「フランス語基礎」A及びBの履修者に限る。 主にフランス語で授業を行います。英語での対応可能。 G科目. 対面",
     "1.0"
   ],
   "3367022": [
     "応用フランス語会話B",
     "秋ABC",
     "月6",
-    " ",
-    "全学群対象。原則、「フランス語基礎」A及びBの履修者に限る。主にフランス語で授業を行います。英語での対応可能。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "CA307",
+    "全学群対象。原則、「フランス語基礎」A及びBの履修者に限る。主にフランス語で授業を行います。英語での対応可能。 G科目. 対面",
     "1.0"
   ],
   "3367032": [
     "応用フランス語会話B",
     "秋ABC",
     "火6",
-    " ",
-    "全学群対象。原則、「フランス語基礎」A及びBの履修者に限る。 主にフランス語で授業を行います。英語での対応可能。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "CA307",
+    "全学群対象。原則、「フランス語基礎」A及びBの履修者に限る。 主にフランス語で授業を行います。英語での対応可能。 G科目. 対面",
     "1.0"
   ],
   "33H1012": [
@@ -76155,8 +76243,8 @@
     "基礎フランス語AII",
     "秋ABC",
     "月3",
-    " ",
-    "人文・応理・工シス・総学1組対象(学籍番号末尾奇数) 主に日本語で授業を行います。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "1B202",
+    "人文・応理・工シス・総学1組対象(学籍番号末尾奇数) 主に日本語で授業を行います。 G科目. 対面",
     "1.0"
   ],
   "33K1022": [
@@ -76171,8 +76259,8 @@
     "基礎フランス語AII",
     "秋ABC",
     "月4",
-    " ",
-    "比文・日日・社工・体育1・総学2組対象 主に日本語で授業を行ないます。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "1B202",
+    "比文・日日・社工・体育1・総学2組対象 主に日本語で授業を行ないます。 G科目. 対面",
     "1.0"
   ],
   "33K3012": [
@@ -76219,8 +76307,8 @@
     "基礎フランス語AII",
     "秋ABC",
     "火3",
-    " ",
-    "社会・国際・資源・情報・総学6組対象(学籍番号末尾偶数) 主に日本語で授業を行ないます。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "1B202",
+    "社会・国際・資源・情報・総学6組対象(学籍番号末尾偶数) 主に日本語で授業を行ないます。 G科目. 対面",
     "1.0"
   ],
   "33L1012": [
@@ -76267,8 +76355,8 @@
     "基礎フランス語BII",
     "秋ABC",
     "火4",
-    " ",
-    "教育・心理・障害・知識・体育2、総学5組対象（学籍番号末尾偶数） 「基礎フランス語BII」は選択・自由科目だが、「基礎フランス語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。主にフランス語で授業を行ないます。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "CA307",
+    "教育・心理・障害・知識・体育2、総学5組対象（学籍番号末尾偶数） 「基礎フランス語BII」は選択・自由科目だが、「基礎フランス語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。主にフランス語で授業を行ないます。 G科目. 対面",
     "1.0"
   ],
   "33L6012": [
@@ -76787,16 +76875,16 @@
     "ロシア語圏の言語と文化B",
     "秋ABC",
     "火5",
-    " ",
-    "選択・自由科目。主として人文・比文・日日・情報・医学対象。「ロシア語圏の言語と文化A」の履修者に限る。主にロシア語で授業を行います。英語での対応可能。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "2B406",
+    "選択・自由科目。主として人文・比文・日日・情報・医学対象。「ロシア語圏の言語と文化A」の履修者に限る。主にロシア語で授業を行います。英語での対応可能。 G科目. 対面",
     "1.0"
   ],
   "3554212": [
     "ロシア語圏の言語と文化B",
     "秋ABC",
     "火6",
-    " ",
-    "選択・自由科目。主として国際・生物・地球・応理・工シス・看護対象。「ロシア語圏の言語と文化A」の履修者に限る。主に日本語で授業を行います。英語での対応可能。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "2B406",
+    "選択・自由科目。主として国際・生物・地球・応理・工シス・看護対象。「ロシア語圏の言語と文化A」の履修者に限る。主に日本語で授業を行います。英語での対応可能。 G科目. 対面",
     "1.0"
   ],
   "3554412": [
@@ -76827,8 +76915,8 @@
     "応用ロシア語会話B",
     "秋ABC",
     "金3",
-    " ",
-    "全学群対象。「ロシア語基礎」A及びBの履修者に限る。ロシア語で授業。英語での対応も可能。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "2B406",
+    "全学群対象。「ロシア語基礎」A及びBの履修者に限る。ロシア語で授業。英語での対応も可能。 G科目. 対面",
     "1.0"
   ],
   "35H1012": [
@@ -76915,24 +77003,24 @@
     "基礎ロシア語AII",
     "秋ABC",
     "水2",
-    " ",
-    "主として人文・応理・工シス対象。他学群・学類の学生も可。主に日本語で授業。英語での対応も可能。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "2B406",
+    "主として人文・応理・工シス対象。他学群・学類の学生も可。主に日本語で授業。英語での対応も可能。 G科目. 対面",
     "1.0"
   ],
   "35K2012": [
     "基礎ロシア語AII",
     "秋ABC",
     "水1",
-    " ",
-    "主として比文・日日・社工・体育1対象。他学群・学類の学生も可。主に日本語で授業。英語での対応も可能。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "2B406",
+    "主として比文・日日・社工・体育1対象。他学群・学類の学生も可。主に日本語で授業。英語での対応も可能。 G科目. 対面",
     "1.0"
   ],
   "35K3012": [
     "基礎ロシア語AII",
     "秋ABC",
     "木2",
-    " ",
-    "主として生物・地球・数学・物理・化学・創成対象。他学群・学類の学生も可。主に日本語で授業。英語での対応も可能。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "2B406",
+    "主として生物・地球・数学・物理・化学・創成対象。他学群・学類の学生も可。主に日本語で授業。英語での対応も可能。 G科目. 対面",
     "1.0"
   ],
   "35K5012": [
@@ -76947,48 +77035,48 @@
     "基礎ロシア語AII",
     "秋ABC",
     "火3",
-    " ",
-    "主として社会・国際・資源・情報対象。他学群・学類の学生も可。主に日本語で授業。英語での対応も可能。。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "2B406",
+    "主として社会・国際・資源・情報対象。他学群・学類の学生も可。主に日本語で授業。英語での対応も可能。。 G科目. 対面",
     "1.0"
   ],
   "35L1012": [
     "基礎ロシア語BII",
     "秋ABC",
     "月3",
-    " ",
-    "主として人文・応理・工シス対象。他学群・学類の学生も可。「基礎ロシア語BII」は選択・自由科目だが、「基礎ロシア語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。ロシア語で授業。英語での説明も行う。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "2B406",
+    "主として人文・応理・工シス対象。他学群・学類の学生も可。「基礎ロシア語BII」は選択・自由科目だが、「基礎ロシア語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。ロシア語で授業。英語での説明も行う。 G科目. 対面",
     "1.0"
   ],
   "35L2012": [
     "基礎ロシア語BII",
     "秋ABC",
     "月4",
-    " ",
-    "主として比文・日日・社工・体育1対象。他学群・学類の学生も可。「基礎ロシア語BII」は選択・自由科目だが、「基礎ロシア語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。ロシア語で授業。英語での説明も行う。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "2B406",
+    "主として比文・日日・社工・体育1対象。他学群・学類の学生も可。「基礎ロシア語BII」は選択・自由科目だが、「基礎ロシア語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。ロシア語で授業。英語での説明も行う。 G科目. 対面",
     "1.0"
   ],
   "35L3012": [
     "基礎ロシア語BII",
     "秋ABC",
     "月5",
-    " ",
-    "主として生物・地球・数学・物理・化学・創成対象。他学群・学類の学生も可。「基礎ロシア語BII」は選択・自由科目だが、「基礎ロシア語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。ロシア語で授業。英語での説明も行う。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "2B406",
+    "主として生物・地球・数学・物理・化学・創成対象。他学群・学類の学生も可。「基礎ロシア語BII」は選択・自由科目だが、「基礎ロシア語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。ロシア語で授業。英語での説明も行う。 G科目. 対面",
     "1.0"
   ],
   "35L5012": [
     "基礎ロシア語BII",
     "秋ABC",
     "火4",
-    " ",
-    "主として教育・心理・障害・知識・体育2対象。他学群・学類の学生も可。「基礎ロシア語BII」は選択・自由科目だが、「基礎ロシア語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。ロシア語で授業。英語での説明も行う。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "2B406",
+    "主として教育・心理・障害・知識・体育2対象。他学群・学類の学生も可。「基礎ロシア語BII」は選択・自由科目だが、「基礎ロシア語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。ロシア語で授業。英語での説明も行う。 G科目. 対面",
     "1.0"
   ],
   "35L6012": [
     "基礎ロシア語BII",
     "秋ABC",
     "金2",
-    " ",
-    "主として社会・国際・資源・情報対象。他学群・学類の学生も可。「基礎ロシア語BII」は選択・自由科目だが、「基礎ロシア語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。ロシア語で授業。英語での説明も行う。 G科目. その他の実施形態 原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。",
+    "2B406",
+    "主として社会・国際・資源・情報対象。他学群・学類の学生も可。「基礎ロシア語BII」は選択・自由科目だが、「基礎ロシア語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。ロシア語で授業。英語での説明も行う。 G科目. 対面",
     "1.0"
   ],
   "3651112": [
@@ -79900,7 +79988,7 @@
     "秋学期",
     "随時",
     " ",
-    "時差があるため、講義時間は柔軟に設定する。 オンライン(オンデマンド型)",
+    "時差があるため、講義時間は柔軟に設定する。 対面 時差があるため、講義時間は柔軟に設定する。",
     "1.0"
   ],
   "8200203": [
@@ -79908,7 +79996,7 @@
     "春A 春B 春C 秋ABC",
     "火6 集中 集中 月6",
     "3L202",
-    "つくばロボットコンテスト'93?'21履修者も履修可。ただし,3単位までとする。 7/12,19,26,8/2,9 その他の実施形態 全回の授業を対面で実施する。希望者多数で定員を超えた場合は人数制限をすることがあります。",
+    "つくばロボットコンテスト'93?'21履修者も履修可。ただし,3単位までとする。 7/12,19,26,8/2,9 その他の実施形態 オンライン対面併用（対面1/2以上）。希望者多数で定員を超えた場合は人数制限をすることがあります。",
     "1.0"
   ],
   "8202104": [
@@ -79916,7 +80004,7 @@
     "秋AB",
     "金4",
     "3L504",
-    "8202003 コンテンツ表現工学の単位を修得した学生は履修不可。希望者多数で定員を超えた場合は，人数制限をすることがあります。 その他の実施形態 オンライン（オンデマンド型），オンライン（同時双方向型），対面を併用．詳細はmanaba等で周知する．",
+    "8202003 コンテンツ表現工学の単位を修得した学生は履修不可。希望者多数で定員を超えた場合は，人数制限をすることがあります。 その他の実施形態 オンライン対面併用（対面1/2未満）",
     "1.0"
   ],
   "8204004": [
@@ -80115,7 +80203,7 @@
     "情報と職業",
     "秋AB",
     "月2",
-    "7A102,7A205",
+    "7A102",
     "免許教科「情報」に対応する。 西暦偶数年度開講。 対面",
     "1.0"
   ],
@@ -80556,7 +80644,7 @@
     "秋AB",
     "水2",
     "1C310",
-    "対面 授業形態（オンライン・対面など）については、開講1週間前までに、manabaで通知する。",
+    "対面 (注意) 第5～9回は1C310教室での対面講義、第1～4回および第10回はTeamsによる対話型のオンライン形式を予定しているが、開講1週間前までに、manabaで正式通知する。",
     "1.0"
   ],
   "9435001": [
@@ -81225,10 +81313,10 @@
   ],
   "9604121": [
     "教育課程編成論",
-    "秋C春季休業中",
+    "秋C",
     "集中",
     " ",
-    "オンライン(オンデマンド型)",
+    "1/7-9 オンライン(オンデマンド型)",
     "1.0"
   ],
   "9604201": [
@@ -83812,7 +83900,7 @@
     "秋AB",
     "火4",
     " ",
-    "対面 (注意) 第1～5回は1C306教室での対面講義、第6～10回はTeamsによる対話型のオンライン形式を予定しているが、 開講1週間前までに、manabaで正式通知する。",
+    "対面 (注意) 第1～5回は1C306教室での対面講義、第6～10回はTeamsによる対話型のオンライン形式を予定しているが、開講1週間前までに、manabaで正式通知する。",
     "1.0"
   ],
   "AB92C43": [
@@ -84148,7 +84236,7 @@
     "秋AB",
     "月4",
     " ",
-    "西暦偶数年度開講。",
+    "西暦偶数年度開講。 対面",
     "1.0"
   ],
   "AB94A32": [
@@ -84364,7 +84452,7 @@
     "秋AB",
     "金3",
     " ",
-    "西暦偶数年度開講。 オンライン(同時双方向型) 状況によっては対面に変更する可能性があります。",
+    "西暦偶数年度開講。 対面",
     "1.0"
   ],
   "AB97B81": [
@@ -84516,7 +84604,7 @@
     "春C秋A",
     "木4",
     " ",
-    "ロシア語で授業。 オンライン(同時双方向型) 状況によっては対面に変更する可能性があります。",
+    "ロシア語で授業。 対面",
     "1.0"
   ],
   "AB98F62": [
@@ -84524,7 +84612,7 @@
     "秋BC",
     "木4",
     " ",
-    "ロシア語で授業。 オンライン(同時双方向型) 状況によっては対面に変更する可能性があります。",
+    "ロシア語で授業。 対面",
     "1.0"
   ],
   "AB98G12": [
@@ -84556,7 +84644,7 @@
     "春C秋A",
     "木3",
     " ",
-    "ロシア語で授業。 オンライン(同時双方向型) 状況によっては対面に変更する可能性があります。",
+    "ロシア語で授業。 対面",
     "1.0"
   ],
   "AB98G62": [
@@ -84564,7 +84652,7 @@
     "秋BC",
     "木3",
     " ",
-    "ロシア語で授業。 オンライン(同時双方向型) 状況によっては対面に変更する可能性があります。",
+    "ロシア語で授業。 対面",
     "1.0"
   ],
   "AB99A31": [
@@ -86819,7 +86907,7 @@
     "日本語コーパス分析",
     "秋AB",
     "火2",
-    "2G305,2D203-204",
+    "2G305,2D202-203",
     "2018年度以前の日本語・日本文化学類入学者はAE11に相当。 対面",
     "1.0"
   ],
@@ -86955,7 +87043,7 @@
     "コーパス言語学実習",
     "秋AB",
     "木3 応談",
-    "2D203-204",
+    "2D202-203",
     "2018年度以前の日本語・日本文化学類入学者はAE11に相当。 対面 日本語・日本文化学類正規生に限る。",
     "1.0"
   ],
@@ -87257,9 +87345,9 @@
   ],
   "AE14A42": [
     "日本語・日本文化共同研究IV",
-    "秋AB",
+    "秋A 秋B",
     "集中",
-    " ",
+    "2G407",
     "2018年度以前の日本語・日本文化学類入学者はAE12に相当。交通費・見学入館料・食事代などは自己負担とする。 履修希望者多数の場合は人数制限を行う(25名程度)。事前学習、現地見学合わせて土日に3日間の予定で開講する。 10/9,11/13,11/23 G科目. 対面",
     "1.0"
   ],
@@ -97291,8 +97379,8 @@
     "Physics",
     "秋AB",
     "木4",
-    " ",
-    "英語で授業。 オンライン(オンデマンド型)",
+    "2C101",
+    "英語で授業。 対面",
     "1.0"
   ],
   "EG02021": [
@@ -97300,7 +97388,7 @@
     "秋AB",
     "金5",
     " ",
-    "英語で授業。 オンライン(同時双方向型)",
+    "英語で授業。 対面",
     "1.0"
   ],
   "EG02031": [
@@ -97628,7 +97716,7 @@
     "秋AB",
     "木2",
     " ",
-    "西暦偶数年度開講。 英語で授業。 その他の実施形態",
+    "西暦偶数年度開講。 英語で授業。 オンライン(オンデマンド型) Not offered from 2023",
     "1.0"
   ],
   "EG60071": [
@@ -98308,7 +98396,7 @@
     "秋B",
     "集中",
     "3L202",
-    "理工学群対象。 12/3,12/10,12/17 その他の実施形態 平成23年度のFG06501,平成22年度以前のFG00501と同一。世話人:黒田 実施方法は掲示等で周知する。",
+    "理工学群対象。 12/3,12/10,12/17 対面 平成23年度のFG06501,平成22年度以前のFG00501と同一。世話人:黒田。",
     "1.0"
   ],
   "FA01111": [
@@ -98604,7 +98692,7 @@
     "秋AB",
     "金3",
     "1H101",
-    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.応用理工学類(学籍番号奇数)の学生はこのクラスを受講すること.※解析学IB(FF17214,FF17224),解析学I(FG10314,FG10324),微積分II(FH60541,FH60551)の単位を取得している者は履修できない. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.応用理工学類(学籍番号奇数)の学生はこのクラスを受講すること.※解析学IB(FF17214,FF17224),解析学I(FG10314,FG10324),微積分II(FH60541,FH60551)の単位を取得している者は履修できない. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01421": [
@@ -98612,7 +98700,7 @@
     "秋AB",
     "金3",
     "1H101",
-    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.応用理工学類(学籍番号偶数)の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.応用理工学類(学籍番号偶数)の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01431": [
@@ -98620,7 +98708,7 @@
     "秋AB",
     "金3",
     "3A209",
-    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.工学システム学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.工学システム学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01441": [
@@ -98628,7 +98716,7 @@
     "秋AB",
     "金3",
     "3A202",
-    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.工学システム学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.工学システム学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01451": [
@@ -98636,7 +98724,7 @@
     "秋AB",
     "金3",
     "3A416",
-    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.社会工学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.社会工学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01461": [
@@ -98644,7 +98732,7 @@
     "秋AB",
     "金3",
     "3A203",
-    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.社会工学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.社会工学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA014C1": [
@@ -98652,7 +98740,7 @@
     "秋AB",
     "金3",
     "1H201",
-    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA014D1": [
@@ -98660,7 +98748,7 @@
     "秋AB",
     "金3",
     "3A204",
-    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01411を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01411の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01511": [
@@ -98668,7 +98756,7 @@
     "秋C",
     "水5,金3",
     "3A204",
-    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.応用理工学類(学籍番号奇数)の学生はこのクラスを受講すること.※解析学IB(FF17214,FF17224),解析学II(FG10354,FG10364),微積分II(FH60541,FH60551)の単位を取得している者は履修できない. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.応用理工学類(学籍番号奇数)の学生はこのクラスを受講すること.※解析学IB(FF17214,FF17224),解析学II(FG10354,FG10364),微積分II(FH60541,FH60551)の単位を取得している者は履修できない. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01521": [
@@ -98676,7 +98764,7 @@
     "秋C",
     "水5,金3",
     "3A204",
-    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.応用理工学類(学籍番号偶数)の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.応用理工学類(学籍番号偶数)の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01531": [
@@ -98684,7 +98772,7 @@
     "秋C",
     "水5,金3",
     "3A308",
-    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.工学システム学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.工学システム学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01541": [
@@ -98692,7 +98780,7 @@
     "秋C",
     "水5,金3",
     "3B405",
-    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.工学システム学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.工学システム学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01551": [
@@ -98700,7 +98788,7 @@
     "秋C",
     "水5,金3",
     "3A202",
-    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.社会工学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.社会工学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01561": [
@@ -98708,7 +98796,7 @@
     "秋C",
     "水5,金3",
     "3A209",
-    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.社会工学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.社会工学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA015C1": [
@@ -98716,7 +98804,7 @@
     "秋C",
     "水5,金3",
     "1H101",
-    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA015D1": [
@@ -98724,7 +98812,7 @@
     "秋C",
     "水5,金3",
     "1H201",
-    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01511を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01511の※と同じ. 専門導入科目(事前登録対象). 対面 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01611": [
@@ -98796,7 +98884,7 @@
     "秋AB",
     "水5",
     "1H101",
-    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.応用理工学類(学籍番号奇数)の学生はこのクラスを受講すること.※線形代数IA(FF17314,FF17324),線形代数IB(FF17414,FF17424),線形代数A(FG10504,FG10514),線形代数II(FH60641,FH60651)の単位を取得している者は履修できない. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.応用理工学類(学籍番号奇数)の学生はこのクラスを受講すること.※線形代数IA(FF17314,FF17324),線形代数IB(FF17414,FF17424),線形代数A(FG10504,FG10514),線形代数II(FH60641,FH60651)の単位を取得している者は履修できない. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01721": [
@@ -98804,7 +98892,7 @@
     "秋AB",
     "水5",
     "1H101",
-    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.応用理工学類(学籍番号偶数)の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.応用理工学類(学籍番号偶数)の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01731": [
@@ -98812,7 +98900,7 @@
     "秋AB",
     "水5",
     "1H201",
-    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.工学システム学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.工学システム学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01741": [
@@ -98820,7 +98908,7 @@
     "秋AB",
     "水5",
     "3A312",
-    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.工学システム学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.工学システム学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01751": [
@@ -98828,7 +98916,7 @@
     "秋AB",
     "水5",
     "3A204",
-    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.社会工学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.社会工学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01761": [
@@ -98836,7 +98924,7 @@
     "秋AB",
     "水5",
     "3A304",
-    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.社会工学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.社会工学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA017C1": [
@@ -98844,7 +98932,7 @@
     "秋AB",
     "水5",
     "3A202",
-    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA017D1": [
@@ -98852,7 +98940,7 @@
     "秋AB",
     "水5",
     "3A403",
-    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01711を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01711の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01811": [
@@ -98860,7 +98948,7 @@
     "秋C",
     "月2,水4",
     "3A204",
-    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.応用理工学類(学籍番号奇数)の学生はこのクラスを受講すること.※線形代数IB(FF17414,FF17424),線形代数A(FG10504,FG10514),線形代数II(FH60641,FH60651)の単位を取得している者は履修できない. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.応用理工学類(学籍番号奇数)の学生はこのクラスを受講すること.※線形代数IB(FF17414,FF17424),線形代数A(FG10504,FG10514),線形代数II(FH60641,FH60651)の単位を取得している者は履修できない. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01821": [
@@ -98868,7 +98956,7 @@
     "秋C",
     "月2,水4",
     "3A204",
-    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.応用理工学類(学籍番号偶数)の学生はこのクラスを受講すること.履修条件はFA01811の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.応用理工学類(学籍番号偶数)の学生はこのクラスを受講すること.履修条件はFA01811の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01831": [
@@ -98876,7 +98964,7 @@
     "秋C",
     "月2,水4",
     "3A202",
-    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.工学システム学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01811の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.工学システム学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01811の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01841": [
@@ -98884,7 +98972,7 @@
     "秋C",
     "月2,水4",
     "3A308",
-    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.工学システム学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01811の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.工学システム学類(3,4クラス)の学生はこのクラスを受講すること.履修条件はFA01811の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01851": [
@@ -98892,7 +98980,7 @@
     "秋C",
     "月2,水4",
     "3A207",
-    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.社会工学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01811の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.社会工学類(1,2クラス)の学生はこのクラスを受講すること.履修条件はFA01811の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA01861": [
@@ -98900,7 +98988,7 @@
     "秋C",
     "月2,水4",
     "3A203",
-    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること．社会工学類（3,4クラス）の学生はこのクラスを受講すること．履修条件はFA01811の※と同じ． 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意），試験は対面を予定．実施方法ほか詳細は manaba 等で連絡する．",
+    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること．社会工学類（3,4クラス）の学生はこのクラスを受講すること．履修条件はFA01811の※と同じ． 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA018C1": [
@@ -98908,7 +98996,7 @@
     "秋C",
     "月2,水4",
     "1H101",
-    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01811の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01811の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA018D1": [
@@ -98916,7 +99004,7 @@
     "秋C",
     "月2,水4",
     "1H201",
-    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01811の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業はオンライン（オンデマンド型）＋ 一部対面（出席任意）, 試験は対面を予定. 実施方法ほか詳細は manaba 等で連絡する.",
+    "履修する学生は事前登録のメニューから科目番号FA01811を選択して登録すること.総合学域群の学生はこのクラスを受講すること.履修条件はFA01811の※と同じ. 専門導入科目(事前登録対象). その他の実施形態 授業は対面を基本としてオンライン（オンデマンド型）を併用する．試験は対面．授業・試験の実施方法ほか詳細はmanaba等で連絡する．",
     "1.0"
   ],
   "FA45124": [
@@ -99347,8 +99435,8 @@
     "代数学III",
     "夏季休業中",
     "集中",
-    " ",
-    "西暦偶数年度開講。 オンライン(オンデマンド型)",
+    "1D204",
+    "西暦偶数年度開講。 9/20,21,22,26,27 対面",
     "1.5"
   ],
   "FB14241": [
@@ -102612,7 +102700,7 @@
     "秋AB",
     "集中",
     " ",
-    "JTP only オンライン(オンデマンド型)",
+    "JTP only",
     "1.0"
   ],
   "FG06058": [
@@ -102692,7 +102780,7 @@
     "春C秋C 秋AB",
     "木2 月2",
     "3A204,3A212",
-    "必修科目。2019年度以降入学生対象。小テスト・中間試験・期末試験は原則対面で実施。 その他の実施形態 線形代数A(FG10504, FG10514), 線形代数B(FG10524, FG10534)の単位を取得した者は履修不可。",
+    "必修科目。2019年度以降入学生対象。小テスト・中間試験・期末試験は原則対面で実施。 その他の実施形態 オンライン対面併用（対面1/2未満）。線形代数A(FG10504, FG10514), 線形代数B(FG10524, FG10534)の単位を取得した者は履修不可。",
     "2.0"
   ],
   "FG10744": [
@@ -102732,7 +102820,7 @@
     "秋AB",
     "木1,2",
     "3A402",
-    "必修科目。2019年度以降入学生対象(2年1,2クラス)。 その他の実施形態 複素解析(FG20144, FG30144), 複素関数I (FG40144, FG50144), 複素関数II (FG44131, FG54131)の単位取得者は履修不可. ハイブリッド（対面と双方向オンライン）。",
+    "必修科目。2019年度以降入学生対象(2年1,2クラス)。 その他の実施形態 オンライン対面併用（対面1/2以上）。複素解析(FG20144, FG30144), 複素関数I (FG40144, FG50144), 複素関数II (FG44131, FG54131)の単位取得者は履修不可. ",
     "2.0"
   ],
   "FG10794": [
@@ -102828,7 +102916,7 @@
     "秋AB",
     "金1,2",
     "3L202",
-    "2019年度以降入学者はFG11011で，2018年度以前入学者は所属主専攻の科目番号で 履修登録すること。計測工学(FG41231,FG51231)単位修得者は履修不可。 FG21271, FG31271, FG41241, FG51241と同一。 オンライン(オンデマンド型)",
+    "2019年度以降入学者はFG11011で，2018年度以前入学者は所属主専攻の科目番号で 履修登録すること。計測工学(FG41231,FG51231)単位修得者は履修不可。 FG21271, FG31271, FG41241, FG51241と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG12011": [
@@ -102836,7 +102924,7 @@
     "秋AB",
     "水1,2",
     "3L201",
-    "オンライン(同時双方向型)",
+    "その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG12021": [
@@ -102892,7 +102980,7 @@
     "春学期 秋ABC",
     "集中",
     " ",
-    "ARE(先導的研究者体験プログラム)採択者。 5/18-23,5/25-6/22,7/6,8/17，9/28,11/29,11/30,1/13-16 オンライン(オンデマンド型)",
+    "ARE(先導的研究者体験プログラム)採択者。 5/18-23,5/25-6/22,7/6,8/17，9/28,11/29,11/30,1/13-16 その他の実施形態 オンライン対面併用（対面1/2未満）",
     "1.0"
   ],
   "FG16596": [
@@ -102900,7 +102988,7 @@
     "通年",
     "随時",
     " ",
-    "TOEFLまたはTOEICのスコアがあることが望ましい。 その他の実施形態 PBL形式のため，製作はオンサイトで行う．海外短期派遣留学についてはCovid-19の状況を鑑みて判断する． ",
+    "TOEFLまたはTOEICのスコアがあることが望ましい。 その他の実施形態 オンライン対面併用（対面1/2以上）．PBL形式のため，製作はオンサイトで行う．海外短期派遣留学についてはCovid-19の状況を鑑みて判断する． ",
     "2.0"
   ],
   "FG17011": [
@@ -102908,7 +102996,7 @@
     "秋BC",
     "木5,6",
     "3L201",
-    "2019年度以降入学者はFG17011で。2018年度以前入学者は所属主専攻の科目番号で履修登録すること。2018年度以前入学の知的工学システム，機能工学システム主専攻の必修科目。 FG20151, FG30151, FG44331, FG54331と同一。 オンライン(オンデマンド型)",
+    "2019年度以降入学者はFG17011で。2018年度以前入学者は所属主専攻の科目番号で履修登録すること。2018年度以前入学の知的工学システム，機能工学システム主専攻の必修科目。 FG20151, FG30151, FG44331, FG54331と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG17031": [
@@ -102972,7 +103060,7 @@
     "秋ABC",
     "随時",
     " ",
-    "早期卒業生対象 その他の実施形態 実施形態は指導教員と相談すること．",
+    "早期卒業生対象",
     "4.0"
   ],
   "FG19358": [
@@ -102996,7 +103084,7 @@
     "秋BC",
     "木5,6",
     "3L201",
-    "2019年度以降入学者はFG17011で。2018年度以前入学者は所属主専攻の科目番号で履修登録すること。2018年度以前入学の知的工学システム，機能工学システム主専攻の必修科目。 FG17011, FG30151, FG44331, FG54331と同一。 オンライン(オンデマンド型)",
+    "2019年度以降入学者はFG17011で。2018年度以前入学者は所属主専攻の科目番号で履修登録すること。2018年度以前入学の知的工学システム，機能工学システム主専攻の必修科目。 FG17011, FG30151, FG44331, FG54331と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG20184": [
@@ -103028,7 +103116,7 @@
     "秋C",
     "金1,2",
     "3L504",
-    "FG30214と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. オンライン(オンデマンド型) 工学システム学類生に限る。",
+    "FG30214と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. 対面 工学システム学類生に限る。",
     "1.0"
   ],
   "FG20222": [
@@ -103036,7 +103124,7 @@
     "秋AB",
     "金4",
     "3A202",
-    "2019年度以降入学生対象。 2019年度以降入学生の主専攻必修科目。 FG30222と同一。 その他の実施形態 基本オンライン（オンデマンド）、一部オンライン（同時双方向型）で実施を予定",
+    "2019年度以降入学生対象。 2019年度以降入学生の主専攻必修科目。 FG30222と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "1.0"
   ],
   "FG20232": [
@@ -103052,7 +103140,7 @@
     "秋BC",
     "水3,4",
     "3L201",
-    "FG31261, FG41641, FG51641と同一。 オンライン(オンデマンド型) 機械設計工学(FG41621, FG51621)履修者は履修不可。",
+    "FG31261, FG41641, FG51641と同一。 対面 機械設計工学(FG41621, FG51621)履修者は履修不可。",
     "2.0"
   ],
   "FG21271": [
@@ -103060,7 +103148,7 @@
     "秋AB",
     "金1,2",
     "3L202",
-    "2019年度以降入学者はFG11011で，2018年度以前入学者は所属主専攻の科目番号で 履修登録すること。計測工学(FG41231,FG51231)単位修得者は履修不可。 FG11011, FG31271, FG41241, FG51241と同一。 オンライン(オンデマンド型)",
+    "2019年度以降入学者はFG11011で，2018年度以前入学者は所属主専攻の科目番号で 履修登録すること。計測工学(FG41231,FG51231)単位修得者は履修不可。 FG11011, FG31271, FG41241, FG51241と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG21311": [
@@ -103084,7 +103172,7 @@
     "秋BC",
     "火3,4",
     "3A402",
-    "FG31331, FG41581, FG51581と同一。 オンライン(オンデマンド型)",
+    "FG31331, FG41581, FG51581と同一。 対面",
     "2.0"
   ],
   "FG22291": [
@@ -103092,7 +103180,7 @@
     "秋AB",
     "水5,6",
     "3L504",
-    "メカトロニクス材料概論(FG22281,FG32281),メカトロニクス機構学FG21281,FG31281)履修者は履修不可。 FG32291と同一。 その他の実施形態 対面（3L504のみで可）＋オンライン（同時双方向）",
+    "メカトロニクス材料概論(FG22281,FG32281),メカトロニクス機構学FG21281,FG31281)履修者は履修不可。 FG32291と同一。 対面",
     "2.0"
   ],
   "FG22301": [
@@ -103108,7 +103196,7 @@
     "秋AB",
     "火5,6",
     "3L201",
-    "FG33381と同一。 オンライン(同時双方向型)",
+    "FG33381と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG23411": [
@@ -103124,7 +103212,7 @@
     "秋AB",
     "集中",
     "3A209",
-    "FG33471と同一。 10/31,11/14,11/21,12/5,12/12 オンライン(オンデマンド型) 世話人：古賀",
+    "FG33471と同一。 10/31,11/14,11/21,12/5,12/12 対面 世話人：古賀",
     "1.0"
   ],
   "FG24211": [
@@ -103140,7 +103228,7 @@
     "秋AB",
     "火1,2",
     "3L202",
-    "FG34221と同一。 オンライン(オンデマンド型)",
+    "FG34221と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG24241": [
@@ -103148,7 +103236,7 @@
     "秋AB",
     "火3,4",
     "3A304",
-    "FG34241と同一。 オンライン(オンデマンド型)",
+    "FG34241と同一。 対面",
     "2.0"
   ],
   "FG24284": [
@@ -103164,7 +103252,7 @@
     "秋AB",
     "水3,4",
     "3A207",
-    "FG34301と同一。 その他の実施形態 森田担当分の講義は、オンライン(オンデマンド)で実施する。 澁谷担当分について、対面授業の実施を検討する。",
+    "FG34301と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG24331": [
@@ -103196,7 +103284,7 @@
     "秋AB",
     "月1,2",
     "3L202,3L504",
-    "FG34371と同一。 実務経験教員. オンライン(オンデマンド型)",
+    "FG34371と同一。 実務経験教員. その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG24381": [
@@ -103220,7 +103308,7 @@
     "秋BC",
     "金3,4",
     "3L201",
-    "FG34421と同一。 オンライン(オンデマンド型)",
+    "FG34421と同一。 対面",
     "2.0"
   ],
   "FG24434": [
@@ -103228,7 +103316,7 @@
     "秋AB",
     "火1,2",
     "3A312",
-    "FG34434と同一。 実務経験教員. オンライン(オンデマンド型)",
+    "FG34434と同一。 実務経験教員. 対面",
     "2.0"
   ],
   "FG24481": [
@@ -103260,7 +103348,7 @@
     "秋AB",
     "金3,4",
     "3B202",
-    "FG34741と同一。 オンライン(オンデマンド型)",
+    "FG34741と同一。 その他の実施形態 オンライン対面併用（対面1/2未満）",
     "2.0"
   ],
   "FG24781": [
@@ -103284,7 +103372,7 @@
     "秋AB",
     "水5,6",
     "3A301",
-    "FG35381と同一。 実務経験教員. オンライン(オンデマンド型) 一部双方向で実施",
+    "FG35381と同一。 実務経験教員. 対面",
     "2.0"
   ],
   "FG25371": [
@@ -103300,7 +103388,7 @@
     "秋BC",
     "水1,2",
     "3L504",
-    "FG35374, FG35904と同一。 実務経験教員. オンライン(オンデマンド型)",
+    "FG35374, FG35904と同一。 実務経験教員. その他の実施形態 オンライン対面併用（対面1/2未満）",
     "2.0"
   ],
   "FG25391": [
@@ -103308,7 +103396,7 @@
     "秋ABC",
     "集中",
     " ",
-    "FG35391と同一。 その他の実施形態 対面またはオンライン（オンデマンド型）で開講",
+    "FG35391と同一。 オンライン(オンデマンド型)",
     "1.0"
   ],
   "FG25401": [
@@ -103316,7 +103404,7 @@
     "秋ABC",
     "集中",
     " ",
-    "FG35401と同一。 その他の実施形態 対面またはオンライン（オンデマンド型）で開講",
+    "FG35401と同一。 オンライン(オンデマンド型)",
     "1.0"
   ],
   "FG29173": [
@@ -103324,7 +103412,7 @@
     "春ABC 秋ABC",
     "火3-5 木3-5",
     " ",
-    "2018年度以前入学者対象。工学システム学類生に限る。 FG39173と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. その他の実施形態 対面を基本とするが、実験室の収容人数が足りないテーマはオンライン（双方向同時とオンデマンドの組み合わせ） 世話人:矢野。",
+    "2018年度以前入学者対象。工学システム学類生に限る。 FG39173と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. 対面 世話人:矢野。",
     "4.5"
   ],
   "FG29183": [
@@ -103332,7 +103420,7 @@
     "秋ABC",
     "金5,6",
     " ",
-    "2018年度以前入学者対象。工学システム学類生に限る。 FG39183と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること 対面を基本とするが、実験室の収容人数が足りないテーマはオンライン（双方向同時とオンデマンドの組み合わせ） 世話人:矢野",
+    "2018年度以前入学者対象。工学システム学類生に限る。 FG39183と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. 対面 世話人:矢野",
     "1.5"
   ],
   "FG29193": [
@@ -103356,7 +103444,7 @@
     "春ABC 秋ABC",
     "火3-5 木3-5,金5,6",
     " ",
-    "2019年度以降入学者対象。工学システム学類生に限る。 FG39213と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. その他の実施形態 6テーマのうち、5テーマを対面、1テーマはハイブリッド。詳細はmanabaを参照。世話人:矢野。",
+    "2019年度以降入学者対象。工学システム学類生に限る。 FG39213と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. 対面 世話人:矢野。",
     "6.0"
   ],
   "FG29948": [
@@ -103372,7 +103460,7 @@
     "秋ABC",
     "随時",
     " ",
-    "FG39958, FG49958, FG59958と同一。 主専攻必修科目. その他の実施形態 (本科目または卒業研究bを履修) 実施形態は指導教員と相談すること．",
+    "FG39958, FG49958, FG59958と同一。 主専攻必修科目. 対面 (本科目または卒業研究bを履修) ",
     "4.0"
   ],
   "FG29968": [
@@ -103380,7 +103468,7 @@
     "秋ABC",
     "随時",
     " ",
-    "学類長が認めたもの。 FG39968, FG49968, FG59968と同一。 主専攻必修科目. その他の実施形態 (本科目または卒業研究Aを履修) 実施形態は指導教員と相談すること．",
+    "学類長が認めたもの。 FG39968, FG49968, FG59968と同一。 主専攻必修科目. 対面 (本科目または卒業研究Aを履修)",
     "4.0"
   ],
   "FG29978": [
@@ -103404,7 +103492,7 @@
     "秋BC",
     "木5,6",
     "3L201",
-    "2019年度以降入学者はFG17011で。2018年度以前入学者は所属主専攻の科目番号で履修登録すること。2018年度以前入学の知的工学システム，機能工学システム主専攻の必修科目。 FG17011, FG20151, FG44331, FG54331と同一。 オンライン(オンデマンド型)",
+    "2019年度以降入学者はFG17011で。2018年度以前入学者は所属主専攻の科目番号で履修登録すること。2018年度以前入学の知的工学システム，機能工学システム主専攻の必修科目。 FG17011, FG20151, FG44331, FG54331と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG30184": [
@@ -103436,7 +103524,7 @@
     "秋C",
     "金1,2",
     "3L504",
-    "FG20214と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. オンライン(オンデマンド型) 工学システム学類生に限る。",
+    "FG20214と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. 対面 工学システム学類生に限る。",
     "1.0"
   ],
   "FG30222": [
@@ -103444,7 +103532,7 @@
     "秋AB",
     "金4",
     "3A202",
-    "2019年度以降入学生対象。 2019年度以降入学生の主専攻必修科目。 FG20222と同一。 その他の実施形態 基本オンライン（オンデマンド）、一部オンライン（同時双方向型）で実施を予定",
+    "2019年度以降入学生対象。 2019年度以降入学生の主専攻必修科目。 FG20222と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "1.0"
   ],
   "FG30232": [
@@ -103460,7 +103548,7 @@
     "秋BC",
     "水3,4",
     "3L201",
-    "FG21261, FG41641, FG51641と同一。 オンライン(オンデマンド型) 機械設計工学(FG41621, FG51621)履修者は履修不可。",
+    "FG21261, FG41641, FG51641と同一。 対面 機械設計工学(FG41621, FG51621)履修者は履修不可。",
     "2.0"
   ],
   "FG31271": [
@@ -103468,7 +103556,7 @@
     "秋AB",
     "金1,2",
     "3L202",
-    "2019年度以降入学者はFG11011で，2018年度以前入学者は所属主専攻の科目番号で 履修登録すること。計測工学(FG41231,FG51231)単位修得者は履修不可。 FG11011, FG21271, FG41241, FG51241と同一。 オンライン(オンデマンド型)",
+    "2019年度以降入学者はFG11011で，2018年度以前入学者は所属主専攻の科目番号で 履修登録すること。計測工学(FG41231,FG51231)単位修得者は履修不可。 FG11011, FG21271, FG41241, FG51241と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG31311": [
@@ -103492,7 +103580,7 @@
     "秋BC",
     "火3,4",
     "3A402",
-    "FG21331, FG41581, FG51581と同一。 オンライン(オンデマンド型)",
+    "FG21331, FG41581, FG51581と同一。 対面",
     "2.0"
   ],
   "FG32291": [
@@ -103500,7 +103588,7 @@
     "秋AB",
     "水5,6",
     "3L504",
-    "メカトロニクス材料概論(FG22281,FG32281),メカトロニクス機構学FG21281,FG31281)履修者は履修不可。 FG22291と同一。 その他の実施形態 対面（3L504のみで可）＋オンライン（同時双方向）",
+    "メカトロニクス材料概論(FG22281,FG32281),メカトロニクス機構学FG21281,FG31281)履修者は履修不可。 FG22291と同一。 対面",
     "2.0"
   ],
   "FG32301": [
@@ -103516,7 +103604,7 @@
     "秋AB",
     "火5,6",
     "3L201",
-    "FG23381と同一。 オンライン(同時双方向型)",
+    "FG23381と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG33411": [
@@ -103532,7 +103620,7 @@
     "秋AB",
     "集中",
     "3A209",
-    "FG23471と同一。 10/31,11/14,11/21,12/5,12/12 オンライン(オンデマンド型) 世話人：古賀",
+    "FG23471と同一。 10/31,11/14,11/21,12/5,12/12 対面 世話人：古賀",
     "1.0"
   ],
   "FG34211": [
@@ -103548,7 +103636,7 @@
     "秋AB",
     "火1,2",
     "3L202",
-    "FG24221と同一。 オンライン(オンデマンド型)",
+    "FG24221と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG34241": [
@@ -103556,7 +103644,7 @@
     "秋AB",
     "火3,4",
     "3A304",
-    "FG24241と同一。 オンライン(オンデマンド型)",
+    "FG24241と同一。 対面",
     "2.0"
   ],
   "FG34284": [
@@ -103572,7 +103660,7 @@
     "秋AB",
     "水3,4",
     "3A207",
-    "FG24301と同一。 その他の実施形態 森田担当分の講義は、オンライン(オンデマンド)で実施する。 澁谷担当分について、対面授業の実施を検討する。",
+    "FG24301と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG34331": [
@@ -103604,7 +103692,7 @@
     "秋AB",
     "月1,2",
     "3L202,3L504",
-    "FG24371と同一。 実務経験教員. オンライン(オンデマンド型)",
+    "FG24371と同一。 実務経験教員. その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG34381": [
@@ -103628,7 +103716,7 @@
     "秋BC",
     "金3,4",
     "3L201",
-    "FG24421と同一。 オンライン(オンデマンド型)",
+    "FG24421と同一。 対面",
     "2.0"
   ],
   "FG34434": [
@@ -103636,7 +103724,7 @@
     "秋AB",
     "火1,2",
     "3A312",
-    "FG24434と同一。 実務経験教員. オンライン(オンデマンド型)",
+    "FG24434と同一。 実務経験教員. 対面",
     "2.0"
   ],
   "FG34481": [
@@ -103668,7 +103756,7 @@
     "秋AB",
     "金3,4",
     "3B202",
-    "FG24741と同一。 オンライン(オンデマンド型)",
+    "FG24741と同一。 その他の実施形態 オンライン対面併用（対面1/2未満）",
     "2.0"
   ],
   "FG34781": [
@@ -103700,7 +103788,7 @@
     "秋BC",
     "水1,2",
     "3L504",
-    "FG25374, FG35904と同一。 実務経験教員. オンライン(オンデマンド型)",
+    "FG25374, FG35904と同一。 実務経験教員. その他の実施形態 オンライン対面併用（対面1/2未満）",
     "2.0"
   ],
   "FG35381": [
@@ -103708,7 +103796,7 @@
     "秋AB",
     "水5,6",
     "3A301",
-    "FG25361と同一。 実務経験教員. オンライン(オンデマンド型) 一部双方向で実施",
+    "FG25361と同一。 実務経験教員. 対面",
     "2.0"
   ],
   "FG35391": [
@@ -103716,7 +103804,7 @@
     "秋ABC",
     "集中",
     " ",
-    "FG25391と同一。 その他の実施形態 対面またはオンライン（オンデマンド型）で開講",
+    "FG25391と同一。 オンライン(オンデマンド型)",
     "1.0"
   ],
   "FG35401": [
@@ -103724,7 +103812,7 @@
     "秋ABC",
     "集中",
     " ",
-    "FG25401と同一。 その他の実施形態 対面またはオンライン（オンデマンド型）で開講",
+    "FG25401と同一。 オンライン(オンデマンド型)",
     "1.0"
   ],
   "FG35904": [
@@ -103732,7 +103820,7 @@
     "秋BC",
     "水1,2",
     "3L504",
-    "FG25374, FG35374と同一。 実務経験教員. オンライン(オンデマンド型)",
+    "FG25374, FG35374と同一。 実務経験教員. その他の実施形態 オンライン対面併用（対面1/2未満）",
     "2.0"
   ],
   "FG39173": [
@@ -103740,7 +103828,7 @@
     "春ABC 秋ABC",
     "火3-5 木3-5",
     " ",
-    "2018年度以前入学者対象。工学システム学類生に限る。 FG29173と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. その他の実施形態 対面を基本とするが、実験室の収容人数が足りないテーマはオンライン（双方向同時とオンデマンドの組み合わせ） 世話人:矢野。",
+    "2018年度以前入学者対象。工学システム学類生に限る。 FG29173と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. 対面 世話人:矢野。",
     "4.5"
   ],
   "FG39183": [
@@ -103748,7 +103836,7 @@
     "秋ABC",
     "金5,6",
     " ",
-    "2018年度以前入学者対象。工学システム学類生に限る。 FG29183と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること 対面を基本とするが、実験室の収容人数が足りないテーマはオンライン（双方向同時とオンデマンドの組み合わせ） 世話人:矢野",
+    "2018年度以前入学者対象。工学システム学類生に限る。 FG29183と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. 対面 世話人:矢野",
     "1.5"
   ],
   "FG39193": [
@@ -103772,7 +103860,7 @@
     "春ABC 秋ABC",
     "火3-5 木3-5,金5,6",
     " ",
-    "2019年度以降入学者対象。工学システム学類生に限る。 FG29213と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. その他の実施形態 6テーマのうち、5テーマを対面、1テーマはハイブリッド。詳細はmanabaを参照。世話人:矢野。",
+    "2019年度以降入学者対象。工学システム学類生に限る。 FG29213と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. 対面 世話人:矢野。",
     "6.0"
   ],
   "FG39948": [
@@ -103788,7 +103876,7 @@
     "秋ABC",
     "随時",
     " ",
-    "FG29958, FG49958, FG59958と同一。 主専攻必修科目. その他の実施形態 (本科目または卒業研究bを履修) 実施形態は指導教員と相談すること．",
+    "FG29958, FG49958, FG59958と同一。 主専攻必修科目. 対面 (本科目または卒業研究bを履修) ",
     "4.0"
   ],
   "FG39968": [
@@ -103796,7 +103884,7 @@
     "秋ABC",
     "随時",
     " ",
-    "学類長が認めたもの。 FG29968, FG49968, FG59968と同一。 主専攻必修科目. その他の実施形態 (本科目または卒業研究Aを履修) 実施形態は指導教員と相談すること．",
+    "学類長が認めたもの。 FG29968, FG49968, FG59968と同一。 主専攻必修科目. 対面 (本科目または卒業研究Aを履修)",
     "4.0"
   ],
   "FG39978": [
@@ -103812,7 +103900,7 @@
     "秋A",
     "木1,2",
     "3A402",
-    "2018年度以前入学者対象。 FG50114と同一。 主専攻必修科目。 主専攻の科目番号で履修登録し,複素解析(FG10784, FG10794)のどちらかの前半部分を受講すること. FG50114と同一。 主専攻必修科目. その他の実施形態 主専攻の科目番号で履修登録し,複素解析(FG10784, FG10794)のどちらかの前半部分を受講すること. ハイブリッド（対面と双方向オンライン）。",
+    "2018年度以前入学者対象。 FG50114と同一。 主専攻必修科目。 主専攻の科目番号で履修登録し,複素解析(FG10784, FG10794)のどちらかの前半部分を受講すること. FG50114と同一。 主専攻必修科目. その他の実施形態 主専攻の科目番号で履修登録し,複素解析(FG10784, FG10794)のどちらかの前半部分を受講すること. オンライン対面併用（対面1/2以上）",
     "1.0"
   ],
   "FG40141": [
@@ -103876,7 +103964,7 @@
     "秋AB",
     "金1,2",
     "3L202",
-    "2019年度以降入学者はFG11011で，2018年度以前入学者は所属主専攻の科目番号で 履修登録すること。計測工学(FG41231,FG51231)単位修得者は履修不可。 FG11011, FG21271, FG31271, FG51241と同一。 オンライン(オンデマンド型)",
+    "2019年度以降入学者はFG11011で，2018年度以前入学者は所属主専攻の科目番号で 履修登録すること。計測工学(FG41231,FG51231)単位修得者は履修不可。 FG11011, FG21271, FG31271, FG51241と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG41251": [
@@ -103892,7 +103980,7 @@
     "秋BC",
     "火3,4",
     "3A402",
-    "FG21331, FG31331, FG51581と同一。 オンライン(オンデマンド型)",
+    "FG21331, FG31331, FG51581と同一。 対面",
     "2.0"
   ],
   "FG41631": [
@@ -103908,7 +103996,7 @@
     "秋BC",
     "水3,4",
     "3L201",
-    "FG21261, FG31261, FG51641と同一。 オンライン(オンデマンド型) 機械設計工学(FG41621, FG51621)履修者は履修不可。",
+    "FG21261, FG31261, FG51641と同一。 対面 機械設計工学(FG41621, FG51621)履修者は履修不可。",
     "2.0"
   ],
   "FG42231": [
@@ -104004,7 +104092,7 @@
     "秋BC",
     "木5,6",
     "3L201",
-    "2019年度以降入学者はFG17011で。2018年度以前入学者は所属主専攻の科目番号で履修登録すること。2018年度以前入学の知的工学システム，機能工学システム主専攻の必修科目。 FG17011, FG20151, FG30151, FG54331と同一。 オンライン(オンデマンド型)",
+    "2019年度以降入学者はFG17011で。2018年度以前入学者は所属主専攻の科目番号で履修登録すること。2018年度以前入学の知的工学システム，機能工学システム主専攻の必修科目。 FG17011, FG20151, FG30151, FG54331と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG44354": [
@@ -104419,7 +104507,7 @@
     "エネルギー・メカニクス応用実験",
     "秋ABC",
     "木3-6",
-    "3A202,3A207,3A209,3A308",
+    "3A202,3A207,3A209,3A308,3B401,3B406",
     "2019年度以降入学者対象。工学システム学類生に限る。 FG59883と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. その他の実施形態 対面とオンライン（オンデマンド型、同時双方向型）のハイブリッド型",
     "3.0"
   ],
@@ -104436,7 +104524,7 @@
     "秋ABC",
     "随時",
     " ",
-    "FG29958, FG39958, FG59958と同一。 主専攻必修科目. その他の実施形態 (本科目または卒業研究bを履修) 実施形態は指導教員と相談すること．",
+    "FG29958, FG39958, FG59958と同一。 主専攻必修科目. 対面 (本科目または卒業研究bを履修) ",
     "4.0"
   ],
   "FG49968": [
@@ -104444,7 +104532,7 @@
     "秋ABC",
     "随時",
     " ",
-    "学類長が認めたもの。 FG29968, FG39968, FG59968と同一。 主専攻必修科目. その他の実施形態 (本科目または卒業研究Aを履修) 実施形態は指導教員と相談すること．",
+    "学類長が認めたもの。 FG29968, FG39968, FG59968と同一。 主専攻必修科目. 対面 (本科目または卒業研究Aを履修)",
     "4.0"
   ],
   "FG49978": [
@@ -104460,7 +104548,7 @@
     "秋A",
     "木1,2",
     "3A402",
-    "2018年度以前入学者対象。 FG50114と同一。 主専攻必修科目。 主専攻の科目番号で履修登録し,複素解析(FG10784, FG10794)のどちらかの前半部分を受講すること. FG40114と同一。 主専攻必修科目. その他の実施形態 主専攻の科目番号で履修登録し,複素解析(FG10784, FG10794)のどちらかの前半部分を受講すること. ハイブリッド（対面と双方向オンライン）。",
+    "2018年度以前入学者対象。 FG50114と同一。 主専攻必修科目。 主専攻の科目番号で履修登録し,複素解析(FG10784, FG10794)のどちらかの前半部分を受講すること. FG40114と同一。 主専攻必修科目. その他の実施形態 主専攻の科目番号で履修登録し,複素解析(FG10784, FG10794)のどちらかの前半部分を受講すること. オンライン対面併用（対面1/2以上）",
     "1.0"
   ],
   "FG50141": [
@@ -104524,7 +104612,7 @@
     "秋AB",
     "金1,2",
     "3L202",
-    "2019年度以降入学者はFG11011で，2018年度以前入学者は所属主専攻の科目番号で 履修登録すること。計測工学(FG41231,FG51231)単位修得者は履修不可。 FG11011, FG21271, FG31271, FG41241と同一。 オンライン(オンデマンド型)",
+    "2019年度以降入学者はFG11011で，2018年度以前入学者は所属主専攻の科目番号で 履修登録すること。計測工学(FG41231,FG51231)単位修得者は履修不可。 FG11011, FG21271, FG31271, FG41241と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG51251": [
@@ -104540,7 +104628,7 @@
     "秋BC",
     "火3,4",
     "3A402",
-    "FG21331, FG31331, FG41581と同一。 オンライン(オンデマンド型)",
+    "FG21331, FG31331, FG41581と同一。 対面",
     "2.0"
   ],
   "FG51631": [
@@ -104556,7 +104644,7 @@
     "秋BC",
     "水3,4",
     "3L201",
-    "FG21261, FG31261, FG41641と同一。 オンライン(オンデマンド型) 機械設計工学(FG41621, FG51621)履修者は履修不可。",
+    "FG21261, FG31261, FG41641と同一。 対面 機械設計工学(FG41621, FG51621)履修者は履修不可。",
     "2.0"
   ],
   "FG52261": [
@@ -104620,7 +104708,7 @@
     "秋BC",
     "木5,6",
     "3L201",
-    "2019年度以降入学者はFG17011で。2018年度以前入学者は所属主専攻の科目番号で履修登録すること。2018年度以前入学の知的工学システム，機能工学システム主専攻の必修科目。 FG17011, FG20151, FG30151, FG44331と同一。 オンライン(オンデマンド型)",
+    "2019年度以降入学者はFG17011で。2018年度以前入学者は所属主専攻の科目番号で履修登録すること。2018年度以前入学の知的工学システム，機能工学システム主専攻の必修科目。 FG17011, FG20151, FG30151, FG44331と同一。 その他の実施形態 オンライン対面併用（対面1/2以上）",
     "2.0"
   ],
   "FG54354": [
@@ -104915,7 +105003,7 @@
     "エネルギー・メカニクス応用実験",
     "秋ABC",
     "木3-6",
-    "3A202,3A207,3A209,3A308",
+    "3A202,3A207,3A209,3A308,3B401,3B406",
     "2019年度以降入学者対象。工学システム学類生に限る。 FG49883と同一。 主専攻必修科目. 所属主専攻の科目番号で履修登録すること. その他の実施形態 対面とオンライン（オンデマンド型、同時双方向型）のハイブリッド型",
     "3.0"
   ],
@@ -104932,7 +105020,7 @@
     "秋ABC",
     "随時",
     " ",
-    "FG29958, FG39958, FG49958と同一。 主専攻必修科目. その他の実施形態 (本科目または卒業研究bを履修) 実施形態は指導教員と相談すること．",
+    "FG29958, FG39958, FG49958と同一。 主専攻必修科目. 対面 (本科目または卒業研究bを履修) ",
     "4.0"
   ],
   "FG59968": [
@@ -104940,7 +105028,7 @@
     "秋ABC",
     "随時",
     " ",
-    "学類長が認めたもの。 FG29968, FG39968, FG49968と同一。 主専攻必修科目. その他の実施形態 (本科目または卒業研究Aを履修) 実施形態は指導教員と相談すること．",
+    "学類長が認めたもの。 FG29968, FG39968, FG49968と同一。 主専攻必修科目. 対面 (本科目または卒業研究Aを履修)",
     "4.0"
   ],
   "FG59978": [
@@ -105339,8 +105427,8 @@
     "数理統計学",
     "秋AB",
     "金1,2",
-    " ",
-    "数理工学モデル化エリア その他の実施形態 オンライン(オンデマンド型)＋(同時双方向型)。",
+    "3B202",
+    "数理工学モデル化エリア その他の実施形態 オンライン(オンデマンド型)＋(同時双方向型)＋対面。",
     "2.0"
   ],
   "FH34111": [
@@ -107196,7 +107284,7 @@
     "秋AB",
     "水2",
     "3A410",
-    "オンライン(オンデマンド型)",
+    "対面",
     "1.0"
   ],
   "GB31201": [
@@ -107956,7 +108044,7 @@
     "秋AB",
     "月3,4",
     "7A105",
-    "オンライン・対面併用 実務経験教員. その他の実施形態",
+    "対面 実務経験教員. 対面",
     "2.0"
   ],
   "GC51901": [
@@ -108123,7 +108211,7 @@
     "数式処理システム論",
     "秋AB",
     "木1,2",
-    "7A103",
+    "7A204",
     "オンライン・対面併用 GE72901と同一。 その他の実施形態",
     "2.0"
   ],
@@ -109083,7 +109171,7 @@
     "数式処理システム論",
     "秋AB",
     "木1,2",
-    "7A103",
+    "7A204",
     "オンライン・対面併用 GC54801と同一。 その他の実施形態",
     "2.0"
   ],
@@ -109395,7 +109483,7 @@
     "医科分子生物学",
     "秋AB",
     "火1,2",
-    "5C213,5C216,5C506",
+    " ",
     "【受入上限数220名】 専門導入科目(事前登録対象). 実務経験教員. オンライン(オンデマンド型). 対面 基本対面で実施。ただし、復習ができるようにオンライン（オンデマンド型）で配信も行う。",
     "2.0"
   ],
@@ -111444,7 +111532,7 @@
     "春BC",
     "随時",
     " ",
-    "国際医療科学主専攻G30コース学生向け。 英語で授業。 詳細後日周知 対面またはオンライン（オンデマンド型）",
+    "国際医療科学主専攻G30コース学生向け。英語での授業。詳細は後日周知。 英語で授業。 詳細後日周知. その他の実施形態",
     "1.0"
   ],
   "Q137123": [
@@ -111705,9 +111793,9 @@
   ],
   "W140242": [
     "専門語学B(英語)",
-    "春AB秋AB",
+    "春AB 秋AB",
     "月3",
-    "5C616",
+    "5C616 5C513",
     "必修 TOEIC IP受験必須 対面",
     "2.0"
   ],
@@ -112009,10 +112097,10 @@
   ],
   "W160141": [
     "コミュニティ・スポーツの経営・政策論",
-    "秋C",
-    "火3,木5",
+    "秋B",
+    "集中",
     "5C216",
-    "社会教育主事 西暦偶数年度開講。 対面",
+    "社会教育主事 西暦偶数年度開講。 12/17,12/24 対面",
     "1.0"
   ],
   "W160151": [
@@ -112044,7 +112132,7 @@
     "秋C",
     "金4,5",
     " ",
-    "オンライン(同時双方向型)",
+    "オンライン(オンデマンド型)",
     "1.0"
   ],
   "W160221": [
@@ -112179,8 +112267,8 @@
     "スポーツキャリア形成III",
     "秋AB",
     "水2",
-    " ",
-    "必修 授業の後半は、5C416,5C406,5C407に分かれる。 CDP. オンライン(オンデマンド型)",
+    "5C406,5C506",
+    "必修 授業の前半はオンデマンド、後半は5C406,5C506,オンデマンドの3クラスに分かれる。 CDP. その他の実施形態 オンデマンド，対面を併用",
     "1.0"
   ],
   "W160405": [
@@ -112203,7 +112291,7 @@
     "運動部活動の指導と経営",
     "秋B",
     "集中",
-    "5C302",
+    "5C317",
     "「教科又は教職に関する科目」に該当 11/26,11/27 対面",
     "1.0"
   ],
@@ -113444,7 +113532,7 @@
     "秋AB",
     "月4",
     " ",
-    "オンライン(同時双方向型)",
+    "オンライン(オンデマンド型)",
     "1.0"
   ],
   "W880031": [
@@ -115556,7 +115644,7 @@
     "通年",
     "随時",
     " ",
-    "美術史領域の学生に限る。 オンライン(同時双方向型)",
+    "美術史領域の学生に限る。 対面",
     "2.0"
   ],
   "Y121002": [
@@ -115708,7 +115796,7 @@
     "秋AB",
     "火1",
     "5C406",
-    "対面を予定しているが、場合によってはオンライン（オンデマンド型）の可能性もあり 対面",
+    "対面を予定しているが、場合によってはオンライン（オンデマンド型）の可能性もあり オンライン(オンデマンド型). オンライン(同時双方向型)",
     "1.0"
   ],
   "YAE1022": [
@@ -115892,7 +115980,7 @@
     "秋AB",
     "金3",
     "5C407",
-    "オンライン(オンデマンド型)",
+    "その他の実施形態 対面とオンライン（オンデマンド型）を併用する",
     "1.0"
   ],
   "YAQ1012": [
@@ -116003,7 +116091,7 @@
     "美術史概説B-2",
     "秋AB",
     "火2",
-    "5C407",
+    " ",
     "西暦偶数年度開講。 オンライン(オンデマンド型)",
     "1.0"
   ],
@@ -116020,7 +116108,7 @@
     "秋AB",
     "火2",
     "5C316",
-    "オンデマンドでも配信する オンライン(同時双方向型)",
+    "その他の実施形態 対面とオンライン(同時双方向型・オンデマンド型)を併用する",
     "1.0"
   ],
   "YBA0251": [
@@ -116116,7 +116204,7 @@
     "秋AB",
     "随時",
     " ",
-    "その他の実施形態",
+    "対面",
     "2.0"
   ],
   "YBA0942": [
@@ -116124,7 +116212,7 @@
     "秋AB",
     "随時",
     " ",
-    "その他の実施形態",
+    "対面",
     "2.0"
   ],
   "YBA9017": [
@@ -116180,7 +116268,7 @@
     "秋ABC",
     "随時",
     " ",
-    "美術史領域の学生に限る。卒業に必要な単位数の未修得分が30単位以下であること。 オンライン(同時双方向型)",
+    "美術史領域の学生に限る。卒業に必要な単位数の未修得分が30単位以下であること。 対面",
     "3.0"
   ],
   "YBB0311": [
@@ -116484,7 +116572,7 @@
     "春AB秋AB",
     "金2,3",
     "6B406",
-    "「油絵基礎技法演習」、「洋画技法論」を履修済であること。「油絵実習I-D-2」と並行履修すること。 対面とオンライン(同時双方向型・オンデマンド型)を組み合わせて実施する。 実務経験教員. その他の実施形態",
+    "「油絵基礎技法演習」、「洋画技法論」を履修済であること。「油絵実習I-D-2」と並行履修すること。 実務経験教員. 対面",
     "4.0"
   ],
   "YBC0673": [
@@ -116524,7 +116612,7 @@
     "通年",
     "随時",
     " ",
-    "洋画コース対象 実務経験教員. その他の実施形態 夏季休業中に課題制作",
+    "洋画コース対象 実務経験教員. 対面 夏季休業中に課題制作",
     "1.0"
   ],
   "YBC0913": [
@@ -116532,7 +116620,7 @@
     "通年",
     "随時",
     " ",
-    "洋画コース対象 実務経験教員. その他の実施形態 夏季休業中に課題制作",
+    "洋画コース対象 実務経験教員. 対面 夏季休業中に課題制作",
     "1.0"
   ],
   "YBC0923": [
@@ -116540,7 +116628,7 @@
     "通年",
     "随時",
     " ",
-    "洋画コース対象 実務経験教員. その他の実施形態 夏季休業中に課題制作",
+    "洋画コース対象 実務経験教員. 対面 夏季休業中に課題制作",
     "1.0"
   ],
   "YBC1013": [
@@ -116756,7 +116844,7 @@
     "秋ABC",
     "随時",
     "6A409",
-    "洋画領域の学生に限る 実務経験教員. 対面 TOEIC? IPテストの受験必須",
+    "洋画領域の学生に限る 実務経験教員. その他の実施形態 TOEIC? IPテストの受験必須. 対面とオンライン(同時双方向型)を併用する",
     "1.0"
   ],
   "YBC9047": [
@@ -116988,7 +117076,7 @@
     "通年",
     "随時",
     "アート&デザイン実習室1",
-    "日本画領域の学生に限る。 実務経験教員. その他の実施形態 指定した展覧会等を鑑賞し、作品についてレポートを提出する。",
+    "日本画領域の学生に限る。 実務経験教員. 対面 指定した展覧会等を鑑賞し、作品についてレポートを提出する。",
     "1.0"
   ],
   "YBE0402": [
@@ -117204,7 +117292,7 @@
     "秋ABC",
     "随時",
     " ",
-    "日本画領域の学生に限る 実務経験教員. 対面 TOEIC? IPテストの受験必須",
+    "日本画領域の学生に限る 実務経験教員. その他の実施形態 対面とオンライン(同時双方向型)を併用する.TOEIC? IPテストの受験必須",
     "1.0"
   ],
   "YBE9047": [
@@ -117820,7 +117908,7 @@
     "秋ABC",
     "随時",
     " ",
-    "書領域対象 西暦偶数年度開講。 その他の実施形態",
+    "書領域対象 西暦偶数年度開講。 対面",
     "1.0"
   ],
   "YBG1531": [
@@ -117964,7 +118052,7 @@
     "通年",
     "随時",
     " ",
-    "実務経験教員. その他の実施形態 検討中",
+    "実務経験教員. 対面",
     "1.0"
   ],
   "YBH0702": [
@@ -118236,7 +118324,7 @@
     "通年",
     "随時",
     " ",
-    "実務経験教員. その他の実施形態 検討中。教室の利用無し。",
+    "実務経験教員. オンライン(オンデマンド型) 教室の利用無し。",
     "1.0"
   ],
   "YBJ0701": [
@@ -118276,7 +118364,7 @@
     "通年",
     "随時",
     "5C205",
-    "実務経験教員. 対面",
+    "実務経験教員. その他の実施形態 対面とオンライン(同時双方向型)を併用する",
     "1.0"
   ],
   "YBJ9027": [
@@ -118292,7 +118380,7 @@
     "秋ABC",
     "随時",
     "5C205",
-    "総合造形領域の学生に限る 2021年度より開講 実務経験教員. 対面 TOEIC? IPテストの受験必須",
+    "総合造形領域の学生に限る 2021年度より開講 実務経験教員. その他の実施形態 対面とオンライン(同時双方向型)を併用する。TOEIC? IPテストの受験必須",
     "1.0"
   ],
   "YBJ9047": [
@@ -118300,7 +118388,7 @@
     "通年",
     "随時",
     " ",
-    "総合造形領域の学生に限る 実務経験教員. 対面",
+    "総合造形領域の学生に限る 実務経験教員. その他の実施形態 対面とオンライン(同時双方向型)を併用する",
     "1.0"
   ],
   "YBJ9057": [
@@ -118308,7 +118396,7 @@
     "通年",
     "随時",
     " ",
-    "総合造形領域の学生に限る 実務経験教員. 対面",
+    "総合造形領域の学生に限る 実務経験教員. その他の実施形態 対面とオンライン(同時双方向型)を併用する",
     "1.0"
   ],
   "YBJ9918": [
@@ -118668,7 +118756,7 @@
     "秋AB",
     "金3",
     "5C506",
-    "デザイン及び芸術表現を学ぶ学生を対象とするものであり、生理学、解剖学、医学などを専門とする学生は対象としない。 実務経験教員. オンライン(同時双方向型)",
+    "デザイン及び芸術表現を学ぶ学生を対象とするものであり、生理学、解剖学、医学などを専門とする学生は対象としない。 実務経験教員. 対面",
     "1.0"
   ],
   "YBN0112": [
@@ -118692,7 +118780,7 @@
     "秋B",
     "木4,5",
     " ",
-    "実務経験教員. その他の実施形態 対面中心として一部オンライン(同時双方向型)を組み合わせて実施",
+    "実務経験教員. 対面",
     "1.0"
   ],
   "YBN0612": [
@@ -118724,7 +118812,7 @@
     "秋A",
     "金4,5",
     " ",
-    "実務経験教員. オンライン(同時双方向型)",
+    "実務経験教員. 対面",
     "1.0"
   ],
   "YBN1362": [
@@ -118820,7 +118908,7 @@
     "秋AB",
     "木3",
     " ",
-    "2020年度までの「情報メディア論Ⅱ」に相当。旧科目履修者履修不可。総合研究棟D117で行う。 要望があれば英語で授業. 実務経験教員. その他の実施形態 対面中心として一部オンライン(同時双方向型)を組み合わせて実施",
+    "2020年度までの「情報メディア論Ⅱ」に相当。旧科目履修者履修不可。総合研究棟D117で行う。 要望があれば英語で授業. 実務経験教員. 対面",
     "1.0"
   ],
   "YBN2611": [
@@ -118852,7 +118940,7 @@
     "秋AB",
     "火3",
     "5C203",
-    "要望があれば英語で授業. その他の実施形態 ミューズガーデン及びオンライン",
+    "要望があれば英語で授業. 対面 ミューズガーデン及び5C203で実施",
     "1.0"
   ],
   "YBN2933": [
@@ -118860,7 +118948,7 @@
     "秋C",
     "応談",
     " ",
-    "実務経験教員. その他の実施形態 実習やインターンシップは、個々の学生が学外で実施する。学内の報告会は、対面とオンライン(同時双方向型・オンデマンド型)を組み合わせて実施する。",
+    "実務経験教員. 対面 実習やインターンシップは、個々の学生が学外で実施する。学内の報告会は、対面で実施する。",
     "1.0"
   ],
   "YBN2943": [
@@ -118868,7 +118956,7 @@
     "秋C",
     "応談",
     " ",
-    "実務経験教員. その他の実施形態 実習やインターンシップは、個々の学生が学外で実施する。学内の報告会は、対面とオンライン(同時双方向型・オンデマンド型)を組み合わせて実施する。",
+    "実務経験教員. 対面 実習やインターンシップは、個々の学生が学外で実施する。学内の報告会は、対面で実施する。",
     "1.0"
   ],
   "YBN2953": [
@@ -118876,7 +118964,7 @@
     "通年",
     "応談",
     " ",
-    "実習やインターンシップは、個々の学生が学外で実施する。学内の報告会は、対面とオンライン(同時双方向型・オンデマンド型)を組み合わせて実施する。 実務経験教員. その他の実施形態",
+    "実務経験教員. 対面 実習やインターンシップは、個々の学生が学外で実施する。学内の報告会は、対面で実施する。",
     "1.0"
   ],
   "YBN3372": [
@@ -118884,7 +118972,7 @@
     "秋AB",
     "火4-6",
     " ",
-    "総合研究棟D211で行う。 実務経験教員. その他の実施形態 対面とオンライン(同時双方向型・オンデマンド型)を組み合わせて実施する。",
+    "総合研究棟D211で行う。 実務経験教員. 対面",
     "3.0"
   ],
   "YBN9017": [
@@ -118924,7 +119012,7 @@
     "秋ABC",
     "随時",
     "6A302,6A303,6A308",
-    "情報・プロダクトデザイン領域の学生に限る 情報・プロダクトデザイン領域のインターンシップを1科目以上履修していること 実務経験教員",
+    "情報・プロダクトデザイン領域の学生に限る 情報・プロダクトデザイン領域のインターンシップを1科目以上履修していること 実務経験教員. その他の実施形態 対面中心として一部オンライン(同時双方向型)を組み合わせて実施",
     "1.0"
   ],
   "YBN9918": [
@@ -118980,7 +119068,7 @@
     "通年",
     "随時",
     " ",
-    "実務経験教員. オンライン(同時双方向型)",
+    "実務経験教員. 対面",
     "1.0"
   ],
   "YBP2943": [
@@ -118988,7 +119076,7 @@
     "秋ABC",
     "随時",
     " ",
-    "実務経験教員. オンライン(同時双方向型)",
+    "実務経験教員. 対面",
     "1.0"
   ],
   "YBP3301": [
@@ -119068,7 +119156,7 @@
     "秋ABC",
     "随時",
     " ",
-    "卒業に必要な単位数の未修得分が30単位以下であること。 実務経験教員. オンライン(同時双方向型)",
+    "卒業に必要な単位数の未修得分が30単位以下であること。 実務経験教員. 対面",
     "3.0"
   ],
   "YBQ0212": [
@@ -119108,7 +119196,7 @@
     "秋C",
     "木4-6,集中",
     "6A302,6A303,6A308",
-    "実務経験教員. その他の実施形態 対面とオンライン(同時双方向型)を組みあわせて実施する",
+    "実務経験教員. 対面",
     "3.0"
   ],
   "YBQ0411": [
@@ -119132,7 +119220,7 @@
     "秋ABC",
     "随時",
     " ",
-    "学外(オンサイト)とオンライン(同時双方向型)を組みあわせて実施する 実務経験教員. その他の実施形態",
+    "学外(オンサイト)とオンライン(同時双方向型)を組みあわせて実施する 実務経験教員. 対面",
     "1.0"
   ],
   "YBQ2943": [
@@ -119140,7 +119228,7 @@
     "通年",
     "随時",
     " ",
-    "実務経験教員. その他の実施形態 個々の学生が学外で実施する。",
+    "実務経験教員. 対面 個々の学生が学外で実施する。",
     "1.0"
   ],
   "YBQ3601": [
@@ -119180,7 +119268,7 @@
     "秋A",
     "金5,6",
     "5C301",
-    "実務経験教員. オンライン(オンデマンド型)",
+    "実務経験教員. その他の実施形態 対面とオンライン(オンデマンド型)を併用する",
     "1.0"
   ],
   "YBQ4061": [
@@ -119196,7 +119284,7 @@
     "秋AB",
     "月4,5",
     "5C507",
-    "実務経験教員. オンライン(オンデマンド型)",
+    "実務経験教員. その他の実施形態 対面とオンライン(オンデマンド型)を併用する",
     "2.0"
   ],
   "YBQ4202": [
@@ -119244,7 +119332,7 @@
     "秋ABC",
     "随時",
     "6A302,6A303,6A308",
-    "建築デザイン領域の学生に限る 実務経験教員",
+    "建築デザイン領域の学生に限る 実務経験教員. その他の実施形態 対面とオンラインによる同時双方向、オンデマンド型を組み合わせて実施する",
     "1.0"
   ],
   "YBQ9918": [
@@ -119260,7 +119348,7 @@
     "秋ABC",
     "随時",
     " ",
-    "卒業に必要な単位数の未修得分が30単位以下であること。 実務経験教員. 対面",
+    "卒業に必要な単位数の未修得分が30単位以下であること。 実務経験教員. その他の実施形態 対面とオンラインによる同時双方向、オンデマンド型を組み合わせて実施する",
     "3.0"
   ],
   "YBW9037": [
