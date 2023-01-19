@@ -34,3 +34,4 @@ kdb\_twinc.jsonの科目名を英語の科目名に置き換えたものです�
 このコードによるデータを使っているプログラム一覧
 * [twinc-core](https://github.com/Mimori256/twinc-core) by Mimori256
 * [scs-migration-checker](https://github.com/itsu-dev/scs-migration-checker) by itsu-dev
+* [twins2mkdir](https://github.com/yudukikun5120/twins2mkdir) by yudukikun5120
