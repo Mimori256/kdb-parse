@@ -35,3 +35,17 @@ kdb\_twinc.jsonの科目名を英語の科目名に置き換えたものです�
 * [twinc-core](https://github.com/Mimori256/twinc-core) by Mimori256
 * [scs-migration-checker](https://github.com/itsu-dev/scs-migration-checker) by itsu-dev
 * [twins2mkdir](https://github.com/yudukikun5120/twins2mkdir) by yudukikun5120
+
+## 開発
+
+1. 開発に必要なパッケージをインストールする
+
+```bash
+pip3 install -r requirements-dev.txt
+```
+
+1. [pre-commit](https://pre-commit.com/) の設定をインストールする
+
+```bash
+pre-commit install
+```
