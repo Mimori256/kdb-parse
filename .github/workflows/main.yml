@@ -29,6 +29,14 @@ jobs:
           python parse.py
           python parse_twinc.py
           python parse_twinc_en.py
+          python parse2xml.py
+      - name: Archive artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: kdb-artifacts
+          path: |
+            kdb.json
+            kdb.xml
       - name: Update JSON file
         run: |
           python 
