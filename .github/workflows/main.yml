@@ -30,6 +30,7 @@ jobs:
           python parse_twinc.py
           python parse_twinc_en.py
           python parse2xml.py
+          python parse_structural.py
       - name: Archive artifacts
         uses: actions/upload-artifact@v3
         with:
@@ -39,7 +40,7 @@ jobs:
             kdb.xml
       - name: Update JSON file
         run: |
-          python 
+          python
       - name: Push and Commit
         run: |
           git add .
