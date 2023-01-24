@@ -1,32 +1,33 @@
 import csv
 import json
 from enum import Enum
+from typing import Iterator
 import xml.etree.ElementTree as ET
 
 
-def getTranslations(lang):
+def getTranslations(lang: str) -> dict[str, str]:
     with open("translations.json", "r", encoding="utf_8") as f:
-        trans = json.load(f)
+        trans: dict[str, dict[str, str]] = json.load(f)
         return trans[lang]
 
 
-def str2tagName(str):
+def str2tagName(str: str) -> str:
     return str.lower().replace(" ", "_").replace("(", "").replace(")", "")
 
 
-def courseEnum(lang):
+def courseEnum(lang: str) -> Enum:
     with open("csvHeader.json", "r", encoding="utf_8") as f:
-        cols = json.load(f)
+        cols: dict[str, list[str]] = json.load(f)
         return Enum("Course", cols[lang], start=0)
 
 
-def insertAttrElement(parent, name, value):
+def insertAttrElement(parent: ET.Element, name: str, value: str) -> ET.Element:
     child = ET.SubElement(parent, str2tagName(name))
     child.text = value
     return child
 
 
-def csv2xml(reader, Course, lang):
+def csv2xml(reader, Course, lang: str) -> ET.Element:
     # remove the header
     next(reader)
     root = ET.Element(getTranslations(lang)["courses"])
@@ -40,7 +41,7 @@ def csv2xml(reader, Course, lang):
     return root
 
 
-def main(input, output, lang="ja"):
+def main(input: str, output: str, lang: str):
     Course = courseEnum(lang)
 
     with open(input, "r", encoding="utf_8") as f:
@@ -52,4 +53,4 @@ def main(input, output, lang="ja"):
 
 
 if __name__ == "__main__":
-    main("kdb.csv", "kdb.xml")
+    main("kdb.csv", "kdb.xml", "ja")
