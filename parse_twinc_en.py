@@ -3,16 +3,15 @@ import re
 
 # Global consts
 global WEEKDAY_LIST, SEASONS, MODULE_LIST, SPRING_MODULE_LIST, FALL_MODULE_LIST, SPECIAL_MODULE_LIST
-WEEKDAY_LIST =  ["月","火","水","木","金","土","日"]
-SEASONS = ["春","秋"]
+WEEKDAY_LIST = ["月", "火", "水", "木", "金", "土", "日"]
+SEASONS = ["春", "秋"]
 MODULE_LIST = ["春A", "春B", "春C", "秋A", "秋B", "秋C", "夏季休業中", "春季休業中"]
 SPRING_MODULE_LIST = ["春A", "春B", "春C"]
 FALL_MODULE_LIST = ["秋A", "秋B", "秋C"]
 SPECIAL_MODULE_LIST = ["夏季休業中", "春季休業中"]
 
 
-class Class():
-
+class Class:
     def __init__(self, class_id, name, module, period_tmp, room, description):
         self.class_id = class_id
         self.name = name
@@ -20,11 +19,18 @@ class Class():
         self.period_tmp = period_tmp
         self.room = room
         self.description = description
-        self.terms = [] 
+        self.terms = []
         self.period = []
 
     def as_json(self):
-        return {"class_id": self.class_id, "name": self.name, "module": self.terms, "period": self.period, "room": self.room, "description": self.description}
+        return {
+            "class_id": self.class_id,
+            "name": self.name,
+            "module": self.terms,
+            "period": self.period,
+            "room": self.room,
+            "description": self.description,
+        }
 
     def parsed_module(self):
         module = self.terms
@@ -38,7 +44,7 @@ class Class():
                     spring_table[SPRING_MODULE_LIST.index(module[i][j])] = True
                 elif module[i][j] in FALL_MODULE_LIST:
                     fall_table[FALL_MODULE_LIST.index(module[i][j])] = True
-                #夏季休業中 or 春季休業中
+                # 夏季休業中 or 春季休業中
                 else:
                     special_module_list.append(module[i][j])
 
@@ -53,7 +59,7 @@ class Class():
             module[i] = res
 
         return module
-    
+
 
 def check_table(table, season):
 
@@ -64,10 +70,7 @@ def check_table(table, season):
         for i in range(len(table)):
             if table[i]:
                 module += ABC_LIST[i]
-        return module 
-
-
-
+        return module
 
 
 def create_class_list():
@@ -76,7 +79,7 @@ def create_class_list():
         class_list = []
         lines = f.readlines()
 
-      # Remove the header
+        # Remove the header
         lines.pop(0)
 
         for line in lines:
@@ -89,11 +92,13 @@ def create_class_list():
             description = tmp[21]
 
             if room == "":
-               room = " " 
-        
+                room = " "
+
             # Remove classes that are not opened in this year
             if not "" in set([class_id, name, module, period_tmp, room, description]):
-                class_list.append(Class(class_id, name, module, period_tmp, room, description))
+                class_list.append(
+                    Class(class_id, name, module, period_tmp, room, description)
+                )
 
         return class_list
 
@@ -124,7 +129,7 @@ def parse_timetable(table):
             if table["period"][i][j]:
                 period = WEEKDAY_LIST[i] + str(j + 1)
                 period_list.append(period)
-    
+
     return period_list
 
 
@@ -152,7 +157,7 @@ for course in class_list:
                         no = 0
                     else:
                         no = 3
-                    
+
                     if char == "A":
                         no += 0
                     elif char == "B":
@@ -166,14 +171,21 @@ for course in class_list:
 
         group = list(map(lambda x: MODULE_LIST[x], group))
         course.terms.append(group)
-    
+
     term_str_array = course.period_tmp.split(" ")
 
     for i in range(len(term_str_array)):
         term = term_str_array[i]
         period_str_array = term.split(",")
         day_array = []
-        course.period.append({"focus": term.find("集中") > -1, "negotiable": term.find("応談") > -1, "asneeded": term.find("随時") > -1, "period": create_timetable()})
+        course.period.append(
+            {
+                "focus": term.find("集中") > -1,
+                "negotiable": term.find("応談") > -1,
+                "asneeded": term.find("随時") > -1,
+                "period": create_timetable(),
+            }
+        )
 
         for p in period_str_array:
             day_str = re.sub("[0-9\-]", "", p)
@@ -193,7 +205,7 @@ for course in class_list:
                 end_time = int(time_str_array[1])
                 for j in range(start_time, end_time + 1, 1):
                     time_array.append(j)
-            
+
             else:
                 if time_str != "":
                     time_array.append(int(time_str))
@@ -202,8 +214,8 @@ for course in class_list:
 
             if len(time_str) > 0:
                 for day in day_array:
-                    for  time in time_array:
-                        course.period[i]["period"][day][time-1] = True
+                    for time in time_array:
+                        course.period[i]["period"][day][time - 1] = True
 
     for i in range(len(course.period)):
         course.period[i] = parse_timetable(course.period[i])
@@ -215,7 +227,7 @@ for course in class_list:
 
     subject_map[course.class_id] = course.as_json()
 
-enc = json.dumps(subject_map,ensure_ascii=False)
+enc = json.dumps(subject_map, ensure_ascii=False)
 with open("kdb_twinc_en.json", "w") as f:
     f.write(enc)
 print("complete")
