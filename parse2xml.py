@@ -1,8 +1,7 @@
 import csv
 import json
-from enum import Enum
-from typing import Iterator
 import xml.etree.ElementTree as ET
+from enum import Enum
 
 
 def getTranslations(lang: str) -> dict[str, str]:

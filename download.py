@@ -14,24 +14,24 @@ else:
     nendo = year
 
 post = {
-	"index": "",
-	"locale": "",
-	"nendo": nendo,
-	"termCode": "",
-	"dayCode": "",
-	"periodCode": "",
-	"campusCode": "",
-	"hierarchy1": "",
-	"hierarchy2": "",
-	"hierarchy3": "",
-	"hierarchy4": "",
-	"hierarchy5": "",
-	"freeWord": "",
-	"_orFlg": 1,
-	"_andFlg": 1,
-	"_gaiyoFlg": 1,
-	"_risyuFlg": 1,
-	"_excludeFukaikoFlg": 1,
+    "index": "",
+    "locale": "",
+    "nendo": nendo,
+    "termCode": "",
+    "dayCode": "",
+    "periodCode": "",
+    "campusCode": "",
+    "hierarchy1": "",
+    "hierarchy2": "",
+    "hierarchy3": "",
+    "hierarchy4": "",
+    "hierarchy5": "",
+    "freeWord": "",
+    "_orFlg": 1,
+    "_andFlg": 1,
+    "_gaiyoFlg": 1,
+    "_risyuFlg": 1,
+    "_excludeFukaikoFlg": 1,
 }
 
 requests.packages.urllib3.util.ssl_.DEFAULT_CIPHERS += "HIGH:!DH:!aNULL"
@@ -61,8 +61,8 @@ csv_post["outputFormat"] = 0
 response = session.post(do_url, data=csv_post)
 
 # output
-with open("tmp.csv", "w", encoding="utf-8") as fp :
-	fp.write(response.text)
+with open("tmp.csv", "w", encoding="utf-8") as fp:
+    fp.write(response.text)
 
 # compare file
 original = open("kdb.csv", "r", encoding="utf-8")

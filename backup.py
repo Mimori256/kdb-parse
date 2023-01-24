@@ -1,9 +1,9 @@
 import sys
 
-#Convert CSV to JSON for twinc
+# Convert CSV to JSON for twinc
 
-class Class():
 
+class Class:
     def __init__(self, class_id, name, module, period, room, description):
         self.class_id = class_id
         self.name = name
@@ -12,10 +12,10 @@ class Class():
         self.room = room
         self.description = description
 
-    
+
 # Global consts
-global WEEKDAY_LIST 
-WEEKDAY_LIST =  ["月","火","水","木","金","土"]
+global WEEKDAY_LIST
+WEEKDAY_LIST = ["月", "火", "水", "木", "金", "土"]
 
 
 def create_class_list():
@@ -24,24 +24,26 @@ def create_class_list():
         class_list = []
         lines = f.readlines()
 
-      # Remove the header
+        # Remove the header
         lines.pop(0)
 
         for line in lines:
-          tmp = line.split('"')
-          class_id = tmp[1]
-          name = tmp[3]
-          module = tmp[11]
-          period = tmp[13]
-          room = tmp[15]
-          description = tmp[21]
+            tmp = line.split('"')
+            class_id = tmp[1]
+            name = tmp[3]
+            module = tmp[11]
+            period = tmp[13]
+            room = tmp[15]
+            description = tmp[21]
 
-          if room == "":
-              room = " " 
-        
-          # Remove classes that are not opened in this year
-          if not "" in set([class_id, name, module, period, room, description]):
-              class_list.append(Class(class_id, name, module, period, room, description))
+            if room == "":
+                room = " "
+
+            # Remove classes that are not opened in this year
+            if not "" in set([class_id, name, module, period, room, description]):
+                class_list.append(
+                    Class(class_id, name, module, period, room, description)
+                )
 
         return class_list
 
@@ -60,21 +62,21 @@ def days_count(period):
     count = 0
 
     for s in period:
-        if s in WEEKDAY_LIST :
+        if s in WEEKDAY_LIST:
             count += 1
 
     return count
-    
+
 
 def remove_special_module(module):
 
     remove_list = [" 夏季休業中", " 春季休業中", "夏季休業中", "春季休業中", "通年"]
 
     for s in remove_list:
-           module = module.replace(s, "")
-           module = module.replace("春学期","春ABC")
-           module = module.replace("秋学期","秋ABC")
-       
+        module = module.replace(s, "")
+        module = module.replace("春学期", "春ABC")
+        module = module.replace("秋学期", "秋ABC")
+
     return module
 
 
@@ -88,7 +90,7 @@ def remove_special_period(period):
 
 
 def get_separate_index(period):
-    
+
     separate_index_list = []
 
     for i in range(len(period)):
@@ -107,16 +109,16 @@ def get_num_index(period):
         try:
             tmp = int(period[i])
             return count
-            
+
         except ValueError:
             count += 1
-        
+
 
 def apply_num_info(period, num_info):
 
     period = list(period)
 
-    #Ex: 月・火1
+    # Ex: 月・火1
     if "・" in period:
         period = [s.replace("・", num_info + ",") for s in period]
 
@@ -127,7 +129,6 @@ def apply_num_info(period, num_info):
                 period[i] += num_info
 
     return "".join(period)
-
 
 
 def is_split_period(period):
@@ -152,25 +153,25 @@ def is_int(n):
     try:
         int(n)
         return True
-    
+
     except ValueError:
         return False
 
 
 def count_num_info(period):
     count = 0
-    for i in range (len(period) -1):
-        if period[i] == "," and period[i+1] in WEEKDAY_LIST:
+    for i in range(len(period) - 1):
+        if period[i] == "," and period[i + 1] in WEEKDAY_LIST:
             count += 1
     return count + 1
-            
+
 
 def split_period(period):
-    
+
     period = list(period)
 
     for i in range(len(period) - 1):
-        if period[i] == "," and period[i+1] in WEEKDAY_LIST:
+        if period[i] == "," and period[i + 1] in WEEKDAY_LIST:
             period[i] = "."
 
     return "".join(period).split(".")
@@ -178,12 +179,11 @@ def split_period(period):
 
 def merge_period(period):
 
-
     tmp = []
 
     for i in range(1, len(period)):
         if is_int(period[i]):
-            tmp.append(period[i-1] + period[i])
+            tmp.append(period[i - 1] + period[i])
 
     return tmp
 
@@ -213,16 +213,13 @@ def main():
 
         class_id = c[0]
         name = c[1]
-        module= c[2]
+        module = c[2]
         period = c[3]
         room = c[4]
         description = c[5]
 
-
         module_tmp = module.split(" ")
         period_tmp = period.split(" ")
-
-
 
         module_len = len(module_tmp)
         period_len = len(period_tmp)
@@ -241,8 +238,6 @@ def main():
                 module_list.append(module_tmp[i])
                 period_list.append(period_tmp[i])
 
-
-        
         # In this case, period_len equals 1 e.g, 春C秋A:火2,3
         elif module_len > period_len:
 
@@ -258,43 +253,49 @@ def main():
                 module_list.append(module_tmp[i])
                 period_list.append(period_tmp[0])
 
-
         elif module_len == 1:
             for i in range(period_len):
                 module_list.append(module_tmp[0])
                 period_list.append(period_tmp[i])
 
-            
         else:
             description = "error"
 
-        #The length of module_list and period_list should be the same
-        #assert len(module_list) == len(period_list)
-        print("{}:{}".format(module_list,period_list))
+        # The length of module_list and period_list should be the same
+        # assert len(module_list) == len(period_list)
+        print("{}:{}".format(module_list, period_list))
 
         # Remove special modules
         module_list = list(map(remove_special_module, module_list))
         period_list = list(map(remove_special_period, period_list))
 
     for i in range(class_len):
-        if  module_list[i] == "" or period_list[i] == "":
+        if module_list[i] == "" or period_list[i] == "":
             continue
 
         else:
-            filtered_course_list.append([course_list[i][0],course_list[i][1],module_list[i], period_list[i],course_list[i][4], course_list[i][5]])
+            filtered_course_list.append(
+                [
+                    course_list[i][0],
+                    course_list[i][1],
+                    module_list[i],
+                    period_list[i],
+                    course_list[i][4],
+                    course_list[i][5],
+                ]
+            )
 
-    # Parse periods 
+    # Parse periods
     # Sunday classes are not available for now since there is no Sunday class in this year
     # The lenths of module_list and period_list are the same
 
+    tmp2 = []
 
-    tmp2=[]
+    # Reset period_list
+    # period_list = []
+    # print(period_list)
 
-    #Reset period_list
-    #period_list = []
-    #print(period_list)
-
-    for course in filtered_course_list :
+    for course in filtered_course_list:
 
         class_id = course[0]
         name = course[1]
@@ -306,7 +307,7 @@ def main():
         if is_blank_list(period):
             continue
 
-        #splited_period = period.split(",")
+        # splited_period = period.split(",")
         tmp1 = []
 
         if days_count(period) == 1:
@@ -315,10 +316,10 @@ def main():
         elif days_count(period) == count_num_info(period):
             splited_period = split_period(period)
             tmp1.append(splited_period)
-            
+
         else:
 
-            splited_period = split_period(period) 
+            splited_period = split_period(period)
             for element in splited_period:
 
                 if days_count(element) > 1:
@@ -329,27 +330,27 @@ def main():
 
                     for p in new_element:
                         tmp1.append(p)
-            
+
                 else:
                     tmp1.append(element)
-            
-            #There exists a class period is ["1"], exclude this
+
+            # There exists a class period is ["1"], exclude this
             if len(tmp1) == 1:
                 continue
-            #Check if the list contains number element
+            # Check if the list contains number element
             flag = False
 
             for element in tmp1:
                 if is_int(element):
                     flag = True
-           
+
             if flag:
-               tmp1 = merge_period(tmp1)
+                tmp1 = merge_period(tmp1)
 
             if isinstance(tmp1[0], list):
                 tmp1 = tmp1[0]
 
-       # print("{}:{}:{}".format(name, module, tmp1))
+    # print("{}:{}:{}".format(name, module, tmp1))
 
     sys.exit()
 
