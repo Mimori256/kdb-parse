@@ -7,17 +7,23 @@ with open("kdb.csv", "r", encoding="utf_8") as f:
     # remove the header
     lines.pop(0)
     for line in lines:
-        tmp1 = line.split('"')
+        tmp = line.split('"')
+        class_id = tmp[1]
+        name = tmp[3]
+        module = tmp[11]
+        period = tmp[13]
+        room = tmp[15]
+        remarks = tmp[21]
 
-        if tmp1[15] == "":
-            tmp1[15] = " "
+        if room == "":
+            room = " "
 
-        unit = tmp1[7]
+        unit = tmp[7]
         unit = unit.replace(" ", "")
-        if not "" in set(
-            [tmp1[1], tmp1[3], tmp1[11], tmp1[13], tmp1[15], tmp1[21], unit]
-        ):
-            l.append([tmp1[1], tmp1[3], tmp1[11], tmp1[13], tmp1[15], tmp1[21], unit])
+        class_data = [class_id, name, module, period, room, remarks, unit]
+
+        if not "" in set(class_data):
+            l.append(class_data)
 
 json_data = {}
 l.pop(0)
