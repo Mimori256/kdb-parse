@@ -32,6 +32,10 @@ kdb.csvを、授業オブジェクトの配列として表現したJSONです。
 
 kdb.csvを、XML形式で表現したものです。kdb_structural.jsonと同様に、CSVのカラムに変更を加えていません。
 
+**kdb.yaml**
+
+kdb.csvを、YAML形式で表現したものです。kdb_structural.jsonと同様に、CSVのカラムに変更を加えていません。
+
 ## 備考
 教室が不明の場合は、教室名は空白でパースされます。
 今年度開講されない科目はパースされません。
