@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install -U pip
-          pip install requests
+          pip install -r requirements.txt
       - name: Synchronize the csv file with an up-to-date one
         run: |
           python download.py
