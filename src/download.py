@@ -65,7 +65,15 @@ with open("tmp.csv", "w", encoding="utf-8") as fp:
     fp.write(response.text)
 
 # compare file
-original = open("kdb.csv", "r", encoding="utf-8")
+try:
+    original = open("kdb.csv", "r", encoding="utf-8")
+except:
+    os.rename("tmp.csv", "kdb.csv")
+    print("CSV updated")
+    exit()
+
+
+
 changed = open("tmp.csv", "r", encoding="utf-8")
 
 # no change
