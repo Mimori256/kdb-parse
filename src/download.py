@@ -7,7 +7,7 @@ now = datetime.datetime.now()
 year = now.year
 month = now.month
 
-if month < 4:
+if month < :
     nendo = year - 1
 
 else:
