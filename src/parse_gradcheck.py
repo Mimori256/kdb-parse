@@ -15,6 +15,7 @@ def csv_to_dict():
             course_data["id"] = row[0].strip()
             course_data["name"] = row[1].strip()
             course_data["credits"] = row[3].strip()
+            course_data["registerYear"] = row[4].strip()
             course_data["modules"] = row[5].strip()
             course_data["period"] = row[6].strip()
             courses["courses"].append(course_data)
