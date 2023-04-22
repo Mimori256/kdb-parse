@@ -34,7 +34,11 @@ kdb.csvを、XML形式で表現したものです。kdb_structural.jsonと同様
 
 **kdb.yaml**
 
-kdb.csvを、YAML形式で表現したものです。kdb_structural.jsonと同様に、CSVのカラムに変更を加えていません。
+kdb.csvを、YAML形式で表現したものです。kdb_structural.jsonと同様に、CSVのカラムに変更を加えていません。  
+
+**kdb_gradcheck.json**
+
+[卒業要件チェッカー](https://github.com/Mimori256/Graduation-Checker) で使われているデータです。
 
 ## 備考
 教室が不明の場合は、教室名は空白でパースされます。
@@ -45,6 +49,7 @@ kdb.csvを、YAML形式で表現したものです。kdb_structural.jsonと同�
 ### その他
 このコードによるデータを使っているプログラム一覧
 * [twinc-core](https://github.com/Mimori256/twinc-core) by Mimori256
+* [Graduation-Checker](https://github.com/Mimori256/Graduation-Checker) by Mimori256
 * [scs-migration-checker](https://github.com/itsu-dev/scs-migration-checker) by itsu-dev
 * [twins2mkdir](https://github.com/yudukikun5120/twins2mkdir) by yudukikun5120
 
