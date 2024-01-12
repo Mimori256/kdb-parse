@@ -13,6 +13,12 @@ def csv_to_dict():
                 continue
             course_data = {}
             course_data["id"] = row[0].strip()
+
+            if course_data["id"] == "" :
+                continue
+            if course_data["id"][0] != "G":
+                continue
+
             course_data["name"] = row[1].strip()
             course_data["credits"] = row[3].strip()
             course_data["registerYear"] = row[4].strip()
@@ -25,8 +31,8 @@ def csv_to_dict():
 
 def main():
     courses = csv_to_dict()
-    with open("kdb_gradcheck.json", "w") as f:
-        json.dump(courses, f, ensure_ascii=False, indent=2)
+    with open("kdb_gradcheck.json", "w", encoding="utf-8") as f:
+        json.dump(courses, f, ensure_ascii=False)
 
     print("complete")
 
