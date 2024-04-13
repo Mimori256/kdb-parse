@@ -15,6 +15,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Checkout kdb-parse-core
+        uses: actions/checkout@v2
+        with:
+          repository: 'Mimori256/kdb-parse-core'
+          path: 'kdb-parse-core'
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v1
         with:
@@ -26,13 +31,13 @@ jobs:
           pip install -r requirements.txt
       - name: Synchronize the csv file with an up-to-date one
         run: |
-          python src/download.py
-          python src/parse.py
-          python src/parse_twinc.py
-          python src/parse_twinc_en.py
-          python src/parse_structural.py
-          python src/parse2xml.py
-          python src/parse2yaml.py
+          python kdb-parse-core/download.py
+          python kdb-parse-core/parse.py
+          python kdb-parse-core/parse_twinc.py
+          python kdb-parse-core/parse_twinc_en.py
+          python kdb-parse-core/parse_structural.py
+          python kdb-parse-core/parse2xml.py
+          python kdb-parse-core/parse2yaml.py
       - name: Archive artifacts
         uses: actions/upload-artifact@v3
         with:
