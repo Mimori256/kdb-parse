@@ -1,5 +1,6 @@
 # kdb-parse
-kdbのデータをjsonにする。科目番号、科目名、モジュール、時限、教室、備考がパースされる
+kdbを CSV, JSON などの形式でパースしたデータリポジトリ  
+データをパースするための Python スクリプトの実体は、[kdb-parse-core](https://github.com/Mimori256/kdb-parse-core) リポジトリにあります。
 
 ## フォーマット
 **kdb.csv**
@@ -53,16 +54,3 @@ kdb.csvを、YAML形式で表現したものです。kdb_structural.jsonと同�
 * [scs-migration-checker](https://github.com/itsu-dev/scs-migration-checker) by itsu-dev
 * [twins2mkdir](https://github.com/yudukikun5120/twins2mkdir) by yudukikun5120
 
-## 開発
-
-1. 開発に必要なパッケージをインストールする
-
-```bash
-pip3 install -r requirements-dev.txt
-```
-
-1. [pre-commit](https://pre-commit.com/) の設定をインストールする
-
-```bash
-pre-commit install
-```
