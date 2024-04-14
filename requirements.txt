@@ -1,3 +1,0 @@
-urllib3 < 2
-requests
-pyyaml
