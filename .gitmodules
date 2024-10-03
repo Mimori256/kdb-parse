@@ -1,0 +1,3 @@
+[submodule "kdb-parse-core"]
+	path = kdb-parse-core
+	url = https://github.com/Mimori256/kdb-parse-core
