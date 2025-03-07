@@ -39,7 +39,7 @@ jobs:
           python kdb-parse-core/parse2xml.py
           python kdb-parse-core/parse2yaml.py
       - name: Archive artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v3.1.0
         with:
           name: kdb-artifacts
           path: |
