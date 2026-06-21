@@ -19603,7 +19603,7 @@
   "0A00208": {
     "class_id": "0A00208",
     "name": "Research Communication in Humanities and Social Sciences: Beyond Borders among Humanities, Social Sciences and Natural Sciences",
-    "description": "対面(オンライン併用型)",
+    "description": "10/17, 11/14\\n対面(オンライン併用型)",
     "module": [
       [
         "秋AB"
@@ -19619,7 +19619,7 @@
   "0A00209": {
     "class_id": "0A00209",
     "name": "Integrated Studies of Cultural and Research Resources",
-    "description": "実施場所:国立歴史民俗博物館\\n対面",
+    "description": "実施場所:国立歴史民俗博物館\\n8/31-9/3\\n対面",
     "module": [
       [
         "通年"
@@ -20206,11 +20206,28 @@
   },
   "0A00325": {
     "class_id": "0A00325",
-    "name": "Present Your Passions: Refine Your Real Life Communication Abilities!",
+    "name": "Analyzing Social Issues, Articulating Ideas: From Talk to True Communication",
     "description": "対面(オンライン併用型)",
     "module": [
       [
         "秋C"
+      ]
+    ],
+    "period": [
+      [
+        "月4",
+        "月5"
+      ]
+    ],
+    "room": " "
+  },
+  "0A00326": {
+    "class_id": "0A00326",
+    "name": "Analyzing Social Issues, Articulating Ideas: From Talk to True Communication",
+    "description": "対面(オンライン併用型)",
+    "module": [
+      [
+        "春C"
       ]
     ],
     "period": [
@@ -20493,10 +20510,10 @@
   "0A00507": {
     "class_id": "0A00507",
     "name": "The 21st Century and Religions",
-    "description": "オンライン(同時双方向型)",
+    "description": "10/23,10/30\\nオンライン(同時双方向型)",
     "module": [
       [
-        "春C"
+        "秋A"
       ]
     ],
     "period": [
@@ -21459,7 +21476,7 @@
     "description": "0AA3001/0AA3002履修者は履修不可\\n8/4,8/5,8/6\\n対面",
     "module": [
       [
-        "通年"
+        "春C"
       ]
     ],
     "period": [
@@ -21488,7 +21505,7 @@
   "0AB0001": {
     "class_id": "0AB0001",
     "name": "Joint Seminar for Master's Thesis",
-    "description": "オンライン(オンデマンド型)\\nオンライン(同時双方向型)",
+    "description": "2/8,2/9\\nオンライン(オンデマンド型)\\nオンライン(同時双方向型)",
     "module": [
       [
         "秋C"
@@ -31387,7 +31404,7 @@
   "0ABC936": {
     "class_id": "0ABC936",
     "name": "Seminar on Contemporary Anthropology A",
-    "description": "西暦偶数年度開講。",
+    "description": "教室:8A202\\n西暦偶数年度開講。",
     "module": [
       [
         "秋BC"
@@ -77122,10 +77139,10 @@
   "0ATQ210": {
     "class_id": "0ATQ210",
     "name": "Sport Organisation and Governance",
-    "description": "英語で授業。\\n1/22\\n対面(オンライン併用型)",
+    "description": "英語で授業。\\n12/8, 11, 15, 18\\n対面(オンライン併用型)",
     "module": [
       [
-        "秋C"
+        "秋B"
       ]
     ],
     "period": [
@@ -81176,7 +81193,7 @@
   "0ATTL42": {
     "class_id": "0ATTL42",
     "name": "Workshops: Photomedia A",
-    "description": "英語で授業。This class is in English.\\n対面",
+    "description": "英語で授業。This class is in English.\\n8/3,8/4,8/31\\n対面",
     "module": [
       [
         "通年"
@@ -82354,7 +82371,7 @@
   "0ATV106": {
     "class_id": "0ATV106",
     "name": "Intangible Heritage Studies",
-    "description": "【授業スケジュール詳細】10月10日(土)@筑波大学人文社会科学系棟B218講師:宮田繁幸先生(東京福祉大学,東京文化財研究所)10月17日(土)@筑波大学人文社会科学系棟B218講師:宮田繁幸先生(東京福祉大学,東京文化財研究所)11月7日(土)3~5限@筑波大学人文社会科学系棟B218講師:石村智先生(東京文化財研究所など)11月8日(日)1~2限@東京文化財研究所 https://www.tobunken.go.jp/japanese/navi/map.html講師:石村智先生(東京文化財研究所など)\\n含野外調査\\n実務経験教員\\n対面\\n2026年度は対面講義を予定する。",
+    "description": "【授業スケジュール詳細】10月10日(土)@筑波大学人文社会科学系棟B218講師:宮田繁幸先生(東京福祉大学,東京文化財研究所)10月17日(土)@筑波大学人文社会科学系棟B218講師:宮田繁幸先生(東京福祉大学,東京文化財研究所)11月7日(土)3~5限@筑波大学人文社会科学系棟B218講師:石村智先生(東京文化財研究所など)11月8日(日)1~2限@東京文化財研究所 https://www.tobunken.go.jp/japanese/navi/map.html講師:石村智先生(東京文化財研究所など)\\n10/10,10/17,11/7,11/8\\n含野外調査\\n実務経験教員\\n対面\\n2026年度は対面講義を予定する。",
     "module": [
       [
         "秋A"
@@ -110648,7 +110665,7 @@
   "1190212": {
     "class_id": "1190212",
     "name": "First Year Seminar",
-    "description": "For students in Undergraduate Program of International Social Studies.\\n英語で授業。\\n対面",
+    "description": "For students in Undergraduate Program of International Social Studies.\\n英語で授業。\\n9/8-9/9\\n対面",
     "module": [
       [
         "通年"
@@ -126976,7 +126993,7 @@
   "3560012": {
     "class_id": "3560012",
     "name": "Advanced Russian Reading A",
-    "description": "全学群対象。「基礎ロシア語A」及び「基礎ロシア語B」の履修者が望ましい。\\nG科目\\nオンライン(同時双方向型)",
+    "description": "全学群対象。「基礎ロシア語A」及び「基礎ロシア語B」の履修者が望ましい。\\n8/17-8/19\\nG科目\\nオンライン(同時双方向型)",
     "module": [
       [
         "通年"
@@ -131867,7 +131884,7 @@
   "6128011": {
     "class_id": "6128011",
     "name": "Information Literacy (Lectures)",
-    "description": "英語で授業。\\n対面\\nマレーシア校開講科目",
+    "description": "英語で授業。\\n対面",
     "module": [
       [
         "秋A"
@@ -132751,7 +132768,7 @@
   "6428012": {
     "class_id": "6428012",
     "name": "Information Literacy (Exercises)",
-    "description": "英語で授業。\\n対面\\nマレーシア校開講科目",
+    "description": "英語で授業。\\n対面",
     "module": [
       [
         "秋B"
@@ -134055,7 +134072,7 @@
   "8290107": {
     "class_id": "8290107",
     "name": "International Partnership Study (Southeast Asia)",
-    "description": "全学自由科目(特設)。本学および国際基督教大学の学生に限る\\n詳細後日周知\\n対面",
+    "description": "全学自由科目(特設)。本学および国際基督教大学の学生に限る\\n9/5-9/11\\n詳細後日周知\\n対面",
     "module": [
       [
         "通年"
@@ -134290,7 +134307,7 @@
   "8330616": {
     "class_id": "8330616",
     "name": "Overseas Language Intensive Course B: English",
-    "description": "グローバルコミュニケーション教育センター開設。ビクトリア大学ウェリントン校のEnglish Language Instituteによって実施される6週間のコースは、ウェリントンのケルバーンキャンパスで対面で行われる。履修を希望する場合は、必ず、事前に開催される対面/オンラインの説明会に参加すること。(説明会参加者にのみ、関連情報の詳細を共有し、履修を承認する。)\\nG科目",
+    "description": "グローバルコミュニケーション教育センター開設。ビクトリア大学ウェリントン校のEnglish Language Instituteによって実施される6週間のコースは、ウェリントンのケルバーンキャンパスで対面で行われる。履修を希望する場合は、必ず、事前に開催される対面/オンラインの説明会に参加すること。(説明会参加者にのみ、関連情報の詳細を共有し、履修を承認する。)\\n2/17-3/25\\nG科目",
     "module": [
       [
         "夏季休業中"
@@ -139553,7 +139570,7 @@
   "AB63A11": {
     "class_id": "AB63A11",
     "name": "Religious Studies-a",
-    "description": "西暦偶数年度開講。\\n対面(オンライン併用型)",
+    "description": "西暦偶数年度開講。\\n7/20,7/22,7/26,7/29\\n対面(オンライン併用型)",
     "module": [
       [
         "春C",
@@ -139818,7 +139835,7 @@
   "AB63F72": {
     "class_id": "AB63F72",
     "name": "Seminar in Religious Studies IV-c",
-    "description": "「宗教学演習IV-a」および「宗教学演習IV-b」を履修済あるいは履修予定の者に限る。\\n西暦偶数年度開講。\\n対面(オンライン併用型)",
+    "description": "「宗教学演習IV-a」および「宗教学演習IV-b」を履修済あるいは履修予定の者に限る。\\n西暦偶数年度開講。\\n7/10\\n対面(オンライン併用型)",
     "module": [
       [
         "春C",
@@ -139904,7 +139921,7 @@
   "AB63G72": {
     "class_id": "AB63G72",
     "name": "Seminar in the History of Oriental Religious Thought II-c",
-    "description": "対面(オンライン併用型)",
+    "description": "7/10\\n対面(オンライン併用型)",
     "module": [
       [
         "春C",
@@ -147064,7 +147081,7 @@
     ],
     "period": [
       [
-        "月4"
+        "木1"
       ]
     ],
     "room": " "
@@ -154118,7 +154135,7 @@
   "AE14G23": {
     "class_id": "AE14G23",
     "name": "Fieldwork Practicum in Japanese Dialects II",
-    "description": "人数制限あり。\\n西暦偶数年度開講。\\n対面",
+    "description": "人数制限あり。\\n西暦偶数年度開講。\\n8/31-9/4\\n対面",
     "module": [
       [
         "春AB",
@@ -155087,7 +155104,7 @@
   "BB00301": {
     "class_id": "BB00301",
     "name": "Constitutional Law of Japan",
-    "description": "体育・看護・医療対象\\n詳細後日周知\\nオンライン(オンデマンド型)",
+    "description": "体育・看護・医療対象\\n9/24,9/25,9/28,9/29\\n詳細後日周知\\nオンライン(オンデマンド型)",
     "module": [
       [
         "通年"
@@ -155119,7 +155136,7 @@
   "BB00501": {
     "class_id": "BB00501",
     "name": "Constitutional Law of Japan",
-    "description": "人文(3年次)・ 国際・応理・工シス・社工・情報・創成・知識(1年次)・総合学域群対象\\n詳細後日周知\\nオンライン(オンデマンド型)\\n履修申請期間は掲示にて周知する。",
+    "description": "人文(3年次)・ 国際・応理・工シス・社工・情報・創成・知識(1年次)・総合学域群対象\\n8/26-8/28,8/31\\n詳細後日周知\\nオンライン(オンデマンド型)\\n履修申請期間は掲示にて周知する。",
     "module": [
       [
         "通年"
@@ -156278,7 +156295,7 @@
   "BB20021": {
     "class_id": "BB20021",
     "name": "Introduction to Civil Law",
-    "description": "CDP\\n対面(オンライン併用型)\\n令和9年度より社会学類法学主専攻のカリキュラムを変更するために、令和9年度以降は授業内容が大幅に変更される予定である。よって、令和8年度中に履修することを推奨する。",
+    "description": "7/27-8/15\\nCDP\\n対面(オンライン併用型)\\n令和9年度より社会学類法学主専攻のカリキュラムを変更するために、令和9年度以降は授業内容が大幅に変更される予定である。よって、令和8年度中に履修することを推奨する。",
     "module": [
       [
         "春C",
@@ -156448,7 +156465,7 @@
   "BB24071": {
     "class_id": "BB24071",
     "name": "Law of Secured Transactions",
-    "description": "対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
+    "description": "7/27-8/25\\n対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
     "module": [
       [
         "春C",
@@ -156465,7 +156482,7 @@
   "BB24101": {
     "class_id": "BB24101",
     "name": "Debtor and Creditor Law",
-    "description": "対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
+    "description": "7/27-8/25\\n対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
     "module": [
       [
         "春C",
@@ -156533,7 +156550,7 @@
   "BB24241": {
     "class_id": "BB24241",
     "name": "The Law of Trusts",
-    "description": "対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
+    "description": "7/27-8/15\\n対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
     "module": [
       [
         "春C",
@@ -156584,7 +156601,7 @@
   "BB25081": {
     "class_id": "BB25081",
     "name": "Corporate Law",
-    "description": "令和4年度まで開講されていた「会社法I」「会社法II」とは、重ねて卒業要件単位として算入できない\\n対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
+    "description": "令和4年度まで開講されていた「会社法I」「会社法II」とは、重ねて卒業要件単位として算入できない\\n7/27-8/25\\n対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
     "module": [
       [
         "春C",
@@ -156618,7 +156635,7 @@
   "BB26151": {
     "class_id": "BB26151",
     "name": "Law of Civil Procedure A",
-    "description": "「BB26001 民事訴訟法I」と「BB26031 民事訴訟法II」の双方を履修済みの学生は履修不可。\\n対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
+    "description": "「BB26001 民事訴訟法I」と「BB26031 民事訴訟法II」の双方を履修済みの学生は履修不可。\\n7/27-8/25\\n対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
     "module": [
       [
         "春C",
@@ -172642,7 +172659,7 @@
   "EC31461": {
     "class_id": "EC31461",
     "name": "Forest Genetics",
-    "description": "EC31351 を修得済みの者は履修できない。\\n対面",
+    "description": "EC31351 を修得済みの者は履修できない。\\n7/13,7/14\\n対面",
     "module": [
       [
         "春C"
@@ -173756,7 +173773,7 @@
   "EC34203": {
     "class_id": "EC34203",
     "name": "Field Studies in Forest Policy",
-    "description": "原則として社会経済学コースの学生(3年次)に限る。事前にガイダンスを実施する。\\n西暦偶数年度開講。\\n対面",
+    "description": "原則として社会経済学コースの学生(3年次)に限る。事前にガイダンスを実施する。\\n西暦偶数年度開講。\\n9/24-9/26\\n対面",
     "module": [
       [
         "秋A"
@@ -194444,8 +194461,8 @@
     ],
     "period": [
       [
-        "金5",
-        "金6"
+        "水5",
+        "水6"
       ]
     ],
     "room": " "
@@ -194590,7 +194607,7 @@
   "FJ31003": {
     "class_id": "FJ31003",
     "name": "Internship I",
-    "description": "英語で授業\\n英語で授業。\\n対面\\nOnly for IDE students",
+    "description": "英語で授業\\n英語で授業。\\n4/1-8/6\\n対面\\nOnly for IDE students",
     "module": [
       [
         "通年"
@@ -194606,7 +194623,7 @@
   "FJ31013": {
     "class_id": "FJ31013",
     "name": "Internship II",
-    "description": "英語で授業\\n英語で授業。\\n対面\\nOnly for IDE students",
+    "description": "英語で授業\\n英語で授業。\\n4/1-8/6\\n対面\\nOnly for IDE students",
     "module": [
       [
         "通年"
@@ -194622,7 +194639,7 @@
   "FJ31023": {
     "class_id": "FJ31023",
     "name": "Internship III",
-    "description": "英語で授業\\n英語で授業。\\n対面\\nOnly for IDE students",
+    "description": "英語で授業\\n英語で授業。\\n4/1-8/6\\n対面\\nOnly for IDE students",
     "module": [
       [
         "通年"
@@ -194638,7 +194655,7 @@
   "FJ31033": {
     "class_id": "FJ31033",
     "name": "Internship I",
-    "description": "英語で授業。\\n対面\\nOnly for IDE students",
+    "description": "英語で授業。\\n10/1-2/15\\n対面\\nOnly for IDE students",
     "module": [
       [
         "通年"
@@ -194653,8 +194670,8 @@
   },
   "FJ31043": {
     "class_id": "FJ31043",
-    "name": "Internship II",
-    "description": "英語で授業。\\n対面\\nOnly for IDE students",
+    "name": "Internship III",
+    "description": "英語で授業。\\n10/1-2/15\\n対面\\nOnly for IDE students",
     "module": [
       [
         "通年"
@@ -198344,7 +198361,7 @@
   "GC59802": {
     "class_id": "GC59802",
     "name": "Special Lecture on Information Media H",
-    "description": "時限等詳細は掲示板にて周知する。\\n7/13(1-4限),7/14(1-4限),7/15(1-2限)\\n対面\\n実務経験教員",
+    "description": "時限等詳細は掲示板にて周知する。\\n7/27(1-4限),7/28(1-4限),7/29(1-2限)\\n対面\\n実務経験教員",
     "module": [
       [
         "春C"
@@ -199419,7 +199436,7 @@
   "GE50812": {
     "class_id": "GE50812",
     "name": "English for Specialized Subjects C-1",
-    "description": "対面(オンライン併用型)\\n知識科学主専攻生対象",
+    "description": "知識科学主専攻生対象\\n対面\\n確認テストは対面で実施。",
     "module": [
       [
         "秋AB"
@@ -199435,7 +199452,7 @@
   "GE50822": {
     "class_id": "GE50822",
     "name": "English for Specialized Subjects C-2",
-    "description": "知識情報システム主専攻生対象.\\n対面\\n確認テストは対面で実施。",
+    "description": "知識情報システム主専攻生対象.\\n対面(オンライン併用型)",
     "module": [
       [
         "秋AB"
@@ -203189,7 +203206,7 @@
   "HE21061": {
     "class_id": "HE21061",
     "name": "Microbiology A",
-    "description": "オンライン(オンデマンド型)",
+    "description": "4/1-4/7\\nオンライン(オンデマンド型)",
     "module": [
       [
         "春A"
@@ -203442,7 +203459,7 @@
   "HE30031": {
     "class_id": "HE30031",
     "name": "Clinical Laboratory Medicine",
-    "description": "10/5-29、11/4-6、12/7-8\\n詳細後日周知\\n実務経験教員\\n対面(オンライン併用型)\\n授業スケジュールを参照すること。",
+    "description": "10/5-29,11/4-6,12/7-8\\n詳細後日周知\\n実務経験教員\\n対面(オンライン併用型)\\n授業スケジュールを参照すること。",
     "module": [
       [
         "秋ABC"

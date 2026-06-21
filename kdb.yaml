@@ -28241,7 +28241,7 @@
 - class_id: 0A00208
   class_outline: 哲学、歴史、文学、言語学、社会科学、地域研究などの人文社会分野における学術研究の成果をどのように社会に伝え、人々の知的好奇心を呼び起こし、当該学問分野の社会的認知度を如何に向上させるか、その考え方、方法、それらを担う人材に求められる必要なスキルなどについて学ぶ機会を提供する。人文社会分野における「学問と社会を結ぶ」ためのスキルを磨くための内容を含む。加えて、現在発展が著しい人文社会分野における最先端機器を駆使して行う研究は多くの学術的成果を生み出しており、その魅力は計り知れない。このような最先端研究に基づく解析法は自然科学分野の最先端技術を活用したものでもあり、ここに人文社会科学と自然科学の接点があり、分野融合の意義、有用性、重要性を含めた科学の現状を多くの大学院生に紹介するための科目とする意図も企画者側にある。
   credits: '1.0'
-  data_update_date: '2025-07-15 17:01:09'
+  data_update_date: '2026-06-17 17:11:25'
   english_name: 'Research Communication in Humanities and Social Sciences: Beyond
     Borders among Humanities, Social Sciences and Natural Sciences'
   enrollment_application: ''
@@ -28250,7 +28250,9 @@
   module: 秋AB
   name: '人文知コミュニケーション: 人文社会科学と自然科学の壁を超える'
   period: 集中
-  remarks: 対面(オンライン併用型)
+  remarks: '10/17, 11/14
+
+    対面(オンライン併用型)'
   requirement_subject_name: 人文知コミュニケーション:人文社会科学と自然科学の壁を超える
   room: ''
   short_term_students_application: ×
@@ -28259,9 +28261,9 @@
   subject_code: 01ZZ343
   teaching_staff: 岩崎 拓也
 - class_id: 0A00209
-  class_outline: 「総合資料学」とは、主に大学や歴史系博物館が持つ資料を多様な形で分析・研究するための学問です。多様な「モノ」資料を時代・地域・分野等によって分類し、分野を超えた視点から統合的に分析することで、高度な共同利用・共同研究へと結びつけます。日本の歴史資料の活用による、人文学・自然科学・情報学の分野を超えた新たな日本史像の構築、学問領域の創成を目指すものです。よって、受講生にはそれらの視点を養い、内容を理解し、その担い手となるための基礎的知識と能力の養成のための第一歩を経験する機会を提供します。加えて、このような視点、知識、能力、考え方の基本は受講生の専門分野にとらわれたり特化されることなく、筑波大学のすべての分野の大学院生に必要とされるものであり、汎用的智として、さらには国際的な活動を志向する大学院生にとっても有用な知的基盤に資するものとして位置づけて授業を構成しています。
+  class_outline: 「総合資料学」とは、大学や歴史系博物館が持つ資料を多様な形で分析・研究するための学問である。モノ資料を分野横断的に統合分析し、人文学・自然科学・情報学を超えた新たな日本史像の構築を目指している。本授業は、その担い手となる基礎的知識と能力を養う第一歩として位置づけられており、筑波大学の全分野の大学院生に資する汎用的智の涵養を目的とするものである。
   credits: '2.0'
-  data_update_date: '2026-01-30 14:26:28'
+  data_update_date: '2026-06-17 10:00:56'
   english_name: Integrated Studies of Cultural and Research Resources
   enrollment_application: ×
   enrollment_requirements: ''
@@ -28270,6 +28272,8 @@
   name: '総合資料学: 歴史文化の高度化研究とその伝達方法'
   period: 集中
   remarks: '実施場所:国立歴史民俗博物館
+
+    8/31-9/3
 
     対面'
   requirement_subject_name: '総合資料学: 歴史文化の高度化研究とその伝達方法'
@@ -29065,13 +29069,13 @@
 - class_id: 0A00325
   class_outline: 本授業では、職場や社会人として活躍する場面において、自分の考えを分かりやすく他者に説明したり、交流・意見交換したりするためのの技術を磨き上げます。すでに高度な日本語力を持っている受講者がそれぞれ教員とのコンサルテーションを通して興味のあるトピックを選びます。そして、それについて詳しく調べ知識を総合しそれを分かりやすく相手に伝えるために、教員やクラスメートからのフィードバックを得ながら準備をします。準備した発表をし、質疑応答やディスカッションを通して、お互いに学び合い、交流と意見交換をします。
   credits: '1.0'
-  data_update_date: '2026-01-30 14:24:33'
-  english_name: 'Present Your Passions: Refine Your Real Life Communication Abilities!'
+  data_update_date: '2026-06-16 13:18:44'
+  english_name: 'Analyzing Social Issues, Articulating Ideas: From Talk to True Communication'
   enrollment_application: ''
   enrollment_requirements: ''
   method: '4'
   module: 秋C
-  name: 「好き」を発信する:大人の発表を極めよ!
+  name: 社会課題を見る力、語る力:伝えるを伝わるへ!
   period: 月4,5
   remarks: 対面(オンライン併用型)
   requirement_subject_name: 「好き」を発信する:大人の発表を極めよ!
@@ -29080,7 +29084,32 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 5
   subject_code: 0A00325
-  teaching_staff: 人見 香緒,柳田 しのぶ
+  teaching_staff: 人見 香緒
+- class_id: 0A00326
+  class_outline: '受講者がそれぞれ教員とのコンサルテーションを通して興味のあるトピックを選びます
+
+    →それについて詳しく調べ知識を総合しそれを分かりやすく相手に伝えるために、教員やクラスメートからのフィードバックを得ながら準備をします。
+
+    →準備した発表をし、質疑応答やディスカッションを通して、お互いに学び合い、交流と意見交換を行います。
+
+    最後に優秀発表を投票で決めます。'
+  credits: '1.0'
+  data_update_date: '2026-06-16 08:47:40'
+  english_name: 'Analyzing Social Issues, Articulating Ideas: From Talk to True Communication'
+  enrollment_application: ''
+  enrollment_requirements: ''
+  method: '4'
+  module: 春C
+  name: 社会課題を見る力、語る力:伝えるを伝わるへ!
+  period: 月4,5
+  remarks: 対面(オンライン併用型)
+  requirement_subject_name: 「好き」を発信する:大人の発表を極めよ!
+  room: ''
+  short_term_students_application: ''
+  short_term_students_requirements: ''
+  standard_course_year: 1 - 5
+  subject_code: 0A00325
+  teaching_staff: 柳田 しのぶ
 - class_id: 0A00401
   class_outline: "最新の社会問題、国際問題、ビジネス上の課題を対象に議論を行うため、産業界のトップリーダーを講師として招聘する。\n 世界が益々多極化する中で日本の現状と課題を再確認すると共に、今後の変化に対応する為に何が必要か検証・議論することで、社会人基礎力として重要なさまざまな能力を身に着けることを目的とする。\n\
     事前学習を通じて情報収集力を、授業時間中の討論を通じてディベート力を、レポート作成を通じてまとめる能力を身につける。"
@@ -29110,7 +29139,7 @@
 
     AIと量子技術などのエマージングテクノロジーの最新動向を共有した上で、グループセッション、パネルディスカッションを通した相互コミュニケーションによる演習で講義を行う。'
   credits: '1.0'
-  data_update_date: '2026-03-04 17:04:25'
+  data_update_date: '2026-06-19 11:00:15'
   english_name: Next-Generation Mobility and Future Society Image
   enrollment_application: ×
   enrollment_requirements: ''
@@ -29131,7 +29160,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 5
   subject_code: 01ZZ515
-  teaching_staff: 伊藤 誠,坪内 孝司
+  teaching_staff: 伊藤 誠,坪内 孝司,高原 勇
 - class_id: 0A00403
   class_outline: 産業化、技術革新、国際化による変化に伴い、人々の生活や働き方、人間関係にもさまざまな変化が生まれている。本科目では、さまざまな属性や特徴を有する個人が包摂される社会とはどのような社会か、そこに生きる個人はどのような人生を生きるのか、なぜ男女共同参画やダイバーシティ(多様性)を推進する必要があるのか、その方法と本質を理解することを目指す。特に近年のダイバーシティ推進の重要なトピックである「SOGI」「LGBTQ+」に代表される性的マイノリティについて集中的に授業を行う。そのために、実践家の講師等による話題提供とともに質疑応答や対話を重ね、より広い視野と柔軟な発想の獲得を目指しながら、受講生個人の生きる力、社会力を身につけることにつなげる
   credits: '1.0'
@@ -29464,15 +29493,17 @@
   class_outline: "21世紀の現代社会の情勢は宗教と深く関わっており、複雑な国際情勢、テロなどの暴力と対峙せねばならない現代社会において、それを解く鍵ともなる宗教について正しい知識と理解を得ることは重要である。\n\
     \ 当科目では、21世紀の現代社会の情勢と宗教とのかかわりについて、いくつかの事例を取り上げながら考察する。\n 宗教による対立や政治への介入は紀元前の昔から続いてきた人類の課題とも言え、その歴史や背景を正しく知り、現在のグローバルな社会において正しく対応するための知識と理解を身につけることを目的とする。"
   credits: '1.0'
-  data_update_date: '2026-04-10 11:18:20'
+  data_update_date: '2026-06-17 13:33:55'
   english_name: The 21st Century and Religions
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 春C
+  module: 秋A
   name: 21世紀と宗教
   period: 集中
-  remarks: オンライン(同時双方向型)
+  remarks: '10/23,10/30
+
+    オンライン(同時双方向型)'
   requirement_subject_name: 21世紀と宗教
   room: ''
   short_term_students_application: ×
@@ -30706,12 +30737,12 @@
 - class_id: 0AA3018
   class_outline: 哲学は根源的な問いに向き合う学問であるだけでなく、あらゆる問題圏と接しうる汎用的な思考法でもある。本科目では、毎回異なる話題をとりあげながら、そこに潜む様々な根源的な問いを取り出し、それに対する思考を深めるトレーニングを行う。授業中は、自身の思考を言語化して明確化するとともに、他者の言葉を通じて自身の思考を吟味できるよう、対話とディスカッションによる演習を繰り返す。
   credits: '1.0'
-  data_update_date: '2026-06-05 15:41:12'
+  data_update_date: '2026-06-16 16:24:32'
   english_name: Philosophical Practice
   enrollment_application: ''
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   method: '2'
-  module: 夏季休業中
+  module: 春C
   name: 哲学プラクティス
   period: 集中
   remarks: '0AA3001/0AA3002履修者は履修不可
@@ -30756,7 +30787,9 @@
   module: 秋C
   name: 修士論文合同演習
   period: 集中
-  remarks: 'オンライン(オンデマンド型)
+  remarks: '2/8,2/9
+
+    オンライン(オンデマンド型)
 
     オンライン(同時双方向型)'
   requirement_subject_name: 修士論文合同演習
@@ -44840,7 +44873,7 @@
 - class_id: 0ABC936
   class_outline: 最新の文化人類学の理論的文献・民族誌を講読し、受講生の研究関心と関連づけながら議論する。特に法人類学、科学技術の人類学に関連するテーマを扱う。
   credits: '1.0'
-  data_update_date: '2026-02-26 23:58:38'
+  data_update_date: '2026-06-18 16:33:25'
   english_name: Seminar on Contemporary Anthropology A
   enrollment_application: ''
   enrollment_requirements: ''
@@ -44848,7 +44881,9 @@
   module: 秋BC
   name: 現代人類学演習A
   period: 木2
-  remarks: 西暦偶数年度開講。
+  remarks: '教室:8A202
+
+    西暦偶数年度開講。'
   requirement_subject_name: 現代人類学演習A
   room: ''
   short_term_students_application: ''
@@ -73328,7 +73363,7 @@
 - class_id: 0AL5509
   class_outline: 「繰り返し学習制御」や「適応制御」などの現代的なマニピュレータの制御手法を理解するための基礎となるロボット制御手法を教授する。ロボットマニピュレータの機構を解説し、マニピュレータの関節構成からその運動方程式を導出する。さらに各関節に位置や速度に関する基本的なフィードバックを施した際の安定性を、古典的なリアプノフの直接法によって証明する。これらを通じて、知能機能システムにおける人間・機械・ロボットシステム分野の専門知識を養う。
   credits: '2.0'
-  data_update_date: '2026-01-15 15:01:26'
+  data_update_date: '2026-06-19 11:10:11'
   english_name: Robot Manipulator Control
   enrollment_application: ''
   enrollment_requirements: ''
@@ -73343,7 +73378,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01CK205
-  teaching_staff: 望山 洋,ハサン モダル
+  teaching_staff: 望山 洋,ハサン モダル,山本 江
 - class_id: 0AL5510
   class_outline: '様々な機械システムを取り上げ、線形および非線形ダイナミクスに関する数理解析的なアプローチ法を講術し、自励振動、パラメータ励振、オートパラメトリック励振などの、非線形共振現象の特性を明らかにする。
 
@@ -106063,17 +106098,17 @@
 - class_id: 0ATQ210
   class_outline: 主に国際スポーツ競技連盟(IF)や国内スポーツ競技連盟(NF)で働く実務家をゲスト講師として招き、IFやNFの組織構造やそこでの業務について実務レベルでその内容を理解するとともに、国内外のスポーツ組織に関わるステークホルダーの役割と責務を把握することを目的とする。また、専門家による講義を通じて国際オリンピック委員会(IOC)が提唱するステークホルダー間の相互作用に注目しながら、「オリンピックムーブメント」を展開するシステム及びスポーツ界のガバナンスのグローバル・モデルについて議論する。
   credits: '1.0'
-  data_update_date: '2026-01-05 17:02:33'
+  data_update_date: '2026-06-15 13:23:52'
   english_name: Sport Organisation and Governance
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   method: '1'
-  module: 秋C
+  module: 秋B
   name: Sport Organisation and Governance (スポーツ組織とガバナンス論)
   period: 集中
   remarks: '英語で授業。
 
-    1/22
+    12/8, 11, 15, 18
 
     対面(オンライン併用型)'
   requirement_subject_name: Sport Organisation and Governance(スポーツ組織とガバナンス論)
@@ -111159,6 +111194,8 @@
   period: 集中
   remarks: '英語で授業。This class is in English.
 
+    8/3,8/4,8/31
+
     対面'
   requirement_subject_name: フォトメディア演習A
   room: ''
@@ -112732,6 +112769,8 @@
   period: 集中
   remarks: '【授業スケジュール詳細】10月10日(土)@筑波大学人文社会科学系棟B218講師:宮田繁幸先生(東京福祉大学,東京文化財研究所)10月17日(土)@筑波大学人文社会科学系棟B218講師:宮田繁幸先生(東京福祉大学,東京文化財研究所)11月7日(土)3~5限@筑波大学人文社会科学系棟B218講師:石村智先生(東京文化財研究所など)11月8日(日)1~2限@東京文化財研究所
     https://www.tobunken.go.jp/japanese/navi/map.html講師:石村智先生(東京文化財研究所など)
+
+    10/10,10/17,11/7,11/8
 
     含野外調査
 
@@ -141784,7 +141823,7 @@
 - class_id: 0BTNA05
   class_outline: 研究指導教員の個別指導によって、学位論文のテーマの設定に必要な基礎的知識の取得方法とその内容について学ぶ。また討論を通じて各自の研究テーマを設定し、その研究実施に必要な研究方法を選択し、必要な申請手続きを行い、博士論文作成の見通しを立てる。
   credits: '2.0'
-  data_update_date: '2025-02-06 19:11:03'
+  data_update_date: '2026-06-17 08:43:49'
   english_name: Special Studies on Medical Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -141799,11 +141838,11 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 02EW004
-  teaching_staff: 医学学位プログラムリーダー
+  teaching_staff: 医学学位プログラムリーダー,医学学位プログラム研究指導教員
 - class_id: 0BTNA07
   class_outline: 各指導教員から研究指導を受け、研究結果に対する解析の仕方を学び、その意義について理解するとともに、研究成果に基づいた次の研究計画を立案し、それを実行することを繰り返し、学位論文作成につなげる。
   credits: '5.0'
-  data_update_date: '2026-04-09 09:16:20'
+  data_update_date: '2026-06-17 08:44:37'
   english_name: Special Practice in Medical Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -141818,7 +141857,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 02EW005
-  teaching_staff: 医学学位プログラムリーダー
+  teaching_staff: 医学学位プログラムリーダー,医学学位プログラム研究指導教員
 - class_id: 0BTNA0A
   class_outline: 国際共同研究に参加し、情報の交換と理解、および研究実践による先端技術と論理的思考方法を涵養する。あるいは、海外での研修を通して、海外の研究者と議論し、国際的に通用する研究を体感するとともに  研究手技・語学力を身につける。また、海外教育研究実習に参加し、英語による研究討論および実習指導を実践する。以上により、国際的に通用する研究者となるために必要なことを理解する。
   credits: '3.0'
@@ -141885,7 +141924,7 @@
 
     教育のあり方についての理解、教育改善の推進に貢献する知識、教員としての技、態度等を修得したかについて評価を受ける。'
   credits: '1.0'
-  data_update_date: '2026-06-04 12:08:31'
+  data_update_date: '2026-06-17 08:45:09'
   english_name: Training in Medical Science Education
   enrollment_application: ×
   enrollment_requirements: ''
@@ -141900,7 +141939,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2・3
   subject_code: 02EW010
-  teaching_staff: 医学学位プログラムリーダー
+  teaching_staff: 医学学位プログラムリーダー,医学学位プログラム研究指導教員
 - class_id: 0BTNA0H
   class_outline: 学位プログラム担当教員あるいは招聘された講演者の講演を聞き、討論を行うことにより、医学学位プログラム修了者に拓ける多様な将来像を認識し、自らのキャリアパスについて深く考察する。同級生や教員との議論を通じて、その実現に向けて、博士課程においてどのように学修するかの計画を立てる。研究指導教員の指導を受けて、今後の学習の目標と計画についてレポートを作成し、評価を受ける。
   credits: '1.0'
@@ -152480,6 +152519,8 @@
 
     英語で授業。
 
+    9/8-9/9
+
     対面'
   requirement_subject_name: フレッシュマン・セミナー
   room: ''
@@ -156568,7 +156609,7 @@
 - class_id: '1414014'
   class_outline: 人類は多くの有用な化学製品を製造し利用しているが、そのためには危険で有害な化学物質でも取扱う必要がある。本科目では、化学物質の危険性、有害性及び環境影響を理解している学生を主対象に、化学物質を取扱う際に留意すべき事項や手法を具体的な事例に基づいて講義する。本科目を通して、化学物質取扱作業に起因する事故、健康障害、環境汚染の具体的防止手法を理解し実践できる人材を育成する。
   credits: '1.0'
-  data_update_date: '2026-05-28 14:06:47'
+  data_update_date: '2026-06-18 17:09:45'
   english_name: Case Studies of Environment, Health and Safety for Chemists
   enrollment_application: ×
   enrollment_requirements: ''
@@ -177248,6 +177289,8 @@
   period: 集中
   remarks: '全学群対象。「基礎ロシア語A」及び「基礎ロシア語B」の履修者が望ましい。
 
+    8/17-8/19
+
     G科目
 
     オンライン(同時双方向型)'
@@ -184164,7 +184207,7 @@
 - class_id: '6128011'
   class_outline: 情報の基本概念と社会におけるコンピュータとインターネットの位置づけを理解した上で、コンピュータの原理と構成、ソフトウェアの原理、インターネットの仕組みなどについて学ぶ。コンピュータの歴史から始まり、Webやメールの仕組みを知ることで、現代社会におけるITの役割や、筑波大学における情報環境と注意を学ぶ。併せて、インターネットを安全かつ有意義に活用するために必要な情報倫理、情報セキュリティ、知的財産権に関する知識を学ぶ。
   credits: '1.0'
-  data_update_date: '2025-09-26 14:31:31'
+  data_update_date: '2026-06-17 10:18:21'
   english_name: Information Literacy (Lectures)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -184174,15 +184217,13 @@
   period: 火3-5
   remarks: '英語で授業。
 
-    対面
-
-    マレーシア校開講科目'
-  requirement_subject_name: 情報リテラシー(講義)
+    対面'
+  requirement_subject_name: ''
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: '1'
-  subject_code: '6128011'
+  subject_code: '6101101'
   teaching_staff: 手塚 太郎,学際サイエンス・デザイン専門学群全教員,川? レスリー タック
 - class_id: '6190101'
   class_outline: In this course, along with understanding the basic concepts of information
@@ -185329,7 +185370,7 @@
 - class_id: '6428012'
   class_outline: コンピュータを利用した基礎的な情報利用技術を身につける。メールの送り方、文書作成ソフトウェアを用いた文書の作成、図や表の作り方など基本的なレポートの作成方法、プレゼンテーション作成ソフトウェアを用いたプレゼンテーション作成を通じた情報表現の手法や、情報の受け手を意識した情報発信の手法を実践的に修得する。インターネットにおける情報倫理や情報セキュリティに配慮した情報収集、意見交換、情報発信などの問題点を学ぶ。
   credits: '1.0'
-  data_update_date: '2025-09-26 14:32:54'
+  data_update_date: '2026-06-17 10:08:55'
   english_name: Information Literacy (Exercises)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -185339,15 +185380,13 @@
   period: 火3-5
   remarks: '英語で授業。
 
-    対面
-
-    マレーシア校開講科目'
-  requirement_subject_name: 情報リテラシー(演習)
+    対面'
+  requirement_subject_name: ''
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: '1'
-  subject_code: '6428012'
+  subject_code: '6401102'
   teaching_staff: 手塚 太郎,学際サイエンス・デザイン専門学群全教員,川? レスリー タック
 - class_id: '6490102'
   class_outline: This course teaches fundamental skills for computer use. By using
@@ -187122,7 +187161,7 @@
     1 英語による実践的なコミュニケーション能力・プレゼンテーション能力\n2 派遣国や日本の社会・文化に対する理解\n3 派遣国における発展段階に応じた課題、適正技術へのニーズ等に対する理解\
     \ \n4 適正技術の開発・実装に向けた課題の抽出"
   credits: '2.0'
-  data_update_date: '2026-02-12 18:41:59'
+  data_update_date: '2026-06-15 11:37:44'
   english_name: International Partnership Study (Southeast Asia)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -187131,6 +187170,8 @@
   name: 国際パートナーシップ研修(東南アジア)
   period: 集中
   remarks: '全学自由科目(特設)。本学および国際基督教大学の学生に限る
+
+    9/5-9/11
 
     詳細後日周知
 
@@ -187472,6 +187513,8 @@
   name: 海外語学研修英語B
   period: 集中
   remarks: 'グローバルコミュニケーション教育センター開設。ビクトリア大学ウェリントン校のEnglish Language Instituteによって実施される6週間のコースは、ウェリントンのケルバーンキャンパスで対面で行われる。履修を希望する場合は、必ず、事前に開催される対面/オンラインの説明会に参加すること。(説明会参加者にのみ、関連情報の詳細を共有し、履修を承認する。)
+
+    2/17-3/25
 
     G科目'
   requirement_subject_name: 海外語学研修英語B
@@ -194694,6 +194737,8 @@
   period: 集中
   remarks: '西暦偶数年度開講。
 
+    7/20,7/22,7/26,7/29
+
     対面(オンライン併用型)'
   requirement_subject_name: 宗教学-a
   room: ''
@@ -195030,6 +195075,8 @@
 
     西暦偶数年度開講。
 
+    7/10
+
     対面(オンライン併用型)'
   requirement_subject_name: 宗教学演習IV-c
   room: ''
@@ -195131,7 +195178,9 @@
   module: 春C夏季休業中秋C春季休業中
   name: 東洋宗教思想史演習II-c
   period: 集中
-  remarks: 対面(オンライン併用型)
+  remarks: '7/10
+
+    対面(オンライン併用型)'
   requirement_subject_name: 東洋宗教思想史演習II-c
   room: ''
   short_term_students_application: ×
@@ -204450,7 +204499,7 @@
     listening and comprehension skills by listening to lectures, looking, and analyzing
     artworks, and discussing your opinions about Japanese visual culture.
   credits: '1.0'
-  data_update_date: '2025-12-14 14:36:56'
+  data_update_date: '2026-06-17 17:03:47'
   english_name: English for Specific Purposes I-B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -204469,12 +204518,12 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: AC52082
-  teaching_staff: 阿部 幸大
+  teaching_staff: セン ラージ ラキ
 - class_id: AC52092
   class_outline: This course focuses on developing reading and listening skills and
     employs a topical approach to the basic concepts of comparative and gender studies.
   credits: '1.0'
-  data_update_date: '2026-02-12 08:33:35'
+  data_update_date: '2026-06-17 17:03:47'
   english_name: English for Specific Purposes I-A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -204546,7 +204595,7 @@
   class_outline: This course focuses on developing reading and listening skills, while
     employing a topical focus on the basic concepts of cultural anthropology.
   credits: '1.0'
-  data_update_date: '2025-12-14 14:38:54'
+  data_update_date: '2026-06-17 16:19:16'
   english_name: English for Specific Purposes I-B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -204565,7 +204614,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: AC52122
-  teaching_staff: 阿部 幸大
+  teaching_staff: タプスフィルド エイミー レイチェル
 - class_id: AC53122
   class_outline: This course focuses on developing students' ability to read, analyse,
     and evaluate academic publications in English.
@@ -204683,14 +204732,14 @@
 - class_id: AC54022
   class_outline: ドイツ語力(中級)の伸長を目指す。授業は日本語、ドイツ語で行う。ドイツ語圏の文学・文化研究を目指す人はむろん、広くドイツに関心のある学生に履修を強く勧める。
   credits: '1.0'
-  data_update_date: '2026-01-28 14:55:51'
+  data_update_date: '2026-06-17 16:18:05'
   english_name: German for Specialized Subjects
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   method: '2'
   module: 秋AB
   name: 専門ドイツ語
-  period: 月4
+  period: 木1
   remarks: '初修外国語でドイツ語を選択した学生に限る。AC54002の単位取得者は履修できない。
 
     対面'
@@ -214395,6 +214444,8 @@
 
     西暦偶数年度開講。
 
+    8/31-9/4
+
     対面'
   requirement_subject_name: 日本語方言研究フィールド実習II
   room: ''
@@ -215656,7 +215707,7 @@
 - class_id: BB00101
   class_outline: 憲法の基本原理と構造を概説する。学生が、憲法の基礎知識を身につけ、社会や日常生活におけるさまざまなケースで、憲法の視点から主体的に考える能力を養うことを目標にする。
   credits: '2.0'
-  data_update_date: '2025-09-12 15:18:12'
+  data_update_date: '2026-06-19 11:54:05'
   english_name: Constitutional Law of Japan
   enrollment_application: ''
   enrollment_requirements: ''
@@ -215673,7 +215724,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: BB00101
-  teaching_staff: 秋山 肇,樋口 惟月
+  teaching_staff: 橋爪 英輔
 - class_id: BB00201
   class_outline: 憲法の基本原理と構造を概説する。学生が、憲法の基礎知識を身につけ、社会や日常生活におけるさまざまなケースで、憲法の視点から主体的に考える能力を養うことを目標にする。
   credits: '2.0'
@@ -215707,6 +215758,8 @@
   name: 日本国憲法
   period: 集中
   remarks: '体育・看護・医療対象
+
+    9/24,9/25,9/28,9/29
 
     詳細後日周知
 
@@ -215755,6 +215808,8 @@
   name: 日本国憲法
   period: 集中
   remarks: '人文(3年次)・ 国際・応理・工シス・社工・情報・創成・知識(1年次)・総合学域群対象
+
+    8/26-8/28,8/31
 
     詳細後日周知
 
@@ -217346,7 +217401,9 @@
   module: 春C夏季休業中
   name: 民事法概論
   period: 集中
-  remarks: 'CDP
+  remarks: '7/27-8/15
+
+    CDP
 
     対面(オンライン併用型)
 
@@ -217574,7 +217631,9 @@
   module: 春C夏季休業中
   name: 担保物権
   period: 集中
-  remarks: '対面(オンライン併用型)
+  remarks: '7/27-8/25
+
+    対面(オンライン併用型)
 
     令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。'
   requirement_subject_name: 担保物権
@@ -217595,7 +217654,9 @@
   module: 春C夏季休業中
   name: 債権総論
   period: 集中
-  remarks: '対面(オンライン併用型)
+  remarks: '7/27-8/25
+
+    対面(オンライン併用型)
 
     令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。'
   requirement_subject_name: 債権総論
@@ -217681,7 +217742,9 @@
   module: 春C夏季休業中
   name: 信託法
   period: 集中
-  remarks: '対面(オンライン併用型)
+  remarks: '7/27-8/15
+
+    対面(オンライン併用型)
 
     令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。'
   requirement_subject_name: 信託法
@@ -217752,6 +217815,8 @@
   period: 集中
   remarks: '令和4年度まで開講されていた「会社法I」「会社法II」とは、重ねて卒業要件単位として算入できない
 
+    7/27-8/25
+
     対面(オンライン併用型)
 
     令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。'
@@ -217797,6 +217862,8 @@
   name: 民事訴訟法A
   period: 集中
   remarks: '「BB26001 民事訴訟法I」と「BB26031 民事訴訟法II」の双方を履修済みの学生は履修不可。
+
+    7/27-8/25
 
     対面(オンライン併用型)
 
@@ -220362,7 +220429,7 @@
 - class_id: BB41691
   class_outline: 公的年金制度・企業年金制度そして年金資産運用の基礎を講義する。SDGsの概念が年金運用においても注目を浴びている背景やその投資手法との関係も学ぶ。
   credits: '1.0'
-  data_update_date: '2026-03-11 17:21:43'
+  data_update_date: '2026-06-18 15:10:17'
   english_name: Introduction to Pension Systems and Asset Management (Endowed Course
     by Sumitomo Mitsui Trust Bank, Limited)
   enrollment_application: ×
@@ -241221,6 +241288,8 @@
   period: 集中
   remarks: 'EC31351 を修得済みの者は履修できない。
 
+    7/13,7/14
+
     対面'
   requirement_subject_name: 森林遺伝学
   room: ''
@@ -242661,6 +242730,8 @@
 
     西暦偶数年度開講。
 
+    9/24-9/26
+
     対面'
   requirement_subject_name: 森林管理フィールド実習
   room: ''
@@ -242745,7 +242816,7 @@
     forestry, and environmental management related to agriculture and forestry in
     the world.
   credits: '1.0'
-  data_update_date: '2026-04-20 18:38:04'
+  data_update_date: '2026-06-18 10:32:15'
   english_name: International Agricultural and Forestry Policies I
   enrollment_application: ''
   enrollment_requirements: ''
@@ -247697,7 +247768,7 @@
     forestry, and environmental management related to agriculture and forestry in
     the world.
   credits: '1.0'
-  data_update_date: '2026-04-20 18:38:04'
+  data_update_date: '2026-06-18 10:32:15'
   english_name: International Agricultural and Forestry Policies I
   enrollment_application: ''
   enrollment_requirements: ''
@@ -256817,12 +256888,12 @@
 - class_id: FE14111
   class_outline: ''
   credits: '1.0'
-  data_update_date: '2026-02-05 10:34:28'
+  data_update_date: '2026-06-18 17:10:45'
   english_name: Advanced Lecture in Physical Chemistry I
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 春学期
+  module: 夏季休業中
   name: 物理化学特論I
   period: 集中
   remarks: 開講する場合は、後日掲示する。
@@ -256832,7 +256903,7 @@
   short_term_students_requirements: ''
   standard_course_year: 3・4
   subject_code: FE14111
-  teaching_staff: ''
+  teaching_staff: 平尾 公彦
 - class_id: FE14121
   class_outline: ''
   credits: '1.0'
@@ -271196,14 +271267,14 @@
     in other disciplines, such as systems of particles, kinematics and plane motion
     of rigid bodies and principles about analytical vector mechanics.
   credits: '2.0'
-  data_update_date: '2023-02-13 09:33:12'
+  data_update_date: '2026-06-19 13:15:05'
   english_name: Mechanics II
   enrollment_application: △
   enrollment_requirements: ''
   method: '4'
   module: 春AB
   name: Mechanics II
-  period: 金5,6
+  period: 水5,6
   remarks: '英語で授業。
 
     対面'
@@ -271459,6 +271530,8 @@
 
     英語で授業。
 
+    4/1-8/6
+
     対面
 
     Only for IDE students'
@@ -271487,6 +271560,8 @@
   remarks: '英語で授業
 
     英語で授業。
+
+    4/1-8/6
 
     対面
 
@@ -271517,6 +271592,8 @@
 
     英語で授業。
 
+    4/1-8/6
+
     対面
 
     Only for IDE students'
@@ -271544,6 +271621,8 @@
   period: 随時
   remarks: '英語で授業。
 
+    10/1-2/15
+
     対面
 
     Only for IDE students'
@@ -271561,15 +271640,17 @@
     their own abilities and aptitude. This course is an intensive course designed
     to provide students an internship experience in workplaces.
   credits: '2.0'
-  data_update_date: '2026-01-20 11:16:39'
-  english_name: Internship II
+  data_update_date: '2026-06-19 13:36:38'
+  english_name: Internship III
   enrollment_application: ×
   enrollment_requirements: ''
   method: '3'
   module: 秋学期
-  name: Internship II
+  name: Internship III
   period: 随時
   remarks: '英語で授業。
+
+    10/1-2/15
 
     対面
 
@@ -276352,7 +276433,7 @@
   period: 集中
   remarks: '時限等詳細は掲示板にて周知する。
 
-    7/13(1-4限),7/14(1-4限),7/15(1-2限)
+    7/27(1-4限),7/28(1-4限),7/29(1-2限)
 
     対面
 
@@ -276497,7 +276578,7 @@
 - class_id: GE11212
   class_outline: 前半は、分類法と索引法のツールおよび主題分析の方法に関する演習を行う。後半は、情報検索システムの処理過程を学習すると共に、情報検索システムの構築に関する演習を行う。
   credits: '2.0'
-  data_update_date: '2024-11-09 18:04:53'
+  data_update_date: '2026-06-18 01:43:23'
   english_name: Knowledge Information Resources Lab III-1
   enrollment_application: △
   enrollment_requirements: ''
@@ -276516,7 +276597,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: GE11202
-  teaching_staff: 小泉 公乃,上保 秀夫
+  teaching_staff: 小泉 公乃,ファム フーロン
 - class_id: GE11222
   class_outline: 前半は、分類法と索引法のツールおよび主題分析の方法に関する演習を行う。後半は、情報検索システムの処理過程を学習すると共に、情報検索システムの構築に関する演習を行う。
   credits: '2.0'
@@ -277748,12 +277829,9 @@
   subject_code: GE50102
   teaching_staff: バールィシェフ エドワルド
 - class_id: GE50812
-  class_outline: This course supports students with basic English skills as they learn
-    to read, understand, and present academic papers in English. The curriculum emphasizes
-    effective summarizing, paraphrasing, and presentation skills, with careful guidance
-    on the responsible use of AI tools.
+  class_outline: 専門科目や卒業研究に必要な英語読解力や表現力を学術的なテキストの講読や作文の練習等を通じて習得する。
   credits: '1.0'
-  data_update_date: '2025-08-20 15:42:19'
+  data_update_date: '2026-06-18 01:26:47'
   english_name: English for Specialized Subjects C-1
   enrollment_application: ''
   enrollment_requirements: ''
@@ -277761,28 +277839,7 @@
   module: 秋AB
   name: 専門英語C-1
   period: 月4
-  remarks: '対面(オンライン併用型)
-
-    知識科学主専攻生対象'
-  requirement_subject_name: 専門英語C
-  room: ''
-  short_term_students_application: ×
-  short_term_students_requirements: ''
-  standard_course_year: '3'
-  subject_code: GE50202
-  teaching_staff: 陳 映廷
-- class_id: GE50822
-  class_outline: 専門科目や卒業研究に必要な英語読解力や表現力を学術的なテキストの講読や作文の練習等を通じて習得する。
-  credits: '1.0'
-  data_update_date: '2025-02-25 22:45:52'
-  english_name: English for Specialized Subjects C-2
-  enrollment_application: ''
-  enrollment_requirements: ''
-  method: '2'
-  module: 秋AB
-  name: 専門英語C-2
-  period: 月4
-  remarks: '知識情報システム主専攻生対象.
+  remarks: '知識科学主専攻生対象
 
     対面
 
@@ -277794,6 +277851,30 @@
   standard_course_year: '3'
   subject_code: GE50202
   teaching_staff: バールィシェフ エドワルド
+- class_id: GE50822
+  class_outline: This course supports students with basic English skills as they learn
+    to read, understand, and present academic papers in English. The curriculum emphasizes
+    effective summarizing, paraphrasing, and presentation skills, with careful guidance
+    on the responsible use of AI tools.
+  credits: '1.0'
+  data_update_date: '2026-06-18 01:27:43'
+  english_name: English for Specialized Subjects C-2
+  enrollment_application: ''
+  enrollment_requirements: ''
+  method: '2'
+  module: 秋AB
+  name: 専門英語C-2
+  period: 月4
+  remarks: '知識情報システム主専攻生対象.
+
+    対面(オンライン併用型)'
+  requirement_subject_name: 専門英語C
+  room: ''
+  short_term_students_application: ×
+  short_term_students_requirements: ''
+  standard_course_year: '3'
+  subject_code: GE50202
+  teaching_staff: 陳 映廷
 - class_id: GE50832
   class_outline: この授業では、はじめに、専門科目や卒業研究に必要な英文読解力を学術論文の精読を通じて修得する。そのうえで、英語による発表・議論の映像資料の聴解を通して、国際会議等でコミュニケーションをするための基礎的な力を身に付けることを目指す。学術論文の精読では、主に図書館情報学分野を主題として扱う。英語による発表・議論の映像資料は、分野を問わず優良なものを扱う。
   credits: '1.0'
@@ -283077,7 +283158,9 @@
   module: 春A
   name: 微生物学A
   period: 集中
-  remarks: オンライン(オンデマンド型)
+  remarks: '4/1-4/7
+
+    オンライン(オンデマンド型)'
   requirement_subject_name: 微生物学A
   room: ''
   short_term_students_application: ×
@@ -283408,7 +283491,7 @@
   module: 秋ABC
   name: 病態検査学
   period: 集中
-  remarks: '10/5-29、11/4-6、12/7-8
+  remarks: '10/5-29,11/4-6,12/7-8
 
     詳細後日周知
 
