@@ -10308,7 +10308,7 @@
   "02BQ207": {
     "class_id": "02BQ207",
     "name": "Advanced Nanotechnology I",
-    "description": "0AJJA33と同一。\\n英語で授業。\\nオンライン(オンデマンド型)\\nオンライン(同時双方向型)",
+    "description": "0AJJA33と同一。\\n英語で授業。\\n7/21-7/24\\nオンライン(オンデマンド型)\\nオンライン(同時双方向型)",
     "module": [
       [
         "春C"
@@ -10340,15 +10340,15 @@
   "02BQ209": {
     "class_id": "02BQ209",
     "name": "Advanced Nanotechnology IV",
-    "description": "0AJJA36と同一。\\n英語で授業。\\nオンライン(オンデマンド型)",
+    "description": "0AJJA36と同一。\\n英語で授業。\\n2026年度開講せず。\\nオンライン(オンデマンド型)\\n2026/6/22開講中止決定",
     "module": [
       [
-        "春C"
+        "通年"
       ]
     ],
     "period": [
       [
-        "集中"
+        "随時"
       ]
     ],
     "room": " "
@@ -10356,7 +10356,7 @@
   "02BQ210": {
     "class_id": "02BQ210",
     "name": "Advanced Nanotechnology II",
-    "description": "0AJJA34と同一。\\n英語で授業。\\nオンライン(同時双方向型)",
+    "description": "0AJJA34と同一。\\n英語で授業。\\n7/27-7/31\\nオンライン(同時双方向型)",
     "module": [
       [
         "春C"
@@ -10549,7 +10549,7 @@
   "02CF910": {
     "class_id": "02CF910",
     "name": "Policy and case study on information-intelligence-based disaster risk management",
-    "description": "今後の状況により、オンライン授業となる可能性あり。\\n0BLC510と同一。\\n英語で授業。\\n対面",
+    "description": "今後の状況により、オンライン授業となる可能性あり。\\n0BLC510と同一。\\n英語で授業。\\n10/3-10/4\\n対面",
     "module": [
       [
         "秋A"
@@ -12189,7 +12189,7 @@
     "description": "西暦偶数年度開講。\\n0ABACB8と同一。\\n対面",
     "module": [
       [
-        "秋ABC"
+        "春C"
       ]
     ],
     "period": [
@@ -16946,6 +16946,23 @@
     ],
     "room": " "
   },
+  "02FA220": {
+    "class_id": "02FA220",
+    "name": "Advanced Topics in Financial Business",
+    "description": "0BDM212と同一。\\n1/28,2/4,2/18,2/25,3/4\\nオンライン(対面併用型)\\n非常勤講師・開講未定",
+    "module": [
+      [
+        "秋C",
+        "夏季休業中"
+      ]
+    ],
+    "period": [
+      [
+        "集中"
+      ]
+    ],
+    "room": " "
+  },
   "02FA225": {
     "class_id": "02FA225",
     "name": "Fundamentals of Mathematical Programming",
@@ -19474,7 +19491,7 @@
   "0A00103": {
     "class_id": "0A00103",
     "name": "Introduction to Academic Integrity",
-    "description": "オンライン(オンデマンド型)",
+    "description": "7/6\\nオンライン(オンデマンド型)",
     "module": [
       [
         "春BC"
@@ -23294,7 +23311,7 @@
     "description": "西暦偶数年度開講。\\n02DC317と同一。\\n対面",
     "module": [
       [
-        "秋ABC"
+        "春C"
       ]
     ],
     "period": [
@@ -38855,7 +38872,7 @@
   "0AH0210": {
     "class_id": "0AH0210",
     "name": "Basis and practical training of machining",
-    "description": "対面\\n講義 8/26(火)\\n実習(9/1,2,3,8,9,10のいずれか1日を選択)\\nいずれも対面形式でおこなう。\\nなお、実習の制限により、受講希望者の人数によっては抽選によって受講者を決定する。",
+    "description": "8/21,8/31,9/1,9/2,9/7,9/8,9/9\\n対面\\n講義 8/21(金) 実習(8/31,9/1,2,7,8,9のいずれか1日を選択)いずれも対面形式でおこなう。なお、実習の制限により、受講希望者の人数によっては抽選によって受講者を決定する。",
     "module": [
       [
         "通年"
@@ -39048,7 +39065,7 @@
   "0AH0313": {
     "class_id": "0AH0313",
     "name": "Topics in Agrobiological Science I",
-    "description": "For students of the Agro-biological Resources degree program, this will be the Agro-biological Resources course.\\n対面(オンライン併用型)",
+    "description": "For students of the Agro-biological Resources degree program, this will be the Agro-biological Resources course.\\n12/12\\n対面(オンライン併用型)",
     "module": [
       [
         "秋B"
@@ -47064,7 +47081,7 @@
   "0AJJA33": {
     "class_id": "0AJJA33",
     "name": "Advanced Nanotechnology I",
-    "description": "02BQ207と同一。\\n英語で授業。\\nオンライン(オンデマンド型)\\nオンライン(同時双方向型)",
+    "description": "02BQ207と同一。\\n英語で授業。\\n7/21-7/24\\nオンライン(オンデマンド型)\\nオンライン(同時双方向型)",
     "module": [
       [
         "春C"
@@ -47080,7 +47097,7 @@
   "0AJJA34": {
     "class_id": "0AJJA34",
     "name": "Advanced Nanotechnology II",
-    "description": "02BQ210と同一。\\n英語で授業。\\nオンライン(同時双方向型)",
+    "description": "02BQ210と同一。\\n英語で授業。\\n7/27-7/31\\nオンライン(同時双方向型)",
     "module": [
       [
         "春C"
@@ -47112,15 +47129,15 @@
   "0AJJA36": {
     "class_id": "0AJJA36",
     "name": "Advanced Nanotechnology IV",
-    "description": "02BQ209と同一。\\n英語で授業。\\nオンライン(オンデマンド型)",
+    "description": "02BQ209と同一。\\n英語で授業。\\n2026年度開講せず。\\nオンライン(オンデマンド型)\\n2026/6/22開講中止決定",
     "module": [
       [
-        "春C"
+        "通年"
       ]
     ],
     "period": [
       [
-        "集中"
+        "随時"
       ]
     ],
     "room": " "
@@ -50189,7 +50206,7 @@
   "0AL0205": {
     "class_id": "0AL0205",
     "name": "Wellness Service Science",
-    "description": "履修人数によりサービス工学学位プログラム以外の学生の履修を制限することもある。\\nオンライン(同時双方向型)",
+    "description": "履修人数によりサービス工学学位プログラム以外の学生の履修を制限することもある。\\n11/18,11/24,12/5\\nオンライン(同時双方向型)",
     "module": [
       [
         "秋B"
@@ -50937,7 +50954,7 @@
   "0AL5202": {
     "class_id": "0AL5202",
     "name": "Special Lecture on Service Engineering III",
-    "description": "履修人数によりサービス工学学位プログラム以外の学生の履修を制限することもある。\\n対面",
+    "description": "履修人数によりサービス工学学位プログラム以外の学生の履修を制限することもある。\\n9/5,9/6,9/19\\n対面",
     "module": [
       [
         "通年"
@@ -51051,7 +51068,7 @@
   "0AL5306": {
     "class_id": "0AL5306",
     "name": "Human Factors",
-    "description": "対面",
+    "description": "8/29-8/30\\n対面",
     "module": [
       [
         "通年"
@@ -51084,7 +51101,7 @@
   "0AL5308": {
     "class_id": "0AL5308",
     "name": "Topics in Risk and Resilience Engineering in Doctoral Program (Security)",
-    "description": "対面",
+    "description": "10/3-10/4\\n対面",
     "module": [
       [
         "通年"
@@ -51268,7 +51285,7 @@
   "0AL5319": {
     "class_id": "0AL5319",
     "name": "Policy and case study on information-intelligence-based disaster risk management",
-    "description": "01CF910と同一。この授業は一部を除いて英語で行われます。\\n英語で授業。\\n対面",
+    "description": "01CF910と同一。この授業は一部を除いて英語で行われます。\\n英語で授業。\\n10/3-10/4\\n対面",
     "module": [
       [
         "秋A"
@@ -54683,7 +54700,7 @@
   "0AN0107": {
     "class_id": "0AN0107",
     "name": "Physiology of Plants",
-    "description": "西暦偶数年度開講。\\n9/25,26\\n対面",
+    "description": "西暦偶数年度開講。\\n9/25,26\\n対面(オンライン併用型)",
     "module": [
       [
         "通年"
@@ -56233,7 +56250,7 @@
   "0ANB007": {
     "class_id": "0ANB007",
     "name": "Topics in Agrobiological Science II",
-    "description": "",
+    "description": "1/9、30",
     "module": [
       [
         "秋C"
@@ -58939,7 +58956,7 @@
   "0ANC332": {
     "class_id": "0ANC332",
     "name": "Lecture on Sedimentary Geomorphology",
-    "description": "西暦偶数年度開講。",
+    "description": "西暦偶数年度開講。\\n7/21-7/23",
     "module": [
       [
         "春C"
@@ -67808,8 +67825,11 @@
   "0ATB129": {
     "class_id": "0ATB129",
     "name": "Special Lecture on Psychotherapy II",
-    "description": "西暦偶数年度開講。\\nオンライン(オンデマンド型)",
+    "description": "西暦偶数年度開講。\\n9/28-30\\nオンライン(オンデマンド型)",
     "module": [
+      [
+        "夏季休業中"
+      ],
       [
         "夏季休業中"
       ]
@@ -90424,6 +90444,23 @@
     ],
     "room": " "
   },
+  "0BDM212": {
+    "class_id": "0BDM212",
+    "name": "Advanced Topics in Financial Business",
+    "description": "1/28(木)、2/4(木)、2/18(木)、2/25(木)、3/4(木)  ※実施不可日がある場合等、3/11(木)が予備日。 ※第7・8時限に実施、ハイフレックス形式\\n02FA220と同一。\\n1/28,2/4,2/18,2/25,3/4\\nオンライン(対面併用型)",
+    "module": [
+      [
+        "秋C",
+        "夏季休業中"
+      ]
+    ],
+    "period": [
+      [
+        "集中"
+      ]
+    ],
+    "room": " "
+  },
   "0BDM213": {
     "class_id": "0BDM213",
     "name": "Fundamentals of Mathematical Programming",
@@ -96937,7 +96974,7 @@
   "0BLC500": {
     "class_id": "0BLC500",
     "name": "Topics in Risk and Resilience Engineering in Doctoral Program (Security)",
-    "description": "対面",
+    "description": "10/3-10/4\\n対面",
     "module": [
       [
         "通年"
@@ -97081,7 +97118,7 @@
   "0BLC510": {
     "class_id": "0BLC510",
     "name": "Policy and case study on information-intelligence-based disaster risk management",
-    "description": "02CF910と同一。この授業は一部を除いて英語で行われます。\\n02CF910と同一。\\n英語で授業。\\n対面",
+    "description": "02CF910と同一。この授業は一部を除いて英語で行われます。\\n02CF910と同一。\\n英語で授業。\\n10/3-10/4\\n対面",
     "module": [
       [
         "秋A"
@@ -110748,7 +110785,7 @@
     "description": "【事前登録対象】【定員130名】(体育開設)\\n対面",
     "module": [
       [
-        "春AC"
+        "春BC"
       ]
     ],
     "period": [
@@ -118682,7 +118719,7 @@
   "3187912": {
     "class_id": "3187912",
     "name": "TOEFL Academic English I",
-    "description": "原則としてTOEFL ITP 450-499点, TOEIC 450-599点(またはそれに準ずる英語レベル)の学生対象。準備ができ次第開講。履修申請方法等は後日掲示により周知。\\n英語で授業。\\nG科目\\n対面",
+    "description": "原則としてTOEFL ITP 450-499点, TOEIC 450-599点(またはそれに準ずる英語レベル)の学生対象。準備ができ次第開講。履修申請方法等は後日掲示により周知。\\n英語で授業。\\n9/9-9/11\\nG科目\\n対面",
     "module": [
       [
         "通年"
@@ -118714,7 +118751,7 @@
   "3187952": {
     "class_id": "3187952",
     "name": "TOEFL Academic English II",
-    "description": "原則としてTOEFL ITP500-549点、TOEIC600-730点(またはそれに準ずる英語力)の学生対象。準備ができ次第開講。履修申請方法等は後日掲示で周知。\\n英語で授業。\\nG科目\\n対面",
+    "description": "原則としてTOEFL ITP500-549点、TOEIC600-730点(またはそれに準ずる英語力)の学生対象。準備ができ次第開講。履修申請方法等は後日掲示で周知。\\n英語で授業。\\n9/16-9/18\\nG科目\\n対面",
     "module": [
       [
         "通年"
@@ -158377,7 +158414,7 @@
   "BB41521": {
     "class_id": "BB41521",
     "name": "Public Finance",
-    "description": "公共システムエリア(2019年度以降入学者),国際・公共システムエリア(2018年度以前入学者)\\nFH27061と同一。\\n対面(オンライン併用型)",
+    "description": "公共システムエリア(2019年度以降入学者),国際・公共システムエリア(2018年度以前入学者)\\nFH27061と同一。\\n8/24-8/28\\n対面(オンライン併用型)",
     "module": [
       [
         "通年"
@@ -172197,7 +172234,7 @@
   "EC25071": {
     "class_id": "EC25071",
     "name": "Forest Resource Economics",
-    "description": "基幹科目(2024年度以前入学者対象)(コース共通) 環境工学コース 社会経済学コース  横断領域科目「環境」「国際」\\n西暦偶数年度開講。\\n対面",
+    "description": "基幹科目(2024年度以前入学者対象)(コース共通) 環境工学コース 社会経済学コース  横断領域科目「環境」「国際」\\n西暦偶数年度開講。\\n12/5,12/6,12/19,12/20\\n対面",
     "module": [
       [
         "秋AB"
@@ -173725,7 +173762,7 @@
   "EC34161": {
     "class_id": "EC34161",
     "name": "Forest Inventory",
-    "description": "西暦偶数年度開講。\\n対面",
+    "description": "西暦偶数年度開講。\\n9/28,9/29\\n対面",
     "module": [
       [
         "通年"
@@ -173783,6 +173820,9 @@
       ]
     ],
     "period": [
+      [
+        "応談"
+      ],
       [
         "集中"
       ]
@@ -191796,10 +191836,10 @@
   "FH25011": {
     "class_id": "FH25011",
     "name": "Special Lectures on Socio-Economic Systems I (Introduction to Socio-Economic Data Analysis)",
-    "description": "オンライン(オンデマンド型)",
+    "description": "9/3,9/4\\n対面",
     "module": [
       [
-        "春C"
+        "通年"
       ]
     ],
     "period": [
@@ -191812,7 +191852,7 @@
   "FH25031": {
     "class_id": "FH25031",
     "name": "Special Lectures on Socio-economic Systems III(Brain and Society)",
-    "description": "対面",
+    "description": "9/6,9/19\\n対面",
     "module": [
       [
         "通年"
@@ -191995,7 +192035,7 @@
   "FH27061": {
     "class_id": "FH27061",
     "name": "Public Finance",
-    "description": "公共システムエリア(2019年度以降入学者),国際・公共システムエリア(2018年度以前入学者)\\nBB41521と同一。\\n対面(オンライン併用型)",
+    "description": "公共システムエリア(2019年度以降入学者),国際・公共システムエリア(2018年度以前入学者)\\nBB41521と同一。\\n8/24-8/28\\n対面(オンライン併用型)",
     "module": [
       [
         "通年"
@@ -192097,7 +192137,7 @@
   "FH32031": {
     "class_id": "FH32031",
     "name": "Marketing",
-    "description": "マネジメントエリア\\n詳細後日周知\\n対面\\n2018年度までの「マーケティング工学」に相当。",
+    "description": "マネジメントエリア\\n9/5,9/6,9/12,9/13\\n詳細後日周知\\n対面\\n2018年度までの「マーケティング工学」に相当。",
     "module": [
       [
         "通年"
@@ -204294,22 +204334,6 @@
     ],
     "room": " "
   },
-  "HE39013": {
-    "class_id": "HE39013",
-    "name": "Clinical Practice in Laboratories",
-    "description": "医療科学主専攻は必修科目、国際医療科学主専攻は選択科目である。日程等の詳細はオリエンテーション時に案内する。\\n12/7-10\\n対面",
-    "module": [
-      [
-        "秋AB"
-      ]
-    ],
-    "period": [
-      [
-        "集中"
-      ]
-    ],
-    "room": " "
-  },
   "HE39023": {
     "class_id": "HE39023",
     "name": "Graduation Research",
@@ -204393,7 +204417,7 @@
   "HE40061": {
     "class_id": "HE40061",
     "name": "English Communication for Medical Sciences I",
-    "description": "医療科学類国際医療科学主専攻学生に限る。\\n英語で授業。\\n詳細後日周知\\n対面(オンライン併用型)\\nオンライン又は対面。",
+    "description": "医療科学類国際医療科学主専攻学生に限る。\\n英語で授業。\\n10/2-10/26,11/6-11/30,12/4-12/11\\n詳細後日周知\\n対面(オンライン併用型)\\nオンライン又は対面。",
     "module": [
       [
         "秋ABC"
@@ -204562,7 +204586,7 @@
   "HE40161": {
     "class_id": "HE40161",
     "name": "Topics in Vascular Biology",
-    "description": "原則英語、場合によっては日本語でも授業。\\n英語で授業。\\n10/2、7、14,16,21,23,28,11/6,11,18\\n詳細後日周知\\n対面",
+    "description": "原則英語、場合によっては日本語でも授業。\\n英語で授業。\\n詳細後日周知\\n対面",
     "module": [
       [
         "秋AB"
@@ -206701,7 +206725,7 @@
     "description": "専門導入科目(事前登録対象)\\n対面",
     "module": [
       [
-        "春AC"
+        "春BC"
       ]
     ],
     "period": [
@@ -206717,7 +206741,7 @@
     "description": "専門導入科目(事前登録対象)\\nオンライン(オンデマンド型)",
     "module": [
       [
-        "春AC"
+        "春BC"
       ]
     ],
     "period": [
@@ -210655,7 +210679,7 @@
     "description": "必修、3クラスで実施\\n対面",
     "module": [
       [
-        "春A"
+        "春B"
       ],
       [
         "春C"
