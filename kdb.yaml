@@ -2499,7 +2499,7 @@
 - class_id: 01LA302
   class_outline: 企業活動のグローバル化を背景として、現代の国際取引法の基礎理論を学び、その応用として実際の国際取引・国際金融取引の多様な形態とそれに関連する法的諸問題を検討する。授業は講義形式とする。
   credits: '2.0'
-  data_update_date: '2026-01-19 18:46:35'
+  data_update_date: '2026-07-10 12:41:44'
   english_name: Law of International Business Transactions
   enrollment_application: ''
   enrollment_requirements: ''
@@ -2509,14 +2509,16 @@
   period: 木7,8
   remarks: '0ADL302と同一。
 
-    対面'
+    対面
+
+    非常勤講師担当科目のため、講師については後日お知らせします。'
   requirement_subject_name: 国際取引法
   room: ''
   short_term_students_application: ''
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01LA302
-  teaching_staff: ''
+  teaching_staff: 岡本 裕樹
 - class_id: 01LA306
   class_outline: グローバルに議論されている先端的論点(デジタルプラットフォーム規制・知的財産権濫用規制・政府規制と独占禁止法の関係等)、外国独占禁止法(競争法)の概要について、講義形式で解説する。
   credits: '1.0'
@@ -5577,7 +5579,7 @@
 - class_id: 01NA069
   class_outline: "民事訴訟法の主要な概念や原則の解釈について、具体的事例を通じて判例、学説などを分析し、理解することをねらいとする。\n 授業は演習形式とし、民事訴訟法の主要な概念や問題点について、受講生が事前に配布された資料を基に予習し、双方向の授業での討論に積極的に参加すること等によって、具体的事例を分析して法律実務家として必要な法的思考力や実務処理能力を養いつつ、その概念や問題点についての理解を深め、体得できるようになることを到達目標とする。"
   credits: '2.0'
-  data_update_date: '2026-01-20 16:56:10'
+  data_update_date: '2026-07-07 15:56:28'
   english_name: Civil Procedure II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -24734,7 +24736,7 @@
 - class_id: 02FA250
   class_outline: 情報システム科学および計算機科学及びコンピュータ・サイエンスの分野には、人工知能、データ・マイニング、自然言語処理、プログラミング言語、ソフトウェア工学、ネットワークなどがある。本講義では、知能情報システム、言語情報システム、経営情報システム、分散システム、ネットワークシステムなど、さまざまな情報システムの最新のトピックを取り上げ、最近の研究成果に関する文献講読を交えながら講義する。
   credits: '1.0'
-  data_update_date: '2026-06-26 16:47:45'
+  data_update_date: '2026-07-10 16:58:18'
   english_name: Special Lecture on Computer Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -24743,6 +24745,8 @@
   name: 情報システム特論
   period: 集中
   remarks: '0BDM226と同一。
+
+    8/29,9/5
 
     対面
 
@@ -24753,7 +24757,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 3
   subject_code: 02FA250
-  teaching_staff: 小倉 達哉
+  teaching_staff: 津田 和彦,吉田 光男
 - class_id: 02FA273
   class_outline: 本講義では、社会科学研究で頻繁に使われる共分散構造分析について、1理論面の理解を深める、2共分散構造分析が使われている応用論文を批判的に輪読し、共分散構造分析の理解を深める、3共分散構造分析について実際のデータ解析経験を積む、のいずれかを学生の興味にあわせて選択し、これを目的として授業を行う。1に関しては、定評のある書籍や論文を使い、近年の発展についても触れる。2に関しては学生各自の専門分野における論文を選ぶ、3に関しては、共分散構造分析の使い方に関する良書を使い、地に足の着いた理解を目指す。
   credits: '1.0'
@@ -29076,7 +29080,7 @@
 - class_id: 0A00323
   class_outline: 海外協定校等を共修の場とし、本学の日本人大学院生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-07-03 09:43:18'
+  data_update_date: '2026-07-08 10:35:21'
   english_name: Problem solving through multicultural co-learning (overseas)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -29094,7 +29098,7 @@
   standard_course_year: 1 - 5
   subject_code: 0A00323
   teaching_staff: 柏木 健一,金 ?辰,朝倉 雅史,小野 裕子,森尾 貴広,廣田 智哉,LIU Soraya,阿部 淳一 ピーター,田中 怜,大根田
-    修,ゲオンゾン レスター カンケ,松原 康介,平井 悠介,MENA Aaron
+    修,ゲオンゾン レスター カンケ,平井 悠介,MENA Aaron,五月女 颯,入江 賢児,松原 康介
 - class_id: 0A00324
   class_outline: 国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人大学院生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
@@ -29414,16 +29418,12 @@
   enrollment_application: ×
   enrollment_requirements: ''
   method: '4'
-  module: '秋A
-
-    秋B
-
-    夏季休業中'
+  module: 夏季休業中
   name: 起業を支える目利き入門
   period: 集中
   remarks: '実施場所:東京キャンパス
 
-    10/1,10/1,8/29,9/5,9/12,9/19
+    8/29,9/5,9/12,9/19
 
     対面'
   requirement_subject_name: 起業を支える目利き入門
@@ -49165,7 +49165,7 @@
 - class_id: 0ADL302
   class_outline: 企業活動のグローバル化を背景として、現代の国際取引法の基礎理論を学び、その応用として実際の国際取引・国際金融取引の多様な形態とそれに関連する法的諸問題を検討する。授業は講義形式とする。
   credits: '2.0'
-  data_update_date: '2026-01-19 18:46:35'
+  data_update_date: '2026-07-10 12:41:44'
   english_name: Law of International Business Transactions
   enrollment_application: ''
   enrollment_requirements: ''
@@ -49175,14 +49175,16 @@
   period: 木7,8
   remarks: '01LA302と同一。
 
-    対面'
+    対面
+
+    非常勤講師担当科目のため、講師については後日お知らせします。'
   requirement_subject_name: 国際取引法
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01LA302
-  teaching_staff: ''
+  teaching_staff: 岡本 裕樹
 - class_id: 0ADL304
   class_outline: 契約法に関するヨーロッパの規定に関する理解を深めることを目標とする。日本法との考え方の共通点や相違点について考える。授業は講義形式とする。
   credits: '1.0'
@@ -51455,7 +51457,7 @@
 - class_id: 0AFL109
   class_outline: "民事訴訟法の主要な概念や原則の解釈について、具体的事例を通じて判例、学説などを分析し、理解することをねらいとする。\n 授業は演習形式とし、民事訴訟法の主要な概念や問題点について、受講生が事前に配布された資料を基に予習し、双方向の授業での討論に積極的に参加すること等によって、具体的事例を分析して法律実務家として必要な法的思考力や実務処理能力を養いつつ、その概念や問題点についての理解を深め、体得できるようになることを到達目標とする。"
   credits: '2.0'
-  data_update_date: '2026-01-20 16:56:10'
+  data_update_date: '2026-07-07 15:56:28'
   english_name: Civil Procedure II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -51471,7 +51473,9 @@
 
     対面(オンライン併用型)
 
-    姫野教授担当:第3、4週、それ以外の週は田村教授が担当。'
+    オンライン(オンデマンド型)
+
+    第1、2週のみオンデマンド実施。姫野教授担当:第4、5週、それ以外の週は田村教授が対面(リアルタイム)で実施。'
   requirement_subject_name: 民事訴訟法II
   room: ''
   short_term_students_application: ×
@@ -55282,7 +55286,7 @@
   module: 夏季休業中
   name: プレゼンテーション・科学英語技法
   period: 集中
-  remarks: '9/16(水)~9/18(金)で開講
+  remarks: '9/16(水),9/17(木),9/18(金)で開講
 
     オンライン(同時双方向型)'
   requirement_subject_name: プレゼンテーション・科学英語技法
@@ -55538,15 +55542,17 @@
     performance tuning for application users who aim to use these systems for their
     practical simulation and computing.
   credits: '1.0'
-  data_update_date: '2026-01-19 08:38:11'
+  data_update_date: '2026-07-06 14:12:56'
   english_name: High Performance Parallel Computing Technology for Computational Sciences
   enrollment_application: ''
   enrollment_requirements: ''
   method: '1'
-  module: 春季休業中
+  module: 夏季休業中
   name: High Performance Parallel Computing Technology for Computational Sciences
   period: 集中
   remarks: '英語で授業。
+
+    9/1,9/2
 
     対面'
   requirement_subject_name: High Performance Parallel Computing Technology for Computational
@@ -55640,7 +55646,7 @@
 - class_id: 0AH0305
   class_outline: 生命の基本原理や生物界の多様性を理解することを目的として、特に、先端細胞生物科学、ならびに、先端分子生物科学における総論的な教養教育の講義を実施する。国内の著名な研究機関において先端的な生命科学の方法論を用いて行われている最前線の研究をオムニバス形式で紹介する。
   credits: '1.0'
-  data_update_date: '2026-01-29 10:09:14'
+  data_update_date: '2026-07-06 14:49:03'
   english_name: Omnibus Lecture in Biology
   enrollment_application: ×
   enrollment_requirements: ''
@@ -55658,7 +55664,7 @@
   standard_course_year: 1・2
   subject_code: 01AA007
   teaching_staff: 岡本 章玄,田中 法生,永宗 喜三郎,圓山 恭之進,竹之内 敬人,設樂 浩志,田島 木綿子,千葉 洋子,藤原 すみれ,保坂 健太郎,矢吹
-    彬憲,守屋 繁春,三浦 謙治,壽崎 拓哉
+    彬憲,守屋 繁春,三浦 謙治,壽崎 拓哉,井上 智美
 - class_id: 0AH0306
   class_outline: 生命の基本原理や生物界の多様性を理解することを目的として、系統分類・進化学、生態学、植物発生・生理学、動物発生・生理学、分子細胞生物学、ゲノム情報学、先端細胞生物科学、先端分子生物科学における総論的な教養教育の講義を実施する。生命の樹(生物界全体の系統樹)を視野に、生物界の多様性の実態とそれを生み出した系統進化の歴史を解明しようとする最前線の研究を紹介する。当該分野の最新、かつ、幅広い知識を習得することで、理論的な思考を養い、専門領域を超えた自らの研究能力の向上に役立てる。
   credits: '1.0'
@@ -56743,15 +56749,19 @@
 - class_id: 0AJAC02
   class_outline: 今まで修得した内容を復習し、さらに高度な視点から偏微分方程式論を学ぶ。特に関数解析学に基づいた偏微分方程式論について概説する。
   credits: '3.0'
-  data_update_date: '2025-05-12 11:11:37'
+  data_update_date: '2026-07-10 13:46:47'
   english_name: Analysis I
   enrollment_application: ''
   enrollment_requirements: ''
   method: '1'
-  module: 春C夏季休業中
+  module: 夏季休業中
   name: 解析学I
   period: 集中
-  remarks: 対面
+  remarks: '9/14
+
+    対面
+
+    第1回講義:9月14日13時~その後の講義日については講義中等に別途連絡'
   requirement_subject_name: 解析学I
   room: ''
   short_term_students_application: ×
@@ -70441,7 +70451,7 @@
 - class_id: 0AL0013
   class_outline: 国内外研究者・企業・自治体などによる数理・データサイエンス・AI分野の最新の動向に関する専門家によるオムニバス授業を実施し、最近の重要課題について講述する。データサイエンス分野の問題解決能力を養うことを狙いとする。
   credits: '2.0'
-  data_update_date: '2025-12-15 14:00:00'
+  data_update_date: '2026-07-09 09:44:51'
   english_name: MDA Interdisciplinary Collaborative Seminar
   enrollment_application: ''
   enrollment_requirements: ''
@@ -70456,7 +70466,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 0AL0013
-  teaching_staff: 浦田 淳司,川島 宏一,飛田 幹男,讃井 知
+  teaching_staff: 浦田 淳司,川島 宏一,飛田 幹男,讃井 知,長谷部 浩二
 - class_id: 0AL0014
   class_outline: 企業、自治体等から提供された問題とデータを題材としたPBL授業に参加し、多様な参加者と議論し、異分野の知識を融合し、現実の問題の解決にその知識を実践できる能力を向上させる。また、プロジェクトに主体的に参加することにより、創造性・自主性・広い視野を養い、プロジェクト貢献能力を涵養する。
   credits: '2.0'
@@ -71779,21 +71789,23 @@
 - class_id: 0AL5117
   class_outline: 計算社会科学(CSS)は、大規模データ解析や大規模フィールド実験、エージェントベース・モデリング(ABM)といった方法を用いる新たな社会科学の領域として注目されている。本講義では特にマーケティングや消費者行動の研究への応用に注目し、最近のマーケティング・サイエンスやCSSの可能性について議論する。なおマーケティングに関する専門知識は前提としないので、計算社会科学の応用全般に興味がある学生の受講を歓迎する。
   credits: '1.0'
-  data_update_date: '2025-09-22 09:16:38'
+  data_update_date: '2026-07-07 10:30:25'
   english_name: Special Lecture on Policy and Planning Sciences III
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 秋B
+  module: 秋A
   name: 社会工学特別講義III
   period: 集中
-  remarks: '01CN062,02CN060と同一。
+  remarks: '10/16,1017,10/18-10/29,10/30
 
     対面
 
+    オンライン(オンデマンド型)
+
     オンライン(同時双方向型)
 
-    最終授業のみオンライン'
+    10/16-17は対面、10/18-29はオンデマンド、10/30はオンラインで実施。'
   requirement_subject_name: 社会工学特別講義III
   room: ''
   short_term_students_application: ×
@@ -72095,12 +72107,12 @@
 - class_id: 0AL5308
   class_outline: 本授業科目では、セキュリティにおけるリスク・レジリエンスに関する現状を概観し、最近の重要課題について講述する。暗号応用技術や関連するセキュリティ技術によって社会にもたらされる安全性や真正性保証、プライバシー保護などについて説明できるようになることを狙いとする。
   credits: '1.0'
-  data_update_date: '2025-05-22 16:27:12'
+  data_update_date: '2026-07-06 15:18:15'
   english_name: Topics in Risk and Resilience Engineering in Doctoral Program (Security)
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 夏季休業中
+  module: 秋A
   name: リスク・レジリエンス工学修士特別講義(セキュリティ)
   period: 集中
   remarks: '10/3-10/4
@@ -77596,7 +77608,7 @@
 - class_id: 0ANA301
   class_outline: 分子系統解析、個体発生解析、細胞機能・構造解析、オミクス解析、分子機能解析、形態比較、行動解析などに基づき、生物の進化・多様性や生物分類を論じた論文をプレゼン形式等で紹介し、論文中に記述されている実験・観察手法、結果から結論が導かれる過程を吟味し、新規性と問題点を議論する。特に論文の構成を正しく理解して、論文で取り扱う問題点に対して、結論を導く論理的なプロセスを理解できることに注力する。
   credits: '2.0'
-  data_update_date: '2025-06-11 10:03:23'
+  data_update_date: '2026-07-06 13:23:51'
   english_name: Seminar on Systematics and Evolutionary Biology IS
   enrollment_application: ''
   enrollment_requirements: ''
@@ -77611,11 +77623,12 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA301
-  teaching_staff: 石田 健一郎,本多 正尚,三浦 謙治,和田 洋,出川 洋介,中野 裕昭,中山 剛,八畑 謙介,守野 孔明,白鳥 峻志,竹中 將起
+  teaching_staff: 石田 健一郎,本多 正尚,三浦 謙治,和田 洋,出川 洋介,中野 裕昭,中山 剛,八畑 謙介,守野 孔明,白鳥 峻志,竹中 將起,LEE
+    WAN YI
 - class_id: 0ANA302
   class_outline: 分子系統解析、個体発生解析、細胞機能・構造解析、オミクス解析、分子機能解析、形態比較、行動解析などに基づき、生物の進化・多様性や生物分類を論じた論文をプレゼン形式等で紹介し、論文中に記述されている実験・観察手法、結果から結論が導かれる過程を吟味し、新規性と問題点を議論する。特に論文の構成を正しく理解して、その論理構成をわかりやすく説明するプレゼンテーションを行うことに注力する。
   credits: '2.0'
-  data_update_date: '2025-06-11 10:04:23'
+  data_update_date: '2026-07-06 13:25:04'
   english_name: Seminar on Systematics and Evolutionary Biology IF
   enrollment_application: ''
   enrollment_requirements: ''
@@ -77630,11 +77643,12 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA302
-  teaching_staff: 石田 健一郎,本多 正尚,三浦 謙治,和田 洋,出川 洋介,中野 裕昭,中山 剛,八畑 謙介,守野 孔明,白鳥 峻志,竹中 將起
+  teaching_staff: 石田 健一郎,本多 正尚,三浦 謙治,和田 洋,出川 洋介,中野 裕昭,中山 剛,八畑 謙介,守野 孔明,白鳥 峻志,竹中 將起,LEE
+    WAN YI
 - class_id: 0ANA303
   class_outline: 分子系統解析、個体発生解析、細胞機能・構造解析、オミクス解析、分子機能解析、形態比較、行動解析などに基づき、生物の進化・多様性や生物分類を論じた論文をプレゼン形式等で紹介し、論文中に記述されている実験・観察手法、結果から結論が導かれる過程を吟味し、新規性と問題点を議論する。特に論文で取り扱う問題点に対して、結論を導くプロセスを批判的にみることに注力する。
   credits: '2.0'
-  data_update_date: '2025-06-11 10:05:06'
+  data_update_date: '2026-07-06 13:25:48'
   english_name: Seminar on Systematics and Evolutionary Biology IIS
   enrollment_application: ''
   enrollment_requirements: ''
@@ -77649,11 +77663,12 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA303
-  teaching_staff: 石田 健一郎,本多 正尚,三浦 謙治,和田 洋,出川 洋介,中野 裕昭,中山 剛,八畑 謙介,守野 孔明,白鳥 峻志,竹中 將起
+  teaching_staff: 石田 健一郎,本多 正尚,三浦 謙治,和田 洋,出川 洋介,中野 裕昭,中山 剛,八畑 謙介,守野 孔明,白鳥 峻志,竹中 將起,LEE
+    WAN YI
 - class_id: 0ANA304
   class_outline: 分子系統解析、個体発生解析、細胞機能・構造解析、オミクス解析、分子機能解析、形態比較、行動解析などに基づき、生物の進化・多様性や生物分類を論じた論文をプレゼン形式等で紹介し、論文中に記述されている実験・観察手法、結果から結論が導かれる過程を吟味し、新規性と問題点を議論する。特に論文の論理的なプロセスだけでなく、構成、導入の書き方などについても批判的にみることに注力する。
   credits: '2.0'
-  data_update_date: '2025-06-11 10:06:04'
+  data_update_date: '2026-07-06 13:26:23'
   english_name: Seminar on Systematics and Evolutionary Biology IIF
   enrollment_application: ''
   enrollment_requirements: ''
@@ -77668,7 +77683,8 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA304
-  teaching_staff: 石田 健一郎,本多 正尚,三浦 謙治,和田 洋,出川 洋介,中野 裕昭,中山 剛,八畑 謙介,守野 孔明,白鳥 峻志,竹中 將起
+  teaching_staff: 石田 健一郎,本多 正尚,三浦 謙治,和田 洋,出川 洋介,中野 裕昭,中山 剛,八畑 謙介,守野 孔明,白鳥 峻志,竹中 將起,LEE
+    WAN YI
 - class_id: 0ANA311
   class_outline: 各報告者は、分子系統解析、個体発生解析、細胞機能・構造解析、オミクス解析、分子機能解析、形態比較、行動解析などの系統分類・進化学的データを取得した方法ついて解説し、実際の実験・観察結果から結論を得て問題点を抽出した過程について報告する。報告内容に関して参加学生・教員全員で議論し、研究手法や結論の妥当性、問題点について吟味し、今後の研究の進め方等を検討する。特に研究の目的を十分に理解することに注力する。
   credits: '3.0'
@@ -77748,7 +77764,7 @@
 - class_id: 0ANA321
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学についての論文の中で用いられている、自然史的手法、理論的手法、野外調査、分子的手法、実験、統計・計算などの方法を探究・吟味・議論し、それらの特性、利点、不足点、将来の課題や方向性について議論する。それを通じて、これら分野の研究の到達点と不足点の理解を理解・議論する。
   credits: '2.0'
-  data_update_date: '2025-12-26 13:58:35'
+  data_update_date: '2026-07-06 11:21:28'
   english_name: Seminar on Ecology IS
   enrollment_application: ''
   enrollment_requirements: ''
@@ -77763,11 +77779,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA321
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之,大森 裕子
 - class_id: 0ANA322
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学・景観生態学についての論文を読んで、これらの分野で行われてきた研究の到達点と不足点の理解を理解・議論する。研究のデザイン、得られた結果に対する解釈や結論の導き方について、基礎となる考え方、分野における標準的慣行、配慮すべき前提や制約、利点や不足点、今後の課題や方向性について、議論する。
   credits: '2.0'
-  data_update_date: '2025-12-26 13:59:16'
+  data_update_date: '2026-07-06 11:22:12'
   english_name: Seminar on Ecology IF
   enrollment_application: ''
   enrollment_requirements: ''
@@ -77782,11 +77798,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA322
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之,大森 裕子
 - class_id: 0ANA323
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学・景観生態学についての論文の中で用いられている、自然史的手法、理論的手法、野外調査、分子的手法、実験、統計・計算などの方法を探究・吟味・議論しつつ、それらの特性、利点、不足点、将来の課題や方向性について、身近な具体的・個別的研究とも比較しながら、統合的に理解・議論する。
   credits: '2.0'
-  data_update_date: '2025-12-26 13:59:40'
+  data_update_date: '2026-07-06 11:22:43'
   english_name: Seminar on Ecology IIS
   enrollment_application: ''
   enrollment_requirements: ''
@@ -77801,11 +77817,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA323
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之,大森 裕子
 - class_id: 0ANA324
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学・景観生態学についての論文を読んで、これらの分野で行われてきた研究の到達点と不足点の理解を理解・議論する。研究のデザイン、得られた結果に対する解釈や結論の導き方について、身近な具体的・個別的研究とも比較しながら、今後の課題や方向性について、統合的に理解・議論する。
   credits: '2.0'
-  data_update_date: '2025-12-26 14:00:04'
+  data_update_date: '2026-07-06 11:23:09'
   english_name: Seminar on Ecology IIF
   enrollment_application: ''
   enrollment_requirements: ''
@@ -77820,11 +77836,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA324
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之,大森 裕子
 - class_id: 0ANA331
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学・景観生態学の分野で用いられる、自然史的手法、理論的手法、野外調査、分子的手法、実験、統計・計算などの方法を踏まえ、研究目的を設定し、その目的に対する適切な方法を選定して実践する。それらの方法の特性・利点・不足点を解説しながら、得られた結果とその解釈ついて報告する。それについて参加学生・教員全員で議論し、解釈の妥当性や問題点について吟味し、今後の方策を検討する。
   credits: '3.0'
-  data_update_date: '2025-12-26 14:00:42'
+  data_update_date: '2026-07-06 11:23:40'
   english_name: Methodology on Ecology IS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -77839,11 +77855,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA331
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,ハーベイ ベンジャミン ポール,増本 翔太,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,ハーベイ ベンジャミン ポール,増本 翔太,横井 智之,大森 裕子
 - class_id: 0ANA332
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学・景観生態学について、これらの分野で行われてきた研究の到達点と不足点の理解を理解・議論しながら、新規性・重要性の高い研究目的を設定し、研究を実践する。得られた結果を、分野のこれまでの到達点・不足点の中に適切に位置づけて報告する。それについて参加学生・教員全員で議論し、位置づけの妥当性や問題点について吟味し、今後の方策を検討する。
   credits: '3.0'
-  data_update_date: '2025-12-26 14:01:12'
+  data_update_date: '2026-07-06 11:24:08'
   english_name: Methodology on Ecology IF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -77858,11 +77874,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA332
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,ハーベイ ベンジャミン ポール,増本 翔太,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,ハーベイ ベンジャミン ポール,増本 翔太,横井 智之,大森 裕子
 - class_id: 0ANA333
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学・景観生態学の分野で用いられる、自然史的手法、理論的手法、野外調査、分子的手法、実験、統計・計算などの方法を踏まえ、研究目的を設定し、その目的に対する適切な方法を選定して実践する。それらの方法の特性・利点・不足点を解説しながら、得られた結果からどのような結論を導きうるかについて報告する。それについて参加学生・教員全員で議論し、結論の妥当性や問題点について吟味し、研究のまとめ方を検討する。
   credits: '3.0'
-  data_update_date: '2025-12-26 14:01:36'
+  data_update_date: '2026-07-06 11:24:32'
   english_name: Methodology on Ecology IIS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -77877,11 +77893,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA333
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,ハーベイ ベンジャミン ポール,増本 翔太,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,ハーベイ ベンジャミン ポール,増本 翔太,横井 智之,大森 裕子
 - class_id: 0ANA334
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学・景観生態学について、これらの分野で行われてきた研究の到達点と不足点の理解を理解・議論しながら、新規性・重要性の高い研究目的を設定し、研究を実践する。得られた結果を、分野のこれまでの到達点・不足点の中に適切に位置づけ、その新規性や重要性について報告する。それについて参加学生・教員全員で議論し、研究成果とその新規性・重要性の位置づけについて、妥当性や問題点について吟味し、研究のまとめ方を検討する。
   credits: '3.0'
-  data_update_date: '2025-12-26 14:01:57'
+  data_update_date: '2026-07-06 11:25:25'
   english_name: Methodology on Ecology IIF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -77896,11 +77912,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA334
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,ハーベイ ベンジャミン ポール,増本 翔太,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,ハーベイ ベンジャミン ポール,増本 翔太,横井 智之,大森 裕子
 - class_id: 0ANA341
   class_outline: 植物発生・生理学は植物が発生し環境に適応し生育してゆく一連の生活環を幅広い観点から焦点をあてた学問分野である。本セミナーでは植物の体の成り立ちなど発生、形態形成を主題とした論文を読み、論文中に記述されている実験・観察手法、結果から結論が導かれる過程を吟味し、研究背景から結論に至る論文の趣旨を正しく理解し、研究内容を議論する題材を正しく提供する。発表者以外の受講生は提示された研究趣旨を正しく理解すると共に、疑問点等を発表者に向け行い、発表者との議論を深める。
   credits: '2.0'
-  data_update_date: '2025-04-24 09:39:42'
+  data_update_date: '2026-07-06 11:32:47'
   english_name: Seminar on Plant Physiology and Developmental Biology IS
   enrollment_application: ''
   enrollment_requirements: ''
@@ -77915,11 +77931,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA341
-  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0ANA342
   class_outline: 植物発生・生理学は植物が発生し環境に適応し生育してゆく一連の生活環を幅広い観点から焦点をあてた学問分野である。本セミナーでは植物が環境中に適応するための機構を主題とした論文を読み、論文中に記述されている実験・観察手法、結果から結論が導かれる過程を吟味し、研究背景から結論に至る論文の趣旨を正しく理解し、研究内容を議論する題材を正しく提供する。発表者以外の受講生は提示された研究趣旨を正しく理解すると共に、疑問点等を発表者に向け行い、発表者との議論を深める。
   credits: '2.0'
-  data_update_date: '2025-04-24 09:40:24'
+  data_update_date: '2026-07-06 11:33:27'
   english_name: Seminar on Plant Physiology and Developmental Biology IF
   enrollment_application: ''
   enrollment_requirements: ''
@@ -77934,11 +77950,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA342
-  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0ANA343
   class_outline: 植物発生・生理学は植物が発生し環境に適応し生育してゆく一連の生活環を幅広い観点から焦点をあてた学問分野である。本セミナーでは植物の体の成り立ちなど発生、形態形成を主題とした論文を読み、セミナーISで培った論文趣旨の理解にとどまらず、当該研究の学問的意義や問題点、今後の発展展望などと言った課題の提起を行う。発表者以外の受講生は提示された研究課題についての疑問点等を発表者に向け行い、発表者との議論を深める。
   credits: '2.0'
-  data_update_date: '2025-04-24 09:41:25'
+  data_update_date: '2026-07-06 11:34:07'
   english_name: Seminar on Plant Physiology and Developmental Biology IIS
   enrollment_application: ''
   enrollment_requirements: ''
@@ -77953,12 +77969,12 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA343
-  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0ANA344
   class_outline: 植物発生・生理学は植物が発生し環境に適応し生育してゆく一連の生活環を幅広い観点から焦点をあてた学問分野である。本セミナーでは植物が環境中に適応するための機構を主題とした論文を読み、セミナーI
     Fで培った論文趣旨の理解にとどまらず、当該研究の学問的意義や問題点、今後の発展展望などと言った課題の提起を行う。発表者以外の受講生は提示された研究課題についての疑問点等を発表者に向け行い、発表者との議論を深める。
   credits: '2.0'
-  data_update_date: '2025-04-24 09:42:05'
+  data_update_date: '2026-07-06 11:34:36'
   english_name: Seminar on Plant Physiology and Developmental Biology IIF
   enrollment_application: ''
   enrollment_requirements: ''
@@ -77973,11 +77989,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA344
-  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0ANA351
   class_outline: 各報告者は、自身の研究において、生理学的解析、分子生物学的解析をはじめとするさまざまな手法や得られたデータを解析する方法を解説し実際の実験・観察から結論を得て問題点を抽出する過程について報告する。報告内容に関して、発表者以外の受講生・教員全員で議論し、結論の妥当性や問題点に付いて吟味し、今後の方策を検討する。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 11:35:05'
   english_name: Methodology on Plant Physiology and Developmental Biology IS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -77992,11 +78008,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA351
-  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0ANA352
   class_outline: 各報告者は、自身の研究において、生理学的解析、分子生物学的解析などにより得られたデータを解析し、データの持つ科学的意味をわかりやすく解説するデータの表示方法を検討し、それを用いた報告を行う。発表者以外の受講生・教員全員で議論し、データの表示方法や表現方法の妥当性や問題点に付いて吟味し、報告者の研究課題に応じた理解しやすい表現方法を検討する。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 11:35:43'
   english_name: Methodology on Plant Physiology and Developmental Biology IF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78011,11 +78027,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA352
-  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0ANA353
   class_outline: 各報告者は、自身の研究において、生理学的解析、分子生物学的解析をはじめとするさまざまな手法により得られたデータを解説し実際の実験・観察から得た結果や結論を報告する。修士論文作成に向け、自身の研究が優れている部分、不足している部分を見出し、修士研究全体をしっかりと構築する方策を自らで提起する。報告や提起内容に関して、発表者以外の受講生・教員全員で議論し、結論の妥当性や問題点、今後の方向性について吟味、検討する。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 11:36:14'
   english_name: Methodology on Plant Physiology and Developmental Biology IIS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78030,11 +78046,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA353
-  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0ANA354
   class_outline: 各報告者は、自身の研究において、生理学的解析、分子生物学的解析をはじめとするさまざまな手法により得られたデータを解析、修士論文作成に向け、他者に実験・観察から得られた結果をわかりやすく提示する方法を検討し実践、報告する。報告内容に関して、発表者以外の受講生・教員全員でデータの提示手法や表現方法について議論し、修士論文予備審査発表や修士論文作成に向けた検討を行う。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 11:37:03'
   english_name: Methodology on Plant Physiology and Developmental Biology IIF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78049,11 +78065,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA354
-  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,菊池 彰,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0ANA361
   class_outline: 分子レベル、細胞レベル、および個体レベルの観点から動物の発生現象あるいは生理現象を論じた論文を読み、論文発表を導き出す着想、論文中で記載されている実験の手法と実験結果から結論が導かれる過程を吟味し、結果の新規性と今後に残された問題点、そして将来の研究の方向性を議論する。本講義では特に生物の発生・生理学的視点からの理解に必要な基盤的な知識と考察力等の獲得を目標にする。また、対となるセミナーIFとの履修順序に応じて柔軟に到達点を評価する。
   credits: '2.0'
-  data_update_date: '2025-06-12 10:38:20'
+  data_update_date: '2026-07-06 11:39:15'
   english_name: Seminar on Animal Physiology and Developmental Biology IS
   enrollment_application: ''
   enrollment_requirements: ''
@@ -78069,11 +78085,11 @@
   standard_course_year: '1'
   subject_code: 0ANA361
   teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,鈴木 大地,カスコロブレス マルティン ミゲル,春本
-    敏之
+    敏之,石川 由希
 - class_id: 0ANA362
   class_outline: 分子レベル、細胞レベル、および個体レベルの観点から動物の発生現象あるいは生理現象を論じた論文を読み、論文発表を導き出す着想、論文中で記載されている実験の手法と実験結果から結論が導かれる過程を吟味し、結果の新規性と今後に残された問題点、そして将来の研究の方向性を議論する。本講義では特に生物の発生・生理学的視点からの理解に必要な基盤的な知識と考察力等の獲得を目標にする。また、対となるセミナーISとの履修順序に応じて柔軟に到達点を評価する。
   credits: '2.0'
-  data_update_date: '2025-06-12 10:39:08'
+  data_update_date: '2026-07-06 11:39:45'
   english_name: Seminar on Animal Physiology and Developmental Biology IF
   enrollment_application: ''
   enrollment_requirements: ''
@@ -78089,11 +78105,11 @@
   standard_course_year: '1'
   subject_code: 0ANA362
   teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,鈴木 大地,カスコロブレス マルティン ミゲル,春本
-    敏之
+    敏之,石川 由希
 - class_id: 0ANA363
   class_outline: 分子レベル、細胞レベル、および個体レベルの観点から動物の発生現象あるいは生理現象を論じた論文を読み、論文発表を導き出す着想、論文中で記載されている実験の手法と実験結果から結論が導かれる過程を吟味し、結果の新規性と今後に残された問題点、そして将来の研究の方向性を議論する。本講義では発生・生理学研究の理解を促進する発展的な知識と考察力の獲得を目標にする。また、対となるセミナーIIFとの履修順序に応じて柔軟に到達点を評価する。
   credits: '2.0'
-  data_update_date: '2025-06-12 10:39:54'
+  data_update_date: '2026-07-06 11:40:15'
   english_name: Seminar on Animal Physiology and Developmental Biology IIS
   enrollment_application: ''
   enrollment_requirements: ''
@@ -78109,11 +78125,11 @@
   standard_course_year: '2'
   subject_code: 0ANA363
   teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,鈴木 大地,カスコロブレス マルティン ミゲル,春本
-    敏之
+    敏之,石川 由希
 - class_id: 0ANA364
   class_outline: 分子レベル、細胞レベル、および個体レベルの観点から動物の発生現象あるいは生理現象を論じた論文を読み、論文発表を導き出す着想、論文中で記載されている実験の手法と実験結果から結論が導かれる過程を吟味し、結果の新規性と今後に残された問題点、そして将来の研究の方向性を議論する。本講義では発生・生理学研究の理解を促進する発展的な知識と考察力の獲得を目標にする。また、対となるセミナーIISとの履修順序に応じて柔軟に到達点を評価する。
   credits: '2.0'
-  data_update_date: '2025-06-12 10:40:35'
+  data_update_date: '2026-07-06 11:40:45'
   english_name: Seminar on Animal Physiology and Developmental Biology IIF
   enrollment_application: ''
   enrollment_requirements: ''
@@ -78129,11 +78145,11 @@
   standard_course_year: '2'
   subject_code: 0ANA364
   teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,鈴木 大地,カスコロブレス マルティン ミゲル,春本
-    敏之
+    敏之,石川 由希
 - class_id: 0ANA371
   class_outline: 動物発生・生理学分野における各人の研究課題に対して、分子生物学的解析、遺伝学的解析、生化学的解析、生理学的解析、各種オミクス解析などに基づきデータを取得する方法や、得られたデータを解析する方法について教授する。また、学生には、実際の実験と観察の過程で得られた結果から、結論を得て問題点を明らかにした過程について報告してもらう。報告内容に関して、参加学生と教員が全員で討議し、結論の妥当性や問題点について吟味し、今後の方策を検討する。研究法ISでは主として、先行研究に関する検証実験や研究課題に関する予備実験を行い、課題解決に向けた具体的な研究計画を立案する。ただし、履修順序によっては、研究法IFの内容とする。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 11:45:49'
   english_name: Methodology on Animal Physiology and Developmental Biology IS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78148,11 +78164,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA371
-  teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,島田 裕子,櫻井 啓輔,春本 敏之
+  teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,島田 裕子,櫻井 啓輔,春本 敏之,石川 由希,鈴木 大地
 - class_id: 0ANA372
   class_outline: 動物発生・生理学分野における各人の研究課題に対して、分子生物学的解析、遺伝学的解析、生化学的解析、生理学的解析、各種オミクス解析などに基づきデータを取得する方法や、得られたデータを解析する方法について教授する。また、学生には、実際の実験と観察の過程で得られた結果から、結論を得て問題点を明らかにした過程について報告してもらう。報告内容に関して、参加学生と教員が全員で討議し、結論の妥当性や問題点について吟味し、今後の方策を検討する。研究法IFでは主として、研究法ISにおいて各人が立案した研究計画に基づき、観察や実験を推進する。ただし、履修順序によっては、研究法ISの内容とする。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 11:45:18'
   english_name: Methodology on Animal Physiology and Developmental Biology IF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78167,11 +78183,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA372
-  teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,島田 裕子,櫻井 啓輔,春本 敏之
+  teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,島田 裕子,櫻井 啓輔,春本 敏之,石川 由希,鈴木 大地
 - class_id: 0ANA373
   class_outline: 動物発生・生理学分野における各人の研究課題に対して、分子生物学的解析、遺伝学的解析、生化学的解析、生理学的解析、各種オミクス解析などに基づきデータを取得する方法や、得られたデータを解析する方法について教授する。また、学生には、実際の実験と観察の過程で得られた結果から、結論を得て問題点を明らかにした過程について報告してもらう。報告内容に関して、参加学生と教員が全員で討議し、結論の妥当性や問題点について吟味し、今後の方策を検討する。研究法IISでは主として、上記サイクルを加速することで、実験結果や結論の妥当性を検証しつつ、研究をさらに推進する。ただし、履修順序によっては、研究法IIFの内容とする。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 11:44:51'
   english_name: Methodology on Animal Physiology and Developmental Biology IIS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78186,11 +78202,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA373
-  teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,島田 裕子,櫻井 啓輔,春本 敏之
+  teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,島田 裕子,櫻井 啓輔,春本 敏之,石川 由希,鈴木 大地
 - class_id: 0ANA374
   class_outline: 動物発生・生理学分野における各人の研究課題に対して、分子生物学的解析、遺伝学的解析、生化学的解析、生理学的解析、各種オミクス解析などに基づきデータを取得する方法や、得られたデータを解析する方法について教授する。また、学生には、実際の実験と観察の過程で得られた結果から、結論を得て問題点を明らかにした過程について報告してもらう。報告内容に関して、参加学生と教員が全員で討議し、結論の妥当性や問題点について吟味し、今後の方策を検討する。研究法IIFでは主として、これまでに得られた実験結果と結論を整理し、不備な点についてさらに検証を進める。最終的に、目標に対する到達度や貢献度を評価するともに、さらなる発展に向けて、今後の具体的な研究計画を提案する。ただし、履修順序によっては、研究法IISの内容とする。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 11:44:29'
   english_name: Methodology on Animal Physiology and Developmental Biology IIF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78205,7 +78221,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA374
-  teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,島田 裕子,櫻井 啓輔,春本 敏之
+  teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,島田 裕子,櫻井 啓輔,春本 敏之,石川 由希,鈴木 大地
 - class_id: 0ANA381
   class_outline: 分子細胞生物学の諸分野のうち、分子生物学及び細胞形態学に関する最新の学術論文を読み、論文中に記述されている実験手法、実験結果から結論が導かれる過程を吟味し、新規性と問題点の討論を行う。
   credits: '2.0'
@@ -78289,7 +78305,7 @@
 - class_id: 0ANA391
   class_outline: 分子生物学及び細胞生物学などの分野で行われる実験法を理解し、得られたデータを評価する能力を磨く。そして自らが行う実際の実験・観察結果から結論を得て問題点を抽出した過程について報告する。報告内容に関して参加学生・教員で議論し、結論の妥当性や問題点について吟味し、今後の方策を検討する。
   credits: '3.0'
-  data_update_date: '2026-01-15 14:49:34'
+  data_update_date: '2026-07-06 14:20:27'
   english_name: Methodology on Molecular and Cellular Biology IS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78305,11 +78321,11 @@
   standard_course_year: '1'
   subject_code: 0ANA391
   teaching_staff: 三浦 謙治,稲葉 一男,千葉 智樹,中野 賢太郎,ホール スペンサー ジェイソン マイケル,石川 香,鶴田 文憲,平川 泰久,谷
-    一寿
+    一寿,野? 翔平
 - class_id: 0ANA392
   class_outline: 分子生物学及び細胞生物学などの分野に関係する実験データの解析法について理解し、洞察を深める。そして自らが行う実際の実験・観察結果から結論を得て問題点を抽出した過程について報告する。報告内容に関して参加学生・教員で議論し、結論の妥当性や問題点について吟味し、今後の方策を検討する。
   credits: '3.0'
-  data_update_date: '2026-01-15 14:49:58'
+  data_update_date: '2026-07-06 14:21:04'
   english_name: Methodology on Molecular and Cellular Biology IF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78325,11 +78341,11 @@
   standard_course_year: '1'
   subject_code: 0ANA392
   teaching_staff: 三浦 謙治,稲葉 一男,千葉 智樹,中野 賢太郎,ホール スペンサー ジェイソン マイケル,石川 香,鶴田 文憲,平川 泰久,谷
-    一寿
+    一寿,野? 翔平
 - class_id: 0ANA393
   class_outline: 分子生物学及び細胞生物学などの分野、及び関連する生化学などで行われる実験法を理解し、得られたデータを評価する能力を磨く。そして自らが行う実際の実験・観察結果から結論を得て問題点を抽出した過程について報告する。報告内容に関して参加学生・教員で議論し、結論の妥当性や問題点について吟味し、今後の方策を検討する。
   credits: '3.0'
-  data_update_date: '2026-01-15 14:50:29'
+  data_update_date: '2026-07-06 14:21:34'
   english_name: Methodology on Molecular and Cellular Biology IIS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78345,11 +78361,11 @@
   standard_course_year: '2'
   subject_code: 0ANA393
   teaching_staff: 三浦 謙治,稲葉 一男,千葉 智樹,中野 賢太郎,ホール スペンサー ジェイソン マイケル,石川 香,鶴田 文憲,平川 泰久,谷
-    一寿
+    一寿,野? 翔平
 - class_id: 0ANA394
   class_outline: 分子生物学及び細胞生物学などの分野、及び関連するオミクス解析で行われる実験法を理解し、得られたデータを評価する能力を磨く。そして自らが行う実際の実験・観察結果から結論を得て問題点を抽出した過程について報告する。報告内容に関して参加学生・教員で議論し、結論の妥当性や問題点について吟味し、今後の方策を検討する。
   credits: '3.0'
-  data_update_date: '2026-01-15 14:51:02'
+  data_update_date: '2026-07-06 14:22:06'
   english_name: Methodology on Molecular and Cellular Biology IIF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78365,7 +78381,7 @@
   standard_course_year: '2'
   subject_code: 0ANA394
   teaching_staff: 三浦 謙治,稲葉 一男,千葉 智樹,中野 賢太郎,ホール スペンサー ジェイソン マイケル,石川 香,鶴田 文憲,平川 泰久,谷
-    一寿
+    一寿,野? 翔平
 - class_id: 0ANA401
   class_outline: ゲノム情報学では、古典・分子遺伝学における突然変異等のデータ、ゲノム・トランスクリプトーム等のオミックスデータ、タンパク質の立体構造データなどを基盤とし研究を実施する。そこでゲノム情報学における自分の研究に直接関連する分野を中心として、当該分野の基本的な学術論文を広く精読する。本セミナーでは、自分の研究分野の背景と広く用いられる実験手法を理解し、最終的に自分の研究分野の基本的知見を十分に把握することを目指す。
   credits: '2.0'
@@ -78525,7 +78541,7 @@
 - class_id: 0ANA421
   class_outline: 各報告者は、多様な生物種を材料とした先端研究分野における各人の研究課題に対して、分子生物学的解析、遺伝学的解析、生化学的解析、生理学的解析、各種オミクス解析などに基づきデータを取得する方法や、得られたデータを解析する方法について説明を行う。また、実際の実験と観察の過程で得られた結果から、結論を得て問題点を明らかにした過程について報告する。報告内容に関して、参加学生と教員が全員で討議し、結論の妥当性や問題点について吟味し、今後の方策を検討する。本科目と先端細胞生物科学研究法IFの履修を通じて、修士1年次に相応しい基礎的な研究能力を修得する。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 11:47:08'
   english_name: Methodology on Advanced Cellular Biology IS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78540,11 +78556,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA421
-  teaching_staff: 永宗 喜三郎,伊藤 弓弦,圓山 恭之進,竹之内 敬人,設樂 浩志,矢吹 彬憲
+  teaching_staff: 永宗 喜三郎,伊藤 弓弦,圓山 恭之進,竹之内 敬人,設樂 浩志,矢吹 彬憲,井上 智美
 - class_id: 0ANA422
   class_outline: 各報告者は、多様な生物種を材料とした先端研究分野における各人の研究課題に対して、分子生物学的解析、遺伝学的解析、生化学的解析、生理学的解析、各種オミクス解析などに基づきデータを取得する方法や、得られたデータを解析する方法について説明を行う。また、実際の実験と観察の過程で得られた結果から、結論を得て問題点を明らかにした過程について報告する。報告内容に関して、参加学生と教員が全員で討議し、結論の妥当性や問題点について吟味し、今後の方策を検討する。本科目と先端細胞生物科学研究法ISの履修を通じて、修士1年次に相応しい基礎的な研究能力を修得する。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 11:47:32'
   english_name: Methodology on Advanced Cellular Biology IF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78559,11 +78575,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANA422
-  teaching_staff: 永宗 喜三郎,伊藤 弓弦,圓山 恭之進,竹之内 敬人,設樂 浩志,矢吹 彬憲
+  teaching_staff: 永宗 喜三郎,伊藤 弓弦,圓山 恭之進,竹之内 敬人,設樂 浩志,矢吹 彬憲,井上 智美
 - class_id: 0ANA423
   class_outline: 各報告者は、先端細胞生物科学研究法IS、IFでの成果をもとに、多様な生物種を材料とした先端研究分野における各人の研究課題に対して、分子生物学的解析、遺伝学的解析、生化学的解析、生理学的解析、各種オミクス解析などに基づきデータを取得する方法や、得られたデータを解析する方法について説明を行う。また、実際の実験と観察の過程で得られた結果から、結論を得て問題点を明らかにした過程について報告する。報告内容に関して、参加学生と教員が全員で討議し、結論の妥当性や問題点について吟味し、今後の方策を検討する。本科目と先端細胞生物科学研究法IIFの履修を通じて、修士2年次に相応しい基礎的な研究能力を修得する。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 11:47:59'
   english_name: Methodology on Advanced Cellular Biology IIS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78578,11 +78594,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA423
-  teaching_staff: 永宗 喜三郎,伊藤 弓弦,圓山 恭之進,竹之内 敬人,設樂 浩志,矢吹 彬憲
+  teaching_staff: 永宗 喜三郎,伊藤 弓弦,圓山 恭之進,竹之内 敬人,設樂 浩志,矢吹 彬憲,井上 智美
 - class_id: 0ANA424
   class_outline: 各報告者は、先端細胞生物科学研究法IS、IFでの成果をもとに、多様な生物種を材料とした先端研究分野における各人の研究課題に対して、分子生物学的解析、遺伝学的解析、生化学的解析、生理学的解析、各種オミクス解析などに基づきデータを取得する方法や、得られたデータを解析する方法について説明を行う。また、実際の実験と観察の過程で得られた結果から、結論を得て問題点を明らかにした過程について報告する。報告内容に関して、参加学生と教員が全員で討議し、結論の妥当性や問題点について吟味し、今後の方策を検討する。本科目と先端細胞生物科学研究法IISの履修を通じて、修士2年次に相応しい基礎的な研究能力を修得する。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 11:48:25'
   english_name: Methodology on Advanced Cellular Biology IIF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -78597,7 +78613,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANA424
-  teaching_staff: 永宗 喜三郎,伊藤 弓弦,圓山 恭之進,竹之内 敬人,設樂 浩志,矢吹 彬憲
+  teaching_staff: 永宗 喜三郎,伊藤 弓弦,圓山 恭之進,竹之内 敬人,設樂 浩志,矢吹 彬憲,井上 智美
 - class_id: 0ANA431
   class_outline: 各報告者は、産業技術への応用を視野に入れた先端研究分野における各人の研究課題に対して、分子生物学的解析、遺伝学的解析、生化学的解析、生理学的解析、各種オミクス解析などに基づきデータを取得する方法や、得られたデータを解析する方法について説明を行う。また、実際の実験と観察の過程で得られた結果から、結論を得て問題点を明らかにした過程について報告する。報告内容に関して、参加学生と教員が全員で討議し、結論の妥当性や問題点について吟味し、今後の方策を検討する。本科目と先端分子生物科学研究法IFの履修を通じて、修士1年次に相応しい基礎的な研究能力を修得する。
   credits: '3.0'
@@ -78873,6 +78889,8 @@
   name: 統計解析演習
   period: 集中
   remarks: '2-6時限
+
+    8/21,22
 
     対面'
   requirement_subject_name: 統計解析演習
@@ -81998,7 +82016,7 @@
 - class_id: 0ANC312
   class_outline: 人文地理学に関する基礎的な英語文献の講読およびそれに関わる講義を行う。英語文献の購読では、欧米の人文地理学研究における主要理論とその発展過程を理解することを目的とし、軽量革命、人文主義、批判地理学、ポストモダン、フェミニズム及びジェンダー、応用地理学を検討する。学生による課題文献の要約と、近年の研究動向を踏まえた理論に関する講義を組み合わせることにより、人文地理学の主要理論への理解を深める。
   credits: '1.0'
-  data_update_date: '2020-02-14 17:48:39'
+  data_update_date: '2026-07-10 10:24:50'
   english_name: Methodology of Human Geography II
   enrollment_application: ''
   enrollment_requirements: ''
@@ -82013,11 +82031,11 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 0ANC312
-  teaching_staff: 松井 圭介,久保 倫子
+  teaching_staff: 松井 圭介,岩井 優祈,久保 倫子
 - class_id: 0ANC316
   class_outline: 主に茨城県を中心とする関東地方の特定地域を選択し、そこで1週間程度の調査合宿を行い、景観観察や土地利用調査、聞き取り・アンケート調査など野外調査方法の基礎的能力を習得させる。また取得したデータについては、室内実習においてデータ整理・分析の方法や空間的可視化(地図化など)の方法について技術を修得させる。また参加者間での討論を行い、取得したデータの解釈についての討論を行う。あわせてフィールド調査の倫理についても指導する。
   credits: '2.0'
-  data_update_date: '2025-12-15 13:58:24'
+  data_update_date: '2026-07-10 10:25:36'
   english_name: Field Work in Human Geography I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -82032,11 +82050,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ANC316
-  teaching_staff: 松井 圭介,久保 倫子
+  teaching_staff: 松井 圭介,岩井 優祈,久保 倫子
 - class_id: 0ANC317
   class_outline: 主に茨城県を中心とする関東地方の特定地域を選択し、そこで1週間程度の調査合宿を行い、景観観察や土地利用調査、聞き取り・アンケート調査など野外調査方法の実践的能力を習得させる。また取得したデータの整理・分析・図化を行ったのち、学術論文として研究成果をまとめることにより、主体的に論文を執筆する能力を養成する。最終的には参加者全体で報告書を作成する。あわせてフィールド調査の倫理についても指導する。
   credits: '2.0'
-  data_update_date: '2025-12-15 13:58:24'
+  data_update_date: '2026-07-10 10:26:20'
   english_name: Field Work in Human Geography II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -82051,7 +82069,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ANC317
-  teaching_staff: 松井 圭介,久保 倫子
+  teaching_staff: 松井 圭介,岩井 優祈,久保 倫子
 - class_id: 0ANC318
   class_outline: 人文地理学の特定のテーマ(文化・社会・政治)を主題とする基礎的研究について講義する。具体的には、1)人口、2)移住、3)文化、4)ジェンダー・セクシュアリティ、5)言語、6)宗教、7)政治・政策、などの各トピックについて、受講生による文献紹介や討論を行う。あわせて受講生の関心に留意し、これらのテーマのなかでいくつかのテーマについては、さらに掘り下げた講義や文献講読を行い、受講生の理解を深めさせる。
   credits: '1.0'
@@ -99208,8 +99226,8 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 01EQ031
-  teaching_staff: 土屋 輝一郎,斉木 臣二,高田 英俊,五十嵐 都,臼井 丈一,坂田(柳元) 麻実子,鈴木 寿人,錦井 秀和,村越 伸行,際本 拓未,近藤
-    裕也,長谷川 直之,保坂 孝史
+  teaching_staff: 土屋 輝一郎,斉木 臣二,高田 英俊,五十嵐 都,臼井 丈一,坂田(柳元) 麻実子,鈴木 寿人,村越 伸行,際本 拓未,近藤 裕也,長谷川
+    直之,保坂 孝史
 - class_id: 0ATGC35
   class_outline: "外科学の概要を、各科の基本的疾患を中心にそれらの疾患概念、疫学、発症機序、診断、治療の進歩について学ぶ。\n 目標:外科学の今日的課題をさまざまな観点から論じることができる。"
   credits: '1.0'
@@ -117559,7 +117577,7 @@
     \ 授業計画:1.概論 2.化学物質のADME 3.薬と毒物 4.化学物質の解毒 (その1)5.化学物質の解毒 (その2)6.化学物質の代謝活性化 (その1)7.化学物質の代謝活性化\
     \ (その2)8.薬効および有害性の個体差と遺伝的多型 9.総合討論(その1)10.総合討論(その2)"
   credits: '1.0'
-  data_update_date: '2025-12-17 16:03:40'
+  data_update_date: '2026-07-10 13:48:35'
   english_name: Basic Toxicology
   enrollment_application: ×
   enrollment_requirements: ''
@@ -117578,7 +117596,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 02RA160
-  teaching_staff: 入江 賢児,安孫子 ユミ,熊谷 嘉人,秋山 雅博
+  teaching_staff: 入江 賢児,熊谷 嘉人
 - class_id: 0AVC204
   class_outline: 'ヒトの病気の原因、発生機序、形態変化について、循環障害(浮腫、血栓症、梗塞など)、炎症、腫瘍などの基礎的な疾患概念を理解するとともに、生体内で何が起こっているのかを総論的に理解できるようになる。また、各論的な知識を自ら取得できるような学習方法を学ぶ。後半は、種々のがんの専門医の授業によりがん医療と最新研究の現状を学ぶ。複数の授業の後に行う小テストと最終レポートにより評価する。
 
@@ -124879,7 +124897,7 @@
 - class_id: 0BDM226
   class_outline: 情報システム科学および計算機科学及びコンピュータ・サイエンスの分野には、人工知能、データ・マイニング、自然言語処理、プログラミング言語、ソフトウェア工学、ネットワークなどがある。本講義では、知能情報システム、言語情報システム、経営情報システム、分散システム、ネットワークシステムなど、さまざまな情報システムの最新のトピックを取り上げ、最近の研究成果に関する文献講読を交えながら講義する。
   credits: '1.0'
-  data_update_date: '2026-06-26 16:47:45'
+  data_update_date: '2026-07-10 16:58:18'
   english_name: Special Lecture on Computer Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -124891,6 +124909,8 @@
 
     02FA250と同一。
 
+    8/29,9/5
+
     対面'
   requirement_subject_name: 情報システム特論
   room: ''
@@ -124898,7 +124918,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 3
   subject_code: 02FA250
-  teaching_staff: 小倉 達哉
+  teaching_staff: 津田 和彦,吉田 光男
 - class_id: 0BDM229
   class_outline: 流行現象、流通・取引関係、組織運営、伝染病など、人や組織に起因する社会のさまざまな関係は、複雑システムの視点から捉えることができる。これらを分析する手法として、社会ネットワーク分析や複雑ネットワーク分析がある。また、ネットワークモデルを利用したシミュレーション手法として、社会シミュレーションがある。本講義では、これらの理論的背景とモデリング手法を講義するとともに、実際の現象に対して分析を試みることを通して、複雑システムのモデル化の理論と手法を習得する。
   credits: '1.0'
@@ -132783,7 +132803,7 @@
 - class_id: 0BL0000
   class_outline: 国内外研究者・企業・自治体などによる数理・データサイエンス・AI分野(MDA分野)の最新の動向に関する専門家によるオムニバス授業を実施し、最近の重要課題について講述する。MDAを活用し、学際的な他分野との融合も通じて、問題解決やイノベーション行う能力を養うことを狙いとする。
   credits: '2.0'
-  data_update_date: '2025-05-02 10:02:29'
+  data_update_date: '2026-07-09 09:48:18'
   english_name: MDA Interdisciplinary Integrated Seminar
   enrollment_application: ''
   enrollment_requirements: ''
@@ -132798,7 +132818,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 3
   subject_code: 0BL0000
-  teaching_staff: 浦田 淳司,川島 宏一,飛田 幹男,讃井 知
+  teaching_staff: 浦田 淳司,川島 宏一,飛田 幹男,讃井 知,長谷部 浩二
 - class_id: 0BL0001
   class_outline: 企業・行政・研究機関等(以下「企業等」という。)が抱える現実課題の解決や企業等が有するデータの活用に関する共同研究またはインターンシップ、あるいは教員の共同研究先との共同研究またはインターンシップを通して、課題解決にデータを活用できる実践的な力を養う。
   credits: '2.0'
@@ -133110,12 +133130,12 @@
 - class_id: 0BLC500
   class_outline: 本授業科目では、セキュリティにおけるリスク・レジリエンスに関する現状を概観し、最近の重要課題について講述する。暗号応用技術や関連するセキュリティ技術によって社会にもたらされる安全性や真正性保証、プライバシー保護などについて説明できるようになることを狙いとする。
   credits: '1.0'
-  data_update_date: '2025-05-22 16:27:57'
+  data_update_date: '2026-07-06 15:18:41'
   english_name: Topics in Risk and Resilience Engineering in Doctoral Program (Security)
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 夏季休業中
+  module: 秋A
   name: リスク・レジリエンス工学博士特別講義(セキュリティ)
   period: 集中
   remarks: '10/3-10/4
@@ -134475,7 +134495,7 @@
 - class_id: 0BNJ021
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学についての論文の中で用いられている、自然史的手法、理論的手法、野外調査、分子的手法、実験、統計・計算などの方法を探究・吟味・議論し、それらの特性、利点、不足点、将来の課題や方向性について議論する。それを通じて、これら分野の研究の到達点と不足点の理解を理解・議論し、高度な専門性を培う。
   credits: '1.0'
-  data_update_date: '2025-11-02 12:13:16'
+  data_update_date: '2026-07-06 14:58:35'
   english_name: Seminar on Ecology IIIS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134490,11 +134510,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0BNJ021
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之,大森 裕子
 - class_id: 0BNJ022
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学・景観生態学についての論文を読んで、これらの分野で行われてきた研究の到達点と不足点の理解を理解・議論する。研究のデザイン、得られた結果に対する解釈や結論の導き方について、基礎となる考え方、分野における標準的慣行、配慮すべき前提や制約、利点や不足点、今後の課題や方向性について、議論し、高度な専門性を培う。
   credits: '1.0'
-  data_update_date: '2025-11-02 12:13:16'
+  data_update_date: '2026-07-06 14:59:32'
   english_name: Seminar on Ecology IIIF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134509,11 +134529,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0BNJ022
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之,大森 裕子
 - class_id: 0BNJ023
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学についての論文の中で用いられている、自然史的手法、理論的手法、野外調査、分子的手法、実験、統計・計算などの方法を探究・吟味・議論し、それらの特性、利点、不足点、将来の課題や方向性について議論する。身近な具体的・個別的研究とも比較しながら、統合的に理解・議論し、高度な専門性を培う。
   credits: '1.0'
-  data_update_date: '2025-11-02 12:13:16'
+  data_update_date: '2026-07-06 15:00:01'
   english_name: Seminar on Ecology IVS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134528,11 +134548,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0BNJ023
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之,大森 裕子
 - class_id: 0BNJ024
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学・景観生態学についての論文を読んで、これらの分野で行われてきた研究の到達点と不足点の理解を理解・議論する。研究のデザイン、得られた結果に対する解釈や結論の導き方について、身近な具体的・個別的研究とも比較しながら、今後の課題や方向性について、統合的に理解・議論し、高度な専門性を培う。
   credits: '1.0'
-  data_update_date: '2025-11-02 12:13:16'
+  data_update_date: '2026-07-06 15:00:28'
   english_name: Seminar on Ecology IVF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134547,11 +134567,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0BNJ024
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之,大森 裕子
 - class_id: 0BNJ025
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学についての論文の中で用いられている、自然史的手法、理論的手法、野外調査、分子的手法、実験、統計・計算などの方法を探究・吟味・議論し、それらの特性、利点、不足点、将来の課題や方向性について議論する。身近な具体的・個別的研究とも比較しながら、当該分野の専門家として高い水準で統合的に理解・議論することを目指す。
   credits: '1.0'
-  data_update_date: '2025-11-02 12:13:16'
+  data_update_date: '2026-07-06 15:00:52'
   english_name: Seminar on Ecology VS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134566,11 +134586,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 0BNJ025
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之,大森 裕子
 - class_id: 0BNJ026
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学・景観生態学についての論文を読んで、これらの分野で行われてきた研究の到達点と不足点の理解を理解・議論する。研究のデザイン、得られた結果に対する解釈や結論の導き方について、身近な具体的・個別的研究とも比較しながら、今後の課題や方向性について、当該分野の専門家として高い水準で統合的に理解・議論することを目指す。
   credits: '1.0'
-  data_update_date: '2025-11-02 12:13:16'
+  data_update_date: '2026-07-06 15:01:14'
   english_name: Seminar on Ecology VF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134585,11 +134605,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 0BNJ026
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,横井 智之,大森 裕子
 - class_id: 0BNJ031
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学・景観生態学の分野で用いられる、自然史的手法、理論的手法、野外調査、分子的手法、実験、統計・計算などの方法を踏まえ、研究目的を設定し、その目的に対する適切な方法を選定して実践する。それらの方法の特性・利点・不足点を解説しながら、得られた結果からどのような結論を導きうるかについて報告する。それについて参加学生・教員全員で議論し、結論の妥当性や問題点について吟味し、当該分野の専門家として高い水準で研究をまとめることを目指す。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 15:01:37'
   english_name: Thesis Research in Ecology S
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134604,11 +134624,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 0BNJ031
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,ハーベイ ベンジャミン ポール,増本 翔太,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,ハーベイ ベンジャミン ポール,増本 翔太,横井 智之,大森 裕子
 - class_id: 0BNJ032
   class_outline: 個生態学・個体群生態学・群集生態学・生態系生態学・景観生態学について、これらの分野で行われてきた研究の到達点と不足点の理解を理解・議論しながら、新規性・重要性の高い研究目的を設定し、研究を実践する。得られた結果を、分野のこれまでの到達点・不足点の中に適切に位置づけ、その新規性や重要性について報告する。それについて参加学生・教員全員で議論し、研究成果とその新規性・重要性の位置づけについて、妥当性や問題点について吟味し、当該分野の専門家として高い水準で研究をまとめることを目指す。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 15:02:06'
   english_name: Thesis Research in Ecology F
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134623,11 +134643,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 0BNJ032
-  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,ハーベイ ベンジャミン ポール,増本 翔太,横井 智之
+  teaching_staff: 徳永 幸彦,廣田 充,津田 吉晃,大橋 一晴,佐藤 幸恵,ハーベイ ベンジャミン ポール,増本 翔太,横井 智之,大森 裕子
 - class_id: 0BNJ041
   class_outline: 植物発生・生理学に関わる論文を読み、論文中に記述されている実験・観察手法、結果から結論が導かれる過程を吟味し、新規性と問題点を議論する。発表者以外の受講生は提示された情報から、疑問点、問題点等を見出し、発表者に向けて質問を行う事により、発表者との議論を深めながら、新規な実験手法・解析手法について理解する。発表および議論は可能な限り英語で行う。この植物発生・生理学セミナーIIISでは、各学生が研究するテーマに関連する内容の最新のトピックスを取り上げることで、研究分野の動向をフォローし、その内容を各自の研究にどの様に取り入れるかに特に着目して議論を行い、自身の研究の発展に貢献できるようにする。
   credits: '1.0'
-  data_update_date: '2025-04-24 10:30:55'
+  data_update_date: '2026-07-06 15:02:48'
   english_name: Seminar on Plant Physiology and Developmental Biology IIIS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134642,11 +134662,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0BNJ041
-  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0BNJ042
   class_outline: 植物発生・生理学に関わる論文を読み、論文中に記述されている実験・観察手法、結果から結論が導かれる過程を吟味し、新規性と問題点を議論する。発表者以外の受講生は提示された情報から、疑問点、問題点等を見出し、発表者に向けて質問を行う事により、発表者との議論を深めながら、新規な実験手法・解析手法について理解する。発表および議論は可能な限り英語で行う。この植物発生・生理学セミナーIIIFでは、各学生が研究するテーマに関連する内容の最新のトピックスを取り上げることで、研究分野の動向をフォローし、その内容を各自の研究にどの様に取り入れるかに特に着目して議論を行い、自身の研究の発展に貢献できるようにする。
   credits: '1.0'
-  data_update_date: '2025-04-24 10:31:47'
+  data_update_date: '2026-07-06 15:03:14'
   english_name: Seminar on Plant Physiology and Developmental Biology IIIF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134661,11 +134681,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0BNJ042
-  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0BNJ043
   class_outline: 植物発生・生理学に関わる論文を読み、論文中に記述されている実験・観察手法、結果から結論が導かれる過程を吟味し、新規性と問題点を議論する。発表者以外の受講生は提示された情報から、疑問点、問題点等を見出し、発表者に向けて質問を行う事により、発表者との議論を深めながら、新規な実験手法・解析手法について理解する。発表および議論は可能な限り英語で行う。この植物発生・生理学セミナーIVSでは、受講する学生が所属する研究グループで研究されているテーマに関連する内容の最新のトピックスを取り上げることで、研究分野について幅広く動向を理解し、その内容を各自の研究に取り入れるのみならず、周りの学生や研究者に新たな研究方針について提案を行うことのできるレベルを目指し、グループ全体を引き上げるような議論ができることが望ましい。
   credits: '1.0'
-  data_update_date: '2025-04-24 10:32:31'
+  data_update_date: '2026-07-06 15:03:39'
   english_name: Seminar on Plant Physiology and Developmental Biology IVS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134680,11 +134700,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0BNJ043
-  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0BNJ044
   class_outline: 植物発生・生理学に関わる論文を読み、論文中に記述されている実験・観察手法、結果から結論が導かれる過程を吟味し、新規性と問題点を議論する。発表者以外の受講生は提示された情報から、疑問点、問題点等を見出し、発表者に向けて質問を行う事により、発表者との議論を深めながら、新規な実験手法・解析手法について理解する。発表および議論は可能な限り英語で行う。この植物発生・生理学セミナーIVFでは、受講する学生が所属する研究グループで研究されているテーマに関連する内容の最新のトピックスを取り上げることで、研究分野について幅広く動向を理解し、その内容を各自の研究に取り入れるのみならず、周りの学生や研究者に新たな研究方針について提案を行うことのできるレベルを目指し、グループ全体を引き上げるような議論ができることが望ましい。
   credits: '1.0'
-  data_update_date: '2025-04-24 10:33:13'
+  data_update_date: '2026-07-06 15:04:05'
   english_name: Seminar on Plant Physiology and Developmental Biology IVF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134699,11 +134719,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0BNJ044
-  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0BNJ045
   class_outline: 植物発生・生理学に関わる論文を読み、論文中に記述されている実験・観察手法、結果から結論が導かれる過程を吟味し、新規性と問題点を議論する。発表者以外の受講生は提示された情報から、疑問点、問題点等を見出し、発表者に向けて質問を行う事により、発表者との議論を深めながら、新規な実験手法・解析手法について理解する。発表および議論は可能な限り英語で行う。この植物発生・生理学セミナーVSでは、受講する学生は既に自分が主体的に論文を発表したか、発表する時期に相当するので、単に論文の内容に関する議論のみならず、どの様に論文が構想され、研究の結果がどの様に表現されているのかを意識して論文を吟味し、それをどの様に自身の論文に活かしていくのかを含めた視点で議論を行うことができることが望ましい。
   credits: '1.0'
-  data_update_date: '2025-04-24 10:33:57'
+  data_update_date: '2026-07-06 15:05:14'
   english_name: Seminar on Plant Physiology and Developmental Biology VS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134718,11 +134738,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 0BNJ045
-  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0BNJ046
   class_outline: 植物発生・生理学に関わる論文を読み、論文中に記述されている実験・観察手法、結果から結論が導かれる過程を吟味し、新規性と問題点を議論する。発表者以外の受講生は提示された情報から、疑問点、問題点等を見出し、発表者に向けて質問を行う事により、発表者との議論を深めながら、新規な実験手法・解析手法について理解する。発表および議論は可能な限り英語で行う。この植物発生・生理学セミナーVFでは、受講する学生は既に自分が主体的に論文を発表したか、発表する時期に相当するので、単に論文の内容に関する議論のみならず、どの様に論文が構想され、研究の結果がどの様に表現されているのかを意識して論文を吟味し、それをどの様に自身の論文に活かしていくのかを含めた視点で議論を行うことができることが望ましい。
   credits: '1.0'
-  data_update_date: '2025-04-24 10:34:37'
+  data_update_date: '2026-07-06 15:05:42'
   english_name: Seminar on Plant Physiology and Developmental Biology VF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134737,11 +134757,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 0BNJ046
-  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0BNJ051
   class_outline: 植物生理学的解析、植物分子生物学的解析をはじめとするさまざまな手法や得られたデータを解析する方法を教授する。また、実際の実験・観察結果から導き出した結論の妥当性や問題点の吟味、先行研究との比較などを指導し、高度の研究能力を修得させる。合わせて口頭発表や論文作成のために必要なデータの取り扱い方法を習得し、実際に自分でまとめる能力を身につける。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 15:06:10'
   english_name: Thesis Research in Plant Physiology and Developmental Biology S
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134756,11 +134776,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 0BNJ051
-  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0BNJ052
   class_outline: 植物生理学的解析、植物分子生物学的解析をはじめとするさまざまな手法や得られたデータを解析する方法を教授する。また、実際の実験・観察結果から導き出した結論の妥当性や問題点の吟味、先行研究との比較などを指導し、高度の研究能力を修得させる。口頭発表や論文作成のために必要なデータの取り扱い方法を習得し、これまでの研究成果と対比させ自分の研究をいかにアピールするかにも注意してデータを取りまとめる。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 15:06:38'
   english_name: Thesis Research in Plant Physiology and Developmental Biology F
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134775,11 +134795,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 0BNJ052
-  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン
+  teaching_staff: 壽崎 拓哉,鈴木 石根,前田 義昌,蓑田 歩,アーヴィング ルイス ジョン,松井 裕史
 - class_id: 0BNJ061
   class_outline: 分子レベル、細胞レベル、および個体レベルの観点から動物の発生現象あるいは生理現象を論じた論文を読み、論文発表に至るまでのバックグラウンド、論文中で記載されている実験の手法と実験結果から結論が導かれる過程を吟味し、結果の新規性と今後に残された問題点、そして将来の研究の方向性を議論する。本セミナーでは発生・生理学の推進に必要な創造力の育成を目指し、その基盤を形成することを主眼とする。また、対となるセミナーIIIFとの履修順序に応じて柔軟に到達点を評価する。
   credits: '1.0'
-  data_update_date: '2025-06-12 11:07:46'
+  data_update_date: '2026-07-06 15:07:34'
   english_name: Seminar on Animal Physiology and Developmental Biology IIIS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134795,11 +134815,11 @@
   standard_course_year: '1'
   subject_code: 0BNJ061
   teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,鈴木 大地,カスコロブレス マルティン ミゲル,春本
-    敏之
+    敏之,石川 由希
 - class_id: 0BNJ062
   class_outline: 分子レベル、細胞レベル、および個体レベルの観点から動物の発生現象あるいは生理現象を論じた論文を読み、論文発表に至るまでのバックグラウンド、論文中で記載されている実験の手法と実験結果から結論が導かれる過程を吟味し、結果の新規性と今後に残された問題点、そして将来の研究の方向性を議論する。本セミナーでは発生・生理学の推進に必要な創造力の育成を目指し、その基盤を形成することを主眼とする。また、対となるセミナーIIISとの履修順序に応じて柔軟に到達点を評価する。
   credits: '1.0'
-  data_update_date: '2025-06-12 11:08:40'
+  data_update_date: '2026-07-06 15:08:02'
   english_name: Seminar on Animal Physiology and Developmental Biology IIIF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134815,11 +134835,11 @@
   standard_course_year: '1'
   subject_code: 0BNJ062
   teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,鈴木 大地,カスコロブレス マルティン ミゲル,春本
-    敏之
+    敏之,石川 由希
 - class_id: 0BNJ063
   class_outline: 分子レベル、細胞レベル、および個体レベルの観点から動物の発生現象あるいは生理現象を論じた論文を読み、論文発表に至るまでのバックグラウンド、論文中で記載されている実験の手法と実験結果から結論が導かれる過程を吟味し、結果の新規性と今後に残された問題点、そして将来の研究の方向性を議論する。本セミナーでは前年度の同系列のセミナーと比べてより発展的な議論を行い、研究推進力の更なる増加を狙う。また、対となるセミナーIVFとの履修順序に応じて柔軟に到達点を評価する。
   credits: '1.0'
-  data_update_date: '2025-06-12 11:09:20'
+  data_update_date: '2026-07-06 15:08:25'
   english_name: Seminar on Animal Physiology and Developmental Biology IVS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134835,11 +134855,11 @@
   standard_course_year: '2'
   subject_code: 0BNJ063
   teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,鈴木 大地,カスコロブレス マルティン ミゲル,春本
-    敏之
+    敏之,石川 由希
 - class_id: 0BNJ064
   class_outline: 分子レベル、細胞レベル、および個体レベルの観点から動物の発生現象あるいは生理現象を論じた論文を読み、論文発表に至るまでのバックグラウンド、論文中で記載されている実験の手法と実験結果から結論が導かれる過程を吟味し、結果の新規性と今後に残された問題点、そして将来の研究の方向性を議論する。本セミナーでは前年度の同系列のセミナーと比べてより発展的な議論を行い、研究推進力の更なる増加を狙う。また、対となるセミナーIVSとの履修順序に応じて柔軟に到達点を評価する。
   credits: '1.0'
-  data_update_date: '2025-06-12 11:10:07'
+  data_update_date: '2026-07-06 15:08:52'
   english_name: Seminar on Animal Physiology and Developmental Biology IVF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134855,11 +134875,11 @@
   standard_course_year: '2'
   subject_code: 0BNJ064
   teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,鈴木 大地,カスコロブレス マルティン ミゲル,春本
-    敏之
+    敏之,石川 由希
 - class_id: 0BNJ065
   class_outline: 分子レベル、細胞レベル、および個体レベルの観点から動物の発生現象あるいは生理現象を論じた論文を読み、論文発表に至るまでのバックグラウンド、論文中で記載されている実験の手法と実験結果から結論が導かれる過程を吟味し、結果の新規性と今後に残された問題点、そして将来の研究の方向性を議論する。本セミナーでは分野の本質に迫る議論を中心に据えることで、将来の研究を担う総合的な力の獲得を目指す。また、対となるセミナーVFとの履修順序に応じて柔軟に到達点を評価する。
   credits: '1.0'
-  data_update_date: '2025-06-12 11:10:56'
+  data_update_date: '2026-07-06 15:13:41'
   english_name: Seminar on Animal Physiology and Developmental Biology VS
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134875,11 +134895,11 @@
   standard_course_year: '3'
   subject_code: 0BNJ065
   teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,鈴木 大地,カスコロブレス マルティン ミゲル,春本
-    敏之
+    敏之,石川 由希
 - class_id: 0BNJ066
   class_outline: 分子レベル、細胞レベル、および個体レベルの観点から動物の発生現象あるいは生理現象を論じた論文を読み、論文発表に至るまでのバックグラウンド、論文中で記載されている実験の手法と実験結果から結論が導かれる過程を吟味し、結果の新規性と今後に残された問題点、そして将来の研究の方向性を議論する。本セミナーでは分野の本質に迫る議論を中心に据えることで、将来の研究を担う総合的な力の獲得を目指す。また、対となるセミナーVSとの履修順序に応じて柔軟に到達点を評価する。
   credits: '1.0'
-  data_update_date: '2025-06-12 11:11:43'
+  data_update_date: '2026-07-06 15:14:13'
   english_name: Seminar on Animal Physiology and Developmental Biology VF
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134895,11 +134915,11 @@
   standard_course_year: '3'
   subject_code: 0BNJ066
   teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,鈴木 大地,カスコロブレス マルティン ミゲル,春本
-    敏之
+    敏之,石川 由希
 - class_id: 0BNJ071
   class_outline: 分子生物学的研究、遺伝学的研究、生化学的研究、生理学的研究、各種オミクス研究を実施するための実験手法、またこれらの手法を通じて得られたデータを解析する方法を教授する。また、実際の実験と観察の結果から導き出した結論の妥当性や問題点の吟味、先行研究との比較などを指導し、高度な研究能力を修得させる。講究Sでは特に、各人の研究課題について、国内外の最新動向を把握し、分野の発展に貢献する基盤的および発展的な課題の解決に取り組むよう指導する。ただし、履修順序によっては、講究Fの内容とする。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 15:17:19'
   english_name: Thesis Research in Animal Physiology and Developmental Biology S
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134914,11 +134934,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 0BNJ071
-  teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,春本 敏之
+  teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,春本 敏之,石川 由希,鈴木 大地
 - class_id: 0BNJ072
   class_outline: 分子生物学的研究、遺伝学的研究、生化学的研究、生理学的研究、各種オミクス研究を実施するための実験手法、またこれらの手法を通じて得られたデータを解析する方法を教授する。また、実際の実験と観察の結果から導き出した結論の妥当性や問題点の吟味、先行研究との比較などを指導し、高度な研究能力を修得させる。講究Fでは特に、各人の研究課題について、目的や方法、成果を英語原著論文として発表する方法を習得させるとともに、生物学全体を俯瞰し、分野の創造や発展に貢献する独創的で先進的な研究計画が立案できるように指導する。ただし、履修順序によっては、講究Sの内容とする。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 15:16:53'
   english_name: Thesis Research in Animal Physiology and Developmental Biology F
   enrollment_application: ×
   enrollment_requirements: ''
@@ -134933,7 +134953,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 0BNJ072
-  teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,春本 敏之
+  teaching_staff: 千葉 親文,笹倉 靖徳,丹羽 隆介,谷口 俊介,岡本 直樹,櫻井 啓輔,島田 裕子,春本 敏之,石川 由希,鈴木 大地
 - class_id: 0BNJ081
   class_outline: 分子生物学及び細胞生物学に関する学術論文を読み、論文中に記述されている実験・実験手法、実験結果から結論が導かれる過程を吟味し、新規性と問題点を議論する。発表者以外の受講生は提示された情報から、疑問点、問題点等を見出し、発表者に向けて質問を行う事により、発表者との議論を深めながら、新規な実験手法・解析手法について理解する。本科目と分子細胞生物学セミナーIIIFの履修を通じて、大学院博士課程の学生に必要な専門知識と論理性を修得する。
   credits: '1.0'
@@ -135057,7 +135077,7 @@
 - class_id: 0BNJ091
   class_outline: 分子生物学的解析などに関する実験方法、及び得られたデータを解析する方法を教授する。また、実際の実験・観察結果から導き出した結論の妥当性や問題点の吟味、先行研究との比較などを指導し、高度の研究能力を修得させる。本科目と分子細胞生物学講究Fの履修を通じて、国際的に通用する博士の学位に相応しい研究能力を修得させる。
   credits: '3.0'
-  data_update_date: '2026-01-15 14:55:36'
+  data_update_date: '2026-07-06 15:17:56'
   english_name: Thesis Research in Molecular and Cellular Biology S
   enrollment_application: ×
   enrollment_requirements: ''
@@ -135073,11 +135093,11 @@
   standard_course_year: '3'
   subject_code: 0BNJ091
   teaching_staff: 三浦 謙治,稲葉 一男,千葉 智樹,中野 賢太郎,ホール スペンサー ジェイソン マイケル,石川 香,鶴田 文憲,平川 泰久,谷
-    一寿
+    一寿,野? 翔平
 - class_id: 0BNJ092
   class_outline: 細胞生物学的解析などに関する実験方法、及び得られたデータを解析する方法を教授する。また、実際の実験・観察結果から導き出した結論の妥当性や問題点の吟味、先行研究との比較などを指導し、高度の研究能力を修得させる。本科目と分子細胞生物学講究Sの履修を通じて、国際的に通用する博士の学位に相応しい研究能力を修得させる。
   credits: '3.0'
-  data_update_date: '2026-01-15 14:55:59'
+  data_update_date: '2026-07-06 15:18:44'
   english_name: Thesis Research in Molecular and Cellular Biology F
   enrollment_application: ×
   enrollment_requirements: ''
@@ -135093,7 +135113,7 @@
   standard_course_year: '3'
   subject_code: 0BNJ092
   teaching_staff: 三浦 謙治,稲葉 一男,千葉 智樹,中野 賢太郎,ホール スペンサー ジェイソン マイケル,石川 香,鶴田 文憲,平川 泰久,谷
-    一寿
+    一寿,野? 翔平
 - class_id: 0BNJ101
   class_outline: ゲノム情報学では、古典・分子遺伝学における突然変異等のデータ、ゲノム・トランスクリプトーム等のオミックスデータ、タンパク質の立体構造データなどを基盤とし研究を実施する。そこでゲノム情報学における自分の研究に直接関連する分野を中心として最新の学術論文を広く精読し、当該研究分野の背景、実験手法、議論の内容を理解する。また結果から導かれる議論を精査し、研究の基本的重要性について討論を行う。最終的に自分の研究分野の基本的知見をアップデートする。
   credits: '1.0'
@@ -135255,7 +135275,7 @@
 - class_id: 0BNJ121
   class_outline: 分子生物学的研究、遺伝学的研究、生化学的研究、生理学的研究、各種オミクス研究を実施するための実験手法、またこれらの手法を通じて得られたデータを解析する方法を教授する。また、実際の実験と観察の結果から導き出した結論の妥当性や問題点の吟味、先行研究との比較などを指導し、高度の研究能力を修得させる。本科目と先端細胞生物科学講究Fの履修を通じて、博士の学位に相応しい国際帝に高度な研究能力を修得する。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 15:19:40'
   english_name: Thesis Research in Advanced Cellular Biology S
   enrollment_application: ×
   enrollment_requirements: ''
@@ -135270,11 +135290,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 0BNJ121
-  teaching_staff: 永宗 喜三郎,設樂 浩志,矢吹 彬憲,竹之内 敬人
+  teaching_staff: 永宗 喜三郎,設樂 浩志,矢吹 彬憲,竹之内 敬人,井上 智美
 - class_id: 0BNJ122
   class_outline: 分子生物学的研究、遺伝学的研究、生化学的研究、生理学的研究、各種オミクス研究を実施するための実験手法、またこれらの手法を通じて得られたデータを解析する方法を教授する。また、実際の実験と観察の結果から導き出した結論の妥当性や問題点の吟味、先行研究との比較などを指導し、高度の研究能力を修得させる。本科目と先端細胞生物科学講究Sの履修を通じて、博士の学位に相応しい国際的に高度な研究能力を修得する。
   credits: '3.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-06 15:20:12'
   english_name: Thesis Research in Advanced Cellular Biology F
   enrollment_application: ×
   enrollment_requirements: ''
@@ -135289,7 +135309,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: 0BNJ122
-  teaching_staff: 永宗 喜三郎,設樂 浩志,矢吹 彬憲,竹之内 敬人
+  teaching_staff: 永宗 喜三郎,設樂 浩志,矢吹 彬憲,竹之内 敬人,井上 智美
 - class_id: 0BNJ123
   class_outline: 分子生物学的研究、遺伝学的研究、生化学的研究、生理学的研究、各種オミクス研究を実施するための実験手法、またこれらの手法を通じて得られたデータを解析する方法を教授する。また、実際の実験と観察の結果から導き出した結論の妥当性や問題点の吟味、先行研究との比較などを指導し、高度の研究能力を修得させる。本科目と先端分子生物科学講究Fの履修を通じて、博士の学位に相応しい国際的に高度な研究能力を修得する。
   credits: '3.0'
@@ -137559,12 +137579,12 @@
 - class_id: 0BNP001
   class_outline: 本フォーラムは,持続循環環境学を枠組みとして,学生の個別研究の学際的な広がりと説明力を育成し,持続可能な物質とエネルギーの循環型社会システムに関する科学技術とその政策的実践力を高度化します.
   credits: '2.0'
-  data_update_date: '2026-07-02 11:28:19'
+  data_update_date: '2026-07-06 09:04:24'
   english_name: Forum on Environmental Studies I
   enrollment_application: ×
   enrollment_requirements: ''
   method: '2'
-  module: 秋B
+  module: 秋AB
   name: 環境学フォーラムI
   period: 集中
   remarks: '英語で授業。
@@ -147921,7 +147941,7 @@
     \ 授業計画:1.概論 2.化学物質のADME 3.薬と毒物 4.化学物質の解毒 (その1)5.化学物質の解毒 (その2)6.化学物質の代謝活性化 (その1)7.化学物質の代謝活性化\
     \ (その2)8.薬効および有害性の個体差と遺伝的多型 9.総合討論(その1)10.総合討論(その2)"
   credits: '1.0'
-  data_update_date: '2025-12-17 16:03:40'
+  data_update_date: '2026-07-10 13:48:35'
   english_name: Basic Toxicology
   enrollment_application: ×
   enrollment_requirements: ''
@@ -147940,7 +147960,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 02RA160
-  teaching_staff: 入江 賢児,安孫子 ユミ,熊谷 嘉人,秋山 雅博
+  teaching_staff: 入江 賢児,熊谷 嘉人
 - class_id: 0BTX114
   class_outline: 本講義は、筑波大学と東京理科大学の大学間の連携協定に基づき実施する講義である。創薬の方法について、東京理科大学薬学部所属の創薬の専門家を招いて講義を行なう。基本的な化学合成の方法から、創薬リード化合物のin
     silico スクリーニング/分子設計及びコンビナトリアルケミストリー手法、コンピュータシミュレーション技術を駆使した論理的な新薬開発のプロセス、薬物体内動態研究の動向等、最新の創薬技術までを俯瞰的に理解する。理解した内容についてテーマを選択し、創薬についてのレポートを提出する。
@@ -153265,7 +153285,7 @@
 
     ? Design thinking'
   credits: '1.0'
-  data_update_date: '2026-03-09 20:46:11'
+  data_update_date: '2026-07-07 12:14:46'
   english_name: Lectures for co-creating harmonious future
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153328,7 +153348,7 @@
 
     を選抜する。'
   credits: '1.0'
-  data_update_date: '2026-02-10 10:30:42'
+  data_update_date: '2026-07-07 12:14:29'
   english_name: Seminar for Co-Creating Harmonious Future
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153365,7 +153385,7 @@
 
     in the pitch competition.'
   credits: '1.0'
-  data_update_date: '2026-02-10 10:37:52'
+  data_update_date: '2026-07-07 12:14:07'
   english_name: Fieldwork for co-creating harmonious future (A)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153404,7 +153424,7 @@
 
     in the pitch competition.'
   credits: '1.0'
-  data_update_date: '2026-02-10 10:41:01'
+  data_update_date: '2026-07-07 12:13:45'
   english_name: Fieldwork for co-creating harmonious future (B)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153443,7 +153463,7 @@
 
     アジアとの比較から日本の文化、デザインを捉えなおす力も身につけます。'
   credits: '1.0'
-  data_update_date: '2026-02-10 10:43:47'
+  data_update_date: '2026-07-07 12:07:02'
   english_name: Design and Culture in South Asia
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153476,7 +153496,7 @@
 
     多角的に考える力を身につけます。'
   credits: '1.0'
-  data_update_date: '2026-02-10 10:45:37'
+  data_update_date: '2026-07-07 12:13:24'
   english_name: Healthcare Research and Innovations in Japan and India
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153498,6 +153518,25 @@
   standard_course_year: 1・2
   subject_code: '1226241'
   teaching_staff: 櫻井 岳暁
+- class_id: '1226251'
+  class_outline: ''
+  credits: '1.0'
+  data_update_date: '2026-07-07 12:44:30'
+  english_name: Finance and Economics for Making Choices
+  enrollment_application: ''
+  enrollment_requirements: ''
+  method: '1'
+  module: 秋B
+  name: 選択のための金融・経済 -自分・社会・キャリアを自律的に考える-
+  period: 火5,6
+  remarks: ''
+  requirement_subject_name: 選択のための金融・経済 -自分・社会・キャリアを自律的に考える-
+  room: ''
+  short_term_students_application: ''
+  short_term_students_requirements: ''
+  standard_course_year: '1'
+  subject_code: '1226251'
+  teaching_staff: ''
 - class_id: '1227011'
   class_outline: 本講義は,本学の学士課程教育への導入を担う。大学における学問の方法論へ誘(いざな)い、自らが専攻する学問分野への理解や、関連する諸分野との関係性も理解できる能力を涵養する。
   credits: '1.0'
@@ -178615,9 +178654,17 @@
   subject_code: '3666012'
   teaching_staff: ''
 - class_id: '3667012'
-  class_outline: ''
+  class_outline: En este curso, los estudiantes desarrollar?n su capacidad para conversar
+    sobre diversos temas culturales y cotidianos, frecuentes en las conversaciones
+    informales en espa?ol. Cada sesi?n abordar? un tema de la vida diaria, como la
+    comida, la vestimenta, el clima, las costumbres sociales y las festividades, as?
+    como sus manifestaciones en distintos pa?ses de Hispanoam?rica. Se practicar?
+    la expresi?n de opiniones y preferencias, la realizaci?n de comparaciones y la
+    formulaci?n de preguntas. De esta manera, los estudiantes mejorar?n su capacidad
+    de expresi?n oral mientras conocen la diversidad cultural de Hispanoam?rica. El
+    nivel m?nimo esperado de los participantes es A2.
   credits: '1.0'
-  data_update_date: '2026-06-30 10:36:36'
+  data_update_date: '2026-07-06 15:28:31'
   english_name: Advanced Spanish Conversation (1)B
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -187832,7 +187879,7 @@
 - class_id: '8331163'
   class_outline: 秋学期ないし春季休業期間に国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人学生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-07-03 09:12:14'
+  data_update_date: '2026-07-07 12:12:41'
   english_name: Problem solving through multicultural co-learning (in Japan) B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -187847,7 +187894,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '8331163'
-  teaching_staff: 福嶋 美佐子,小野 裕子,阿部 淳一 ピーター
+  teaching_staff: 福嶋 美佐子,小野 裕子,阿部 淳一 ピーター,入江 賢児
 - class_id: '8331173'
   class_outline: 海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
@@ -187871,7 +187918,7 @@
 - class_id: '8331183'
   class_outline: 海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-07-03 09:12:46'
+  data_update_date: '2026-07-08 10:34:04'
   english_name: Problem solving through multicultural co-learning (overseas) B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -187886,7 +187933,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '8331183'
-  teaching_staff: 福嶋 美佐子,朝倉 雅史
+  teaching_staff: 福嶋 美佐子,朝倉 雅史,森尾 貴広,入江 賢児,松原 康介
 - class_id: '8331204'
   class_outline: '新規事業の立ち上げ(起業含む)に関心のある受講者に対して、実際に起業に携わった経営者陣が、様々な経験に基づく講義を行う。
 
@@ -188074,7 +188121,7 @@
 - class_id: '9100111'
   class_outline: 学校教育に必要な基礎理論として,幼児,児童及び生徒(障害のある幼児,児童及び生徒を含む)の心身の発達と学習の過程について学ぶ。
   credits: '1.0'
-  data_update_date: '2026-01-15 09:19:17'
+  data_update_date: '2026-07-10 14:12:01'
   english_name: Development of Child and Youth
   enrollment_application: △
   enrollment_requirements: ''
@@ -188091,11 +188138,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '9100111'
-  teaching_staff: 安藤 智子,大塚 泰正,藤 桂,尾野 裕美,千島 雄太,市倉 加奈子
+  teaching_staff: 安藤 智子,大塚 泰正,藤 桂,千島 雄太,市倉 加奈子,? 由寛
 - class_id: '9100121'
   class_outline: 学校教育に必要な基礎理論として,幼児,児童及び生徒(障害のある幼児,児童及び生徒を含む)の心身の発達と学習の過程について学ぶ。
   credits: '1.0'
-  data_update_date: '2026-01-15 09:20:25'
+  data_update_date: '2026-07-10 14:12:46'
   english_name: Development of Child and Youth
   enrollment_application: △
   enrollment_requirements: ''
@@ -188112,11 +188159,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '9100111'
-  teaching_staff: 安藤 智子,大塚 泰正,藤 桂,尾野 裕美,千島 雄太,市倉 加奈子
+  teaching_staff: 安藤 智子,大塚 泰正,藤 桂,千島 雄太,市倉 加奈子,? 由寛
 - class_id: '9100131'
   class_outline: 学校教育に必要な基礎理論として,幼児,児童及び生徒(障害のある幼児,児童及び生徒を含む)の心身の発達と学習の過程について学ぶ。
   credits: '1.0'
-  data_update_date: '2026-01-15 09:21:26'
+  data_update_date: '2026-07-10 14:13:22'
   english_name: Development of Child and Youth
   enrollment_application: △
   enrollment_requirements: ''
@@ -188133,11 +188180,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '9100111'
-  teaching_staff: 安藤 智子,大塚 泰正,藤 桂,尾野 裕美,千島 雄太,市倉 加奈子
+  teaching_staff: 安藤 智子,大塚 泰正,藤 桂,千島 雄太,市倉 加奈子,? 由寛
 - class_id: '9100141'
   class_outline: 学校教育に必要な基礎理論として,幼児,児童及び生徒(障害のある幼児,児童及び生徒を含む)の心身の発達と学習の過程について学ぶ。
   credits: '1.0'
-  data_update_date: '2026-01-15 09:22:27'
+  data_update_date: '2026-07-10 14:13:53'
   english_name: Development of Child and Youth
   enrollment_application: △
   enrollment_requirements: ''
@@ -188154,11 +188201,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '9100111'
-  teaching_staff: 安藤 智子,大塚 泰正,藤 桂,尾野 裕美,千島 雄太,市倉 加奈子
+  teaching_staff: 安藤 智子,大塚 泰正,藤 桂,千島 雄太,市倉 加奈子,? 由寛
 - class_id: '9100151'
   class_outline: 学校教育に必要な基礎理論として,幼児,児童及び生徒(障害のある幼児,児童及び生徒を含む)の心身の発達と学習の過程について学ぶ。
   credits: '1.0'
-  data_update_date: '2026-01-15 09:23:26'
+  data_update_date: '2026-07-10 14:14:19'
   english_name: Development of Child and Youth
   enrollment_application: △
   enrollment_requirements: ''
@@ -188175,11 +188222,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '9100111'
-  teaching_staff: 安藤 智子,大塚 泰正,藤 桂,尾野 裕美,千島 雄太,市倉 加奈子
+  teaching_staff: 安藤 智子,大塚 泰正,藤 桂,千島 雄太,市倉 加奈子,? 由寛
 - class_id: '9100211'
   class_outline: 学校教育に必要な基礎理論として, 幼児, 児童及び生徒(障害のある幼児,児童及び生徒を含む)の心身の発達と学習の過程について学ぶ。
   credits: '1.0'
-  data_update_date: '2026-04-08 13:45:32'
+  data_update_date: '2026-07-08 16:07:54'
   english_name: Psychology of Learning
   enrollment_application: △
   enrollment_requirements: ''
@@ -188196,11 +188243,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '9100211'
-  teaching_staff: 山田 一夫,外山 美樹,綾部 早穂,高橋 阿貴,豊島 理公
+  teaching_staff: 山田 一夫,外山 美樹,綾部 早穂,高橋 阿貴,豊島 理公,滝口 雄太
 - class_id: '9100221'
   class_outline: 学校教育に必要な基礎理論として, 幼児, 児童及び生徒(障害のある幼児,児童及び生徒を含む)の心身の発達と学習の過程について学ぶ。
   credits: '1.0'
-  data_update_date: '2026-04-08 13:45:32'
+  data_update_date: '2026-07-08 16:08:27'
   english_name: Psychology of Learning
   enrollment_application: △
   enrollment_requirements: ''
@@ -188217,11 +188264,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '9100211'
-  teaching_staff: 山田 一夫,外山 美樹,綾部 早穂,高橋 阿貴,豊島 理公
+  teaching_staff: 山田 一夫,外山 美樹,綾部 早穂,高橋 阿貴,豊島 理公,滝口 雄太
 - class_id: '9100231'
   class_outline: 学校教育に必要な基礎理論として, 幼児, 児童及び生徒(障害のある幼児,児童及び生徒を含む)の心身の発達と学習の過程について学ぶ。
   credits: '1.0'
-  data_update_date: '2026-04-08 13:45:32'
+  data_update_date: '2026-07-08 16:08:47'
   english_name: Psychology of Learning
   enrollment_application: △
   enrollment_requirements: ''
@@ -188238,11 +188285,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '9100211'
-  teaching_staff: 山田 一夫,外山 美樹,綾部 早穂,高橋 阿貴,豊島 理公
+  teaching_staff: 山田 一夫,外山 美樹,綾部 早穂,高橋 阿貴,豊島 理公,滝口 雄太
 - class_id: '9100241'
   class_outline: 学校教育に必要な基礎理論として, 幼児, 児童及び生徒(障害のある幼児,児童及び生徒を含む)の心身の発達と学習の過程について学ぶ。
   credits: '1.0'
-  data_update_date: '2026-04-08 13:45:32'
+  data_update_date: '2026-07-08 16:09:17'
   english_name: Psychology of Learning
   enrollment_application: △
   enrollment_requirements: ''
@@ -188259,11 +188306,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '9100211'
-  teaching_staff: 山田 一夫,外山 美樹,綾部 早穂,高橋 阿貴,豊島 理公
+  teaching_staff: 山田 一夫,外山 美樹,綾部 早穂,高橋 阿貴,豊島 理公,滝口 雄太
 - class_id: '9100251'
   class_outline: 学校教育に必要な基礎理論として, 幼児, 児童及び生徒(障害のある幼児,児童及び生徒を含む)の心身の発達と学習の過程について学ぶ。
   credits: '1.0'
-  data_update_date: '2026-04-08 13:45:32'
+  data_update_date: '2026-07-08 16:10:00'
   english_name: Psychology of Learning
   enrollment_application: △
   enrollment_requirements: ''
@@ -188280,7 +188327,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '9100211'
-  teaching_staff: 山田 一夫,外山 美樹,綾部 早穂,高橋 阿貴,豊島 理公
+  teaching_staff: 山田 一夫,外山 美樹,綾部 早穂,高橋 阿貴,豊島 理公,滝口 雄太
 - class_id: '9200111'
   class_outline: 子どもが人として生まれ、人間として形成されていく過程で、大人・教育者はどのようなはたらきかけを行うべきか。また、社会は社会的存在としての人間の形成にどのように関わるべきか。こうした課題を、人間の発達、教育の目的、内容、方法、制度的・組織的原理等に関わる教育の基礎理論・基本的概念をふまえながら、多面的に考察する。
   credits: '1.0'
@@ -190215,17 +190262,15 @@
 - class_id: '9473001'
   class_outline: 美術科教育における歴史,目的,内容,方法について概説する。
   credits: '1.0'
-  data_update_date: '2026-06-01 17:17:52'
+  data_update_date: '2026-07-06 15:44:15'
   english_name: Art Education I
   enrollment_application: △
   enrollment_requirements: ''
   method: '1'
-  module: 春C
+  module: 秋学期
   name: 美術科教育法概論I
   period: 集中
   remarks: '日程は仮(現在調整中)2020年度以前入学者対象。
-
-    7/18,7/19
 
     実務経験教員
 
@@ -190236,7 +190281,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2・3
   subject_code: '9473001'
-  teaching_staff: 市川 寛也
+  teaching_staff: 直江 俊雄
 - class_id: '9474001'
   class_outline: 美術科教育の役割や今日的課題について概説する。
   credits: '1.0'
@@ -190746,17 +190791,15 @@
 - class_id: '9491001'
   class_outline: 中学校美術科における工芸ならびに高等学校芸術科における工芸の指導法の理論と適用について学ぶ。
   credits: '1.0'
-  data_update_date: '2026-06-01 17:06:24'
+  data_update_date: '2026-07-06 15:42:41'
   english_name: Handicraft in Art Education I
   enrollment_application: △
   enrollment_requirements: ''
   method: '1'
-  module: 春C
+  module: 秋学期
   name: 美術科・工芸科教育法I
   period: 集中
   remarks: '日程は仮(現在調整中)2021年度以降入学者対象。
-
-    7/18,7/19
 
     実務経験教員
 
@@ -190767,7 +190810,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2・3
   subject_code: '9491001'
-  teaching_staff: 市川 寛也
+  teaching_staff: 直江 俊雄
 - class_id: '9492001'
   class_outline: 中学校美術科における工芸ならびに高等学校芸術科における工芸の役割や今日的課題について学ぶ。
   credits: '1.0'
@@ -191835,7 +191878,7 @@
     \ 特別活動は、集団での「生活づくり」を通じて「なすことによって学ぶ」活動です。本授業では、生徒が自主的・自律的に活動を展開し、集団や社会の形成者になっていけるよう、教員がどのように指導すればよいのかを考えていきます。\n\
     授業の進め方は、まず中学校・高等学校における特別活動の3つの領域である学級・ホームルーム活動、生徒会活動、学校行事に着目し、その理論、教育目標・内容、指導方法について、講義によって検討します。さらに、実際に特別活動の指導計画を作成し、それを発表・評価していきます。"
   credits: '1.0'
-  data_update_date: '2026-01-27 14:55:12'
+  data_update_date: '2026-07-09 17:07:15'
   english_name: Theoretical and Practical Studies in Special Activities
   enrollment_application: △
   enrollment_requirements: ''
@@ -191856,7 +191899,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: '9701001'
-  teaching_staff: 田中 光晴
+  teaching_staff: 田中 光晴,小原 淳一
 - class_id: '9706021'
   class_outline: '学校は子どもたちが学ぶ場所であると同時に、生活する場所でもあります。教科において、言語・数量・情報などの基礎的スキルや、それらを活用する思考力・判断力・表現力などを育成するのに対して、教科外活動である特別活動では、集団生活における自治的活動を通して実践力、すなわち人間関係を形成する力や社会に参画する力を身に付け、生徒1人1人の自己実現を目指します。特に、21世紀を生き抜くための資質・能力の重要性が指摘される中で、非認知(社会情動)的能力の発達に寄与できる特別活動への期待が高まっています。
 
@@ -212106,12 +212149,12 @@
 - class_id: AC66033
   class_outline: ジョージア・イリア国立大学と本学の共修による、ジョージアと日本の多文化共修活動。本学学生をジョージア(トビリシ、ステパンツミンダ、ツノリなど)に派遣し、多文化共修活動を行う。
   credits: '3.0'
-  data_update_date: '2026-07-02 10:44:00'
+  data_update_date: '2026-07-06 14:42:46'
   english_name: International Practicum in Comparative Culture IV
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   method: '3'
-  module: 夏季休業中
+  module: 春C夏季休業中
   name: 比較文化国際研修IV
   period: 集中
   remarks: '英語、日本語、ジョージア語による授業となる。希望者多数の場合は人数制限を行う。比較文化学類生を優先する。
@@ -213777,6 +213820,8 @@
   name: 異文化間心理学
   period: 集中
   remarks: '短期留学生は、日本語の講義の理解と討論・発表が可能な方に限る。
+
+    9/5,9/6
 
     対面'
   requirement_subject_name: 異文化間心理学
@@ -215995,8 +216040,6 @@
   name: 日本国憲法
   period: 集中
   remarks: '人文(3年次)・ 国際・応理・工シス・社工・情報・創成・知識(1年次)・総合学域群対象
-
-    8/26-8/28,8/31
 
     詳細後日周知
 
@@ -246002,17 +246045,21 @@
 - class_id: EE31481
   class_outline: 本講義では,非常勤講師による最近の地球進化学に関わる様々な研究成果について紹介する.
   credits: '1.0'
-  data_update_date: '2026-07-01 09:16:15'
+  data_update_date: '2026-07-06 14:21:56'
   english_name: Special Lecture on Geology IV
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 通年
+  module: 夏季休業中
   name: 地質学特別講義IV
   period: 集中
-  remarks: '非常勤講師による講義のため,予算の都合で開講されない場合がある.
+  remarks: '標準履修は3,4年次であるが、1,2年次の履修も歓迎する。
 
     西暦偶数年度開講。
+
+    9/14,9/15
+
+    対面
 
     実施形態は未定.'
   requirement_subject_name: 地質学特別講義IV
@@ -248287,7 +248334,7 @@
     is on the geoscientific aspects and features in the atmosphere, hydrosphere, topography,
     and human society among others are discussed.
   credits: '1.0'
-  data_update_date: '2025-12-26 11:19:41'
+  data_update_date: '2026-07-09 15:34:32'
   english_name: Introduction to Geoenvironmental Science
   enrollment_application: ''
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -248306,7 +248353,7 @@
   short_term_students_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   standard_course_year: '1'
   subject_code: EG70021
-  teaching_staff: 八反地 剛,日下 博幸,呉羽 正昭,加藤 弘亮,森本 健弘,植田 宏昭,ロフィクル ウマム
+  teaching_staff: 八反地 剛,呉羽 正昭,加藤 弘亮,森本 健弘,ロフィクル ウマム,Melnikova Irina
 - class_id: EG70031
   class_outline: This lecture introduces 4.6 billion years evolution of the earth,
     mainly focusing on the evolution of solid earth, and the birth and evolution of
@@ -249365,7 +249412,7 @@
     course will focus on hands-on field techniques for data gathering (observation,
     measurement, and others), mapping, and data analysis.
   credits: '1.5'
-  data_update_date: '2026-01-13 12:05:07'
+  data_update_date: '2026-07-10 18:57:08'
   english_name: Field Work in Geoenvironmental Science III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -249386,7 +249433,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2・3
   subject_code: EG91223
-  teaching_staff: 久保 倫子,森本 健弘
+  teaching_staff: 森本 健弘,岩井 優祈
 - class_id: EG91233
   class_outline: ''
   credits: '1.5'
@@ -249774,7 +249821,7 @@
 - class_id: FA00021
   class_outline: 知的財産権について,特許法を中心にわが国の制度を産業界の実例を踏まえて概観し,最近の重要な変化について論じる。また,最近の産官学連携活動を,雛形となった米国の1980年代以降の制度と仕組みを比較し,問題点や課題等を論じる。
   credits: '1.0'
-  data_update_date: '2026-01-17 07:55:12'
+  data_update_date: '2026-07-08 18:19:24'
   english_name: Intellectual Property and Technology Transfer
   enrollment_application: ''
   enrollment_requirements: ''
@@ -249784,9 +249831,11 @@
   period: 集中
   remarks: '理工学群対象。
 
+    12/5,12/12,12/19
+
     対面
 
-    世話人:亀田'
+    世話人:森田'
   requirement_subject_name: 知的財産と技術移転
   room: ''
   short_term_students_application: ×
@@ -279638,7 +279687,7 @@
     history in English. The course will be highly interactive, with an emphasis on
     pairwork and role-playing activities to simulate real clinical encounters.
   credits: '1.0'
-  data_update_date: '2026-02-27 16:51:17'
+  data_update_date: '2026-07-07 11:45:35'
   english_name: Clinical Communication in English II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -279663,7 +279712,7 @@
     history in English. The course will be highly interactive, with an emphasis on
     pairwork and role-playing activities to simulate real clinical encounters.
   credits: '1.0'
-  data_update_date: '2026-02-27 16:51:37'
+  data_update_date: '2026-07-07 11:46:16'
   english_name: Clinical Communication in English II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -282863,9 +282912,9 @@
   subject_code: HC40122
   teaching_staff: 看護学類全教員
 - class_id: HC41001
-  class_outline: 地域の人びとの健康課題とその背景を理解し、地域看護診断に基づく支援方法や保健活動の展開を学ぶ。個人・家族への支援、地域組織の育成、社会資源や施策の活用を通した地域保健活動の基礎を理解する。
+  class_outline: 地域における多様な人びとの健康課題とその背景を理解し、個人・家族への支援、地域組織の育成、社会資源や施策の活用を通した地域保健活動を理解する。地域アセスメント(地域診断)に基づく支援方法や保健活動の展開を学ぶ。
   credits: '2.0'
-  data_update_date: '2026-03-05 20:49:57'
+  data_update_date: '2026-07-06 10:32:25'
   english_name: Public Health Nursing
   enrollment_application: ×
   enrollment_requirements: ''
@@ -287963,7 +288012,9 @@
   module: 春C
   name: スポーツ用具の力学とバイオメカニクス
   period: 集中
-  remarks: 対面
+  remarks: '7/28-7/30
+
+    対面'
   requirement_subject_name: スポーツ用具工学
   room: ''
   short_term_students_application: ×
