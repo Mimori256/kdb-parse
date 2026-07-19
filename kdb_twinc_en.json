@@ -2004,7 +2004,7 @@
   "01LA407": {
     "class_id": "01LA407",
     "name": "Design Law",
-    "description": "7.8限\\n西暦偶数年度開講。\\n0ADL407と同一。\\n7/27,7/28,7/29,8/3,8/4\\nオンライン(同時双方向型)\\n非常勤講師科目のため、実施方法は後日お知らせします。",
+    "description": "7.8限\\n西暦偶数年度開講。\\n0ADL407と同一。\\n7/27,7/28,7/29,8/3,8/4\\nオンライン(同時双方向型)",
     "module": [
       [
         "春C",
@@ -24381,7 +24381,7 @@
     "description": "対面(オンライン併用型)",
     "module": [
       [
-        "春ABC"
+        "秋AB"
       ]
     ],
     "period": [
@@ -24397,7 +24397,7 @@
     "description": "対面(オンライン併用型)",
     "module": [
       [
-        "秋ABC"
+        "秋C"
       ]
     ],
     "period": [
@@ -34575,7 +34575,7 @@
   "0ADL407": {
     "class_id": "0ADL407",
     "name": "Design Law",
-    "description": "7.8限\\n西暦偶数年度開講。\\n01LA407と同一。\\n7/27,7/28,7/29,8/3,8/4\\nオンライン(同時双方向型)\\n非常勤講師科目のため、実施方法は後日お知らせします。",
+    "description": "7.8限\\n西暦偶数年度開講。\\n01LA407と同一。\\n7/27,7/28,7/29,8/3,8/4\\nオンライン(同時双方向型)",
     "module": [
       [
         "春C",
@@ -39062,7 +39062,7 @@
   "0AH0313": {
     "class_id": "0AH0313",
     "name": "Topics in Agrobiological Science I",
-    "description": "For students of the Agro-biological Resources degree program, this will be the Agro-biological Resources course.\\n12/12\\n対面(オンライン併用型)",
+    "description": "For students of the Agro-biological Resources degree program, this will be the Agro-biological Resources course.\\n12/12、12/19\\n対面(オンライン併用型)",
     "module": [
       [
         "秋B"
@@ -44406,7 +44406,7 @@
   "0AJED04": {
     "class_id": "0AJED04",
     "name": "Advanced Inorganic Chemistry",
-    "description": "西暦偶数年度開講。\\n要望があれば英語で授業",
+    "description": "西暦偶数年度開講。\\n10/19,10/26\\n要望があれば英語で授業",
     "module": [
       [
         "秋ABC"
@@ -50858,7 +50858,7 @@
   "0AL5115": {
     "class_id": "0AL5115",
     "name": "Special Lecture on Policy and Planning Sciences I",
-    "description": "The class will be taught in English, with optional explanation in Japanese.\\n西暦偶数年度開講。\\nThe class will be held online.",
+    "description": "The class will be taught in English, with optional explanation in Japanese.\\n西暦偶数年度開講。\\n英語で授業。\\n10/3,10/4,10/10,10/11\\nオンライン(同時双方向型)",
     "module": [
       [
         "秋A"
@@ -56367,7 +56367,7 @@
     "description": "2-6時限\\n8/21,22\\n対面",
     "module": [
       [
-        "春C"
+        "通年"
       ]
     ],
     "period": [
@@ -58197,10 +58197,10 @@
   "0ANB722": {
     "class_id": "0ANB722",
     "name": "Animal Cell Biotechnology",
-    "description": "",
+    "description": "12/14-15,12/21-22",
     "module": [
       [
-        "秋ABC"
+        "秋B"
       ]
     ],
     "period": [
@@ -60695,7 +60695,7 @@
   "0ANE324": {
     "class_id": "0ANE324",
     "name": "Soil Genesis and Classification",
-    "description": "",
+    "description": "7/27-7/28,9/28-9/29",
     "module": [
       [
         "春C"
@@ -73256,7 +73256,7 @@
   "0ATP103": {
     "class_id": "0ATP103",
     "name": "Study of Sport History",
-    "description": "対面",
+    "description": "11/21,11/23\\n対面",
     "module": [
       [
         "秋B"
@@ -73660,7 +73660,7 @@
   "0ATP214": {
     "class_id": "0ATP214",
     "name": "Sport Psychology",
-    "description": "対面(オンライン併用型)",
+    "description": "11/7,11/8\\n対面(オンライン併用型)",
     "module": [
       [
         "秋A"
@@ -77159,7 +77159,7 @@
   "0ATQ210": {
     "class_id": "0ATQ210",
     "name": "Sport Organisation and Governance",
-    "description": "英語で授業。\\n12/8, 11, 15, 18\\n対面(オンライン併用型)",
+    "description": "英語で授業。\\n12/8, 11, 15, 18\\n対面",
     "module": [
       [
         "秋B"
@@ -110722,7 +110722,7 @@
   "1190222": {
     "class_id": "1190222",
     "name": "First Year Seminar",
-    "description": "For students in Interdisciplinary Program in Life and Environmental Sciences\\n英語で授業。\\n対面",
+    "description": "For students in Interdisciplinary Program in Life and Environmental Sciences\\n英語で授業。\\n9/24,9/25\\n対面",
     "module": [
       [
         "通年"
@@ -134588,6 +134588,22 @@
     ],
     "room": " "
   },
+  "8331303": {
+    "class_id": "8331303",
+    "name": "",
+    "description": "",
+    "module": [
+      [
+        "通年"
+      ]
+    ],
+    "period": [
+      [
+        "随時"
+      ]
+    ],
+    "room": " "
+  },
   "8333204": {
     "class_id": "8333204",
     "name": "Understanding Japan and cultures through language",
@@ -152296,11 +152312,10 @@
   "AC66033": {
     "class_id": "AC66033",
     "name": "International Practicum in Comparative Culture IV",
-    "description": "英語、日本語、ジョージア語による授業となる。希望者多数の場合は人数制限を行う。比較文化学類生を優先する。\\n英語で授業。\\n8/6,9/3-9,9/14\\n対面",
+    "description": "英語、日本語、ジョージア語による授業となる。希望者多数の場合は人数制限を行う。比較文化学類生を優先する。\\n英語で授業。\\n8/25,9/3-9,9/14\\n対面",
     "module": [
       [
-        "春C",
-        "夏季休業中"
+        "通年"
       ]
     ],
     "period": [
@@ -157775,6 +157790,22 @@
     ],
     "room": " "
   },
+  "BB31281": {
+    "class_id": "BB31281",
+    "name": "Special Lecture on Political Science I",
+    "description": "詳細についてはシラバスを参照すること。\\n8/24-8/27\\n対面",
+    "module": [
+      [
+        "通年"
+      ]
+    ],
+    "period": [
+      [
+        "集中"
+      ]
+    ],
+    "room": " "
+  },
   "BB31321": {
     "class_id": "BB31321",
     "name": "Japanese Political Thought",
@@ -162998,7 +163029,7 @@
   "CB11103": {
     "class_id": "CB11103",
     "name": "Practice in International Collaboration of Education",
-    "description": "キーワード:タイ,学校,実習\\nG科目\\n対面\\n国際教育協力論の単位を修得していることを条件とする。人数を制限する。事前実習申込を行った者のみ。教育学類生,人間学群学生を優先する。教職課程の履修が条件となる。4年生の履修は原則として認めない。",
+    "description": "キーワード:タイ,学校,実習\\n8/30-9/15\\nG科目\\n対面\\n国際教育協力論の単位を修得していることを条件とする。人数を制限する。事前実習申込を行った者のみ。教育学類生,人間学群学生を優先する。教職課程の履修が条件となる。4年生の履修は原則として認めない。",
     "module": [
       [
         "通年"
@@ -167158,7 +167189,7 @@
   "CE29031": {
     "class_id": "CE29031",
     "name": "Introduction to education for children with disabilities",
-    "description": "実務経験教員\\nオンライン(オンデマンド型)",
+    "description": "10/12,11/29\\n実務経験教員\\nオンライン(オンデマンド型)",
     "module": [
       [
         "秋AB"
@@ -174834,7 +174865,7 @@
   "EE21301": {
     "class_id": "EE21301",
     "name": "Urban Geography",
-    "description": "「歴史地理学特講III-B」を修得済みの者は履修できない。対面\\n対面",
+    "description": "「歴史地理学特講III-B」を修得済みの者は履修できない。\\n対面",
     "module": [
       [
         "秋AB"
@@ -178491,7 +178522,7 @@
   "FA00011": {
     "class_id": "FA00011",
     "name": "Science and Engineering Ethics",
-    "description": "理工学群対象\\n対面",
+    "description": "理工学群対象\\n10/3,10/10,10/17,11/7,11/14\\n対面",
     "module": [
       [
         "秋AB"
@@ -184282,7 +184313,7 @@
   "FF14103": {
     "class_id": "FF14103",
     "name": "Engineering science practical training II",
-    "description": "専門科目 自由科目 応用理工学類生に限る 前もって担当教員に連絡し手続きを行うこと\\nCDP\\n対面",
+    "description": "専門科目 自由科目 応用理工学類生に限る 前もって担当教員に連絡し手続きを行うこと\\n9/29\\nCDP\\n対面",
     "module": [
       [
         "通年"
@@ -188662,33 +188693,15 @@
   "FG16567": {
     "class_id": "FG16567",
     "name": "Introductory Course for Research Beginners 2026",
-    "description": "ARE(先導的研究者体験プログラム)採択者\\n4/15-5/13,5/29,1/18,9/30\\n対面(オンライン併用型)",
+    "description": "ARE(先導的研究者体験プログラム)採択者\\n対面(オンライン併用型)",
     "module": [
       [
-        "春A"
-      ],
-      [
-        "春B"
-      ],
-      [
-        "春C"
-      ],
-      [
-        "秋A"
-      ],
-      [
-        "秋B"
-      ],
-      [
-        "秋C"
-      ],
-      [
-        "春季休業中"
+        "通年"
       ]
     ],
     "period": [
       [
-        "集中"
+        "随時"
       ]
     ],
     "room": " "
@@ -197138,7 +197151,7 @@
   "GB47001": {
     "class_id": "GB47001",
     "name": "Special Lecture on Machine Intelligence and Media Technologies A",
-    "description": "2023 年度以前の「情報科学特別講義 E」(GB17401)の単位を修得した者の履修は認めない。\\nGC59301と同一。",
+    "description": "開設する場合は掲示で周知する。\\nGC59301と同一。\\n2026年度開講せず。",
     "module": [
       [
         "通年"
@@ -197146,7 +197159,7 @@
     ],
     "period": [
       [
-        "集中"
+        "随時"
       ]
     ],
     "room": " "
@@ -198437,7 +198450,7 @@
   "GC59301": {
     "class_id": "GC59301",
     "name": "Special Lecture on Information Media C",
-    "description": "2023 年度以前の「情報科学特別講義 E」(GB17401)の単位を修得した者の履修は認めない。\\nGB47001と同一。",
+    "description": "開設する場合は掲示で周知する。\\nGB47001と同一。\\n2026年度開講せず。",
     "module": [
       [
         "通年"
@@ -198445,7 +198458,7 @@
     ],
     "period": [
       [
-        "集中"
+        "随時"
       ]
     ],
     "room": " "
@@ -218947,16 +218960,15 @@
   "YBH0762": {
     "class_id": "YBH0762",
     "name": "Workshops on Glasswork I",
-    "description": "実務経験教員\\n対面\\n人数制限ありYBH0722ガラス技術演習または、YBH0702ガラス基礎演習を履修済みのこと。2026年度・2027年度の開講なし。",
+    "description": "2026年度開講せず。\\n実務経験教員\\n対面\\n人数制限ありYBH0722ガラス技術演習または、YBH0702ガラス基礎演習を履修済みのこと。2026年度・2027年度の開講なし。",
     "module": [
       [
-        "春AB"
+        "通年"
       ]
     ],
     "period": [
       [
-        "水2",
-        "水3"
+        "随時"
       ]
     ],
     "room": " "

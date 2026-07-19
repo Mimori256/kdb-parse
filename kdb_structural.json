@@ -2550,8 +2550,8 @@
       "module": "春C夏季休業中",
       "period": "集中",
       "teaching_staff": "青木 博通",
-      "class_outline": "日本におけるデザイン保護法制の主な柱である、意匠法及び不正競争防止法(商品形態の保護)を中心として基本的な知識を得るとともに、デザインという切り口から法的な取扱いを理解できるような思考の涵養を目指す。講義形式による検討を中心とするが、参加人数によっては適宜、判例演習のようなゼミ形式の導入も考えられる。",
-      "remarks": "7.8限\n西暦偶数年度開講。\n0ADL407と同一。\n7/27,7/28,7/29,8/3,8/4\nオンライン(同時双方向型)\n非常勤講師科目のため、実施方法は後日お知らせします。",
+      "class_outline": "日本におけるデザイン保護法制の主な柱である、意匠法及び不正競争防止法(商品形態の保護)を中心として基本的な知識を得るとともに、デザインという切り口から法的な取扱いを理解できるような思考の涵養を目指す。近時注目されているAI、インターネット、メタバースに関するトピックも取り扱う。講義形式による検討を中心とする。",
+      "remarks": "7.8限\n西暦偶数年度開講。\n0ADL407と同一。\n7/27,7/28,7/29,8/3,8/4\nオンライン(同時双方向型)",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "",
@@ -2559,7 +2559,7 @@
       "english_name": "Design Law",
       "subject_code": "01LA407",
       "requirement_subject_name": "デザイン法",
-      "data_update_date": "2026-07-01 18:10:10",
+      "data_update_date": "2026-07-16 14:49:35",
       "room": ""
     },
     {
@@ -14529,7 +14529,7 @@
       "english_name": "Seminar in Contemporary Philosophy I(4)A",
       "subject_code": "0ABAA26",
       "requirement_subject_name": "現代哲学I演習(2)A",
-      "data_update_date": "2024-12-04 17:05:51",
+      "data_update_date": "2026-07-17 22:18:03",
       "room": ""
     },
     {
@@ -26373,7 +26373,7 @@
       "english_name": "Career Paths for Ph.D. Candidates",
       "subject_code": "0A00410",
       "requirement_subject_name": "Career Paths for Ph.D. Candidates",
-      "data_update_date": "2026-05-15 10:42:43",
+      "data_update_date": "2026-07-16 13:29:11",
       "room": ""
     },
     {
@@ -28284,7 +28284,7 @@
       "english_name": "Seminar in Contemporary Philosophy I(2)A",
       "subject_code": "0ABAA26",
       "requirement_subject_name": "現代哲学I演習(2)A",
-      "data_update_date": "2024-12-04 17:05:51",
+      "data_update_date": "2026-07-17 22:18:03",
       "room": ""
     },
     {
@@ -29691,7 +29691,7 @@
       "english_name": "Master's Thesis Seminar in Philosophy A",
       "subject_code": "0ABAAZC",
       "requirement_subject_name": "哲学・思想修士論文執筆演習A",
-      "data_update_date": "2025-05-23 13:19:44",
+      "data_update_date": "2026-07-17 17:06:34",
       "room": ""
     },
     {
@@ -29712,7 +29712,7 @@
       "english_name": "Master's Thesis Seminar in Philosophy B",
       "subject_code": "0ABAAZD",
       "requirement_subject_name": "哲学・思想修士論文執筆演習B",
-      "data_update_date": "2025-05-23 13:20:14",
+      "data_update_date": "2026-07-17 17:07:41",
       "room": ""
     },
     {
@@ -31506,9 +31506,9 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "春ABC",
+      "module": "秋AB",
       "period": "集中",
-      "teaching_staff": "前田 修",
+      "teaching_staff": "高久 健二",
       "class_outline": "非常勤講師による、考古学に関する授業をおこなう。授業内容は、決定次第manaba等において周知する。",
       "remarks": "対面(オンライン併用型)",
       "enrollment_application": "",
@@ -31518,7 +31518,7 @@
       "english_name": "Prehistory and Archaeology IXA",
       "subject_code": "0ABACK7",
       "requirement_subject_name": "先史学・考古学研究IXA",
-      "data_update_date": "2026-01-06 20:13:46",
+      "data_update_date": "2026-07-14 15:44:50",
       "room": ""
     },
     {
@@ -31527,9 +31527,9 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "秋ABC",
+      "module": "秋C",
       "period": "集中",
-      "teaching_staff": "前田 修",
+      "teaching_staff": "禰?田 佳男",
       "class_outline": "非常勤講師による、考古学に関する授業をおこなう。授業内容は、決定次第manaba等において周知する。",
       "remarks": "対面(オンライン併用型)",
       "enrollment_application": "",
@@ -31539,7 +31539,7 @@
       "english_name": "Prehistory and Archaeology IXB",
       "subject_code": "0ABACK8",
       "requirement_subject_name": "先史学・考古学研究IXB",
-      "data_update_date": "2026-01-06 20:14:15",
+      "data_update_date": "2026-07-14 15:46:40",
       "room": ""
     },
     {
@@ -44802,8 +44802,8 @@
       "module": "春C夏季休業中",
       "period": "集中",
       "teaching_staff": "青木 博通",
-      "class_outline": "日本におけるデザイン保護法制の主な柱である、意匠法及び不正競争防止法(商品形態の保護)を中心として基本的な知識を得るとともに、デザインという切り口から法的な取扱いを理解できるような思考の涵養を目指す。講義形式による検討を中心とするが、参加人数によっては適宜、判例演習のようなゼミ形式の導入も考えられる。",
-      "remarks": "7.8限\n西暦偶数年度開講。\n01LA407と同一。\n7/27,7/28,7/29,8/3,8/4\nオンライン(同時双方向型)\n非常勤講師科目のため、実施方法は後日お知らせします。",
+      "class_outline": "日本におけるデザイン保護法制の主な柱である、意匠法及び不正競争防止法(商品形態の保護)を中心として基本的な知識を得るとともに、デザインという切り口から法的な取扱いを理解できるような思考の涵養を目指す。近時注目されているAI、インターネット、メタバースに関するトピックも取り扱う。講義形式による検討を中心とする。",
+      "remarks": "7.8限\n西暦偶数年度開講。\n01LA407と同一。\n7/27,7/28,7/29,8/3,8/4\nオンライン(同時双方向型)",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -44811,7 +44811,7 @@
       "english_name": "Design Law",
       "subject_code": "01LA407",
       "requirement_subject_name": "デザイン法",
-      "data_update_date": "2026-07-01 18:10:10",
+      "data_update_date": "2026-07-16 14:49:35",
       "room": ""
     },
     {
@@ -50408,9 +50408,9 @@
       "standard_course_year": "1・2",
       "module": "秋B",
       "period": "集中",
-      "teaching_staff": "古川 誠一,加藤 盛夫",
+      "teaching_staff": "古川 誠一,加藤 盛夫,藤田 泰成",
       "class_outline": "農林生物学領域の植物育種学、作物学、蔬菜・花卉学、果樹生産利用学、動物資源生産学、発現・代謝ネットワーク制御学、エピジェネティクス、植物寄生菌学、応用動物昆虫学、森林生態環境学、地域資源保全学、土壌環境化学などに関連する基本的な知識と様々な研究手法について学ぶ。当該領域の最新、かつ、幅広い知識を体系的に学習することで、理工情報生命学術院における研究課題の設定と計画の立案・遂行に必要な基礎的な知識と能力の向上に役立つ。",
-      "remarks": "For students of the Agro-biological Resources degree program, this will be the Agro-biological Resources course.\n12/12\n対面(オンライン併用型)",
+      "remarks": "For students of the Agro-biological Resources degree program, this will be the Agro-biological Resources course.\n12/12、12/19\n対面(オンライン併用型)",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -50418,7 +50418,7 @@
       "english_name": "Topics in Agrobiological Science I",
       "subject_code": "01AB101",
       "requirement_subject_name": "農林生物学特別講義I",
-      "data_update_date": "2026-06-26 16:04:24",
+      "data_update_date": "2026-07-15 14:12:40",
       "room": ""
     },
     {
@@ -57361,7 +57361,7 @@
       "period": "集中",
       "teaching_staff": "小島 隆彦",
       "class_outline": "本授業では、錯体化学から見た生物無機化学を概説する。まず、金属タンパクや金属酵素の活性中心の構造と機能を概説する。続いて、プロトン共役電子移動の観点から、金属酵素及び複素環補酵素が関与する生体内での酸化還元反応について述べる。それらの反応の中で、特に水素移動反応を取り上げ、その反応機構について、速度論的観点も含めて詳細に解説する。最後に、天然の光合成及び人工光合成についてプロトン共役電子移動の観点から解説する。本授業を受講するにあたり、無機化学及び物理化学分野の基礎的な知識を有することが望ましい。",
-      "remarks": "西暦偶数年度開講。\n要望があれば英語で授業",
+      "remarks": "西暦偶数年度開講。\n10/19,10/26\n要望があれば英語で授業",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -65698,7 +65698,7 @@
       "period": "集中",
       "teaching_staff": "モヴシュク オレクサンダー",
       "class_outline": "本講座では、統計解析に機械学習を応用した統計的手法を紹介する。近年、計算技術の急速な向上とChatGPT、Claude、Bardなどの大規模な言語処理モデルの普及により、機械学習が注目されている。機械学習を応用した統計モデルの中には、人間の能力を超えるほど目覚ましく向上している場合もある。\n本講座では、こうした最近の動向を、主に「教師あり機械学習」の一分野である回帰モデルを用いて解説する。",
-      "remarks": "The class will be taught in English, with optional explanation in Japanese.\n西暦偶数年度開講。\nThe class will be held online.",
+      "remarks": "The class will be taught in English, with optional explanation in Japanese.\n西暦偶数年度開講。\n英語で授業。\n10/3,10/4,10/10,10/11\nオンライン(同時双方向型)",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -65706,7 +65706,7 @@
       "english_name": "Special Lecture on Policy and Planning Sciences I",
       "subject_code": "02CN054",
       "requirement_subject_name": "社会工学特別講義I",
-      "data_update_date": "2026-01-19 10:21:47",
+      "data_update_date": "2026-07-15 10:07:29",
       "room": ""
     },
     {
@@ -72729,7 +72729,7 @@
       "method": "2",
       "credits": "1.0",
       "standard_course_year": "1",
-      "module": "春C",
+      "module": "夏季休業中",
       "period": "集中",
       "teaching_staff": "首藤 久人",
       "class_outline": ":線形回帰モデルにおける各種検定方法の演習・習得を通じて,対応のある(ない)標本の母平均の差の検定・分散分析,多重比較など生物資源科学のための統計分析に対する理解を深める。",
@@ -72741,7 +72741,7 @@
       "english_name": "Seminar in Statistical Analysis",
       "subject_code": "0ANB015",
       "requirement_subject_name": "統計解析演習",
-      "data_update_date": "2025-12-15 14:00:00",
+      "data_update_date": "2026-07-15 11:49:34",
       "room": ""
     },
     {
@@ -75102,11 +75102,11 @@
       "method": "1",
       "credits": "2.0",
       "standard_course_year": "1・2",
-      "module": "秋ABC",
+      "module": "秋B",
       "period": "集中",
       "teaching_staff": "伊藤 弓弦",
       "class_outline": "動物細胞バイオテクノロジーに関連する諸課題、ならびに修士論文執筆のための研究課題に関する著書や国内外の学術論文を収集して講読・講義することで、動物細胞バイオテクノロジーの基本的な知識と様々な研究手法についてその原理と共に学習する。また、当分野の最新のトピックスを取り上げて紹介することで、世界的に注目されている課題や最新の研究について学ぶ。関連する幅広い知識を系統的に学習することで、修士論文の研究課題の設定と計画の立案・遂行に必要な基礎及び専門的な知識と能力を習得する。",
-      "remarks": "",
+      "remarks": "12/14-15,12/21-22",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -78340,7 +78340,7 @@
       "period": "集中",
       "teaching_staff": "浅野 眞希",
       "class_outline": "土壌を岩石・気候・生物・地形・時間の間に生じる相互作用によって地表に生成された歴史的自然体としてとらえ,土壌の生成過程・性質・機能の特徴を講述し,さらに土壌生成分類に関する諸概念について論じる.",
-      "remarks": "",
+      "remarks": "7/27-7/28,9/28-9/29",
       "enrollment_application": "△",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -91337,7 +91337,7 @@
       "standard_course_year": "1",
       "module": "春B",
       "period": "応談",
-      "teaching_staff": "佐々木 哲也,阿部 高志,高橋 阿貴,武田 裕司,仲田 真理子,片平 健太郎,森川 桃,結城 笙子",
+      "teaching_staff": "森川 桃,佐々木 哲也,阿部 高志,高橋 阿貴,武田 裕司,仲田 真理子,片平 健太郎,結城 笙子",
       "class_outline": "指定の教科書に沿って、行動・認知神経科学領域の基礎的内容についての講義をオムニバス方式で行う。4回の講義が終了するごとに、その内容についての疑問点や、関連文献の学習などからなる、Midterm及びFinalのReview/Discussionを担当教員及びTFが主導して行い、行動・認知神経科学の基礎知識の十分な習得を促す。",
       "remarks": "ニューロサイエンス学位プログラム必修科目\n対面",
       "enrollment_application": "",
@@ -91347,7 +91347,7 @@
       "english_name": "Introduction to Neuroscience C",
       "subject_code": "0ATF203",
       "requirement_subject_name": "神経科学基礎論C",
-      "data_update_date": "2026-04-08 13:40:22",
+      "data_update_date": "2026-07-16 13:44:17",
       "room": ""
     },
     {
@@ -94279,7 +94279,7 @@
       "period": "集中",
       "teaching_staff": "大林 太朗",
       "class_outline": "古代社会における「スポーツ」の起源から近代スポーツの誕生と発展に関する通史的知見を学び、ひいては史実を根拠とした現代の体育・スポーツ界における諸課題へのアプローチを試みる。体育・スポーツに関する歴史学の理論と実践に係る研究方法論についても取り上げる。",
-      "remarks": "対面",
+      "remarks": "11/21,11/23\n対面",
       "enrollment_application": "",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -94804,7 +94804,7 @@
       "period": "集中",
       "teaching_staff": "雨宮 怜,國部 雅大",
       "class_outline": "アスリートの心理サポート現場での心理的諸問題の解説ならびに課題への対処方法について概説する。\n 授業項目:スポーツ心理学(臨床スポーツ心理学)の歴史と概観、心理サポートのアプローチ、スポーツメンタルトレーニングの概要、スポーツカウンセリングの概要、実践と研究、心理臨床学的方法、タレント発掘、青年期におけるスポーツ経験と人格形成、スポーツ傷害と心理(事例中心)、メンタルトレーニング事例、アスリートの相談事例",
-      "remarks": "対面(オンライン併用型)",
+      "remarks": "11/7,11/8\n対面(オンライン併用型)",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -98983,7 +98983,7 @@
       "period": "集中",
       "teaching_staff": "杉山 翔一",
       "class_outline": "主に国際スポーツ競技連盟(IF)や国内スポーツ競技連盟(NF)で働く実務家をゲスト講師として招き、IFやNFの組織構造やそこでの業務について実務レベルでその内容を理解するとともに、国内外のスポーツ組織に関わるステークホルダーの役割と責務を把握することを目的とする。また、専門家による講義を通じて国際オリンピック委員会(IOC)が提唱するステークホルダー間の相互作用に注目しながら、「オリンピックムーブメント」を展開するシステム及びスポーツ界のガバナンスのグローバル・モデルについて議論する。",
-      "remarks": "英語で授業。\n12/8, 11, 15, 18\n対面(オンライン併用型)",
+      "remarks": "英語で授業。\n12/8, 11, 15, 18\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
       "short_term_students_application": "△",
@@ -98991,7 +98991,7 @@
       "english_name": "Sport Organisation and Governance",
       "subject_code": "01EH046",
       "requirement_subject_name": "Sport Organisation and Governance(スポーツ組織とガバナンス論)",
-      "data_update_date": "2026-06-15 13:23:52",
+      "data_update_date": "2026-07-14 15:43:43",
       "room": ""
     },
     {
@@ -110478,7 +110478,7 @@
       "english_name": "Doctoral Dissertation Seminar in Philosophy IA",
       "subject_code": "0BBAAZE",
       "requirement_subject_name": "哲学・思想博士論文執筆演習IA",
-      "data_update_date": "2025-05-23 14:00:40",
+      "data_update_date": "2026-07-17 17:27:21",
       "room": ""
     },
     {
@@ -110499,7 +110499,7 @@
       "english_name": "Doctoral Dissertation Seminar in Philosophy IB",
       "subject_code": "0BBAAZF",
       "requirement_subject_name": "哲学・思想博士論文執筆演習IB",
-      "data_update_date": "2025-05-23 14:01:08",
+      "data_update_date": "2026-07-17 17:27:56",
       "room": ""
     },
     {
@@ -110520,7 +110520,7 @@
       "english_name": "Doctoral Dissertation Seminar in Philosophy IIA",
       "subject_code": "0BBAAZG",
       "requirement_subject_name": "哲学・思想博士論文執筆演習IIA",
-      "data_update_date": "2025-05-23 14:01:43",
+      "data_update_date": "2026-07-17 17:28:23",
       "room": ""
     },
     {
@@ -110541,7 +110541,7 @@
       "english_name": "Doctoral Dissertation Seminar in Philosophy IIB",
       "subject_code": "0BBAAZH",
       "requirement_subject_name": "哲学・思想博士論文執筆演習IIB",
-      "data_update_date": "2025-05-23 14:02:09",
+      "data_update_date": "2026-07-17 17:28:45",
       "room": ""
     },
     {
@@ -110562,7 +110562,7 @@
       "english_name": "Doctoral Dissertation Seminar in Philosophy IIIA",
       "subject_code": "0BBAAZJ",
       "requirement_subject_name": "哲学・思想博士論文執筆演習IIIA",
-      "data_update_date": "2025-05-23 14:02:38",
+      "data_update_date": "2026-07-17 17:29:09",
       "room": ""
     },
     {
@@ -110583,7 +110583,7 @@
       "english_name": "Doctoral Dissertation Seminar in Philosophy IIIB",
       "subject_code": "0BBAAZK",
       "requirement_subject_name": "哲学・思想博士論文執筆演習IIIB",
-      "data_update_date": "2025-05-23 14:03:04",
+      "data_update_date": "2026-07-17 17:29:32",
       "room": ""
     },
     {
@@ -110604,7 +110604,7 @@
       "english_name": "Seminar in Presentation Skills",
       "subject_code": "0BBAAZL",
       "requirement_subject_name": "プレゼンテーション演習",
-      "data_update_date": "2025-05-23 14:03:28",
+      "data_update_date": "2026-07-17 17:30:04",
       "room": ""
     },
     {
@@ -142264,7 +142264,7 @@
       "period": "集中",
       "teaching_staff": "桑山 秀一,アーヴィング ルイス ジョン,石川 香,橋本 義輝,康 承源,雷 中方,パークナー トーマス",
       "class_outline": "This course is designed to help students become familiar with the educational system and campus life at the University of Tsukuba. Important information regarding living in Japan as a foreign resident and a general introduction on living in Tsukuba city will also be provided.Lecture is conducted in English. face-to face.",
-      "remarks": "For students in Interdisciplinary Program in Life and Environmental Sciences\n英語で授業。\n対面",
+      "remarks": "For students in Interdisciplinary Program in Life and Environmental Sciences\n英語で授業。\n9/24,9/25\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -142503,7 +142503,7 @@
       "english_name": "Introduction to Career Design: Designing your Future in Global Context",
       "subject_code": "1226014",
       "requirement_subject_name": "キャリアデザイン入門~世界にはばたく未来の自分~",
-      "data_update_date": "2026-05-18 08:47:42",
+      "data_update_date": "2026-07-16 12:04:47",
       "room": ""
     },
     {
@@ -153077,7 +153077,7 @@
       "standard_course_year": "2 - 4",
       "module": "秋AB",
       "period": "水3",
-      "teaching_staff": "ニゴラ ドジャリロワ",
+      "teaching_staff": "マダバカス ナヒーン",
       "class_outline": "学群・学類における専門の英語(「特定学術目的の英語」)への橋渡しとなる「一般学術目的の英語」を学ぶ。5週間の短期集中で重点的にインプットとアウトプットを行い、英語コミュニケーションの姿勢を身につけるとともに、国際的学術交流における口頭発表の場面で必要とされる英語運用能力を身につける。主に、外国人教員が担当する。",
       "remarks": "全学群対象  人数制限あり\nG科目\n対面",
       "enrollment_application": "×",
@@ -153087,7 +153087,7 @@
       "english_name": "English Academic Presentation",
       "subject_code": "3188302",
       "requirement_subject_name": "English Academic Presentation",
-      "data_update_date": "2026-02-17 13:26:06",
+      "data_update_date": "2026-07-17 17:02:30",
       "room": ""
     },
     {
@@ -157865,7 +157865,7 @@
       "standard_course_year": "1",
       "module": "秋AB",
       "period": "月4",
-      "teaching_staff": "ニゴラ ドジャリロワ",
+      "teaching_staff": "ジャロ ママドウ サリロウ",
       "class_outline": "「一般学術目的の英語」の枠組みで、国際的学術交流を目標とした実践的コミュニケーション・スキルをより深く学ぶことができる。プレゼンテーションやディスカッションを中心にインプットとアウトプットの両面から、未知への気付きや理解を養うことができる。教授言語は主に英語。",
       "remarks": "「人文、応理、工シス、総学1組」 3班対象\nG科目\n対面",
       "enrollment_application": "×",
@@ -157875,7 +157875,7 @@
       "english_name": "English Presentation Skills II",
       "subject_code": "31LA002",
       "requirement_subject_name": "English Presentation Skills II",
-      "data_update_date": "2026-02-17 11:58:00",
+      "data_update_date": "2026-07-15 16:15:40",
       "room": ""
     },
     {
@@ -158096,7 +158096,7 @@
       "standard_course_year": "1",
       "module": "秋AB",
       "period": "月3",
-      "teaching_staff": "ニゴラ ドジャリロワ",
+      "teaching_staff": "ジャロ ママドウ サリロウ",
       "class_outline": "「一般学術目的の英語」の枠組みで、国際的学術交流を目標とした実践的コミュニケーション・スキルをより深く学ぶことができる。プレゼンテーションやディスカッションを中心にインプットとアウトプットの両面から、未知への気付きや理解を養うことができる。教授言語は主に英語。",
       "remarks": "「比文、日日、社工、体育1、総学2組」 2班対象\nG科目\n対面",
       "enrollment_application": "×",
@@ -158106,7 +158106,7 @@
       "english_name": "English Presentation Skills II",
       "subject_code": "31LA002",
       "requirement_subject_name": "English Presentation Skills II",
-      "data_update_date": "2026-02-17 11:58:53",
+      "data_update_date": "2026-07-15 16:15:40",
       "room": ""
     },
     {
@@ -158327,7 +158327,7 @@
       "standard_course_year": "1",
       "module": "秋AB",
       "period": "木1",
-      "teaching_staff": "ニゴラ ドジャリロワ",
+      "teaching_staff": "ジャロ ママドウ サリロウ",
       "class_outline": "「一般学術目的の英語」の枠組みで、国際的学術交流を目標とした実践的コミュニケーション・スキルをより深く学ぶことができる。プレゼンテーションやディスカッションを中心にインプットとアウトプットの両面から、未知への気付きや理解を養うことができる。教授言語は主に英語。",
       "remarks": "「生物、地球、数学、物理、化学、創成、総学3組」 1班対象\nG科目\n対面",
       "enrollment_application": "×",
@@ -158337,7 +158337,7 @@
       "english_name": "English Presentation Skills II",
       "subject_code": "31LA002",
       "requirement_subject_name": "English Presentation Skills II",
-      "data_update_date": "2026-01-14 16:45:54",
+      "data_update_date": "2026-07-15 16:15:40",
       "room": ""
     },
     {
@@ -158621,7 +158621,7 @@
       "standard_course_year": "1",
       "module": "秋AB",
       "period": "木2",
-      "teaching_staff": "ニゴラ ドジャリロワ",
+      "teaching_staff": "ジャロ ママドウ サリロウ",
       "class_outline": "「一般学術目的の英語」の枠組みで、国際的学術交流を目標とした実践的コミュニケーション・スキルをより深く学ぶことができる。プレゼンテーションやディスカッションを中心にインプットとアウトプットの両面から、未知への気付きや理解を養うことができる。教授言語は主に英語。",
       "remarks": "「医学、看護、医療科学、芸術、総学4組」 3班対象\nG科目\n対面",
       "enrollment_application": "×",
@@ -158631,7 +158631,7 @@
       "english_name": "English Presentation Skills II",
       "subject_code": "31LA002",
       "requirement_subject_name": "English Presentation Skills II",
-      "data_update_date": "2026-01-14 16:50:16",
+      "data_update_date": "2026-07-15 16:15:40",
       "room": ""
     },
     {
@@ -158957,7 +158957,7 @@
       "standard_course_year": "1",
       "module": "秋AB",
       "period": "火3",
-      "teaching_staff": "ニゴラ ドジャリロワ",
+      "teaching_staff": "ジャロ ママドウ サリロウ",
       "class_outline": "「一般学術目的の英語」の枠組みで、国際的学術交流を目標とした実践的コミュニケーション・スキルをより深く学ぶことができる。プレゼンテーションやディスカッションを中心にインプットとアウトプットの両面から、未知への気付きや理解を養うことができる。教授言語は主に英語。",
       "remarks": "「教育、心理、障害、知識、体育2、総学5組」 7班対象\nG科目\n対面",
       "enrollment_application": "×",
@@ -158967,7 +158967,7 @@
       "english_name": "English Presentation Skills II",
       "subject_code": "31LA002",
       "requirement_subject_name": "English Presentation Skills II",
-      "data_update_date": "2026-02-17 12:01:58",
+      "data_update_date": "2026-07-15 16:15:40",
       "room": ""
     },
     {
@@ -159209,7 +159209,7 @@
       "standard_course_year": "1",
       "module": "秋AB",
       "period": "火4",
-      "teaching_staff": "ニゴラ ドジャリロワ",
+      "teaching_staff": "ジャロ ママドウ サリロウ",
       "class_outline": "「一般学術目的の英語」の枠組みで、国際的学術交流を目標とした実践的コミュニケーション・スキルをより深く学ぶことができる。プレゼンテーションやディスカッションを中心にインプットとアウトプットの両面から、未知への気付きや理解を養うことができる。教授言語は主に英語。",
       "remarks": "「社会、国際、資源、情報、総学6組」 7班対象\nG科目\n対面",
       "enrollment_application": "×",
@@ -159219,7 +159219,7 @@
       "english_name": "English Presentation Skills II",
       "subject_code": "31LA002",
       "requirement_subject_name": "English Presentation Skills II",
-      "data_update_date": "2026-02-17 12:02:37",
+      "data_update_date": "2026-07-15 16:15:40",
       "room": ""
     },
     {
@@ -164417,8 +164417,8 @@
       "standard_course_year": "2 - 4",
       "module": "秋AB",
       "period": "水4",
-      "teaching_staff": "",
-      "class_outline": "",
+      "teaching_staff": "イバニェス サンドバル マリター",
+      "class_outline": "En este curso aprender?s a escribir textos breves en espa?ol con mayor claridad y precisi?n. Repasar?s las normas b?sicas de ortograf?a y practicar?s la redacci?n de diferentes tipos de textos y temas: descriptivos, narrativos, de opini?n, period?sticos y publicitarios. Tambi?n aprender?s a organizar mejor tus ideas seg?n la situaci?n y el lector. A trav?s de ejemplos y ejercicios pr?cticos, mejorar?s tu expresi?n escrita y ganar?s m?s confianza para comunicarte por escrito en espa?ol. Nivel m?nimo esperado: A2.",
       "remarks": "全学群対象。原則、「基礎スペイン語」A及びBの履修者に限る。2026年度開講予定\nスペイン語で授業。\nG科目\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
@@ -164427,7 +164427,7 @@
       "english_name": "Advanced Spanish Writing (1)B",
       "subject_code": "3666012",
       "requirement_subject_name": "応用スペイン語作文(1)B",
-      "data_update_date": "2026-02-17 11:25:36",
+      "data_update_date": "2026-07-15 16:49:21",
       "room": ""
     },
     {
@@ -165047,7 +165047,7 @@
       "standard_course_year": "1",
       "module": "秋AB",
       "period": "金1",
-      "teaching_staff": "メルチー ヤスキン ラモス",
+      "teaching_staff": "イバニェス サンドバル マリター",
       "class_outline": "この授業では、すでにスペイン語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。",
       "remarks": "教育・心理・障害・知識・体育2・総学5組対象 主に日本語で授業。英語での対応可能。「基礎スペイン語BII」は選択・自由科目だが、「基礎スペイン語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。\nG科目\n対面",
       "enrollment_application": "△",
@@ -165057,7 +165057,7 @@
       "english_name": "Basic Spanish BII",
       "subject_code": "36L1012",
       "requirement_subject_name": "基礎スペイン語BII",
-      "data_update_date": "2026-01-19 12:00:00",
+      "data_update_date": "2026-07-15 16:49:21",
       "room": ""
     },
     {
@@ -172891,6 +172891,27 @@
       "subject_code": "8320504",
       "requirement_subject_name": "次世代起業家養成のための経営・知財必須知識",
       "data_update_date": "2026-05-08 16:40:29",
+      "room": ""
+    },
+    {
+      "class_id": "8331303",
+      "name": "多文化共修による課題解決実習(国内)A 2026",
+      "method": "3",
+      "credits": "?",
+      "standard_course_year": "?",
+      "module": "春学期",
+      "period": "随時",
+      "teaching_staff": "",
+      "class_outline": "",
+      "remarks": "",
+      "enrollment_application": "×",
+      "enrollment_requirements": "",
+      "short_term_students_application": "",
+      "short_term_students_requirements": "",
+      "english_name": "",
+      "subject_code": "8331303",
+      "requirement_subject_name": "多文化共修による課題解決実習(国内)A 2026",
+      "data_update_date": "2026-07-16 15:34:25",
       "room": ""
     },
     {
@@ -188514,7 +188535,7 @@
       "english_name": "Introduction to Modern Thought",
       "subject_code": "AC50H01",
       "requirement_subject_name": "現代思想概論",
-      "data_update_date": "2024-08-02 16:43:17",
+      "data_update_date": "2026-07-16 22:11:08",
       "room": ""
     },
     {
@@ -188808,7 +188829,7 @@
       "english_name": "Introductory Seminar in Philosophy and Religious Studies I",
       "subject_code": "AC51752",
       "requirement_subject_name": "思想文化領域専門導入基礎演習I",
-      "data_update_date": "2026-03-04 14:34:09",
+      "data_update_date": "2026-07-17 22:23:49",
       "room": ""
     },
     {
@@ -194982,7 +195003,7 @@
       "english_name": "Modern Ethics",
       "subject_code": "AC65A11",
       "requirement_subject_name": "現代倫理学",
-      "data_update_date": "2025-08-20 11:25:16",
+      "data_update_date": "2026-07-16 22:15:34",
       "room": ""
     },
     {
@@ -195003,7 +195024,7 @@
       "english_name": "Socratic Dialogue",
       "subject_code": "AC65A21",
       "requirement_subject_name": "哲学カフェ",
-      "data_update_date": "2026-06-05 16:53:50",
+      "data_update_date": "2026-07-16 22:18:08",
       "room": ""
     },
     {
@@ -195108,7 +195129,7 @@
       "english_name": "Seminar in Analytic Philosophy",
       "subject_code": "AC65B02",
       "requirement_subject_name": "分析哲学演習",
-      "data_update_date": "2023-01-27 10:20:00",
+      "data_update_date": "2026-07-16 22:20:23",
       "room": ""
     },
     {
@@ -195129,7 +195150,7 @@
       "english_name": "Seminar in Modern Ethics I",
       "subject_code": "AC65B12",
       "requirement_subject_name": "現代倫理学演習I",
-      "data_update_date": "2026-02-02 14:26:25",
+      "data_update_date": "2026-07-16 22:24:46",
       "room": ""
     },
     {
@@ -195150,7 +195171,7 @@
       "english_name": "Seminar in Modern Ethics II",
       "subject_code": "AC65B22",
       "requirement_subject_name": "現代倫理学演習II",
-      "data_update_date": "2025-08-20 11:33:32",
+      "data_update_date": "2026-07-16 22:25:21",
       "room": ""
     },
     {
@@ -195171,7 +195192,7 @@
       "english_name": "Seminar in Socratic Dialogue I",
       "subject_code": "AC65B32",
       "requirement_subject_name": "哲学カフェ演習I",
-      "data_update_date": "2026-02-02 14:27:17",
+      "data_update_date": "2026-07-16 22:25:52",
       "room": ""
     },
     {
@@ -195192,7 +195213,7 @@
       "english_name": "Seminar in Socratic Dialogue II",
       "subject_code": "AC65B42",
       "requirement_subject_name": "哲学カフェ演習II",
-      "data_update_date": "2025-08-20 11:34:45",
+      "data_update_date": "2026-07-16 22:26:25",
       "room": ""
     },
     {
@@ -195789,11 +195810,11 @@
       "method": "3",
       "credits": "3.0",
       "standard_course_year": "1 - 4",
-      "module": "春C夏季休業中",
+      "module": "夏季休業中",
       "period": "集中",
       "teaching_staff": "五月女 颯",
       "class_outline": "ジョージア・イリア国立大学と本学の共修による、ジョージアと日本の多文化共修活動。本学学生をジョージア(トビリシ、ステパンツミンダ、ツノリなど)に派遣し、多文化共修活動を行う。",
-      "remarks": "英語、日本語、ジョージア語による授業となる。希望者多数の場合は人数制限を行う。比較文化学類生を優先する。\n英語で授業。\n8/6,9/3-9,9/14\n対面",
+      "remarks": "英語、日本語、ジョージア語による授業となる。希望者多数の場合は人数制限を行う。比較文化学類生を優先する。\n英語で授業。\n8/25,9/3-9,9/14\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
       "short_term_students_application": "×",
@@ -195801,7 +195822,7 @@
       "english_name": "International Practicum in Comparative Culture IV",
       "subject_code": "AC66033",
       "requirement_subject_name": "比較文化国際研修IV",
-      "data_update_date": "2026-07-06 14:42:46",
+      "data_update_date": "2026-07-02 10:44:00",
       "room": ""
     },
     {
@@ -196326,7 +196347,7 @@
       "english_name": "Seminar in Planning a Graduation Thesis: Philosophy and Religious Studies I",
       "subject_code": "AC67102",
       "requirement_subject_name": "思想文化領域卒業論文基礎演習I",
-      "data_update_date": "2026-01-07 22:45:11",
+      "data_update_date": "2026-07-17 14:31:03",
       "room": ""
     },
     {
@@ -196347,7 +196368,7 @@
       "english_name": "Seminar in Planning a Graduation Thesis: Philosophy and Religious Studies II",
       "subject_code": "AC67112",
       "requirement_subject_name": "思想文化領域卒業論文基礎演習II",
-      "data_update_date": "2026-01-07 22:45:25",
+      "data_update_date": "2026-07-17 14:31:18",
       "room": ""
     },
     {
@@ -201440,7 +201461,7 @@
       "standard_course_year": "3・4",
       "module": "春C",
       "period": "集中",
-      "teaching_staff": "宮坂 渉",
+      "teaching_staff": "宮坂 渉,中空 萌",
       "class_outline": "古代ローマの国家制度と法(一般にローマ法と呼ばれている)について、それが展開された時代をおって講義する。",
       "remarks": "8/3-8/7\n対面",
       "enrollment_application": "△",
@@ -201450,7 +201471,7 @@
       "english_name": "Roman Law",
       "subject_code": "BB27571",
       "requirement_subject_name": "ローマ法",
-      "data_update_date": "2026-06-30 11:07:09",
+      "data_update_date": "2026-07-16 12:13:04",
       "room": ""
     },
     {
@@ -201608,7 +201629,7 @@
       "standard_course_year": "3・4",
       "module": "秋C",
       "period": "集中",
-      "teaching_staff": "宮坂 渉",
+      "teaching_staff": "宮坂 渉,中空 萌",
       "class_outline": "西洋の法の歴史について、それが展開された時代をおって講義する。",
       "remarks": "BB28771,BE22491を修得済の者は履修不可。\n2/1-2/5\n対面",
       "enrollment_application": "△",
@@ -201618,7 +201639,7 @@
       "english_name": "European Legal History",
       "subject_code": "BB28781",
       "requirement_subject_name": "西洋法制史",
-      "data_update_date": "2026-06-30 11:07:44",
+      "data_update_date": "2026-07-16 12:13:26",
       "room": ""
     },
     {
@@ -202627,6 +202648,27 @@
       "subject_code": "BB31241",
       "requirement_subject_name": "行政学I",
       "data_update_date": "2025-03-04 22:53:14",
+      "room": ""
+    },
+    {
+      "class_id": "BB31281",
+      "name": "政治学特講I",
+      "method": "1",
+      "credits": "2.0",
+      "standard_course_year": "2 - 4",
+      "module": "夏季休業中",
+      "period": "集中",
+      "teaching_staff": "北山 俊哉,河合 晃一",
+      "class_outline": "秋吉貴雄・伊藤修一郎・北山俊哉『公共政策学の基礎 第3版』(有斐閣、2020年)を読んで、公共政策および公共政策学とは何かを考えたい。",
+      "remarks": "詳細についてはシラバスを参照すること。\n8/24-8/27\n対面",
+      "enrollment_application": "△",
+      "enrollment_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
+      "short_term_students_application": "△",
+      "short_term_students_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
+      "english_name": "Special Lecture on Political Science I",
+      "subject_code": "BB31281",
+      "requirement_subject_name": "政治学特講I",
+      "data_update_date": "2026-07-16 16:10:27",
       "room": ""
     },
     {
@@ -209191,7 +209233,7 @@
       "period": "集中",
       "teaching_staff": "金 ?辰,太田 知彩",
       "class_outline": "タイにおいて日本語の補助教師として活動する。なお,旅費は実費を受講者が負担する。8～9月,11～12月,2月～3月を目途にそれぞれ1~2名前後が実習を行う。派遣先により,教える対象は高校生もしくは大学生となる。タイでの日本語補助教員としてのボランティア活動を体験し,国際的な視野を広げるとともに異文化理解,人間尊重の精神などを習得する。\n・はじめの1週間 \nタイでの現地教員によるオリエンテーション,ホームステイ先との交流\n・約2~3週間\n主に高校生を対象として,タイの大学の附属高校などで日本語授業の補助教師としてのボランティア活動。指導内容は,日本語の発音,書き方,会話,文化,習慣など多岐にわたるが,現地での進み具合により担当教員の指示に従う。\nタイでの授業の取り組み方などを総合して評価する。\n他の授業を休んで参加することにもなるので,関係の先生と十分に話し合うこと。人数の制限があるので,希望の期間に実習が行えないこともある。独学でもタイ語の習得をすすめる。実習においては,基本的な社会ルールとマナーを守ること。実習校で受けた助言をよく理解し,省察すること。",
-      "remarks": "キーワード:タイ,学校,実習\nG科目\n対面\n国際教育協力論の単位を修得していることを条件とする。人数を制限する。事前実習申込を行った者のみ。教育学類生,人間学群学生を優先する。教職課程の履修が条件となる。4年生の履修は原則として認めない。",
+      "remarks": "キーワード:タイ,学校,実習\n8/30-9/15\nG科目\n対面\n国際教育協力論の単位を修得していることを条件とする。人数を制限する。事前実習申込を行った者のみ。教育学類生,人間学群学生を優先する。教職課程の履修が条件となる。4年生の履修は原則として認めない。",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -212517,7 +212559,7 @@
       "english_name": "Professionalism of Licensed Psychologists",
       "subject_code": "CC21381",
       "requirement_subject_name": "公認心理師の職責",
-      "data_update_date": "2026-01-05 17:32:22",
+      "data_update_date": "2026-07-13 13:53:33",
       "room": ""
     },
     {
@@ -214441,7 +214483,7 @@
       "period": "集中",
       "teaching_staff": "米田 宏樹,左藤 敦子",
       "class_outline": "障害児教育における教育課程編成の原理と実際について概説する。とくに,法令や学習指導要領に規定される特例を用いた弾力的な教育課程の編成について整理し,特別支援教育における教育課程の編成及び教育課程開発の在り方について考究する。",
-      "remarks": "実務経験教員\nオンライン(オンデマンド型)",
+      "remarks": "10/12,11/29\n実務経験教員\nオンライン(オンデマンド型)",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -218040,7 +218082,7 @@
       "english_name": "System Biology",
       "subject_code": "EB62201",
       "requirement_subject_name": "システムバイオロジー",
-      "data_update_date": "2025-09-04 12:08:49",
+      "data_update_date": "2026-07-15 16:49:08",
       "room": ""
     },
     {
@@ -223784,7 +223826,7 @@
       "standard_course_year": "2",
       "module": "秋AB",
       "period": "月4,5",
-      "teaching_staff": "鎌田 祥仁,山中 勤,高橋 純子,池田 敦,黒澤 正紀,氏家 恒太郎,上松 佐知子,久保 倫子,山下 亜紀郎,日下 博幸",
+      "teaching_staff": "鎌田 祥仁,山中 勤,高橋 純子,池田 敦,黒澤 正紀,氏家 恒太郎,上松 佐知子,山下 亜紀郎,日下 博幸,松井 圭介",
       "class_outline": "前半では地質調査に必要な基礎的事項(地質図の読み方,書き方,岩石鑑定など)について解説する。後半には大気・環境動態・地形現象および人文地理・地誌に関する野外調査・観測・解析手法を解説する。",
       "remarks": "「地球環境学1・2」「地球進化学1・2」のいずれかを履修していること。 「地球学野外調査法(EE11901)」を取得済みの者は履修できない。\n対面",
       "enrollment_application": "",
@@ -223794,7 +223836,7 @@
       "english_name": "Field Methodology in Geoscience",
       "subject_code": "EE11911",
       "requirement_subject_name": "地球学野外調査法",
-      "data_update_date": "2026-01-08 11:30:39",
+      "data_update_date": "2026-07-15 15:33:47",
       "room": ""
     },
     {
@@ -223889,7 +223931,7 @@
       "standard_course_year": "2・3",
       "module": "通年",
       "period": "集中",
-      "teaching_staff": "久保 倫子,森本 健弘",
+      "teaching_staff": "森本 健弘,岩井 優祈",
       "class_outline": "人文地理学的事象の観察・分析方法,そして地理的データの収集方法などを修得し,人文地理学的野外調査の基本的な方法,観点や成果のまとめ方を学ぶ。地域および日程については,実施前に掲示する。人文地理学・地誌学実験を履修していることが望ましい。",
       "remarks": "「人文地理学野外実験B(EE21123)」を修得済みの者は履修できない。\n西暦偶数年度開講。\n対面",
       "enrollment_application": "×",
@@ -223899,7 +223941,7 @@
       "english_name": "Field Works on Human Geography B",
       "subject_code": "EE21163",
       "requirement_subject_name": "人文地理学野外実験B",
-      "data_update_date": "2026-05-15 13:30:16",
+      "data_update_date": "2026-07-15 15:31:57",
       "room": ""
     },
     {
@@ -223973,9 +224015,9 @@
       "standard_course_year": "3",
       "module": "秋AB",
       "period": "火3",
-      "teaching_staff": "久保 倫子",
+      "teaching_staff": "",
       "class_outline": "都市地理学の基本的事項として,都市化,都市システム,都市の内部構造などについて,日本および世界の各地の事例を取り上げながら学習する。",
-      "remarks": "「歴史地理学特講III-B」を修得済みの者は履修できない。対面\n対面",
+      "remarks": "「歴史地理学特講III-B」を修得済みの者は履修できない。\n対面",
       "enrollment_application": "",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -223983,7 +224025,7 @@
       "english_name": "Urban Geography",
       "subject_code": "EE21301",
       "requirement_subject_name": "都市地理学",
-      "data_update_date": "2025-12-23 18:22:52",
+      "data_update_date": "2026-07-15 15:30:43",
       "room": ""
     },
     {
@@ -224204,7 +224246,7 @@
       "standard_course_year": "3",
       "module": "秋AB",
       "period": "水3,4",
-      "teaching_staff": "山下 亜紀郎,松井 健一",
+      "teaching_staff": "山下 亜紀郎,松井 健一,岩井 優祈",
       "class_outline": "地表上に展開する人文地理学・地誌学的現象の各種調査法、計量的分析法を具体的な事例をもとにして習得する。",
       "remarks": "原則地球学類生に限る。「人文地理学・地誌学実験A」をあわせて履修すること。「文化地理学実験実習II」を修得済みの者は履修できない。\n対面",
       "enrollment_application": "",
@@ -224214,7 +224256,7 @@
       "english_name": "Laboratory on  Human Geography and Regional Geography B",
       "subject_code": "EE21543",
       "requirement_subject_name": "人文地理学・地誌学実験B",
-      "data_update_date": "2025-12-17 12:17:01",
+      "data_update_date": "2026-07-15 15:29:22",
       "room": ""
     },
     {
@@ -228679,7 +228721,7 @@
       "period": "集中",
       "teaching_staff": "大嶋 建一",
       "class_outline": "人類が安住できる地球の寿命はオゾン層の破壊,温暖化,大規模な事故などで年代と共に短縮されつつある。 その責任の多くは科学技術の発展と密接な関係がある。そのため,これらの危機を認識し,人類の安全,福祉に貢献する技術者の育成が必要である。本講義は人類が直面した危機の事例を多く紹介し,技術者として必要な倫理の基礎知識を理解させる。",
-      "remarks": "理工学群対象\n対面",
+      "remarks": "理工学群対象\n10/3,10/10,10/17,11/7,11/14\n対面",
       "enrollment_application": "",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -235882,7 +235924,7 @@
       "period": "集中",
       "teaching_staff": "応用理工学類長,応用理工学類・物質・分子工学主専攻主任",
       "class_outline": "大学で学習する科学や技術に関する学問が、実社会でどのように活用されているかを企業や研究機関における研究現場や製造現場を見学することにより学ぶ。対象となる事項を事前学習することにより見学に備え、レポートにより理解の度合いを評価する。",
-      "remarks": "専門科目 自由科目 応用理工学類生に限る 前もって担当教員に連絡し手続きを行うこと\nCDP\n対面",
+      "remarks": "専門科目 自由科目 応用理工学類生に限る 前もって担当教員に連絡し手続きを行うこと\n9/29\nCDP\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -241275,11 +241317,11 @@
       "method": "7",
       "credits": "1.0",
       "standard_course_year": "1 - 3",
-      "module": "春A\n春B\n春C\n秋A\n秋B\n秋C\n夏季休業中",
-      "period": "集中",
+      "module": "通年",
+      "period": "随時",
       "teaching_staff": "善甫 啓一,中務 孝,棚橋 沙由理,土井 裕人,土方 裕子,藏滿 司夢,川口 一画",
       "class_outline": "ARE(先導的研究者体験プログラム)に採択された研究課題を実施することを通じて、研究者に必要とされる論理的な文章の書き方や研究計画について学ぶ。実習では起業体験者の話を聞いて起業を身近なこととして捉えるともに、研究発表会に参加して研究遂行に必要な技術を習得するとともにコミュニケーション能力を伸ばす。",
-      "remarks": "ARE(先導的研究者体験プログラム)採択者\n4/15-5/13,5/29,1/18,9/30\n対面(オンライン併用型)",
+      "remarks": "ARE(先導的研究者体験プログラム)採択者\n対面(オンライン併用型)",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -241287,7 +241329,7 @@
       "english_name": "Introductory Course for Research Beginners 2026",
       "subject_code": "FG16567",
       "requirement_subject_name": "研究者体験2026",
-      "data_update_date": "2026-02-06 15:22:58",
+      "data_update_date": "2026-07-17 18:39:17",
       "room": ""
     },
     {
@@ -243608,7 +243650,7 @@
       "standard_course_year": "2",
       "module": "秋A",
       "period": "金3,4",
-      "teaching_staff": "金久保 利之,森田 直樹",
+      "teaching_staff": "森田 直樹",
       "class_outline": "弾性性状における不静定梁の応力、変形、長柱の座屈、棒材のねじり、エネルギーに関する諸定理等を紹介する。演習も行う。",
       "remarks": "FG55564と同一。\n対面",
       "enrollment_application": "",
@@ -244595,7 +244637,7 @@
       "standard_course_year": "2",
       "module": "秋A",
       "period": "金3,4",
-      "teaching_staff": "金久保 利之,森田 直樹",
+      "teaching_staff": "森田 直樹",
       "class_outline": "弾性性状における不静定梁の応力、変形、長柱の座屈、棒材のねじり、エネルギーに関する諸定理等を紹介する。演習も行う。",
       "remarks": "FG45564と同一。\n対面",
       "enrollment_application": "",
@@ -251649,11 +251691,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "3・4",
-      "module": "夏季休業中",
-      "period": "集中",
-      "teaching_staff": "佐藤 雄隆,小林 匠,大西 正輝,谷村 勇輔,中田 秀基,福井 和広",
+      "module": "",
+      "period": "",
+      "teaching_staff": "",
       "class_outline": "",
-      "remarks": "2023 年度以前の「情報科学特別講義 E」(GB17401)の単位を修得した者の履修は認めない。\nGC59301と同一。",
+      "remarks": "開設する場合は掲示で周知する。\nGC59301と同一。\n2026年度開講せず。",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -251661,7 +251703,7 @@
       "english_name": "Special Lecture on Machine Intelligence and Media Technologies A",
       "subject_code": "GB47001",
       "requirement_subject_name": "知能情報メディア特別講義A",
-      "data_update_date": "2025-08-26 13:23:23",
+      "data_update_date": "2026-07-14 10:33:57",
       "room": ""
     },
     {
@@ -253266,11 +253308,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1 - 4",
-      "module": "夏季休業中",
-      "period": "集中",
-      "teaching_staff": "佐藤 雄隆,小林 匠,大西 正輝,谷村 勇輔,中田 秀基,福井 和広",
+      "module": "",
+      "period": "",
+      "teaching_staff": "",
       "class_outline": "",
-      "remarks": "2023 年度以前の「情報科学特別講義 E」(GB17401)の単位を修得した者の履修は認めない。\nGB47001と同一。",
+      "remarks": "開設する場合は掲示で周知する。\nGB47001と同一。\n2026年度開講せず。",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "",
@@ -253278,7 +253320,7 @@
       "english_name": "Special Lecture on Information Media C",
       "subject_code": "GB47001",
       "requirement_subject_name": "知能情報メディア特別講義A",
-      "data_update_date": "2025-08-26 13:23:23",
+      "data_update_date": "2026-07-14 10:33:57",
       "room": ""
     },
     {
@@ -266204,7 +266246,7 @@
       "standard_course_year": "2",
       "module": "春AB",
       "period": "月5",
-      "teaching_staff": "藤井 直人",
+      "teaching_staff": "木塚 朝博",
       "class_outline": "体育科学に関する専門書を講読し,英語の読解力を養うとともに,基礎的な用語に慣れさせる。",
       "remarks": "必修、体育・スポーツ専門英語基礎演習と合わせて履修すること。\n対面",
       "enrollment_application": "×",
@@ -266214,7 +266256,7 @@
       "english_name": "English for Specialized Subjects A",
       "subject_code": "W810012",
       "requirement_subject_name": "専門語学A",
-      "data_update_date": "2026-01-20 12:09:37",
+      "data_update_date": "2026-07-14 14:05:52",
       "room": ""
     },
     {
@@ -278718,11 +278760,11 @@
       "method": "2",
       "credits": "2.0",
       "standard_course_year": "3",
-      "module": "春AB",
-      "period": "水2,3",
-      "teaching_staff": "勝川 夏樹",
+      "module": "",
+      "period": "",
+      "teaching_staff": "",
       "class_outline": "ガラス造形技法について調査を通して、自身のテーマに適した技法を習得しガラス作品を制作する。",
-      "remarks": "実務経験教員\n対面\n人数制限ありYBH0722ガラス技術演習または、YBH0702ガラス基礎演習を履修済みのこと。2026年度・2027年度の開講なし。",
+      "remarks": "2026年度開講せず。\n実務経験教員\n対面\n人数制限ありYBH0722ガラス技術演習または、YBH0702ガラス基礎演習を履修済みのこと。2026年度・2027年度の開講なし。",
       "enrollment_application": "×",
       "enrollment_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
       "short_term_students_application": "△",
