@@ -16990,17 +16990,21 @@
 - class_id: 02DC308
   class_outline: 明治~昭和期の原史料を読解しつつ、日本史学の基礎領域である史料学について、とくに私文書に着目し、独自の領域を確立することを目指し、秋学期はその実践に重点を置く。
   credits: '1.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-24 15:35:02'
   english_name: Topics in Japanese History V-B
   enrollment_application: ''
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   method: '1'
-  module: 秋AB
+  module: 秋A
   name: 日本史特講V-B
-  period: 火5
-  remarks: '西暦偶数年度開講。
+  period: 集中
+  remarks: '※やむを得ない事情により10/5(月)の受講が困難な場合は相談に応じる。
+
+    西暦偶数年度開講。
 
     0ABACA9と同一。
+
+    10/4, 10/5
 
     対面'
   requirement_subject_name: 日本史特講VB
@@ -26331,7 +26335,7 @@
 - class_id: 02JD102
   class_outline: 体育およびスポーツにおける実践的な研究とは何かを理解し、自身でも論文の作成ができるようになるための方法論を学ぶ。当該研究の発表の場である『スポーツパフォーマンス研究』に掲載された過去の論文を講読し、それを題材として実践的研究とは何か、またどのように論文をまとめるべきかについて理解を深めるとともに、自身のデータや事例をもとに実践的研究の論文としてまとめる作業を行う。
   credits: '2.0'
-  data_update_date: '2026-01-23 09:38:11'
+  data_update_date: '2026-07-24 10:09:38'
   english_name: Practical Research Seminar for Sports Performance I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -26377,7 +26381,7 @@
 - class_id: 02JD104
   class_outline: 光学式モーションキャプチャー、フォースプレートやハイスピードカメラ、オブジェクトトラッキングシステム、球質診断装置等の先端的な研究機器をスポーツパフォーマンス研究センター等に設置して、体育・スポーツの実践的研究能力を向上させるための演習を行う。必要に応じてその種目の競技場や体育館に設置しデータを取得する。その後、得られたデータの分析法、フィードバック法を検討し、状況に合わせたデータ処理、データ提供をどのようにすべきか議論する。さらに上記の客観的データに加えて、アスリートおよびその他の実験協力者の内省報告を重視し、主観的データも併せた研究を行う。
   credits: '2.0'
-  data_update_date: '2026-01-23 09:39:02'
+  data_update_date: '2026-07-24 10:10:10'
   english_name: Practical Research Seminar for Sports Performance III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -26424,7 +26428,7 @@
 - class_id: 02JD201
   class_outline: 本授業では、大学体育や大学スポーツを先導する高度指導者に必要な教養として、体育スポーツ分野における最先端の生命科学や人文・社会科学領域の研究成果を概説し、その見識を深めることを目指す。授業は、鹿屋体育大学教員による講義、学外講師を招聘して開催する特別講義・研究セミナー、さらに論文指導研究会および学位論文発表会で実施される。
   credits: '1.0'
-  data_update_date: '2026-01-23 09:39:30'
+  data_update_date: '2026-07-24 10:10:34'
   english_name: Topics of Advanced Sports Science
   enrollment_application: ×
   enrollment_requirements: ''
@@ -33112,17 +33116,21 @@
 - class_id: 0ABACA9
   class_outline: 明治~昭和期の原史料を読解しつつ、日本史学の基礎領域である史料学について、とくに私文書に着目し、独自の領域を確立することを目指し、秋学期はその実践に重点を置く。
   credits: '1.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-24 15:35:02'
   english_name: Topics in Japanese History VB
   enrollment_application: ''
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   method: '1'
-  module: 秋AB
+  module: 秋A
   name: 日本史特講VB
-  period: 火5
-  remarks: '西暦偶数年度開講。
+  period: 集中
+  remarks: '※やむを得ない事情により10/5(月)の受講が困難な場合は相談に応じる。
+
+    西暦偶数年度開講。
 
     02DC308と同一。
+
+    10/4, 10/5
 
     対面'
   requirement_subject_name: 日本史特講VB
@@ -34768,7 +34776,9 @@
   module: 秋AB
   name: 先史学・考古学研究IXA
   period: 集中
-  remarks: 対面(オンライン併用型)
+  remarks: '10/10, 10/17, 10/31
+
+    対面(オンライン併用型)'
   requirement_subject_name: 先史学・考古学研究IXA
   room: ''
   short_term_students_application: △
@@ -62694,7 +62704,7 @@
 - class_id: 0AJEC11
   class_outline: 化学分野の最新のトピックスを集中で講義する。
   credits: '1.0'
-  data_update_date: '2026-01-08 10:17:19'
+  data_update_date: '2026-07-24 10:51:54'
   english_name: Topics in Chemistry II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -62704,6 +62714,8 @@
   period: 集中
   remarks: '西暦偶数年度開講。
 
+    10/8,10/9
+
     詳細後日周知'
   requirement_subject_name: 化学特別講義II
   room: ''
@@ -62711,7 +62723,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 0AJEC11
-  teaching_staff: 江波 進一
+  teaching_staff: 江波 進一,玄 大雄
 - class_id: 0AJEC12
   class_outline: 化学分野の最新のトピックスを集中で講義する。
   credits: '1.0'
@@ -62975,6 +62987,8 @@
   period: 集中
   remarks: '西暦偶数年度開講。
 
+    12/22,12/23
+
     要望があれば英語で授業
 
     対面'
@@ -63237,6 +63251,8 @@
   period: 集中
   remarks: '西暦偶数年度開講。
 
+    12/8,12/9,12/10,12/15,12/16,12/17,1/6,1/7,1/13,1/14
+
     要望があれば英語で授業'
   requirement_subject_name: 実践有機合成化学特論
   room: ''
@@ -63278,6 +63294,8 @@
   name: 大気物理化学特論
   period: 集中
   remarks: '西暦偶数年度開講。
+
+    12/2,12/3
 
     要望があれば英語で授業'
   requirement_subject_name: 大気物理化学特論
@@ -63322,6 +63340,8 @@
   name: 応用分析化学特論
   period: 集中
   remarks: '西暦偶数年度開講。
+
+    11/6,11/13,11/20,11/27,12/4,12/11,12/18,1/8,1/15,1/22
 
     要望があれば英語で授業'
   requirement_subject_name: 応用分析化学特論
@@ -99211,7 +99231,7 @@
 - class_id: 0ATGC34
   class_outline: "内科学、小児科学の概要について、特に成人、小児の基本的疾患について疾患概念、発症機序、診断、治療の概要について学ぶ。\n 目標:成人、小児の基本的疾患についてさまざまな観点から論じることができる。"
   credits: '2.0'
-  data_update_date: '2026-04-16 11:52:12'
+  data_update_date: '2026-07-21 09:24:06'
   english_name: Outline of Internal Medicine
   enrollment_application: ''
   enrollment_requirements: ''
@@ -100218,7 +100238,7 @@
     \ 市場メカニズムについて解説する。(6) 医療供給者の行動について解説する。(7) 厚生経済学入門について解説する。(8) 保健医療サービスの経済評価について解説する。(9)\
     \ 衡平性:正義と公正について解説する。(10) 総合討論を行う。"
   credits: '1.0'
-  data_update_date: '2025-08-01 16:53:29'
+  data_update_date: '2026-07-24 15:00:22'
   english_name: Health Economics
   enrollment_application: ''
   enrollment_requirements: ''
@@ -100229,6 +100249,8 @@
   remarks: '(英)
 
     英語で授業。
+
+    1/14,1/18,1/21,1/25,1/28
 
     対面
 
@@ -100459,7 +100481,7 @@
 - class_id: 0ATHF39
   class_outline: 国際社会が直面する健康課題を理解し、公衆衛生学高等教育を受けた者が果たすべき、かつ果たすことできる役割と責任について理解させることを目的とする。
   credits: '1.0'
-  data_update_date: '2026-02-09 10:09:17'
+  data_update_date: '2026-07-24 15:03:13'
   english_name: Global Health
   enrollment_application: ×
   enrollment_requirements: ''
@@ -100467,7 +100489,11 @@
   module: 秋C
   name: グローバルヘルス
   period: 集中
-  remarks: '英語で授業。
+  remarks: '1/14(木)4・5限,1/18(月)3~5限,1/21(木)4・5限,1/22(金)4限,1/25(月)4・5限
+
+    英語で授業。
+
+    1/14,1/18,1/21,1/22,1/25
 
     対面'
   requirement_subject_name: グローバルヘルス
@@ -116468,21 +116494,19 @@
   class_outline: In this course, students will learn about "Aging, environmental risks,
     and the role of physical activity and exercise".
   credits: '1.0'
-  data_update_date: '2025-07-01 09:37:15'
+  data_update_date: '2026-07-24 09:21:22'
   english_name: Health Promotion
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 春ABC
+  module: 夏季休業中
   name: Health Promotion (ヘルスプロモーション論)
   period: 集中
-  remarks: '鹿屋開設科目。
-
-    <鹿屋>
-
-    堀内 雅弘
+  remarks: '鹿屋開設科目。<鹿屋>堀内 雅弘
 
     英語で授業。
+
+    9/14-9/17
 
     対面(オンライン併用型)
 
@@ -117583,7 +117607,7 @@
     \ 授業計画:1.概論 2.化学物質のADME 3.薬と毒物 4.化学物質の解毒 (その1)5.化学物質の解毒 (その2)6.化学物質の代謝活性化 (その1)7.化学物質の代謝活性化\
     \ (その2)8.薬効および有害性の個体差と遺伝的多型 9.総合討論(その1)10.総合討論(その2)"
   credits: '1.0'
-  data_update_date: '2026-07-10 13:48:35'
+  data_update_date: '2026-07-21 09:26:02'
   english_name: Basic Toxicology
   enrollment_application: ×
   enrollment_requirements: ''
@@ -147947,7 +147971,7 @@
     \ 授業計画:1.概論 2.化学物質のADME 3.薬と毒物 4.化学物質の解毒 (その1)5.化学物質の解毒 (その2)6.化学物質の代謝活性化 (その1)7.化学物質の代謝活性化\
     \ (その2)8.薬効および有害性の個体差と遺伝的多型 9.総合討論(その1)10.総合討論(その2)"
   credits: '1.0'
-  data_update_date: '2026-07-10 13:48:35'
+  data_update_date: '2026-07-21 09:26:02'
   english_name: Basic Toxicology
   enrollment_application: ×
   enrollment_requirements: ''
@@ -148792,7 +148816,7 @@
 - class_id: 0BVA103
   class_outline: 体育およびスポーツにおける実践的な研究とは何かを理解し、自身でも論文の作成ができるようになるための方法論を学ぶ。当該研究の発表の場である『スポーツパフォーマンス研究』に掲載された過去の論文を講読し、それを題材として実践的研究とは何か、またどのように論文をまとめるべきかについて理解を深めるとともに、自身のデータや事例をもとに実践的研究の論文としてまとめる作業を行う。
   credits: '2.0'
-  data_update_date: '2026-01-23 09:38:11'
+  data_update_date: '2026-07-24 10:09:38'
   english_name: Practical Research Seminar for Sports Performance I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -148806,7 +148830,7 @@
 
     オンライン(同時双方向型)
 
-    鹿屋体育大学<鹿屋>?橋 仁大、金高 宏文、前田 明、竹中 健太郎、栫 ちか子、藤井 雅文'
+    鹿屋体育大学<鹿屋>?橋 仁大、金高 宏文、前田 明、竹中 健太郎、栫 ちか子、藤井 雅文、村上 俊祐'
   requirement_subject_name: 体育スポーツ実践的研究演習I
   room: ''
   short_term_students_application: ×
@@ -148840,7 +148864,7 @@
 - class_id: 0BVA105
   class_outline: 光学式モーションキャプチャー、フォースプレートやハイスピードカメラ、オブジェクトトラッキングシステム、球質診断装置等の先端的な研究機器をスポーツパフォーマンス研究センター等に設置して、体育・スポーツの実践的研究能力を向上させるための演習を行う。必要に応じてその種目の競技場や体育館に設置しデータを取得する。その後、得られたデータの分析法、フィードバック法を検討し、状況に合わせたデータ処理、データ提供をどのようにすべきか議論する。さらに上記の客観的データに加えて、アスリートおよびその他の実験協力者の内省報告を重視し、主観的データも併せた研究を行う。
   credits: '2.0'
-  data_update_date: '2026-01-23 09:39:02'
+  data_update_date: '2026-07-24 10:10:10'
   english_name: Practical Research Seminar for Sports Performance III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -148854,7 +148878,7 @@
 
     オンライン(同時双方向型)
 
-    鹿屋体育大学<鹿屋>?橋 仁大、金高 宏文、前田 明、竹中 健太郎、栫 ちか子、藤井 雅文'
+    鹿屋体育大学<鹿屋>?橋 仁大、金高 宏文、前田 明、竹中 健太郎、栫 ちか子、藤井 雅文、村上 俊祐'
   requirement_subject_name: 体育スポーツ実践的研究演習III
   room: ''
   short_term_students_application: ×
@@ -148973,7 +148997,7 @@
 - class_id: 0BVA301
   class_outline: 本授業では、大学体育や大学スポーツを先導する高度指導者に必要な教養として、体育スポーツ分野における最先端の生命科学や人文・社会科学領域の研究成果を概説し、その見識を深めることを目指す。授業は、鹿屋体育大学教員による講義、学外講師を招聘して開催する特別講義・研究セミナー、さらに論文指導研究会および学位論文発表会で実施される。
   credits: '1.0'
-  data_update_date: '2026-01-23 09:39:30'
+  data_update_date: '2026-07-24 10:10:34'
   english_name: Topics of Advanced Sports Science
   enrollment_application: ×
   enrollment_requirements: ''
@@ -148987,7 +149011,7 @@
 
     オンライン(同時双方向型)
 
-    鹿屋体育大学<鹿屋>?橋 仁大、金高 宏文、前田 明、竹中 健太郎、栫 ちか子、藤井 雅文'
+    鹿屋体育大学<鹿屋>?橋 仁大、金高 宏文、前田 明、竹中 健太郎、栫 ちか子、藤井 雅文、村上 俊祐'
   requirement_subject_name: 最先端スポーツ科学理論
   room: ''
   short_term_students_application: ×
@@ -153529,7 +153553,7 @@
 - class_id: '1226251'
   class_outline: ''
   credits: '1.0'
-  data_update_date: '2026-07-07 12:44:30'
+  data_update_date: '2026-07-21 10:24:28'
   english_name: Finance and Economics for Making Choices
   enrollment_application: ''
   enrollment_requirements: ''
@@ -153544,7 +153568,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '1226251'
-  teaching_staff: ''
+  teaching_staff: 大原 央聡,伊藤 誠,山田 一夫
 - class_id: '1227011'
   class_outline: 本講義は,本学の学士課程教育への導入を担う。大学における学問の方法論へ誘(いざな)い、自らが専攻する学問分野への理解や、関連する諸分野との関係性も理解できる能力を涵養する。
   credits: '1.0'
@@ -165711,15 +165735,17 @@
 - class_id: '3188202'
   class_outline: 学群・学類における専門の英語(「特定学術目的の英語」)への橋渡しとなる「一般学術目的の英語」を学ぶ。5週間の短期集中でインプットとアウトプットを大量に行い、学術論文執筆の際に必要となるライティング力、表現力を身につける。
   credits: '1.0'
-  data_update_date: '2026-02-17 12:13:18'
+  data_update_date: '2026-07-24 14:16:58'
   english_name: English Academic Writing
   enrollment_application: ×
   enrollment_requirements: ''
   method: '2'
-  module: 秋AB
+  module: ''
   name: English Academic Writing
-  period: 火6
-  remarks: '全学群対象(「人文、情報」優先)  人数制限あり
+  period: ''
+  remarks: '全学群対象(「人文、情報」優先)  人数制限あり  2026.07.21開講中止決定
+
+    2026年度開講せず。
 
     G科目
 
@@ -165730,19 +165756,21 @@
   short_term_students_requirements: ''
   standard_course_year: 2 - 4
   subject_code: '3188102'
-  teaching_staff: ニゴラ ドジャリロワ
+  teaching_staff: ''
 - class_id: '3188212'
   class_outline: 学群・学類における専門の英語(「特定学術目的の英語」)への橋渡しとなる「一般学術目的の英語」を学ぶ。5週間の短期集中でインプットとアウトプットを大量に行い、学術論文執筆の際に必要となるライティング力、表現力を身につける。
   credits: '1.0'
-  data_update_date: '2026-02-17 12:13:48'
+  data_update_date: '2026-07-24 14:16:12'
   english_name: English Academic Writing
   enrollment_application: ×
   enrollment_requirements: ''
   method: '2'
-  module: 秋AB
+  module: ''
   name: English Academic Writing
-  period: 金4
-  remarks: '全学群対象(「社工、物理、教育、心理、障害」優先)  人数制限あり
+  period: ''
+  remarks: '全学群対象(「社工、物理、教育、心理、障害」優先)  人数制限あり  2026.07.21開講中止決定
+
+    2026年度開講せず。
 
     G科目
 
@@ -165753,7 +165781,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2 - 4
   subject_code: '3188102'
-  teaching_staff: マダバカス ナヒーン
+  teaching_staff: ''
 - class_id: '3188222'
   class_outline: 学群・学類における専門の英語(「特定学術目的の英語」)への橋渡しとなる「一般学術目的の英語」を学ぶ。5週間の短期集中でインプットとアウトプットを大量に行い、学術論文執筆の際に必要となるライティング力、表現力を身につける。
   credits: '1.0'
@@ -178645,7 +178673,7 @@
     mejorar?s tu expresi?n escrita y ganar?s m?s confianza para comunicarte por escrito
     en espa?ol. Nivel m?nimo esperado: A2.'
   credits: '1.0'
-  data_update_date: '2026-07-15 16:49:21'
+  data_update_date: '2026-07-23 16:51:56'
   english_name: Advanced Spanish Writing (1)B
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -178653,7 +178681,7 @@
   module: 秋AB
   name: 応用スペイン語作文(1)B
   period: 水4
-  remarks: '全学群対象。原則、「基礎スペイン語」A及びBの履修者に限る。2026年度開講予定
+  remarks: '全学群対象。原則、「基礎スペイン語」A及びBの履修者に限る。2026年度開講
 
     スペイン語で授業。
 
@@ -178678,7 +178706,7 @@
     de expresi?n oral mientras conocen la diversidad cultural de Hispanoam?rica. El
     nivel m?nimo esperado de los participantes es A2.
   credits: '1.0'
-  data_update_date: '2026-07-06 15:28:31'
+  data_update_date: '2026-07-23 16:52:31'
   english_name: Advanced Spanish Conversation (1)B
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -178686,7 +178714,7 @@
   module: 秋AB
   name: 応用スペイン語会話(1)B
   period: 水5
-  remarks: '全学群対象。原則、「基礎スペイン語」A及びBの履修者に限る。2026年度開講予定
+  remarks: '全学群対象。原則、「基礎スペイン語」A及びBの履修者に限る。2026年度開講
 
     スペイン語で授業。
 
@@ -178778,7 +178806,7 @@
 - class_id: '3672002'
   class_outline: このコースでは、DELE A2試験の4つのパート(読解、文章表現、聞き取り、口頭試験)を体験し、テストに合格するための戦略とコツを学ぶ。受講者は、本学のスペイン語の1年次科目と2年次科目をすべて履修しているか、少なくともCEFRのA1よりも上のレベルを有していることが求められる。
   credits: '1.0'
-  data_update_date: '2026-06-30 10:36:36'
+  data_update_date: '2026-07-23 16:50:40'
   english_name: DELE A2 Practice
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -178786,7 +178814,7 @@
   module: 秋C
   name: DELE A2 演習
   period: 金1,2
-  remarks: '全学群対象 CEFR A2.1相当以上のスペイン語能力を有することが望ましい。2026年度開講予定
+  remarks: '全学群対象 CEFR A2.1相当以上のスペイン語能力を有することが望ましい。2026年度開講
 
     スペイン語で授業。
 
@@ -187932,7 +187960,7 @@
 - class_id: '8331183'
   class_outline: 海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-07-08 10:34:04'
+  data_update_date: '2026-07-23 10:53:33'
   english_name: Problem solving through multicultural co-learning (overseas) B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -187947,7 +187975,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '8331183'
-  teaching_staff: 福嶋 美佐子,朝倉 雅史,森尾 貴広,入江 賢児,松原 康介
+  teaching_staff: 福嶋 美佐子,朝倉 雅史,森尾 貴広,入江 賢児,松原 康介,田中 怜
 - class_id: '8331204'
   class_outline: '新規事業の立ち上げ(起業含む)に関心のある受講者に対して、実際に起業に携わった経営者陣が、様々な経験に基づく講義を行う。
 
@@ -188036,24 +188064,62 @@
   subject_code: '8320504'
   teaching_staff: 藤代 亮,五十嵐 浩也
 - class_id: '8331303'
-  class_outline: ''
-  credits: '?'
-  data_update_date: '2026-07-16 15:34:25'
-  english_name: ''
+  class_outline: 春学期ないし夏季休業期間に国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人大学院生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
+  credits: '1.0'
+  data_update_date: '2026-07-21 10:55:13'
+  english_name: Problem solving through multicultural co-learning (in Japan) A 2026
   enrollment_application: ×
   enrollment_requirements: ''
   method: '3'
   module: 春学期
   name: 多文化共修による課題解決実習(国内)A 2026
   period: 随時
-  remarks: ''
+  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画)
   requirement_subject_name: 多文化共修による課題解決実習(国内)A 2026
   room: ''
-  short_term_students_application: ''
+  short_term_students_application: ×
   short_term_students_requirements: ''
-  standard_course_year: '?'
+  standard_course_year: 1 - 4
   subject_code: '8331303'
-  teaching_staff: ''
+  teaching_staff: 福嶋 美佐子
+- class_id: '8331403'
+  class_outline: 春学期ないし夏季休業期間に海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
+  credits: '1.0'
+  data_update_date: '2026-07-21 13:52:35'
+  english_name: Problem solving through multicultural co-learning (overseas) A 2026
+  enrollment_application: ×
+  enrollment_requirements: ''
+  method: '3'
+  module: 春学期
+  name: 多文化共修による課題解決実習(海外)A 2026
+  period: 随時
+  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画)
+  requirement_subject_name: 多文化共修による課題解決実習(海外)A 2026
+  room: ''
+  short_term_students_application: ×
+  short_term_students_requirements: ''
+  standard_course_year: 1 - 4
+  subject_code: '8331403'
+  teaching_staff: 福嶋 美佐子
+- class_id: '8331453'
+  class_outline: 秋学期ないし春季休業期間に海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
+  credits: '1.0'
+  data_update_date: '2026-07-21 13:52:47'
+  english_name: Problem solving through multicultural co-learning (overseas) B 2026
+  enrollment_application: ×
+  enrollment_requirements: ''
+  method: '3'
+  module: 秋学期
+  name: 多文化共修による課題解決実習(海外)B 2026
+  period: 随時
+  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画)
+  requirement_subject_name: 多文化共修による課題解決実習(海外)B 2026
+  room: ''
+  short_term_students_application: ×
+  short_term_students_requirements: ''
+  standard_course_year: 1 - 4
+  subject_code: '8331453'
+  teaching_staff: 福嶋 美佐子
 - class_id: '8333204'
   class_outline: 日本語の歴史、方言などの様々なジャンルや目的の日本語に触れ、日本語に対する知識を深める。現代日本社会の特徴、魅力、課題を、日本語を通じて、日本人学生には外国語力としての発信力と多文化理解、留学生には日本理解を通じての母文化の理解を深めることで、アカデミックな国際交流を深化させる。
   credits: '1.0'
@@ -281502,7 +281568,7 @@
 - class_id: HC22231
   class_outline: 保健・医療・福祉に関わる関係法規について、その制定の趣旨や内容の理解を深めることを目的とし、医療関係職種として備えるべき基礎的な知識について、専門家として関わっている各分野の教員が教授する。
   credits: '1.0'
-  data_update_date: '2026-04-30 15:28:38'
+  data_update_date: '2026-07-22 14:14:25'
   english_name: Administration of health services 1
   enrollment_application: ×
   enrollment_requirements: ''
@@ -281523,7 +281589,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: HE22011
-  teaching_staff: 白谷 佳恵,井坂 ゆかり,森田 展彰,近藤 正英,堀 愛,菅野 幸子,池田 有,大倉 美佳,村木 功
+  teaching_staff: 大倉 美佳,白谷 佳恵,井坂 ゆかり,森田 展彰,近藤 正英,堀 愛,菅野 幸子,池田 有,村木 功
 - class_id: HC22241
   class_outline: 保健医療福祉行政論Iの知識をもとに、看護職との関わりを学び、日々変化する行政の問題を理解し、自ら問題点を把握し検討する過程を通じ、自己の職業観確立の基礎をつくる。
   credits: '1.0'
@@ -281550,7 +281616,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: HC22241
-  teaching_staff: 白谷 佳恵,大倉 美佳
+  teaching_staff: 大倉 美佳
 - class_id: HC22251
   class_outline: 人々の暮らしを取り巻く環境について、現状や課題と健康への関連について学び、健康を支援するために環境に働きかけてゆく必要性について理解を深める。
   credits: '1.0'
@@ -281787,7 +281853,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: HC31081
-  teaching_staff: 白谷 佳恵,井坂 ゆかり,大倉 美佳
+  teaching_staff: 大倉 美佳
 - class_id: HC31111
   class_outline: 学校および職域における保健活動の定義と概要、法的根拠、活動における基本的事項について学ぶ。その上で、学校および職域における保健医療職の果たす役割について自らの考えや今後の展望を考察する。
   credits: '1.0'
@@ -282968,7 +283034,7 @@
 - class_id: HC41001
   class_outline: 地域における多様な人びとの健康課題とその背景を理解し、個人・家族への支援、地域組織の育成、社会資源や施策の活用を通した地域保健活動を理解する。地域アセスメント(地域診断)に基づく支援方法や保健活動の展開を学ぶ。
   credits: '2.0'
-  data_update_date: '2026-07-06 10:32:25'
+  data_update_date: '2026-07-22 14:35:54'
   english_name: Public Health Nursing
   enrollment_application: ×
   enrollment_requirements: ''
@@ -282987,11 +283053,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: HC41001
-  teaching_staff: 白谷 佳恵,井坂 ゆかり,山下 美智代
+  teaching_staff: 白谷 佳恵,井坂 ゆかり,山下 美智代,大倉 美佳
 - class_id: HC41003
   class_outline: 茨城県内の保健所および市町村保健センターでの実習を通して、保健所および保健センターの機能、公衆衛生看護の担い手である保健師の役割を学ぶとともに保健師に必要な技法等を習得させる。
   credits: '3.0'
-  data_update_date: '2025-04-02 11:54:51'
+  data_update_date: '2026-07-22 14:36:17'
   english_name: Public health nursing practicum
   enrollment_application: ×
   enrollment_requirements: ''
@@ -283014,7 +283080,7 @@
   short_term_students_requirements: ''
   standard_course_year: '4'
   subject_code: HC41003
-  teaching_staff: 井坂 ゆかり,白谷 佳恵
+  teaching_staff: 井坂 ゆかり,白谷 佳恵,大倉 美佳
 - class_id: HC41031
   class_outline: 公衆衛生看護活動の対象特性を踏まえ、地域看護診断に基づくアセスメントを行い、健康課題を明確化する方法を学ぶ。さらに、健康教育などの支援活動を計画・実践・評価するための公衆衛生看護活動の方法を理解する。
   credits: '4.0'
@@ -283045,7 +283111,7 @@
 - class_id: HC41052
   class_outline: 公衆衛生看護学に関する健康課題について先行知や統計資料、フィールドワーク、GIS等を用いて分析し、理論と関連づけて公衆衛生看護活動の展開を考察する。研究倫理を踏まえ、課題解決に向けた提案を行う力を養う。
   credits: '4.0'
-  data_update_date: '2026-03-05 20:53:07'
+  data_update_date: '2026-07-22 14:37:14'
   english_name: Public Health Nursing Application
   enrollment_application: ''
   enrollment_requirements: ''
@@ -283064,7 +283130,7 @@
   short_term_students_requirements: ''
   standard_course_year: '4'
   subject_code: HC41052
-  teaching_staff: 白谷 佳恵,井坂 ゆかり
+  teaching_staff: 白谷 佳恵,井坂 ゆかり,大倉 美佳
 - class_id: HC41061
   class_outline: 公衆衛生看護管理の目的と機能、専門職の自律と人材育成の意義を学ぶ。さらに、災害・感染症などの健康危機管理の理念と意思決定過程を理解し、GISを活用した地域看護診断や自治体計画の策定を模擬的に学ぶ。
   credits: '2.0'
@@ -283089,7 +283155,7 @@
   short_term_students_requirements: ''
   standard_course_year: '4'
   subject_code: HC41061
-  teaching_staff: 白谷 佳恵,井坂 ゆかり,大倉 美佳
+  teaching_staff: 大倉 美佳
 - class_id: HC42001
   class_outline: 複雑多様化した児童生徒の健康の実態を通して養護教諭の行う学校保健活動を理解するとともに、児童生徒のヘルスプロモーションにおける養護教諭の役割について学習する。さらに児童生徒の発達課題に応じた養護教諭の健康支援の実際について学習する。
   credits: '1.0'
@@ -283575,7 +283641,7 @@
 - class_id: HE22011
   class_outline: 保健・医療・福祉に関わる関係法規について、その制定の趣旨や内容の理解を深めることを目的とし、医療関係職種として備えるべき基礎的な知識について、専門家として関わっている各分野の教員が教授する。
   credits: '1.0'
-  data_update_date: '2026-04-30 15:28:38'
+  data_update_date: '2026-07-22 14:14:25'
   english_name: Health Legislation
   enrollment_application: ×
   enrollment_requirements: ''
@@ -283596,7 +283662,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: HE22011
-  teaching_staff: 白谷 佳恵,井坂 ゆかり,森田 展彰,近藤 正英,堀 愛,菅野 幸子,池田 有,大倉 美佳,村木 功
+  teaching_staff: 大倉 美佳,白谷 佳恵,井坂 ゆかり,森田 展彰,近藤 正英,堀 愛,菅野 幸子,池田 有,村木 功
 - class_id: HE22021
   class_outline: 統計学の考え方の基礎並びに医療や医学研究で得られた実験・観察データを解析する種々の方法を学び、実際の臨床研究、疫学研究への応用事例から医療統計学への理解を深める。
   credits: '1.0'
@@ -287114,6 +287180,120 @@
   standard_course_year: '3'
   subject_code: VB30023
   teaching_staff: 矢田 竣太郎
+- class_id: VB411B1
+  class_outline: ''
+  credits: '3.0'
+  data_update_date: '2026-07-22 17:14:02'
+  english_name: Music of Modern Japan
+  enrollment_application: ''
+  enrollment_requirements: ''
+  method: '1'
+  module: 春ABC
+  name: 近現代日本の音楽
+  period: 応談
+  remarks: 英語で授業。
+  requirement_subject_name: 近現代日本の音楽
+  room: ''
+  short_term_students_application: ''
+  short_term_students_requirements: ''
+  standard_course_year: '1'
+  subject_code: VB411B1
+  teaching_staff: ''
+- class_id: VB411C1
+  class_outline: ''
+  credits: '3.0'
+  data_update_date: '2026-07-22 16:30:03'
+  english_name: Media and Cultural Signs
+  enrollment_application: ''
+  enrollment_requirements: ''
+  method: '1'
+  module: 春ABC
+  name: メディアと信号
+  period: 応談
+  remarks: 英語で授業。
+  requirement_subject_name: メディアと信号
+  room: ''
+  short_term_students_application: ''
+  short_term_students_requirements: ''
+  standard_course_year: '1'
+  subject_code: VB411C1
+  teaching_staff: ''
+- class_id: VB411E1
+  class_outline: ''
+  credits: '3.0'
+  data_update_date: '2026-07-22 16:32:11'
+  english_name: Public Opinion
+  enrollment_application: ''
+  enrollment_requirements: ''
+  method: '1'
+  module: 春ABC
+  name: 世論研究
+  period: 応談
+  remarks: 英語で授業。
+  requirement_subject_name: 世論研究
+  room: ''
+  short_term_students_application: ''
+  short_term_students_requirements: ''
+  standard_course_year: '1'
+  subject_code: VB411E1
+  teaching_staff: ''
+- class_id: VB411F1
+  class_outline: ''
+  credits: '3.0'
+  data_update_date: '2026-07-22 16:34:26'
+  english_name: History of Ancient and Medieval Philosophy
+  enrollment_application: ''
+  enrollment_requirements: ''
+  method: '1'
+  module: 春ABC
+  name: 古代・中世哲学史
+  period: 応談
+  remarks: 英語で授業。
+  requirement_subject_name: 古代・中世哲学史
+  room: ''
+  short_term_students_application: ''
+  short_term_students_requirements: ''
+  standard_course_year: '1'
+  subject_code: VB411F1
+  teaching_staff: ''
+- class_id: VB411G1
+  class_outline: ''
+  credits: '3.0'
+  data_update_date: '2026-07-22 16:36:12'
+  english_name: Introduction to Japanese Society
+  enrollment_application: ''
+  enrollment_requirements: ''
+  method: '1'
+  module: 春ABC
+  name: 日本社会入門
+  period: 応談
+  remarks: 英語で授業。
+  requirement_subject_name: 日本社会入門
+  room: ''
+  short_term_students_application: ''
+  short_term_students_requirements: ''
+  standard_course_year: '1'
+  subject_code: VB411G1
+  teaching_staff: ''
+- class_id: VB420M1
+  class_outline: ''
+  credits: '3.0'
+  data_update_date: '2026-07-22 16:26:46'
+  english_name: Introduction to Policy Analysis
+  enrollment_application: ''
+  enrollment_requirements: ''
+  method: '1'
+  module: 春ABC
+  name: 政策分析入門
+  period: 応談
+  remarks: 英語で授業。
+  requirement_subject_name: 政策分析入門
+  room: ''
+  short_term_students_application: ''
+  short_term_students_requirements: ''
+  standard_course_year: '1'
+  subject_code: VB420M1
+  teaching_staff: ''
 - class_id: W140008
   class_outline: 体育専門学群での学習の総決算として、配属された研究室の指導体制の下で一つの研究をまとめる。
   credits: '6.0'
@@ -289973,11 +290153,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: W181262
-  teaching_staff: 池田 英治,仲澤 翔大
+  teaching_staff: 仲澤 翔大
 - class_id: W181272
   class_outline: バスケットボールの技術,戦術,体力,およびそれらのトレーニング法と指導法について,文献精読と討論を通じて専門的知識を学修する。また,アカデミック・ライティングやプレゼンテーションの手法についても学修する。
   credits: '2.0'
-  data_update_date: '2026-01-20 15:55:36'
+  data_update_date: '2026-07-24 14:38:18'
   english_name: Seminar of Basketball Coaching II
   enrollment_application: ''
   enrollment_requirements: ''
@@ -289992,11 +290172,11 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: W181272
-  teaching_staff: 池田 英治
+  teaching_staff: 仲澤 翔大
 - class_id: W181282
   class_outline: バスケットボールコーチングにおける卒業論文の作成に必要な知識と技能を学修する。
   credits: '2.0'
-  data_update_date: '2026-01-20 15:56:08'
+  data_update_date: '2026-07-24 14:39:24'
   english_name: Seminar of Basketball Coaching III
   enrollment_application: ''
   enrollment_requirements: ''
@@ -290011,7 +290191,7 @@
   short_term_students_requirements: ''
   standard_course_year: '4'
   subject_code: W581922
-  teaching_staff: 池田 英治
+  teaching_staff: 仲澤 翔大
 - class_id: W181292
   class_outline: バレーボールの競技特性,技術,戦術等の理解を深める。
   credits: '2.0'
@@ -292511,7 +292691,7 @@
 - class_id: W940835
   class_outline: バスケットボールの競技特性やルールを理解し、基礎的な技術や戦術を習得するとともに、ゲーム展開の方法とそれらの指導法を実習する。
   credits: '1.0'
-  data_update_date: '2026-01-20 16:00:07'
+  data_update_date: '2026-07-24 14:43:07'
   english_name: Basketball
   enrollment_application: ''
   enrollment_requirements: ''
@@ -292528,11 +292708,11 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: W940815
-  teaching_staff: 池田 英治
+  teaching_staff: 仲澤 翔大
 - class_id: W940845
   class_outline: バスケットボールの競技特性やルールを理解し、基礎的な技術や戦術を習得するとともに、ゲーム展開の方法とそれらの指導法を実習する。
   credits: '1.0'
-  data_update_date: '2026-01-20 16:00:33'
+  data_update_date: '2026-07-24 14:45:36'
   english_name: Basketball
   enrollment_application: ''
   enrollment_requirements: ''
@@ -292549,7 +292729,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: W940845
-  teaching_staff: 池田 英治,仲澤 翔大
+  teaching_staff: 吉田 健司
 - class_id: W940915
   class_outline: ハンドボールの競技特性および教育特性を理解するとともに,ゲームを中心とした実習の中で,基礎的な技術・戦術力を習得し,それらの指導法を学修する。
   credits: '1.0'
