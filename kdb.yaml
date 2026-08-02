@@ -28927,7 +28927,7 @@
     \ 当科目は「持続可能な開発目標(SDGs)」のうち、Goal 7, 9 & 13に関連した、国際社会が直面する「環境・エネルギー」について取り扱う。\n\
     \ 太陽電池、燃料電池、人工光合成、ナノエレクトロニクスによる省エネルギー、パワーエレクトロニクスによる電力制御、核融合発電などの個別課題を含めて講義することにより、国際社会で活躍できる能力と人間力を養う。"
   credits: '1.0'
-  data_update_date: '2026-06-30 13:36:05'
+  data_update_date: '2026-07-31 17:10:10'
   english_name: 'Global Issues and Global Society: Environment and Energy'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -28946,7 +28946,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 5
   subject_code: 01ZZ427
-  teaching_staff: 坂本 瑞樹,西堀 英治,高瀬 浩一,松尾 豊,岩室 憲幸,蓮沼 隆,磯部 高範,齋 均,増崎 貴
+  teaching_staff: 坂本 瑞樹,西堀 英治,松尾 豊,岩室 憲幸,蓮沼 隆,磯部 高範,齋 均,増崎 貴
 - class_id: 0A00318
   class_outline: 外交の大きな柱である政治外交、経済外交(含む経済協力)、文化外交がそれぞれどのようなものなのか、それらがどのように政策決定され、外交の場ではどのように実践されているかを実際の事案に基づき講義する。また、これらの外交政策が策定される過程において、日本国内政策との調整がどのようになされていくのか等についても考察する。
   credits: '1.0'
@@ -36816,6 +36816,29 @@
   standard_course_year: 1・2
   subject_code: 0ABAE76
   teaching_staff: ''
+- class_id: 0ABAE77
+  class_outline: 近代日本において、文学とメディアは密接に結びついていた。雑誌や新聞は、創作者にとって主要な発表媒体であったと同時に、読者にとって文学を受容する重要な場として機能していた。また、特筆すべきは、文学作品の発表媒体が文芸雑誌に限定されず、総合雑誌、教育雑誌、青年雑誌、婦人雑誌、農業雑誌など、多様な雑誌へと及んでいた点である。これまで、文学研究と雑誌研究はそれぞれ独立した研究領域として発展してきた。しかし、文学が雑誌の重要な構成要素であったという事実を踏まえると、メディアと文学のありようや意義を理解するためには、文学研究とメディア研究を横断する学際的な研究方法が求められる。本科目では、雑誌研究およびジャーナリズム研究の枠組みを用いて、戦前における日本近代文学の社会的意義を再検討することを目的とする。
+  credits: '1.0'
+  data_update_date: '2026-07-31 18:12:09'
+  english_name: Literature and Media I
+  enrollment_application: △
+  enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
+  method: '2'
+  module: 秋AB
+  name: 文学とメディア I
+  period: 水6
+  remarks: '使用言語は日本語・英語
+
+    西暦偶数年度開講。
+
+    対面'
+  requirement_subject_name: 文学とメディア I
+  room: ''
+  short_term_students_application: △
+  short_term_students_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
+  standard_course_year: 1・2
+  subject_code: 0ABAE77
+  teaching_staff: ヴァン ロメル ピーテル
 - class_id: 0ABAE91
   class_outline: 文学サブプログラムにおいて修士論文を作成する2年次生が、自己の所属するサブプログラム・専門領域のみならず、他の専門領域の教員も加わって随時に研究に関する議論を行いながら、資料の収集およびその具体的な考察の方法を検討しつつ、修士論文の構想を深めていく。
   credits: '2.0'
@@ -43557,7 +43580,7 @@
 - class_id: 0ABC716
   class_outline: この演習では、おもに社会学における従来の社会調査の歴史と意義を踏まえた上で、社会調査に関連するいくつかの問題領域と、各種の統計的調査の方法(データの収集と整理)や統計的分析法(データの分析)、さらには各種の質的調査の方法などそれらに関連する理論的・方法的な枠組みを概説するなかで、将来的な社会調査の実施に向けた、社会調査の設計を行うことを目標とする。Aでは各自の問題関心・問題意識に基づき、各種の統計的調査の方法や統計的分析法を踏まえた社会調査の設計を行う。
   credits: '1.0'
-  data_update_date: '2026-05-13 09:38:10'
+  data_update_date: '2026-07-29 11:49:57'
   english_name: Seminar on Social Research A
   enrollment_application: ''
   enrollment_requirements: ''
@@ -43565,7 +43588,7 @@
   module: 秋C
   name: 社会調査方法論演習A
   period: 集中
-  remarks: '非常勤講師
+  remarks: '非常勤講師 2~6限実施
 
     西暦偶数年度開講。
 
@@ -43578,7 +43601,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 0ABC716
-  teaching_staff: ''
+  teaching_staff: 樽川 典子
 - class_id: 0ABC717
   class_outline: この演習では、おもに社会学における従来の社会調査の歴史と意義を踏まえた上で、社会調査に関連するいくつかの問題領域と、各種の統計的調査の方法(データの収集と整理)や統計的分析法(データの分析)、さらには各種の質的調査の方法などそれらに関連する理論的・方法的な枠組みを概説するなかで、将来的な社会調査の実施に向けた、社会調査の設計を行うことを目標とする。Bでは各自の問題関心・問題意識に基づき、各種の質的調査の方法を踏まえた社会調査の設計を行う。
   credits: '1.0'
@@ -47680,17 +47703,17 @@
 - class_id: 0ABE594
   class_outline: 「国語」「公用語」「標準語」とは? 琉球語は「言語」か「方言」か?「言語権」「情報保障」とは?... などのようなテーマを取り上げながら、本授業では、主に日本国内の多言語事情(少数民族の言語、移民言語、その他のマイノリティ言語など)、また「共通語としての日本語」の多様性について紹介し、「ことば」をめぐる政策の歴史、現状と課題を考える。
   credits: '1.0'
-  data_update_date: '2025-12-22 10:22:26'
+  data_update_date: '2026-07-28 14:59:22'
   english_name: Language Policy and Japanese 1
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 秋ABC
+  module: 秋C
   name: 言語政策と日本語論1
   period: 集中
   remarks: '西暦偶数年度開講。
 
-    詳細後日周知
+    1/20-22
 
     対面'
   requirement_subject_name: 言語政策と日本語論1
@@ -62693,6 +62716,8 @@
   period: 集中
   remarks: '西暦偶数年度開講。
 
+    11/9,11/10
+
     詳細後日周知'
   requirement_subject_name: 化学特別講義I
   room: ''
@@ -77225,15 +77250,17 @@
 - class_id: 0ANA027
   class_outline: 生物におけるゲノムデータ、トランスクリプトームデータの大規模解析の基礎に関する演習を行う。また、Unixシステムを用いた配列解析演習を行い、配列解析技術を身につける。さらに、インフォマティクス技術を駆使した先駆的な研究例を紹介し、その意義や発展性などを議論する。最終的に、受講者の研究領域における活用に関して発展的な議論や活用ができることを目指す。
   credits: '1.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-07-28 11:18:16'
   english_name: Practical Course on Bioinformatics
   enrollment_application: ''
   enrollment_requirements: ''
   method: '4'
-  module: 秋C
+  module: 秋B
   name: バイオインフォマティクス演習
   period: 集中
-  remarks: 対面
+  remarks: '12/10,11
+
+    対面'
   requirement_subject_name: バイオインフォマティクス演習
   room: ''
   short_term_students_application: ×
@@ -93647,6 +93674,46 @@
   standard_course_year: 1・2
   subject_code: 01EE410
   teaching_staff: ''
+- class_id: 0ATB123
+  class_outline: 臨床心理支援において必須となる心理アセスメントのうち、主にロールシャッハ・テストについてその理論背景と理論について学び、施行法、スコアリング、結果の整理の仕方、解釈法(質的解釈・継列分析)について学ぶ。また、ロールシャッハ・テストから得られる情報と各種アセスメントやその他の臨床情報の複合解釈の方法と実際について、特に、質的分析、継列分析、プロトコル分析を中心に学ぶ。進める。
+  credits: '2.0'
+  data_update_date: '2026-07-28 08:08:34'
+  english_name: Lecture on Assessment Psychology I
+  enrollment_application: ×
+  enrollment_requirements: ''
+  method: '1'
+  module: 秋学期
+  name: アセスメント心理学特講I
+  period: 集中
+  remarks: '西暦偶数年度開講。
+
+    オンライン(オンデマンド型と同時双方向型のハイブリッド)で実施'
+  requirement_subject_name: アセスメント心理学特講
+  room: ''
+  short_term_students_application: ×
+  short_term_students_requirements: ''
+  standard_course_year: 1・2
+  subject_code: 01EE415
+  teaching_staff: 菅原 大地
+- class_id: 0ATB124
+  class_outline: 臨床心理支援において必須となる心理アセスメントのうち、主にロールシャッハ・テストについてその理論背景と理論について学び、施行法、スコアリング、結果の整理の仕方、解釈法(主に数量的解釈)について講義や実習、事例解釈を通して学ぶ。また、ロールシャッハ・テストから得られる情報と各種アセスメントやその他の臨床情報の複合解釈の方法と実際について、特に、数量的解釈を中心に学ぶ。
+  credits: '2.0'
+  data_update_date: '2026-07-28 08:08:16'
+  english_name: Lecture on Assessment Psychology II
+  enrollment_application: ×
+  enrollment_requirements: ''
+  method: '1'
+  module: 秋学期
+  name: アセスメント心理学特講II
+  period: 集中
+  remarks: オンライン(オンデマンド型と同時双方向型のハイブリッド)で実施
+  requirement_subject_name: アセスメント心理学特講 II
+  room: ''
+  short_term_students_application: ×
+  short_term_students_requirements: ''
+  standard_course_year: 1・2
+  subject_code: 01EE425
+  teaching_staff: 菅原 大地
 - class_id: 0ATB125
   class_outline: 精神医学の枠組みについて理解を深めるとともに、精神医学の理論、アセスメント、治療について学ぶ。精神医学総論、アルコール・薬物依存、児童・思春期の精神疾患、気分障害、統合失調症、認知症、心因性精神障害、摂食障害、パーソナリティ症状精神病、医療連携、治療等について現役の精神科医が講義を行う。
   credits: '1.0'
@@ -97291,7 +97358,7 @@
 
     相談の実例を通じた学習を通じて、カウンセリング各理論の理解を深めるとともに、相談記録のまとめ方や発表方法に関する基礎的理解を深める。'
   credits: '1.0'
-  data_update_date: '2026-03-26 17:56:48'
+  data_update_date: '2026-07-30 16:52:37'
   english_name: Lifespan Development Counseling Basic Interview/ Practicum
   enrollment_application: ×
   enrollment_requirements: ''
@@ -97310,7 +97377,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 0ATD501
-  teaching_staff: 安藤 智子,原田 隆之,飯田 順子,大塚 泰正,市倉 加奈子
+  teaching_staff: 安藤 智子,原田 隆之,飯田 順子,大塚 泰正,市倉 加奈子,笠井 仁
 - class_id: 0ATD502
   class_outline: '【授業概要】
 
@@ -97322,7 +97389,7 @@
 
     相談の実例を通じた学習を通じて、諸講義で学んだカウンセリング各理論が実際の相談場面でどのように応用されているのかについての理解を深める。'
   credits: '1.0'
-  data_update_date: '2026-03-26 17:57:11'
+  data_update_date: '2026-07-30 16:51:40'
   english_name: Lifespan Development Counseling Interview/ Advanced Practicum
   enrollment_application: ×
   enrollment_requirements: ''
@@ -97341,7 +97408,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 0ATD502
-  teaching_staff: 安藤 智子,原田 隆之,飯田 順子,大塚 泰正,市倉 加奈子
+  teaching_staff: 安藤 智子,原田 隆之,飯田 順子,大塚 泰正,市倉 加奈子,大川 一郎
 - class_id: 0ATD503
   class_outline: '【授業概要】
 
@@ -97713,7 +97780,7 @@
 
     そこで,本授業では事例検討を通して,特別なニーズのある児童生徒について包括的なアセスメントを行い,個別の教育支援計画や個別の指導計画の策定を行う。特に,適応行動,ソフトスキル,学級適応等の複数の領域のアセスメントを通して,支援者間で共通認識を形成し,その情報を活かしながら,様々な校内外の資源をどのように繋いでいくのかについての実践的な知識を習得することを目的とする。'
   credits: '1.0'
-  data_update_date: '2026-04-16 20:01:26'
+  data_update_date: '2026-07-30 15:39:59'
   english_name: Special Needs Education Coordinator
   enrollment_application: ×
   enrollment_requirements: ''
@@ -97734,7 +97801,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 0ATE303
-  teaching_staff: 藤本 啓寛
+  teaching_staff: ?橋 幾,藤本 啓寛
 - class_id: 0ATE304
   class_outline: 障害および障害者の社会福祉学における概念を理解し、障害者福祉の理念、思想、歴史を理解する。さらに、障害者の生活実態とその生活を取り巻く環境を理解する。障害者総合支援法と関連する諸制度の理解を深め、障害者福祉に関して総合的に学習する。
   credits: '1.0'
@@ -105764,17 +105831,17 @@
 - class_id: 0ATQ004
   class_outline: スポーツ界におけるドーピングの歴史と規程や国際基準からなる世界アンチ・ドーピング機構によるアンチ・ドーピングプログラムの概要、日本で展開されているアンチ・ドーピングの全体像を紹介する。また、各国が行っているアンチ・ドーピングプログラムや近年生じているドーピング問題を題材として、スポーツのインテグリティやフェアネスに対する考え方を理解したうえで、国際比較などからアンチ・ドーピングプログラムが抱える課題やあるべき未来像を考察する。
   credits: '1.0'
-  data_update_date: '2026-03-12 15:11:28'
+  data_update_date: '2026-07-29 15:41:09'
   english_name: Anti-Doping
   enrollment_application: △
   enrollment_requirements: ''
   method: '1'
-  module: 秋B
+  module: 秋C
   name: Anti-Doping (アンチ・ドーピング)
   period: 集中
   remarks: '英語で授業。
 
-    12/16
+    2/8,9,10
 
     対面(オンライン併用型)
 
@@ -163559,14 +163626,14 @@
 - class_id: '2314283'
   class_outline: アーチェリー、弓道の文化的、精神的側面を理解すると共に、自己ならびに他者への理解を深めます。
   credits: '1.0'
-  data_update_date: '2026-01-05 13:52:05'
+  data_update_date: '2026-07-30 09:59:26'
   english_name: Advanced Physical Education Shooting Sports
   enrollment_application: △
   enrollment_requirements: 備考に記載
   method: '3'
   module: '春AB
 
-    春C'
+    夏季休業中'
   name: 発展体育シューティングスポーツ(春)
   period: '月4
 
@@ -176053,15 +176120,18 @@
 - class_id: '3454112'
   class_outline: 「基礎中国語AI/AII」「基礎中国語BI」で修得した言語知識を踏まえて、より実践的なコミュニケーション能力の向上に配慮しながら、中国語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
-  data_update_date: '2026-04-02 11:23:00'
+  data_update_date: '2026-07-30 11:20:30'
   english_name: Language and Culture B (Chinese)
   enrollment_application: △
   enrollment_requirements: ''
   method: '2'
-  module: 秋AB
+  module: ''
   name: 中国語圏の言語と文化B
-  period: 火5
+  period: ''
   remarks: '選択・自由科目。主として人文・比較文化・日日・情報科・医学類対象。(学籍番号末尾1,2,3)「基礎中国語」A及びBの履修者に限る。日本語と中国語で授業を行う。
+    開講中止(2026.7.30決定)
+
+    2026年度開講せず。
 
     G科目
 
@@ -176072,7 +176142,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: '3454112'
-  teaching_staff: 呉 ?
+  teaching_staff: ''
 - class_id: '3454122'
   class_outline: 「基礎中国語AI/AII」「基礎中国語BI」で修得した言語知識を踏まえて、より実践的なコミュニケーション能力の向上に配慮しながら、中国語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
@@ -176101,7 +176171,7 @@
 - class_id: '3454132'
   class_outline: 「基礎中国語AI/AII」「基礎中国語BI」で修得した言語知識を踏まえて、より実践的なコミュニケーション能力の向上に配慮しながら、中国語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
-  data_update_date: '2025-08-19 14:33:30'
+  data_update_date: '2026-07-30 12:11:23'
   english_name: Language and Culture B (Chinese)
   enrollment_application: △
   enrollment_requirements: ''
@@ -176109,7 +176179,7 @@
   module: 秋AB
   name: 中国語圏の言語と文化B
   period: 火5
-  remarks: '選択・自由科目。主として人文・比較文化・日日・情報科・医学類対象。(学籍番号末尾7,8,9,0)「基礎中国語」A及びBの履修者に限る。日本語と中国語で授業を行う。
+  remarks: '選択・自由科目。主として人文・比較文化・日日・情報科・医学類対象。(学籍番号末尾1,2,3,7,8,9,0)「基礎中国語」A及びBの履修者に限る。日本語と中国語で授業を行う。
 
     G科目
 
@@ -176220,14 +176290,14 @@
 - class_id: '3465022'
   class_outline: 生活文化をテーマとして扱ったテキストを用いて、論説文や小説等を正確に読む力を養い、より高度な中国語読解力を習得する。
   credits: '1.0'
-  data_update_date: '2026-02-24 19:30:57'
+  data_update_date: '2026-07-31 10:31:19'
   english_name: Advanced Chinese Reading (2)B
   enrollment_application: △
   enrollment_requirements: ''
   method: '2'
   module: 秋AB
   name: 応用中国語講読(2)B
-  period: 火3
+  period: 水4
   remarks: '全学群対象。原則、「基礎中国語」A及びBの履修者に限る。主に日本語で授業を行う。
 
     G科目
@@ -176239,7 +176309,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2 - 4
   subject_code: '3465022'
-  teaching_staff: 佐々木 勲人
+  teaching_staff: 廉 舒
 - class_id: '3466012'
   class_outline: 文化や文学に関するテーマについて、自らの考えを文章を用いて中国語で書く力を養い、より高度な中国語表現力を習得する。
   credits: '1.0'
@@ -176266,7 +176336,7 @@
 - class_id: '3467012'
   class_outline: 社会生活に関する話題をテーマとして、会話練習を通して、より高度な中国語コミュニケーション力を習得する。
   credits: '1.0'
-  data_update_date: '2026-02-17 10:44:07'
+  data_update_date: '2026-07-30 09:40:46'
   english_name: Advanced Chinese Conversation (1)B
   enrollment_application: △
   enrollment_requirements: ''
@@ -176285,7 +176355,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2 - 4
   subject_code: '3467012'
-  teaching_staff: 呉 ?
+  teaching_staff: 廉 舒
 - class_id: '3467032'
   class_outline: 社会生活に関する話題をテーマとして、会話練習を通して、より高度な中国語コミュニケーション力を習得する。
   credits: '1.0'
@@ -176853,7 +176923,7 @@
 - class_id: 34K1012
   class_outline: 初修者を対象にしたこの中国語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-04-13 10:37:19'
+  data_update_date: '2026-07-30 11:44:32'
   english_name: Basic Chinese AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -176861,7 +176931,7 @@
   module: 秋AB
   name: 基礎中国語AII
   period: 月3
-  remarks: '人文・応理・工シス・総学1組対象(学籍番号末尾1,2,3) 主に日本語で授業を行う。
+  remarks: '人文・応理・工シス・総学1組対象(学籍番号末尾1,2,3,4,5,6) 主に日本語で授業を行う。
 
     G科目
 
@@ -176876,15 +176946,17 @@
 - class_id: 34K1022
   class_outline: 初修者を対象にしたこの中国語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-18 20:14:15'
+  data_update_date: '2026-07-30 11:17:51'
   english_name: Basic Chinese AII
   enrollment_application: △
   enrollment_requirements: ''
   method: '2'
-  module: 秋AB
+  module: ''
   name: 基礎中国語AII
-  period: 月3
-  remarks: '人文・応理・工シス・総学1組対象(学籍番号末尾4,5,6) 主に日本語で授業を行う。
+  period: ''
+  remarks: '人文・応理・工シス・総学1組対象(学籍番号末尾4,5,6) 主に日本語で授業を行う。 開講中止(2026.7.30決定)
+
+    2026年度開講せず。
 
     G科目
 
@@ -176895,7 +176967,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 34K1012
-  teaching_staff: 呉 ?
+  teaching_staff: ''
 - class_id: 34K1032
   class_outline: 初修者を対象にしたこの中国語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
@@ -177041,15 +177113,17 @@
 - class_id: 34K5012
   class_outline: 初修者を対象にしたこの中国語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-04-02 11:23:33'
+  data_update_date: '2026-07-30 11:19:01'
   english_name: Basic Chinese AII
   enrollment_application: △
   enrollment_requirements: ''
   method: '2'
-  module: 秋AB
+  module: ''
   name: 基礎中国語AII
-  period: 火4
-  remarks: '教育・心理・障害・知識・体育2・総学5組対象(学籍番号末尾 1,2,3) 主に日本語で授業を行う。
+  period: ''
+  remarks: '教育・心理・障害・知識・体育2・総学5組対象(学籍番号末尾 1,2,3) 主に日本語で授業を行う。 開講中止(2026.7.30決定)
+
+    2026年度開講せず。
 
     G科目
 
@@ -177062,7 +177136,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 34K1012
-  teaching_staff: 呉 ?
+  teaching_staff: ''
 - class_id: 34K5022
   class_outline: 初修者を対象にしたこの中国語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
@@ -177089,7 +177163,7 @@
 - class_id: 34K5032
   class_outline: 初修者を対象にしたこの中国語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 15:47:38'
+  data_update_date: '2026-07-30 11:47:23'
   english_name: Basic Chinese AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -177097,7 +177171,7 @@
   module: 秋AB
   name: 基礎中国語AII
   period: 火4
-  remarks: '教育・心理・障害・知識・体育2・総学5組(学籍番号末尾7,8,9,0)対象 主に日本語で授業を行う。
+  remarks: '教育・心理・障害・知識・体育2・総学5組(学籍番号末尾1,2,3,7,8,9,0)対象 主に日本語で授業を行う。
 
     G科目
 
@@ -177112,15 +177186,17 @@
 - class_id: 34K6012
   class_outline: 初修者を対象にしたこの中国語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 15:48:17'
+  data_update_date: '2026-07-30 11:25:29'
   english_name: Basic Chinese AII
   enrollment_application: △
   enrollment_requirements: ''
   method: '2'
-  module: 秋AB
+  module: ''
   name: 基礎中国語AII
-  period: 金2
-  remarks: '社会・国際・資源・情報・総学6組対象(学籍番号末尾 奇数) 主に日本語で授業を行う。
+  period: ''
+  remarks: '社会・国際・資源・情報・総学6組対象(学籍番号末尾 奇数) 主に日本語で授業を行う。 開講中止(2026.7.30決定)
+
+    2026年度開講せず。
 
     G科目
 
@@ -177131,11 +177207,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 34K1012
-  teaching_staff: 呉 ?
+  teaching_staff: ''
 - class_id: 34K6022
   class_outline: 初修者を対象にしたこの中国語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 15:51:12'
+  data_update_date: '2026-07-30 11:48:53'
   english_name: Basic Chinese AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -177143,7 +177219,7 @@
   module: 秋AB
   name: 基礎中国語AII
   period: 金2
-  remarks: '社会・国際・資源・情報・総学6組対象(学籍番号末尾 偶数) 主に日本語で授業を行う。
+  remarks: '社会・国際・資源・情報・総学6組対象  主に日本語で授業を行う。
 
     G科目
 
@@ -177183,15 +177259,18 @@
 - class_id: 34L2012
   class_outline: この授業では、すでに中国語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2026-04-02 11:02:12'
+  data_update_date: '2026-07-30 11:22:31'
   english_name: Basic Chinese BII
   enrollment_application: △
   enrollment_requirements: ''
   method: '2'
-  module: 秋AB
+  module: ''
   name: 基礎中国語BII
-  period: 水1
+  period: ''
   remarks: '比文・日日・社工・体育1・総学2組対象(学籍番号末尾 奇数) 「基礎中国語BII」は選択・自由科目だが、「基礎中国語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。主に日本語で授業を行ないます。
+    開講中止(2026.7.30決定)
+
+    2026年度開講せず。
 
     G科目
 
@@ -177202,11 +177281,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 34L1012
-  teaching_staff: 呉 ?
+  teaching_staff: ''
 - class_id: 34L2022
   class_outline: この授業では、すでに中国語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2026-01-08 14:23:50'
+  data_update_date: '2026-07-30 11:50:20'
   english_name: Basic Chinese BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -177214,7 +177293,7 @@
   module: 秋AB
   name: 基礎中国語BII
   period: 水1
-  remarks: '比文・日日・社工・体育1・総学2組対象(学籍番号末尾 偶数) 「基礎中国語BII」は選択・自由科目だが、「基礎中国語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。主に日本語で授業を行ないます。
+  remarks: '比文・日日・社工・体育1・総学2組対象 「基礎中国語BII」は選択・自由科目だが、「基礎中国語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。主に日本語で授業を行ないます。
 
     G科目
 
@@ -177281,15 +177360,18 @@
 - class_id: 34L5012
   class_outline: この授業では、すでに中国語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 15:56:17'
+  data_update_date: '2026-07-30 11:24:27'
   english_name: Basic Chinese BII
   enrollment_application: △
   enrollment_requirements: ''
   method: '2'
-  module: 秋AB
+  module: ''
   name: 基礎中国語BII
-  period: 金1
+  period: ''
   remarks: '教育・心理・障害・知識・体育2・総学5組対象(学籍番号末尾 奇数) 「基礎中国語BII」は選択・自由科目だが、「基礎中国語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。主に日本語で授業を行ないます。
+    開講中止(2026.7.30決定)
+
+    2026年度開講せず。
 
     G科目
 
@@ -177302,11 +177384,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 34L1012
-  teaching_staff: 呉 ?
+  teaching_staff: ''
 - class_id: 34L5022
   class_outline: この授業では、すでに中国語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-17 10:40:04'
+  data_update_date: '2026-07-30 11:51:10'
   english_name: Basic Chinese BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -177314,7 +177396,7 @@
   module: 秋AB
   name: 基礎中国語BII
   period: 金1
-  remarks: '教育・心理・障害・知識・体育2・総学5組対象(学籍番号末尾 偶数) 「基礎中国語BII」は選択・自由科目だが、「基礎中国語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。主に日本語で授業を行ないます。
+  remarks: '教育・心理・障害・知識・体育2・総学5組対象 「基礎中国語BII」は選択・自由科目だが、「基礎中国語BI」との継続性を持っているので、そのまま続けて履修することを推奨する。主に日本語で授業を行ないます。
 
     G科目
 
@@ -177331,7 +177413,7 @@
 - class_id: 34L6022
   class_outline: この授業では、すでに中国語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2026-04-02 11:23:33'
+  data_update_date: '2026-07-29 14:52:11'
   english_name: Basic Chinese BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -177352,7 +177434,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 34L1012
-  teaching_staff: 呉 ?
+  teaching_staff: 佐々木 勲人
 - class_id: '3551112'
   class_outline: 「基礎ロシア語AI/AII」「基礎ロシア語BI」で修得した言語知識を踏まえて、4技能(読む・聞く・話す・書く)の総合的な伸長に配慮しながら、ロシア語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
@@ -187955,8 +188037,8 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '8331173'
-  teaching_staff: 福嶋 美佐子,金 ?辰,森尾 貴広,廣田 充,LIU Soraya,阿部 淳一 ピーター,秋山 肇,ゲオンゾン レスター カンケ,平井
-    悠介,松原 康介,MENA Aaron
+  teaching_staff: 福嶋 美佐子,金 ?辰,森尾 貴広,廣田 充,LIU Soraya,阿部 淳一 ピーター,ゲオンゾン レスター カンケ,平井 悠介,松原
+    康介,MENA Aaron
 - class_id: '8331183'
   class_outline: 海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
@@ -191683,7 +191765,7 @@
 - class_id: '9605321'
   class_outline: 授業を構成する要素や、主要な教授法と形態等について研究しながら、教育方法の基礎理論について講義する。具体的には、現場学校の実践例を取り上げながら、授業の設計や実施の方法について考える。また、授業分析、学力に関する理論および教育評価の方法についても学習する。さらにICT教育について、教具・教材ソフト・メディアリテラシー・情報モラル教育等のあり方についても考察する。
   credits: '1.0'
-  data_update_date: '2025-10-08 04:44:57'
+  data_update_date: '2026-07-27 11:26:10'
   english_name: Teaching Methods and Techniques
   enrollment_application: △
   enrollment_requirements: ''
@@ -191998,7 +192080,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: '9701001'
-  teaching_staff: 田中 光晴,小原 淳一
+  teaching_staff: 小原 淳一
 - class_id: '9706021'
   class_outline: '学校は子どもたちが学ぶ場所であると同時に、生活する場所でもあります。教科において、言語・数量・情報などの基礎的スキルや、それらを活用する思考力・判断力・表現力などを育成するのに対して、教科外活動である特別活動では、集団生活における自治的活動を通して実践力、すなわち人間関係を形成する力や社会に参画する力を身に付け、生徒1人1人の自己実現を目指します。特に、21世紀を生き抜くための資質・能力の重要性が指摘される中で、非認知(社会情動)的能力の発達に寄与できる特別活動への期待が高まっています。
 
@@ -205536,7 +205618,7 @@
 - class_id: AC56041
   class_outline: 文化理論、社会理論、比較文学の手法、ポストコロニアル批評、音楽の社会的役割、エコクリティークの手法などに注目しながら、文化や表現、現代的課題についてオムニバス形式で様々な視点から考える。
   credits: '1.0'
-  data_update_date: '2026-01-15 16:52:11'
+  data_update_date: '2026-07-30 10:56:36'
   english_name: 'Studies in Comparative Culture: Cultural Expression'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -209873,7 +209955,7 @@
 - class_id: AC63E21
   class_outline: 〈エコロジーと文化〉自然と文化、芸術表現の切り結ぶ点について、エコロジー、哲学、文学、エッセー、芸術作品を元に考察する。
   credits: '1.0'
-  data_update_date: '2025-12-08 14:46:28'
+  data_update_date: '2026-07-30 10:43:50'
   english_name: Studies in Culture and Creativity III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -209896,7 +209978,7 @@
 - class_id: AC63E31
   class_outline: 〈社会理論研究〉社会理論に関する近現代思想の重要テキストを読む。今年度は、ミシェル・フーコー『性の歴史』2、3巻を読解し、フーコーのセクシュアリティ理論の意義について議論する。文化創造論研究Vと連続で授業を行うので、必ず両方の授業を履修すること。
   credits: '1.0'
-  data_update_date: '2025-12-17 14:23:41'
+  data_update_date: '2026-07-30 10:24:24'
   english_name: Studies in Culture and Creativity IV
   enrollment_application: ''
   enrollment_requirements: ''
@@ -209919,7 +210001,7 @@
 - class_id: AC63E41
   class_outline: 〈社会理論研究〉
   credits: '1.0'
-  data_update_date: '2025-09-12 17:02:33'
+  data_update_date: '2026-07-30 10:22:09'
   english_name: Studies in Culture and Creativity V
   enrollment_application: ''
   enrollment_requirements: ''
@@ -210011,7 +210093,7 @@
 - class_id: AC63F42
   class_outline: 〈社会理論研究〉社会理論に関する近現代の重要テキストを読む。今年度は、ミシェル・フーコーのセクシュアリティ理論を読解し、セクシュアリティ理論の基礎を習得する。文化創造論演習VIと連続で授業を行うので、必ず両方の授業を履修すること。
   credits: '1.0'
-  data_update_date: '2025-10-03 15:50:35'
+  data_update_date: '2026-07-30 10:35:16'
   english_name: Seminar in Culture and Creativity V
   enrollment_application: ''
   enrollment_requirements: ''
@@ -210034,7 +210116,7 @@
 - class_id: AC63F52
   class_outline: 〈社会理論研究〉社会理論に関する近現代の重要テキストを読む。今年度は、ミシェル・フーコーのセクシュアリティ理論を読解し、セクシュアリティ理論の基礎を習得する。文化創造論演習Vと連続で授業を行うので、必ず両方の授業を履修すること。
   credits: '1.0'
-  data_update_date: '2025-10-03 15:51:35'
+  data_update_date: '2026-07-30 10:37:34'
   english_name: Seminar in Culture and Creativity VI
   enrollment_application: ''
   enrollment_requirements: ''
@@ -210155,7 +210237,7 @@
 - class_id: AC63H01
   class_outline: 社会や文化、芸術における音楽の役割について考える。
   credits: '1.0'
-  data_update_date: '2024-01-19 19:14:19'
+  data_update_date: '2026-07-30 10:11:18'
   english_name: Studies in Music and Culture I
   enrollment_application: ''
   enrollment_requirements: ''
@@ -231337,7 +231419,7 @@
 - class_id: CC21521
   class_outline: 現代的な事象やテーマを心理学的な切り口から考え、最新の研究に基づいて探求します。
   credits: '1.0'
-  data_update_date: '2026-03-04 22:08:15'
+  data_update_date: '2026-07-27 11:23:20'
   english_name: Special Lecture in Psychology 2
   enrollment_application: ×
   enrollment_requirements: ''
@@ -243203,14 +243285,14 @@
 - class_id: EC34233
   class_outline: 木育に関する実習を行う。つくば市内で開催されている木育イベントを視察・体験し、木育に関する専門知識を学ぶとともに、子育て期間における木育の在り方および森林・木材産業のかかわり方についての問題意識を持つ。
   credits: '1.0'
-  data_update_date: '2026-01-27 18:33:20'
+  data_update_date: '2026-07-29 08:31:56'
   english_name: Woods Educate Practice
   enrollment_application: ×
   enrollment_requirements: ''
   method: '3'
   module: 通年
   name: 木育学実習
-  period: 集中
+  period: 応談
   remarks: '遠隔授業
 
     詳細後日周知
@@ -253369,7 +253451,7 @@
 - class_id: FB14181
   class_outline: 講師を招いて,普段の授業では学べないような内容の講義や,最先端の数学への入門的な講義をしてもらう.
   credits: '1.0'
-  data_update_date: '2024-10-25 08:45:09'
+  data_update_date: '2026-07-27 14:44:00'
   english_name: Lectures in Selected Topics of Mathematics II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -253388,7 +253470,7 @@
   short_term_students_requirements: ''
   standard_course_year: '4'
   subject_code: FB14181
-  teaching_staff: 金子 元
+  teaching_staff: 三原 朋樹
 - class_id: FB14191
   class_outline: 講師を招いて,普段の授業では学べないような内容の講義や,最先端の数学への入門的な講義をしてもらう.
   credits: '1.0'
@@ -253440,7 +253522,7 @@
 - class_id: FB14221
   class_outline: 環上の加群の理論、有限群の表現論、リー群とリー環について入門的な解説を行う。
   credits: '1.5'
-  data_update_date: '2026-05-20 13:57:26'
+  data_update_date: '2026-07-31 08:24:53'
   english_name: Algebra III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -286177,7 +286259,7 @@
 
     や日本人学校、日系企業等を予定している。'
   credits: '2.0'
-  data_update_date: '2025-04-16 17:20:47'
+  data_update_date: '2026-07-29 07:27:28'
   english_name: Understanding of Japanese Culture and Society II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -286198,7 +286280,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: UBB2024
-  teaching_staff: 川? レスリー タック,稗田 奈津江
+  teaching_staff: 川? レスリー タック,稗田 奈津江,上田 孝典
 - class_id: UBB3014
   class_outline: 「日本語と学問」までで身につけた日本語能力を、「人文社会科学通論」で身につける知識とすり合わせ、学術的な日本語運用能力を実践的に身につける。最初の7週間は教員が日本の中で周縁化されている人々について視聴覚教材を交えて解説する。次の3週は受講者がそれぞれ、自分が選んだ日本のマイノリティーというテーマで調査をし中間発表をする。最後の5週は日本の学生とオンラインで繋ぎ、中間発表で準備した内容を日本の学生に向けて発表し、その後議論を行う。
   credits: '3.0'
