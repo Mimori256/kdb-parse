@@ -14550,17 +14550,19 @@
 - class_id: 02BQ208
   class_outline: ナノテクノロジーのテーマについて、基礎的事項から最先端の研究内容まで幅広く解説する。本講義は海外の大学より招致した教員により行われる。
   credits: '1.0'
-  data_update_date: '2025-07-08 10:17:15'
+  data_update_date: '2026-08-19 16:28:09'
   english_name: Advanced Nanotechnology III
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 春C
+  module: 夏季休業中
   name: ナノテクノロジー特別講義III
   period: 集中
   remarks: '0AJJA35と同一。
 
     英語で授業。
+
+    9/14-9/25、9/28
 
     対面'
   requirement_subject_name: 物質創成科学特別講義H
@@ -28083,7 +28085,7 @@
 - class_id: 0A00101
   class_outline: 研究倫理や医療倫理など状況に特化した倫理原理は、必ずしも相互に補完する関係にないため、現代社会の中で最善の質を求めるための明確な指針とはなっていない。こうした絡まった倫理原理を解きほぐすことを試みる。
   credits: '1.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-08-21 15:22:52'
   english_name: Applied Ethics
   enrollment_application: ''
   enrollment_requirements: ''
@@ -28092,6 +28094,8 @@
   name: 応用倫理
   period: 集中
   remarks: '英語で授業。
+
+    11/24,25
 
     対面'
   requirement_subject_name: 応用倫理
@@ -28104,7 +28108,7 @@
 - class_id: 0A00102
   class_outline: 環境倫理は、社会における対人関係だけでなく、人と自然環境の関係について考える助けとなる。こうした広い視野を持つことで、我々は生態系の一部として日々の活動が倫理的かどうかを考えることができる。この授業では、学生に対し世界市民として、環境問題を解決するため、ユニバーサルな倫理大綱や法律を構築する必要性について考えてもらう。
   credits: '1.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-08-21 15:23:54'
   english_name: Introduction to Environmental Ethics
   enrollment_application: ''
   enrollment_requirements: ''
@@ -28113,6 +28117,8 @@
   name: 環境倫理学概論
   period: 集中
   remarks: '英語で授業。
+
+    12/16,17
 
     対面'
   requirement_subject_name: 環境倫理学概論
@@ -29423,7 +29429,7 @@
 - class_id: 0A00411
   class_outline: 起業家の育成を支援してきた金融業界の実業家教員による投資判断や株式公開までのプロセス、財務分析、各種リサーチなどの概要と、技術の目利きに必要な基礎、応用科学の知識の獲得を通じて、アントレプレナー教育を受けた研究者とともに研究成果の社会価値を判断し、その育成を支える「目利き人材」を目指すのに必要な基礎知識とキャリアプランについて学ぶ。
   credits: '1.0'
-  data_update_date: '2026-01-07 09:36:09'
+  data_update_date: '2026-08-19 16:37:21'
   english_name: Introduction to a value assessor who supports startups
   enrollment_application: ×
   enrollment_requirements: ''
@@ -29442,7 +29448,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 5
   subject_code: 0A00411
-  teaching_staff: 猿渡 康文
+  teaching_staff: 猿渡 康文,尾? 典明,山元 真人,野村 豪
 - class_id: 0A00412
   class_outline: 新興企業の持続的成長において、法務・財務の知見は欠かせない。契約交渉、資金調達、知財保護、労務管理など、経営者が法務の基礎を深めることで、困難な局面においても専門家のアドバイスを的確に活かし、最善の意思決定を下すことが可能となる。本講義では、弁護士・公認会計士・税理士等の各専門家が、潜在的リスクを回避するための要点を、企業の成長段階(シード~レイター等)に応じて多角的に解説する。
   credits: '1.0'
@@ -58303,7 +58309,7 @@
 - class_id: 0AJCB42
   class_outline: 素粒子分野に関するトピックスについて、外部講師を招いて実験的側面から講義する。
   credits: '1.0'
-  data_update_date: '2025-12-16 17:46:30'
+  data_update_date: '2026-08-18 09:06:33'
   english_name: Special Lectures on Experimental Particle Physics I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -58311,14 +58317,16 @@
   module: 秋AB
   name: 素粒子実験特講I
   period: 集中
-  remarks: 詳細後日周知
+  remarks: '11/25-11/27
+
+    詳細後日周知'
   requirement_subject_name: 素粒子論特講II
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01BC361
-  teaching_staff: 武内 勇司
+  teaching_staff: 増渕 達也
 - class_id: 0AJCB43
   class_outline: 素粒子分野に関するトピックスについて、外部講師を招いて実験的側面から講義する。
   credits: '1.0'
@@ -66605,17 +66613,19 @@
 - class_id: 0AJJA35
   class_outline: ナノテクノロジーのテーマについて、基礎的事項から最先端の研究内容まで幅広く解説する。本講義は海外の大学より招致した教員により行われる。
   credits: '1.0'
-  data_update_date: '2025-07-08 10:17:15'
+  data_update_date: '2026-08-19 16:28:09'
   english_name: Advanced Nanotechnology III
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 春C
+  module: 夏季休業中
   name: ナノテクノロジー特別講義III
   period: 集中
   remarks: '02BQ208と同一。
 
     英語で授業。
+
+    9/14-9/25、9/28
 
     対面'
   requirement_subject_name: 物質創成科学特別講義H
@@ -93756,6 +93766,8 @@
 
     西暦偶数年度開講。
 
+    1/9,1/16,1/23
+
     オンライン(オンデマンド型)'
   requirement_subject_name: 精神医学
   room: ''
@@ -98000,7 +98012,7 @@
 - class_id: 0ATE312
   class_outline: 知的障害の心理や認知特性、教育課程や指導法、そして知的障害者に関わる福祉制度ならびにサービス評価や支援の実際について概説する。
   credits: '2.0'
-  data_update_date: '2026-05-22 14:28:22'
+  data_update_date: '2026-08-18 14:37:36'
   english_name: Disability Science for Individuals with Intellectual Disabilities
   enrollment_application: ×
   enrollment_requirements: ''
@@ -98012,9 +98024,9 @@
   period: '金7,8
 
     集中'
-  remarks: '第11回~第20回は集中講義として実施する
+  remarks: '10/2(金)7・8限、10/16(金)7・8限、11/28(土)2-6限、12/19(土)2-6限、1/23(土)1-6限
 
-    11/28,12/19
+    10/2,10/16,11/28,12/19,1/23
 
     対面
 
@@ -117677,7 +117689,7 @@
 - class_id: 0AVC202
   class_outline: 食と健康に関するトピックの中で、食料安全保障研究に焦点を当てる。食料安全保障研究は近い将来に訪れる世界規模の食料危機に対応すべく盛んになっている分野である。当該研究分野のトピックや最先端の技術を講義する。加えて、各学生の指導担当教員が、グローバルフードセキュリティーに関連するそれぞれの研究分野の研究トピックを紹介し、現在の課題や解決に向けての研究方法を理解させる。レポートとレビューによって評価する。
   credits: '2.0'
-  data_update_date: '2026-01-09 10:39:26'
+  data_update_date: '2026-08-19 16:14:43'
   english_name: Advanced Course on Global Food Security
   enrollment_application: ''
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -117697,7 +117709,7 @@
   standard_course_year: '1'
   subject_code: 01ER236
   teaching_staff: 阿部 淳一 ピーター,石井 敦,松倉 千昭,ロンバルド ファビエン クロード レノー,繁森 英幸,北村 豊,粉川 美踏,上條 隆志,ブザス
-    ディアナ ミハエラ
+    ディアナ ミハエラ,青柳 秀紀
 - class_id: 0AVC203
   class_outline: "授業概要:生体内において、薬、環境物質などの化学物質の吸収、分布、代謝および排泄(ADME)は、その薬理作用や毒性に影響する。特に代謝には種々の酵素(群)が関与しており、解毒だけでなく、有害性の獲得も知られている。本講義では、化学物質の毒性発現について学ぶ。\n\
     \ 授業の達成目標:化学物質の薬効および有害性の量-反応関係を理解する。化学物質の解毒および発がんや組織傷害に係る代謝活性化の分子メカニズムを理解する。異物代謝の中心的役割を担うチトクロムP450(CYP)の誘導能および遺伝的多型を理解する。\n\
@@ -125345,7 +125357,7 @@
 - class_id: 0BJ0001
   class_outline: 現在学位論文作成のため遂行しているものと異なるテーマの研究を立案する。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-08-18 14:46:13'
   english_name: Research Proposal in Pure and Applied Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -125353,7 +125365,7 @@
   module: 通年
   name: 数理リサーチプロポーザル
   period: 随時
-  remarks: 数理フェローシップ採用学生は履修すること
+  remarks: 数理SPRING/BOOST採用学生(社会人を除く)は履修すること
   requirement_subject_name: 数理リサーチプロポーザル
   room: ''
   short_term_students_application: ×
@@ -152739,7 +152751,7 @@
 
     ことを、本講義においてはねらう。'
   credits: '1.0'
-  data_update_date: '2025-09-26 14:21:22'
+  data_update_date: '2026-08-20 11:19:44'
   english_name: First Year Seminar
   enrollment_application: ×
   enrollment_requirements: ''
@@ -152758,7 +152770,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '1101102'
-  teaching_staff: 手塚 太郎
+  teaching_staff: 工藤 重忠
 - class_id: '1131022'
   class_outline: '本学で学修する上での「導入教育」であり、大学における学修を有意義なものとするために、
 
@@ -152770,7 +152782,7 @@
 
     ことを、本講義においてはねらう。'
   credits: '1.0'
-  data_update_date: '2025-09-26 14:23:29'
+  data_update_date: '2026-08-20 11:21:00'
   english_name: First Year Seminar
   enrollment_application: ×
   enrollment_requirements: ''
@@ -152789,7 +152801,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '1101102'
-  teaching_staff: 川? レスリー タック
+  teaching_staff: フェレイロ ポッセ ダマソ
 - class_id: '1190212'
   class_outline: This course is designed to help students become familiar with the
     educational system and campus life at the University of Tsukuba. Important information
@@ -156109,7 +156121,7 @@
 - class_id: '1228731'
   class_outline: 本講義は、本学の学士課程教育への導入を担う。大学における学問の方法論へ誘(いざな)い、自らが主に専攻しようとする学問分野への理解や、関連する諸分野との関係性も理解できる能力を涵養する。導入講義では、大学入学までの学びと大学での学びの類似点や相違点を確認することなどを通じて、学問が、まずは自らの問いを発するところから始まり、その問いに対する答えを求めようとする営みであることを示す。その後、各学群・学類が主にカバーしている学問分野における問題解決アプローチを紹介する。本学で営まれている学問的研究の全貌を見渡すとともに、その中で受講生が主に専攻しようとする学問分野を俯瞰でき、さらに様々な視点からその分野を複眼的にみることができる力を養う。
   credits: '1.0'
-  data_update_date: '2025-09-26 14:27:59'
+  data_update_date: '2026-08-20 11:22:28'
   english_name: Invitation to Arts and Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -156128,11 +156140,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '1227011'
-  teaching_staff: 手塚 太郎
+  teaching_staff: 工藤 重忠
 - class_id: '1228741'
   class_outline: 本講義は、本学の学士課程教育への導入を担う。大学における学問の方法論へ誘(いざな)い、自らが主に専攻しようとする学問分野への理解や、関連する諸分野との関係性も理解できる能力を涵養する。導入講義では、大学入学までの学びと大学での学びの類似点や相違点を確認することなどを通じて、学問が、まずは自らの問いを発するところから始まり、その問いに対する答えを求めようとする営みであることを示す。その後、各学群・学類が主にカバーしている学問分野における問題解決アプローチを紹介する。本学で営まれている学問的研究の全貌を見渡すとともに、その中で受講生が主に専攻しようとする学問分野を俯瞰でき、さらに様々な視点からその分野を複眼的にみることができる力を養う。
   credits: '1.0'
-  data_update_date: '2025-09-26 14:29:33'
+  data_update_date: '2026-08-20 11:23:34'
   english_name: Invitation to Arts and Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -156151,7 +156163,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '1227011'
-  teaching_staff: 川? レスリー タック
+  teaching_staff: フェレイロ ポッセ ダマソ
 - class_id: '1231011'
   class_outline: 政府・企業・NPO/NGO等の豊富な実務経験を有する講師をゲストスピーカとして招き、高等教育への社会的・職業的ニーズ・知識を提供するとともに、学生に社会の様々な問題とそれを解決するために必要な考え方、知識、技術を俯瞰的な視点から考えさせる。特に、地球規模課題と企業等団体との関連や、課題解決のためのデータサイエンスの活用についての情報を詳しく提供する。さらに、社会の各種ステークホルダーと学生とが討論する機会を設けることにより、社会が大学生に求める知識やスキルと、大学生が身につけたいと考える、あるいは大学が学生に身につけさせたいと考えるそれらとを突き合わせ、互いの考え方の一致点や齟齬を可視化し、環境・社会問題を解決するためにどのようなマインドセットが必要かを、考える機会を与える。
   credits: '1.0'
@@ -179432,7 +179444,7 @@
 - class_id: 36K6022
   class_outline: 初修者を対象にしたこのスペイン語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-06-30 10:36:36'
+  data_update_date: '2026-08-20 10:27:23'
   english_name: Basic Spanish AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -179501,7 +179513,7 @@
 - class_id: 36L5012
   class_outline: この授業では、すでにスペイン語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2026-07-15 16:49:21'
+  data_update_date: '2026-08-20 10:26:18'
   english_name: Basic Spanish BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -184554,7 +184566,7 @@
 - class_id: '6128011'
   class_outline: 情報の基本概念と社会におけるコンピュータとインターネットの位置づけを理解した上で、コンピュータの原理と構成、ソフトウェアの原理、インターネットの仕組みなどについて学ぶ。コンピュータの歴史から始まり、Webやメールの仕組みを知ることで、現代社会におけるITの役割や、筑波大学における情報環境と注意を学ぶ。併せて、インターネットを安全かつ有意義に活用するために必要な情報倫理、情報セキュリティ、知的財産権に関する知識を学ぶ。
   credits: '1.0'
-  data_update_date: '2026-06-17 10:18:21'
+  data_update_date: '2026-08-20 13:25:04'
   english_name: Information Literacy (Lectures)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -184571,7 +184583,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '6101101'
-  teaching_staff: 手塚 太郎,学際サイエンス・デザイン専門学群全教員,川? レスリー タック
+  teaching_staff: 工藤 重忠,フェレイロ ポッセ ダマソ,学際サイエンス・デザイン専門学群全教員
 - class_id: '6190101'
   class_outline: In this course, along with understanding the basic concepts of information
     and social positioning of computers and the Internet, students learn about information
@@ -185717,7 +185729,7 @@
 - class_id: '6428012'
   class_outline: コンピュータを利用した基礎的な情報利用技術を身につける。メールの送り方、文書作成ソフトウェアを用いた文書の作成、図や表の作り方など基本的なレポートの作成方法、プレゼンテーション作成ソフトウェアを用いたプレゼンテーション作成を通じた情報表現の手法や、情報の受け手を意識した情報発信の手法を実践的に修得する。インターネットにおける情報倫理や情報セキュリティに配慮した情報収集、意見交換、情報発信などの問題点を学ぶ。
   credits: '1.0'
-  data_update_date: '2026-06-17 10:08:55'
+  data_update_date: '2026-08-20 13:26:23'
   english_name: Information Literacy (Exercises)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -185734,7 +185746,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '6401102'
-  teaching_staff: 手塚 太郎,学際サイエンス・デザイン専門学群全教員,川? レスリー タック
+  teaching_staff: 工藤 重忠,フェレイロ ポッセ ダマソ,学際サイエンス・デザイン専門学群全教員
 - class_id: '6490102'
   class_outline: This course teaches fundamental skills for computer use. By using
     computers to create documents and presentations, disseminate information on the
@@ -201384,7 +201396,7 @@
 - class_id: AB92A51
   class_outline: 社会言語学の視点やこれまでの重要な発見を、身近な言語事象を交えながら概観する。III-aでは、言語の多様な姿について理解を深めることを焦点とする。
   credits: '1.0'
-  data_update_date: '2026-05-15 10:18:49'
+  data_update_date: '2026-08-21 12:13:56'
   english_name: Lecture on Applied Linguistics III-a
   enrollment_application: ''
   enrollment_requirements: ''
@@ -201392,7 +201404,7 @@
   module: 秋AB
   name: 応用言語学講義III-a
   period: 水3
-  remarks: 対面
+  remarks: オンライン(同時双方向型)
   requirement_subject_name: 応用言語学講義III-a
   room: ''
   short_term_students_application: ×
@@ -201403,7 +201415,7 @@
 - class_id: AB92A61
   class_outline: 社会言語学の視点やこれまでの重要な発見を、身近な言語事象を交えながら概観する。III-bでは、言語使用に関わる原理についての諸理論と実際の言語使用を分析するアプローチについて学ぶ。
   credits: '1.0'
-  data_update_date: '2026-05-15 10:19:24'
+  data_update_date: '2026-08-21 12:14:50'
   english_name: Lecture on Applied Linguistics III-b
   enrollment_application: ''
   enrollment_requirements: ''
@@ -201413,7 +201425,7 @@
   period: 水4,5
   remarks: '応用言語学講義III-bの履修は、応用言語学講義III-aを履修済みであることを条件とする。
 
-    対面'
+    オンライン(同時双方向型)'
   requirement_subject_name: 応用言語学講義III-b
   room: ''
   short_term_students_application: ×
@@ -204898,7 +204910,7 @@
   class_outline: This course focuses on enhancing students' English reading, writing,
     speaking, and listening.
   credits: '1.0'
-  data_update_date: '2026-02-12 14:25:38'
+  data_update_date: '2026-08-16 17:36:07'
   english_name: English for Specific Purposes I-A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -205041,7 +205053,7 @@
   class_outline: This course focuses on developing students' ability to read, analyse,
     and evaluate academic publications in English.
   credits: '1.0'
-  data_update_date: '2026-02-12 14:26:45'
+  data_update_date: '2026-08-16 17:39:26'
   english_name: English for Specific Purposes II-1
   enrollment_application: ×
   enrollment_requirements: ''
@@ -205064,7 +205076,7 @@
 - class_id: AC53132
   class_outline: This course focuses on developing students' English academic writing.
   credits: '1.0'
-  data_update_date: '2026-04-27 09:45:08'
+  data_update_date: '2026-08-16 17:40:36'
   english_name: English for Specific Purposes II-2
   enrollment_application: ×
   enrollment_requirements: ''
@@ -205088,7 +205100,7 @@
   class_outline: This course focuses on developing students’ oral and presentation
     skills through structured discussions on a variety of topics and subjects.
   credits: '1.0'
-  data_update_date: '2026-02-12 15:42:21'
+  data_update_date: '2026-08-16 17:43:09'
   english_name: English for Specific Purposes II-3
   enrollment_application: ×
   enrollment_requirements: ''
@@ -205110,7 +205122,7 @@
   class_outline: This course focuses on further developing students’ presentation
     skills and introducing them to strategies for interviews and debates.
   credits: '1.0'
-  data_update_date: '2026-06-03 16:05:09'
+  data_update_date: '2026-08-16 17:54:13'
   english_name: English for Specific Purposes II-4
   enrollment_application: ×
   enrollment_requirements: ''
@@ -207599,7 +207611,7 @@
   class_outline: This course introduces students to a selection of English and American
     poems and various interpretative approaches to analysing their significance.
   credits: '1.0'
-  data_update_date: '2026-06-03 16:06:14'
+  data_update_date: '2026-08-16 18:13:04'
   english_name: Seminar in Anglo-American Studies I
   enrollment_application: ''
   enrollment_requirements: ''
@@ -207607,7 +207619,9 @@
   module: 秋AB
   name: 英語圏文学・文化演習I
   period: 木2
-  remarks: '英語で授業。
+  remarks: '西暦偶数年度開講。
+
+    英語で授業。
 
     対面
 
@@ -211052,7 +211066,7 @@
 - class_id: AC64E01
   class_outline: この授業では、コミュニケーション・プロセスに関する知見を、応用できるようになることを目的とする。
   credits: '1.0'
-  data_update_date: '2025-04-15 09:08:25'
+  data_update_date: '2026-08-17 13:10:01'
   english_name: Communication Theory
   enrollment_application: ''
   enrollment_requirements: ''
@@ -214327,26 +214341,26 @@
   subject_code: AE13G41
   teaching_staff: 山澤 学
 - class_id: AE13G51
-  class_outline: 各時代の文献および注釈書を読み解きながら、日本文学の特質とその変遷を概観する。
+  class_outline: "本授業では、日本文学史上に現れたさまざまな文学論・作品論を手がかりとして、上代から近世(江戸時代以前)までの代表的な作品を読みます。\n\
+    \ 現在「古典」と考えられている作品は、もともと「古典」であったわけではなく、評価も時代を通して一定であるわけでもありません。一定の解釈の枠組に沿って「古典」は価値づけられ、読解されていきます。\n\
+    \ そこで本授業は、作品の成立年代に沿って文学史上の事項を順番に覚えていくことよりも、ある時代の人々における「文学とは何か」という問いに着目して進めていきます。"
   credits: '1.0'
-  data_update_date: '2026-01-14 12:56:25'
+  data_update_date: '2026-08-19 17:15:08'
   english_name: History of Japanese Literature
-  enrollment_application: ×
-  enrollment_requirements: ''
+  enrollment_application: △
+  enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   method: '1'
-  module: 秋学期
+  module: 秋C
   name: 日本文学の歴史
-  period: 応談
-  remarks: '開講日程調整中
-
-    対面'
+  period: 金2,3
+  remarks: 対面
   requirement_subject_name: 日本文学の歴史
   room: ''
-  short_term_students_application: ×
-  short_term_students_requirements: ''
+  short_term_students_application: △
+  short_term_students_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   standard_course_year: '2'
   subject_code: AE13G51
-  teaching_staff: ''
+  teaching_staff: 藤井 嘉章
 - class_id: AE13G72
   class_outline: 日本の古典文学作品にみられる表現を読み解くことにより、その特質を演習形式によって実践的に学ぶ。
   credits: '1.0'
@@ -214432,26 +214446,25 @@
   subject_code: AE13H11
   teaching_staff: ''
 - class_id: AE13H12
-  class_outline: 日本が独自の文字文化を持たないなか、どのように漢字や中国文学を受容して自ら文字表現したのか、和漢の古典籍を比較しながら演習形式によって実践的に学ぶ。
+  class_outline: "近世江戸時代の日本で中国研究をしていたグループの中に「古文辞学」という学派があります。この学派の理念は古代中国人と同じ思考回路を作ることでした。本演習は古文辞学派の文学理念と実際の文学表現(漢詩)を丹念に追っていきます。\n\
+    \ その過程で古代中国語の言語としての構造について理解し、日本語との対照を通して訓読文を自力でつくるための基礎、つまり白文に自身で返点(レ点や一二点など)を振る方法を学びます。また漢詩の複雑な規則を身に付けます。"
   credits: '1.0'
-  data_update_date: '2026-01-14 12:57:35'
+  data_update_date: '2026-08-19 13:18:49'
   english_name: Seminar on Chinese Literature and Japanese Literature
   enrollment_application: ×
   enrollment_requirements: ''
   method: '2'
-  module: 秋学期
+  module: 秋AB
   name: 中国文学と日本文学演習I
-  period: 応談
-  remarks: '開講日程調整中
-
-    対面'
+  period: 金2
+  remarks: 対面
   requirement_subject_name: 中国文学と日本文学演習I
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 3・4
   subject_code: AE13H12
-  teaching_staff: ''
+  teaching_staff: 藤井 嘉章
 - class_id: AE13H91
   class_outline: アニマル・スタディーズの理論を概観したうえで、クッツェーやカフカ、宮沢賢治などの文学作品を講読し、文学・文化を人と動物の関係から考察する。
   credits: '1.0'
@@ -216262,6 +216275,8 @@
   period: 集中
   remarks: '人文(3年次)・ 国際・応理・工シス・社工・情報・創成・知識(1年次)・総合学域群対象
 
+    9/1,9/4,9/8,9/11
+
     詳細後日周知
 
     オンライン(オンデマンド型)
@@ -216593,7 +216608,7 @@
 - class_id: BB11391
   class_outline: この授業では、コミュニケーション・プロセスに関する知見を、応用できるようになることを目的とする。
   credits: '1.0'
-  data_update_date: '2025-04-15 09:08:25'
+  data_update_date: '2026-08-17 13:10:01'
   english_name: Communication Theory
   enrollment_application: ''
   enrollment_requirements: ''
@@ -232636,21 +232651,19 @@
 - class_id: CE21441
   class_outline: 肢体不自由のある幼児、児童又は生徒の起因疾患となる病理面と心理面及び生理面の特徴並びにそれらの相互作用について理解し、幼児、児童又は生徒一人一人の肢体不自由の状態や感覚機能の発達、知能の発達及び認知の特性を理解するとともに、家庭や関係機関との連携について理解する。
   credits: '2.0'
-  data_update_date: '2026-03-18 18:53:25'
+  data_update_date: '2026-03-18 15:28:45'
   english_name: Psychology, Physiology and Pathology of Children with Physical Disabilities
   enrollment_application: ''
   enrollment_requirements: ''
   method: '1'
-  module: '秋A
-
-    春C秋AB'
+  module: 秋A
   name: 肢体不自由児の心理・生理・病理
   period: '金5,6
 
     集中'
   remarks: '2023年度以降入学生対象。科目を構成する心理パートは2025年度までのCE21101、生理・病理パートは2025年までのCE21041と同一。
 
-    7/18-7/19
+    10/24-10/25
 
     実務経験教員
 
@@ -246261,9 +246274,7 @@
 
     12/12-12/13
 
-    対面
-
-    実施形態は未定.'
+    対面'
   requirement_subject_name: 地質学特別講義II
   room: ''
   short_term_students_application: ×
@@ -256748,7 +256759,7 @@
 - class_id: FE12301
   class_outline: 本科目では、誤差と分析データの処理方法、化学平衡論の基礎とこれを利用した容量分析・重量分析法、ポテンショメトリーとボルタンメトリーによる電気化学的分析法、紫外・可視吸光光度法等の分光分析法、分離分析に関連した溶媒抽出、クロマトグラフィーについて解説する。
   credits: '3.0'
-  data_update_date: '2026-01-13 10:01:11'
+  data_update_date: '2026-08-21 22:19:23'
   english_name: Analytical Chemistry
   enrollment_application: △
   enrollment_requirements: 備考に記載
@@ -256765,7 +256776,7 @@
   short_term_students_requirements: 備考に記載
   standard_course_year: '2'
   subject_code: FE12301
-  teaching_staff: 長友 重紀
+  teaching_staff: 二本柳 聡史,長友 重紀
 - class_id: FE12371
   class_outline: 本科目では、分析化学に関する基礎と発展的な内容について学ぶ。具体的には、実験データの処理方法、化学平衡論の基礎と化学反応速度論に関するについて解説する。
   credits: '1.0'
@@ -256897,7 +256908,7 @@
 - class_id: FE12801
   class_outline: 英語に親しみを持ち,内容を正しく理解することに重点を置く。教材は専門授業にも参考となる化学的に興味が持てるものを使用する。
   credits: '3.0'
-  data_update_date: '2025-04-28 15:54:31'
+  data_update_date: '2026-08-19 17:44:37'
   english_name: Basic English in Chemistry
   enrollment_application: △
   enrollment_requirements: ''
@@ -256907,7 +256918,7 @@
   period: 月1
   remarks: '英語で授業。
 
-    対面'
+    オンライン(オンデマンド型)'
   requirement_subject_name: 基礎化学外書講読
   room: ''
   short_term_students_application: ×
@@ -268922,15 +268933,17 @@
 - class_id: FH45071
   class_outline: 建築生産の概要について演習・現場をまじえながら理解し,その基礎習得を目指す学生向きの講義である。集中講義ではあるが,見学をふくめ現場での実際のものつくりを建築施工の工程をふまえながら、体感することに取り組む。
   credits: '1.0'
-  data_update_date: '2025-09-30 11:02:54'
+  data_update_date: '2026-08-21 16:05:22'
   english_name: Building Construction
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 秋AB
+  module: 秋A
   name: 建築生産
   period: 集中
   remarks: '都市計画共通。
+
+    10/10,10/24
 
     対面'
   requirement_subject_name: 建築生産
@@ -268939,7 +268952,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2 - 4
   subject_code: FH45071
-  teaching_staff: 川上 敏男,藤川 昌樹
+  teaching_staff: 神谷 朗,藤川 昌樹
 - class_id: FH45081
   class_outline: "都市計画を学ぶこととは、一義的には都市を制御するための技術を習得し職能として身に着けることを意味するが、その成立の背景で積み重ねられてきた多くの試行錯誤の歴史を知ることは、都市計画と人間の関わりのあり方を客観的にとらえ、技術と倫理の関わり方を考える力を養うことにつながる。本講義では、都市計画の基礎的なトピックを対象に、その成立に関わった人々の考え方や言葉を「しつこく丁寧に掘り下げて」議論する。テキストや写真、図面など、できるだけ多くの生資料に触れて頂く。\n\
     \  国際の学生にとっては、世界史もふまえた広い切り口からの都市計画への入門講座として位置付けられる。また、社工生にとっては、普段学んでいる技術としての都市計画の成立の背景に、どんな人々のどのような考え方が潜んでいたのかを再認識する機会として頂きたい(もちろん、他学類の学生も歓迎します)。"
@@ -280587,6 +280600,8 @@
 
     英語で授業。
 
+    9/15,9/29,10/6,10/20,11/10,12/1,12/15,1/12,1/26,2/9,
+
     対面'
   requirement_subject_name: English Medical Terminology I
   room: ''
@@ -284498,7 +284513,7 @@
 - class_id: HE33061
   class_outline: 輸血の歴史は長く,輸血が臓器移植の1つであるという認識は最近のものである。輸血の歴史について明らかにするとともに,臨床輸血学の基礎知識を教授し,輸血にかかわる検査法の理論と意義について詳しく解説する。
   credits: '1.0'
-  data_update_date: '2025-12-17 16:03:40'
+  data_update_date: '2026-08-21 14:55:58'
   english_name: Transfusion Medicine
   enrollment_application: ×
   enrollment_requirements: ''
@@ -284512,7 +284527,7 @@
 
     オンライン(オンデマンド型)
 
-    基本は対面で実施するが,状況によりオンラインに変更。'
+    確認テストのみ対面'
   requirement_subject_name: 輸血学
   room: ''
   short_term_students_application: ×
@@ -285985,7 +286000,7 @@
 
     論文の構成を理解し、基本的なレポートが作成できるようにする。'
   credits: '3.0'
-  data_update_date: '2025-04-15 18:17:59'
+  data_update_date: '2026-08-20 11:33:32'
   english_name: Japanese Language and Studies II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -286004,7 +286019,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: UAA2022
-  teaching_staff: 稗田 奈津江
+  teaching_staff: 稗田 奈津江,フェレイロ ポッセ ダマソ
 - class_id: UAC1011
   class_outline: データサイエンスの基本となる、確率論および記述統計学の基礎を学ぶ。初学者を対象とし、数学の詳細には立ち入らず、実際の統計への応用に役立つ事柄を演習を交えて学ぶ。講義は前半の確率論、後半の記述統計学からなる。確率論は統計学の基礎を成している。ここでは確率変数、モーメント、確率分布の概念を学び、統計学で用いられる概念に十分精通できることを目指す。記述統計学はデータサイエンスの基礎をなす。ここでは中心極限定理に立脚し、統計量の標本分布に関して主に学ぶ。これらを応用し、統計学的推定や検定、また回帰分析などの実践的な統計の初歩を習得する。
   credits: '3.0'
@@ -286235,7 +286250,7 @@
 
     ら学んでいく。'
   credits: '4.0'
-  data_update_date: '2025-04-16 16:56:25'
+  data_update_date: '2026-08-20 11:36:22'
   english_name: Fundamentals of Humanities and Social Sciences II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -286258,7 +286273,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: UAE2024
-  teaching_staff: 上田 孝典,川? レスリー タック,醍醐 笑部,宮本 昌子,伊藤 智子
+  teaching_staff: 上田 孝典,川? レスリー タック,醍醐 笑部,宮本 昌子,伊藤 智子,井坂 ゆかり
 - class_id: UBB2014
   class_outline: '日本の伝統文化と現代文化を学ぶことで、日本文化独自の要素と言われることの多い「間」や「型」につ
 
@@ -286355,7 +286370,7 @@
 - class_id: UBD3011
   class_outline: 環境問題の根幹とも言える汚染、都市問題の基礎事項、健康に係る地球規模課題の重要項目、課題解決に必須である固体物理学・化学分野における半導体、絶縁体等の技術の知識、さらに問題解決に必須である映像・音声による情報伝達技術の基礎事項を教授する。汚染・都市問題は環境科学の出発点でありその基礎を理解することは、地球規模課題解決には必須である。さらに、汚染・都市問題は人間の健康と繋がっており、感染症等を理解することは環境問題解決にとっても重要である。さらに、こうした諸問題解決において、各種技術を適用する上で必須の知識である固体物理学・化学を半導体・絶縁体等の技術面から解説し、加えて情報伝達の基礎である画像、映像、音声伝達の技術を教授することにより、課題解決に向けた能力涵養が進展する。本授業で身につけた知識、考え方は、時事課題解決法提案演習I・IIにおいて適用される。
   credits: '4.0'
-  data_update_date: '2025-06-05 10:13:00'
+  data_update_date: '2026-08-20 11:37:58'
   english_name: General Introduction to Natural Sciences I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -286377,12 +286392,12 @@
   standard_course_year: '3'
   subject_code: UBD3011
   teaching_staff: 辻村 真貴,鈴木 石根,西村 健,山田 洋一,望山 洋,手塚 太郎,善甫 啓一,甲斐田 直子,水野谷 剛,高橋 純子,渡邊 幸秀,大宮
-    朋子,伊藤 智子,福澤 利江子
+    朋子,伊藤 智子,井坂 ゆかり
 - class_id: UBE3014
   class_outline: 人文社会科学基礎Iで扱った学問分野について、より深い理論的理解と運用手法を身につけ、こうした学問分野の実践的なアプローチが問題解決にどのように役立てられるかについて考えていく。授業は講義と演習の併用とし、週前半の講義で学んだ知識を後半のディスカッションで深め、定着させていく。また、履修学生はそれぞれひとつの研究トピックを選択し、学んだ学問手法を用いてケーススタディを行う。その成果を口頭発表するとともに、アカデミック・ペーパーとしてまとめる。
   credits: '4.0'
-  data_update_date: '2025-06-05 16:37:29'
-  english_name: 'General Introduction to Humanities and Social Sciences I '
+  data_update_date: '2026-08-20 11:39:06'
+  english_name: General Introduction to Humanities and Social Sciences I
   enrollment_application: ×
   enrollment_requirements: ''
   method: '4'
@@ -286404,7 +286419,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: UBE3014
-  teaching_staff: 平石 典子,稗田 奈津江,渡部 宏樹
+  teaching_staff: 平石 典子,稗田 奈津江,渡部 宏樹,フェレイロ ポッセ ダマソ
 - class_id: UBF1012
   class_outline: '授業の前半では、身の周りの疑問や困りごとを、データを基盤に解決するシステム構築を考究する。身近な問題を出発点とし、それを題材に、課題を設定するにはどのようなデータや資料が必要なのかを学ぶ。その上で、実際にデータや資料を収集する試行を行う。また可能な範囲で、1次データの取得も試みる。そうした取り組みを経て、課題の解決に向けたシステムのデザインを行い、その試行錯誤の過程においてデザイン思考の工程を学ぶ。
 
@@ -286523,7 +286538,7 @@
 
     提案を行う。'
   credits: '6.0'
-  data_update_date: '2025-04-16 17:47:15'
+  data_update_date: '2026-08-20 11:39:52'
   english_name: Current Issues Analysis Exercises II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -286542,13 +286557,13 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: UBF2022
-  teaching_staff: 学際サイエンス・デザイン専門学群全教員
+  teaching_staff: 学際サイエンス・デザイン専門学群全教員,井坂 ゆかり
 - class_id: UBF3012
   class_outline: 'SDGsと身の回りの課題に関し、課題を設定し、問題を理解し、課題を解決するためのシステムを提案、試行するまでを、一連のストーリーとして構築する。SDGsは、社会の様々なステークホルダーにおいて、活動の規範にもなりつつあり、多くの政府機関、団体、企業等において取り組み事例がある。本授業の前半では、こうした政府機関、団体、企業等の取り組みを実地において視察、ヒアリングするとともに、可能な範囲で参加し経験する。このことにより、既存のSDGs取り組みの成果と課題を自身の問題として考究することが可能になる。
 
     授業の後半では、新たなSDGs取り組みをビジネスモデルとして提案し、実装試行する。また、一連のチーム活動を、映像としてドキュメンタリーにまとめ、発表する。'
   credits: '6.0'
-  data_update_date: '2025-06-05 17:07:55'
+  data_update_date: '2026-08-20 11:41:24'
   english_name: Current Issues Solution Proposal Exercises I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -286567,8 +286582,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: UBF3012
-  teaching_staff: 辻村 真貴,工藤 重忠,鈴木 石根,手塚 太郎,西村 健,平石 典子,望山 洋,川? レスリー タック,上田 孝典,善甫 啓一,稗田
-    奈津江,山田 洋一,醍醐 笑部,渡部 宏樹
+  teaching_staff: 学際サイエンス・デザイン専門学群全教員
 - class_id: UMPU142
   class_outline: In this class, students learn the Malay language as a communication
     tool. Students will learn basic pronunciation, grammar, numbers, greetings and
@@ -306627,7 +306641,7 @@
 - class_id: YBN2104
   class_outline: この授業では、設定された課題テーマに対し、デザインシンキングのプロセスを通じてグループワークおよび個人ワークを行います。最終的には、各自が一つのデザイン提案を行います。テーマは「未来の移動体験」とし、ユーザー像、提供価値、シーンイメージなどをアウトプットします。
   credits: '2.0'
-  data_update_date: '2024-07-17 11:02:26'
+  data_update_date: '2026-08-21 15:14:32'
   english_name: Design Thinking
   enrollment_application: ×
   enrollment_requirements: ''
@@ -306639,11 +306653,11 @@
   period: '水4,5
 
     集中'
-  remarks: '教室:総合研究棟D116
-
-    2020年度までの「情報システムデザイン学」に相当。
+  remarks: '教室:総合研究棟D1162020年度までの「情報システムデザイン学」に相当。
 
     西暦偶数年度開講。
+
+    8/20,8/28,9/4,9/10,9/11
 
     実務経験教員
 

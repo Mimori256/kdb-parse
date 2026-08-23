@@ -10324,10 +10324,10 @@
   "02BQ208": {
     "class_id": "02BQ208",
     "name": "Advanced Nanotechnology III",
-    "description": "0AJJA35と同一。\\n英語で授業。\\n対面",
+    "description": "0AJJA35と同一。\\n英語で授業。\\n9/14-9/25、9/28\\n対面",
     "module": [
       [
-        "春C"
+        "通年"
       ]
     ],
     "period": [
@@ -19459,7 +19459,7 @@
   "0A00101": {
     "class_id": "0A00101",
     "name": "Applied Ethics",
-    "description": "英語で授業。\\n対面",
+    "description": "英語で授業。\\n11/24,25\\n対面",
     "module": [
       [
         "秋B"
@@ -19475,7 +19475,7 @@
   "0A00102": {
     "class_id": "0A00102",
     "name": "Introduction to Environmental Ethics",
-    "description": "英語で授業。\\n対面",
+    "description": "英語で授業。\\n12/16,17\\n対面",
     "module": [
       [
         "秋B"
@@ -40942,7 +40942,7 @@
   "0AJCB42": {
     "class_id": "0AJCB42",
     "name": "Special Lectures on Experimental Particle Physics I",
-    "description": "詳細後日周知",
+    "description": "11/25-11/27\\n詳細後日周知",
     "module": [
       [
         "秋AB"
@@ -47128,10 +47128,10 @@
   "0AJJA35": {
     "class_id": "0AJJA35",
     "name": "Advanced Nanotechnology III",
-    "description": "02BQ208と同一。\\n英語で授業。\\n対面",
+    "description": "02BQ208と同一。\\n英語で授業。\\n9/14-9/25、9/28\\n対面",
     "module": [
       [
-        "春C"
+        "通年"
       ]
     ],
     "period": [
@@ -67813,7 +67813,7 @@
   "0ATB125": {
     "class_id": "0ATB125",
     "name": "Lecture on Psychiatry (Support Theory and Applications in Medical and Health Area X)",
-    "description": "履修は心理学学位プログラム(博士前期課程)の心理臨床学サブプログラムの正規生に限る\\n西暦偶数年度開講。\\nオンライン(オンデマンド型)",
+    "description": "履修は心理学学位プログラム(博士前期課程)の心理臨床学サブプログラムの正規生に限る\\n西暦偶数年度開講。\\n1/9,1/16,1/23\\nオンライン(オンデマンド型)",
     "module": [
       [
         "秋C"
@@ -70609,7 +70609,7 @@
   "0ATE312": {
     "class_id": "0ATE312",
     "name": "Disability Science for Individuals with Intellectual Disabilities",
-    "description": "第11回~第20回は集中講義として実施する\\n11/28,12/19\\n対面\\nただし、状況によって対面とオンライン(同時双方向型)の併用に変更する場合がある。どの回がオンライン(同時双方向型)になるのかといった具体的な授業スケジュールはManaba等で示す。",
+    "description": "10/2(金)7・8限、10/16(金)7・8限、11/28(土)2-6限、12/19(土)2-6限、1/23(土)1-6限\\n10/2,10/16,11/28,12/19,1/23\\n対面\\nただし、状況によって対面とオンライン(同時双方向型)の併用に変更する場合がある。どの回がオンライン(同時双方向型)になるのかといった具体的な授業スケジュールはManaba等で示す。",
     "module": [
       [
         "秋A"
@@ -90878,7 +90878,7 @@
   "0BJ0001": {
     "class_id": "0BJ0001",
     "name": "Research Proposal in Pure and Applied Sciences",
-    "description": "数理フェローシップ採用学生は履修すること",
+    "description": "数理SPRING/BOOST採用学生(社会人を除く)は履修すること",
     "module": [
       [
         "通年"
@@ -144422,7 +144422,7 @@
   "AB92A51": {
     "class_id": "AB92A51",
     "name": "Lecture on Applied Linguistics III-a",
-    "description": "対面",
+    "description": "オンライン(同時双方向型)",
     "module": [
       [
         "秋AB"
@@ -144438,7 +144438,7 @@
   "AB92A61": {
     "class_id": "AB92A61",
     "name": "Lecture on Applied Linguistics III-b",
-    "description": "応用言語学講義III-bの履修は、応用言語学講義III-aを履修済みであることを条件とする。\\n対面",
+    "description": "応用言語学講義III-bの履修は、応用言語学講義III-aを履修済みであることを条件とする。\\nオンライン(同時双方向型)",
     "module": [
       [
         "秋C"
@@ -148986,7 +148986,7 @@
   "AC61C02": {
     "class_id": "AC61C02",
     "name": "Seminar in Anglo-American Studies I",
-    "description": "英語で授業。\\n対面\\nAC61042の単位取得者は履修できない。シラバスは英語版を見てください。",
+    "description": "西暦偶数年度開講。\\n英語で授業。\\n対面\\nAC61042の単位取得者は履修できない。シラバスは英語版を見てください。",
     "module": [
       [
         "秋AB"
@@ -153917,15 +153917,16 @@
   "AE13G51": {
     "class_id": "AE13G51",
     "name": "History of Japanese Literature",
-    "description": "開講日程調整中\\n対面",
+    "description": "対面",
     "module": [
       [
-        "通年"
+        "秋C"
       ]
     ],
     "period": [
       [
-        "応談"
+        "金2",
+        "金3"
       ]
     ],
     "room": " "
@@ -153997,15 +153998,15 @@
   "AE13H12": {
     "class_id": "AE13H12",
     "name": "Seminar on Chinese Literature and Japanese Literature",
-    "description": "開講日程調整中\\n対面",
+    "description": "対面",
     "module": [
       [
-        "通年"
+        "秋AB"
       ]
     ],
     "period": [
       [
-        "応談"
+        "金2"
       ]
     ],
     "room": " "
@@ -155328,7 +155329,7 @@
   "BB00501": {
     "class_id": "BB00501",
     "name": "Constitutional Law of Japan",
-    "description": "人文(3年次)・ 国際・応理・工シス・社工・情報・創成・知識(1年次)・総合学域群対象\\n詳細後日周知\\nオンライン(オンデマンド型)\\n履修申請期間は掲示にて周知する。",
+    "description": "人文(3年次)・ 国際・応理・工シス・社工・情報・創成・知識(1年次)・総合学域群対象\\n9/1,9/4,9/8,9/11\\n詳細後日周知\\nオンライン(オンデマンド型)\\n履修申請期間は掲示にて周知する。",
     "module": [
       [
         "通年"
@@ -166708,14 +166709,10 @@
   "CE21441": {
     "class_id": "CE21441",
     "name": "Psychology, Physiology and Pathology of Children with Physical Disabilities",
-    "description": "2023年度以降入学生対象。科目を構成する心理パートは2025年度までのCE21101、生理・病理パートは2025年までのCE21041と同一。\\n7/18-7/19\\n実務経験教員\\n対面(オンライン併用型)",
+    "description": "2023年度以降入学生対象。科目を構成する心理パートは2025年度までのCE21101、生理・病理パートは2025年までのCE21041と同一。\\n10/24-10/25\\n実務経験教員\\n対面(オンライン併用型)",
     "module": [
       [
         "秋A"
-      ],
-      [
-        "春C",
-        "秋AB"
       ]
     ],
     "period": [
@@ -176191,7 +176188,7 @@
   "EE31461": {
     "class_id": "EE31461",
     "name": "Special Lecture on Geology II",
-    "description": "西暦偶数年度開講。\\n12/12-12/13\\n対面\\n実施形態は未定.",
+    "description": "西暦偶数年度開講。\\n12/12-12/13\\n対面",
     "module": [
       [
         "秋B"
@@ -183649,7 +183646,7 @@
   "FE12801": {
     "class_id": "FE12801",
     "name": "Basic English in Chemistry",
-    "description": "英語で授業。\\n対面",
+    "description": "英語で授業。\\nオンライン(オンデマンド型)",
     "module": [
       [
         "通年"
@@ -192693,10 +192690,10 @@
   "FH45071": {
     "class_id": "FH45071",
     "name": "Building Construction",
-    "description": "都市計画共通。\\n対面",
+    "description": "都市計画共通。\\n10/10,10/24\\n対面",
     "module": [
       [
-        "秋AB"
+        "秋A"
       ]
     ],
     "period": [
@@ -201266,7 +201263,7 @@
   "HB32212": {
     "class_id": "HB32212",
     "name": "English Medical Terminology I",
-    "description": "医学類生に限る。\\n英語で授業。\\n対面",
+    "description": "医学類生に限る。\\n英語で授業。\\n9/15,9/29,10/6,10/20,11/10,12/1,12/15,1/12,1/26,2/9,\\n対面",
     "module": [
       [
         "秋ABC",
@@ -204023,7 +204020,7 @@
   "HE33061": {
     "class_id": "HE33061",
     "name": "Transfusion Medicine",
-    "description": "7/13-27\\n詳細後日周知\\nオンライン(オンデマンド型)\\n基本は対面で実施するが,状況によりオンラインに変更。",
+    "description": "7/13-27\\n詳細後日周知\\nオンライン(オンデマンド型)\\n確認テストのみ対面",
     "module": [
       [
         "春C"
@@ -205310,7 +205307,7 @@
   },
   "UBE3014": {
     "class_id": "UBE3014",
-    "name": "General Introduction to Humanities and Social Sciences I ",
+    "name": "General Introduction to Humanities and Social Sciences I",
     "description": "オムニバス方式、一部共同、講義26時間、演習34時間\\n英語で授業。\\n対面\\nマレーシア校開講科目",
     "module": [
       [
@@ -220707,7 +220704,7 @@
   "YBN2104": {
     "class_id": "YBN2104",
     "name": "Design Thinking",
-    "description": "教室:総合研究棟D116\\n2020年度までの「情報システムデザイン学」に相当。\\n西暦偶数年度開講。\\n実務経験教員\\n対面(オンライン併用型)",
+    "description": "教室:総合研究棟D1162020年度までの「情報システムデザイン学」に相当。\\n西暦偶数年度開講。\\n8/20,8/28,9/4,9/10,9/11\\n実務経験教員\\n対面(オンライン併用型)",
     "module": [
       [
         "春C"
