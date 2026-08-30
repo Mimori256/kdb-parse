@@ -14562,7 +14562,7 @@
 
     英語で授業。
 
-    9/14-9/25、9/28
+    9/14-9/25, 9/28
 
     対面'
   requirement_subject_name: 物質創成科学特別講義H
@@ -24048,7 +24048,7 @@
 - class_id: 02FA141
   class_outline: 研究指導教員によって行われるセミナー形式の授業である.春学期に開講し,学生各自による研究テーマの絞り込み,博士論文の研究計画書作成を指導し,研究テーマ発表会に臨める形を目標にする.初回は,情報倫理・研究倫理の説明を含めた学位取得に関するガイダンスを行なうので出来るだけ出席すること.
   credits: '2.0'
-  data_update_date: '2026-04-11 11:36:55'
+  data_update_date: '2026-08-25 16:03:58'
   english_name: Advanced Seminar in Systems Management I-I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -24066,7 +24066,7 @@
   standard_course_year: '1'
   subject_code: 02FA141
   teaching_staff: 領家 美奈,佐藤 秀典,伴 正隆,津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,山田 雄二,佐藤
-    忠彦,立本 博文,中村 亮介,尾碕 幸謙,吉田 光男,倉橋 節也
+    忠彦,立本 博文,中村 亮介,尾碕 幸謙,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 02FA143
   class_outline: 春学期に開講するセミナー形式の授業である。システムズ・マネジメント特別演習I-I,IIを履修後に受講することが望ましい。
   credits: '1.0'
@@ -25058,7 +25058,7 @@
 - class_id: 02FA421
   class_outline: 春学期に開講し,ビジネス・マネジメントの領域で登場する,経営戦略・経営組織,マーケティング,会計,ファイナンスなどのコア科目,ならびに,現代の経営を高度化する上で重要となる計量分析に代表される数理科学やシステム科学,情報学関連科目について,文献輪読による理解の深化をはかる.ここでは,受講生の要望に合わせて,各分野における基本的理論から先端的な理論や分析手法,事例に関する文献や著書等を輪読する.
   credits: '1.0'
-  data_update_date: '2025-10-20 08:03:20'
+  data_update_date: '2026-08-25 15:48:43'
   english_name: Reading in Systems Management I-I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -25076,11 +25076,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA421
   teaching_staff: 津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本
-    博文,中村 亮介,尾碕 幸謙,礪波 亜希,佐藤 秀典,伴 正隆,吉田 光男,倉橋 節也
+    博文,中村 亮介,尾碕 幸謙,礪波 亜希,佐藤 秀典,伴 正隆,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 02FA422
   class_outline: ビジネスマネジメント輪講I-Iの履修を踏まえ,春学期に開講し,ビジネス・マネジメントの領域で登場する,経営戦略・経営組織,マーケティング,会計,ファイナンスなどのコア科目,ならびに,現代の経営を高度化する上で重要となる計量分析に代表される数理科学やシステム科学,情報学関連科目について,文献輪読による理解の深化をはかる.ここでは,受講生の要望に合わせて,各分野における基本的理論から先端的な理論や分析手法,事例に関する文献や著書等を輪読する.
   credits: '1.0'
-  data_update_date: '2025-10-20 08:03:20'
+  data_update_date: '2026-08-25 15:49:15'
   english_name: Reading in Systems Management I-II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -25098,11 +25098,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA422
   teaching_staff: 津田 和彦,西尾 チヅル,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本 博文,中村 亮介,尾碕
-    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也
+    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 02FA423
   class_outline: ビジネスマネジメント輪講I-IIの履修を踏まえ,春学期に開講し,ビジネス・マネジメントの領域で登場する,経営戦略・経営組織,マーケティング,会計,ファイナンスなどのコア科目,ならびに,現代の経営を高度化する上で重要となる計量分析に代表される数理科学やシステム科学,情報学関連科目について,文献輪読による理解の深化をはかる.ここでは,受講生の要望に合わせて,各分野における基本的理論から先端的な理論や分析手法,事例に関する文献や著書等を輪読する.
   credits: '1.0'
-  data_update_date: '2025-10-20 08:03:20'
+  data_update_date: '2026-08-25 15:49:39'
   english_name: Reading in Systems Management I-III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -25120,11 +25120,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA423
   teaching_staff: 津田 和彦,西尾 チヅル,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本 博文,中村 亮介,尾碕
-    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也
+    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 02FA424
   class_outline: 秋学期に開講し,ビジネス・マネジメントの領域で登場する,経営戦略・経営組織,マーケティング,会計,ファイナンスなどのコア科目,ならびに,現代の経営を高度化する上で重要となる計量分析に代表される数理科学やシステム科学,情報学関連科目について,文献輪読による理解の深化をはかる.ここでは,受講生の要望に合わせて,各分野における基本的理論から先端的な理論や分析手法,事例に関する文献や著書等を輪読する.
   credits: '1.0'
-  data_update_date: '2025-10-20 08:03:20'
+  data_update_date: '2026-08-25 15:50:01'
   english_name: Reading in Systems Management II-I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -25142,11 +25142,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA424
   teaching_staff: 津田 和彦,西尾 チヅル,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本 博文,中村 亮介,尾碕
-    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也
+    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 02FA425
   class_outline: ビジネスマネジメント輪講II-Iの履修を踏まえ,秋学期に開講し,ビジネス・マネジメントの領域で登場する,経営戦略・経営組織,マーケティング,会計,ファイナンスなどのコア科目,ならびに,現代の経営を高度化する上で重要となる計量分析に代表される数理科学やシステム科学,情報学関連科目について,文献輪読による理解の深化をはかる.ここでは,受講生の要望に合わせて,各分野における基本的理論から先端的な理論や分析手法,事例に関する文献や著書等を輪読する.
   credits: '1.0'
-  data_update_date: '2025-10-20 08:03:20'
+  data_update_date: '2026-08-25 16:01:26'
   english_name: Reading in Systems Management II-II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -25164,11 +25164,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA425
   teaching_staff: 津田 和彦,西尾 チヅル,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本 博文,中村 亮介,佐藤
-    秀典,尾碕 幸謙,伴 正隆,礪波 亜希,ベントン キャロライン,吉田 光男,倉橋 節也
+    秀典,尾碕 幸謙,伴 正隆,礪波 亜希,ベントン キャロライン,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 02FA426
   class_outline: ビジネスマネジメント輪講II-IIの履修を踏まえ,秋学期に開講し,ビジネス・マネジメントの領域で登場する,経営戦略・経営組織,マーケティング,会計,ファイナンスなどのコア科目,ならびに,現代の経営を高度化する上で重要となる計量分析に代表される数理科学やシステム科学,情報学関連科目について,文献輪読による理解の深化をはかる.ここでは,受講生の要望に合わせて,各分野における基本的理論から先端的な理論や分析手法,事例に関する文献や著書等を輪読する.
   credits: '1.0'
-  data_update_date: '2025-10-20 08:03:20'
+  data_update_date: '2026-08-25 16:01:51'
   english_name: Reading in Systems Management II-III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -25186,7 +25186,7 @@
   standard_course_year: 1 - 3
   subject_code: 02FA426
   teaching_staff: 津田 和彦,西尾 チヅル,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本 博文,中村 亮介,尾碕
-    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也
+    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 02FA501
   class_outline: 研究指導教員によって院生が希望する「企業法研究」について、研究方法を検討し、研究方針を立てさせることを目標とし、演習形式で1年次に開講する。
   credits: '1.0'
@@ -29096,7 +29096,7 @@
 - class_id: 0A00323
   class_outline: 海外協定校等を共修の場とし、本学の日本人大学院生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:33'
+  data_update_date: '2026-08-24 08:38:08'
   english_name: Problem solving through multicultural co-learning (overseas)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -29113,8 +29113,8 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 5
   subject_code: 0A00323
-  teaching_staff: 柏木 健一,金 ?辰,朝倉 雅史,小野 裕子,森尾 貴広,廣田 智哉,LIU Soraya,阿部 淳一 ピーター,田中 怜,大根田
-    修,ゲオンゾン レスター カンケ,平井 悠介,MENA Aaron,五月女 颯,入江 賢児,松原 康介
+  teaching_staff: 柏木 健一,金 ?辰,朝倉 雅史,小野 裕子,森尾 貴広,LIU Soraya,阿部 淳一 ピーター,田中 怜,大根田 修,ゲオンゾン
+    レスター カンケ,平井 悠介,MENA Aaron,五月女 颯,入江 賢児,松原 康介,廣田 充
 - class_id: 0A00324
   class_outline: 国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人大学院生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
@@ -45282,7 +45282,7 @@
   class_outline: 「日常会話」は、言語を問わず、様々な言語使用状況の中でも最も一般的かつ根源的な社会的相互行為場面である。その「日常会話」をフィールドとして、社会学者のHarvey
     Sacks、 Emanuel Schegloff、 Gail Jeffersonらによって日常的相互行為の組織を明らかにするべく創始され、開発されたのが「会話分析」である。本授業では、会話分析の理論的背景や視点を学んだ上で、会話分析の基本的分析概念を日本語データの具体的事例を通して理解し、会話分析の手法の基礎を身につける。
   credits: '1.0'
-  data_update_date: '2026-01-19 12:02:35'
+  data_update_date: '2026-08-24 10:46:33'
   english_name: Conversation Analysis in Japanese 1
   enrollment_application: ×
   enrollment_requirements: ''
@@ -45290,14 +45290,14 @@
   module: 秋AB
   name: 日本語相互行為分析1
   period: 金3
-  remarks: 対面
+  remarks: オンライン(同時双方向型)
   requirement_subject_name: 日本語相互行為分析1
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 0ABE033
-  teaching_staff: 高木 智世
+  teaching_staff: 高木 智世,阿部 春香
 - class_id: 0ABE034
   class_outline: 当たり前の現象としてある「日常会話」から社会と文化に切り込む方法について学ぶ。言語人類学の会話やディスコースへのアプローチを理論的に学び、談話や会話を分析する上での方法論について考える。
   credits: '1.0'
@@ -53673,7 +53673,7 @@
     the course aims to familiarize students with actual stress reduction skills and
     the theories behind them.
   credits: '1.0'
-  data_update_date: '2025-09-30 11:02:54'
+  data_update_date: '2026-08-29 14:45:17'
   english_name: 'Human Resource Management II: Stress Management'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -53773,7 +53773,7 @@
     but also self-coaching as self-development is essential for promoting growths
     in others.
   credits: '1.0'
-  data_update_date: '2025-09-30 11:02:54'
+  data_update_date: '2026-08-29 14:47:09'
   english_name: 'Global Skills I: Coaching to Grow People'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -54319,6 +54319,29 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 0AFM328
+  teaching_staff: タン キャロライン S. L.
+- class_id: 0AFM329
+  class_outline: ''
+  credits: '1.0'
+  data_update_date: '2026-08-29 13:33:49'
+  english_name: ''
+  enrollment_application: ×
+  enrollment_requirements: ''
+  method: '1'
+  module: 秋C
+  name: AI-Driven Marketing Strategy
+  period: 集中
+  remarks: '英語で授業。
+
+    1/11,1/18,1/25,2/1,2/8
+
+    対面'
+  requirement_subject_name: AI-Driven Marketing Strategy
+  room: ''
+  short_term_students_application: ''
+  short_term_students_requirements: ''
+  standard_course_year: '?'
+  subject_code: 0AFM329
   teaching_staff: タン キャロライン S. L.
 - class_id: 0AFM401
   class_outline: This course provides a comprehensive understanding of the complexities
@@ -63300,7 +63323,7 @@
   period: 集中
   remarks: '西暦偶数年度開講。
 
-    12/8,12/9,12/10,12/15,12/16,12/17,1/6,1/7,1/13,1/14
+    12/15,12/16,12/17,12/21,12/24,1/6,1/7,1/12,1/13,1/14
 
     要望があれば英語で授業'
   requirement_subject_name: 実践有機合成化学特論
@@ -66625,7 +66648,7 @@
 
     英語で授業。
 
-    9/14-9/25、9/28
+    9/14-9/25, 9/28
 
     対面'
   requirement_subject_name: 物質創成科学特別講義H
@@ -92837,7 +92860,7 @@
 - class_id: 0ATAY41
   class_outline: 海外の大学を訪問し、訪問国の教育事情を学ぶとともに、大学教員並びに大学院生との学術交流を通して、研究力の向上を目指す。
   credits: '1.0'
-  data_update_date: '2026-01-05 10:33:23'
+  data_update_date: '2026-08-26 09:57:19'
   english_name: Overseas Educational Research Practice
   enrollment_application: ×
   enrollment_requirements: ''
@@ -92845,7 +92868,7 @@
   module: 夏季休業中
   name: 海外教育調査実習
   period: 集中
-  remarks: ''
+  remarks: 9/17-9/27
   requirement_subject_name: 海外教育調査実習
   room: ''
   short_term_students_application: ×
@@ -93005,7 +93028,7 @@
 - class_id: 0ATB031
   class_outline: 心理学研究における最先端の研究者を迎え、そのテーマについて集中的に講義を受け、議論をし、自らの研究推進に資する知識・考え方を獲得する。主として心理学全体の方法論や研究の在り方に関する世界的動向について、先端的研究者による講義・議論を通じて学び、心理学研究をする上での基盤としていくことを目的とする。
   credits: '1.0'
-  data_update_date: '2026-06-30 13:19:50'
+  data_update_date: '2026-08-28 13:30:15'
   english_name: Current Issues in Psychology M1
   enrollment_application: ×
   enrollment_requirements: ''
@@ -93024,7 +93047,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 0ATB031
-  teaching_staff: 外山 美樹,千島 雄太,前澤 知輝
+  teaching_staff: 外山 美樹,千島 雄太,前澤 知輝,三和 秀平
 - class_id: 0ATB032
   class_outline: '心理学研究における最先端の研究者を迎え、そのテーマについて集中的に講義を受け、議論をし、自らの研究推進に資する知識・考え方を獲得する。
 
@@ -117169,17 +117192,19 @@
 - class_id: 0AVC001
   class_outline: 人類が地球規模で直面する健康の維持・増進や食料の安全供給等の課題の解決には、食料が健康に及ぼす影響を科学的に理解する必要がある。本科目では、本専攻で養う専門力の3つの柱、すなわち「健康と食資源を結びつける力」「健康安全保障問題を捉える力」「食料安全保障問題を捉える力」にかかわる系統的基礎知識と俯瞰的理解力・思考力を身につける。筑波大学の教員を中心に、ボルドー大学および国立台湾大学の教員からも講義を受けることで、世界的な視野で「食料と健康」に関する問題を俯瞰する。また、研究倫理の理解のための教材(GLidD)について紹介する。
   credits: '1.0'
-  data_update_date: '2026-01-08 11:30:44'
+  data_update_date: '2026-08-24 13:37:25'
   english_name: Introduction of Agro-Biomedical Science
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 夏季休業中
+  module: '秋A
+
+    夏季休業中'
   name: 食料健康科学概論
   period: 集中
   remarks: '英語で授業。
 
-    9/7-9/11, 10/1
+    10/1,9/7-9/11
 
     主専攻必修科目。
 
@@ -117339,17 +117364,19 @@
 - class_id: 0AVC016
   class_outline: 食と健康に関わる課題は、健康障害や生活習慣病、食料の確保問題、医療費削減や環境問題など社会・科学・ビジネスなど様々な要素が密接にかかわり、また、身近な問題から地球規模課題まで幅広く存在する。本グループセミナーでは、まず、学生グループごとに「食と健康に関わる課題」を見つけ出し、課題に関連する社会的背景、科学的背景、ビジネス的背景を調査する。そのうえで、調査に基づき、課題解決案を研究、社会実践、事業価値としての要素を含む形でまとめてグループ発表を行う。グループセミナーの中では、学生グループによる調査・議論等に加え、関連企業・研究所等へのエクスカーション、ビジネス的思考トレーニングも実施する(コロナウイルスの感染状況により一部変更の可能性がある)。
   credits: '1.0'
-  data_update_date: '2026-01-08 11:50:57'
+  data_update_date: '2026-08-24 13:38:58'
   english_name: Agro-Biomedical Science Group seminar
   enrollment_application: ×
   enrollment_requirements: ''
   method: '2'
-  module: 夏季休業中
+  module: '秋A
+
+    夏季休業中'
   name: 食料健康科学グループセミナー
   period: 集中
   remarks: '英語で授業。
 
-    9/4, 9/7, 9/9-9/11, 9/14-9/16, 9/24-9/25, 9/28-30, 10/2
+    10/2,9/4, 9/7, 9/9-9/11, 9/14-9/16, 9/24-9/25, 9/28-30
 
     所属主専攻の科目番号で履修登録すること。
 
@@ -123476,7 +123503,7 @@
 - class_id: 0BD5001
   class_outline: 研究指導教員によって行われるセミナー形式の授業である.春学期に開講し,学生各自による研究テーマの絞り込み,博士論文の研究計画書作成を指導し,研究テーマ発表会に臨める形を目標にする.初回は,情報倫理・研究倫理の説明を含めた学位取得に関するガイダンスを行なうので出来るだけ出席すること.
   credits: '2.0'
-  data_update_date: '2026-04-11 11:36:55'
+  data_update_date: '2026-08-25 16:03:58'
   english_name: Advanced Seminar in Business Management I-I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -123494,7 +123521,7 @@
   standard_course_year: '1'
   subject_code: 02FA141
   teaching_staff: 領家 美奈,佐藤 秀典,伴 正隆,津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,山田 雄二,佐藤
-    忠彦,立本 博文,中村 亮介,尾碕 幸謙,吉田 光男,倉橋 節也
+    忠彦,立本 博文,中村 亮介,尾碕 幸謙,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BD5002
   class_outline: 本講義では、消費者及び企業の行動をモデル化し、マーケティング上有用な高次情報を抽出するための統計的モデリング法について検討を行う。具体的には、階層ベイズモデル手法及びそれらの適用事例について紹介し、関連する知識と研究方法を体得するとともに、最新のマーケティング・サイエンスアプローチを議論する。本講義のキーワードは,ベイジアンモデリング,階層ベイズモデル,マルコフ連鎖モンテカルロ法,市場反応モデル,離散選択モデル等である.
   credits: '1.0'
@@ -124450,7 +124477,7 @@
 - class_id: 0BDM111
   class_outline: 研究指導教員の方針の下で,複数の関連指導教員によって行われるセミナー形式の授業である.春学期に開講し,学生各自の研究テーマに関連する既存の研究のサーベイについて指導する.
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-08-25 15:37:16'
   english_name: Advanced Seminar in Business Management I-II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -124466,11 +124493,11 @@
   standard_course_year: '1'
   subject_code: 02FA142
   teaching_staff: 領家 美奈,佐藤 秀典,伴 正隆,津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,山田 雄二,佐藤
-    忠彦,立本 博文,中村 亮介,尾碕 幸謙,吉田 光男,倉橋 節也
+    忠彦,立本 博文,中村 亮介,尾碕 幸謙,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM121
   class_outline: 研究指導教員の方針の下で,複数の関連指導教員によって行われるセミナー形式の授業である.秋学期に開講し,春学期に引き続き,学生各自の研究テーマと研究方法の修得・補強について指導する.
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-08-25 15:38:11'
   english_name: Advanced Seminar in Business Management II-I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -124486,11 +124513,11 @@
   standard_course_year: '1'
   subject_code: 02FA146
   teaching_staff: 領家 美奈,佐藤 秀典,伴 正隆,津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,山田 雄二,佐藤
-    忠彦,立本 博文,中村 亮介,尾碕 幸謙,吉田 光男,倉橋 節也
+    忠彦,立本 博文,中村 亮介,尾碕 幸謙,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM122
   class_outline: 研究指導教員の方針の下で,複数の関連指導教員によって行われるセミナー形式の授業である.秋学期に開講し,学生各自に対して研究テーマに関連する既存の研究の徹底的なサーベイ,研究方法の習得・補強について指導する.
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-08-25 15:44:48'
   english_name: Advanced Seminar in Business Management II-II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -124506,11 +124533,11 @@
   standard_course_year: '1'
   subject_code: 02FA147
   teaching_staff: 領家 美奈,佐藤 秀典,伴 正隆,徐 ?,津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,山田
-    雄二,佐藤 忠彦,立本 博文,中村 亮介,尾碕 幸謙,吉田 光男,倉橋 節也
+    雄二,佐藤 忠彦,立本 博文,中村 亮介,尾碕 幸謙,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM123
   class_outline: 研究指導教員の方針の下で,複数の関連指導教員によって行われるセミナー形式の授業である.秋学期に開講し,学生各自に対して研究テーマに関連するサーベイ・レポートとしてのまとめを指導し,「博士論文指導委員会」に報告できる形を目標とする.
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-08-25 15:45:25'
   english_name: Advanced Seminar in Business Management II-III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -124526,11 +124553,11 @@
   standard_course_year: '1'
   subject_code: 02FA148
   teaching_staff: 領家 美奈,佐藤 秀典,伴 正隆,津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,山田 雄二,佐藤
-    忠彦,立本 博文,中村 亮介,尾碕 幸謙,吉田 光男,倉橋 節也
+    忠彦,立本 博文,中村 亮介,尾碕 幸謙,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM131
   class_outline: 研究指導教員によって,または研究指導教員の方針の下で複数の関連指導教員によって行われるセミナー形式の授業である.春学期に開講し,学生各自に対して研究テーマに沿った研究の継続を促し,博士論文の骨格となる部分の構築を指導する.
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-08-25 15:45:50'
   english_name: Advanced Research Seminar in Business Management I-I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -124546,11 +124573,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA161
   teaching_staff: 中村 亮介,佐藤 秀典,伴 正隆,津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田
-    雄二,佐藤 忠彦,立本 博文,尾碕 幸謙,吉田 光男,倉橋 節也
+    雄二,佐藤 忠彦,立本 博文,尾碕 幸謙,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM132
   class_outline: 研究指導教員の方針の下で,複数の関連指導教員によって行われるセミナー形式の授業である.春学期に開講する.学生各自に対して研究テーマに沿った研究の継続を促し,関連指導教員の協力を得て,構築した論文骨格を批判的視点から見つめ直すことを促す.
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-08-25 15:46:19'
   english_name: Advanced Research Seminar in Business Management I-II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -124566,11 +124593,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA162
   teaching_staff: 中村 亮介,佐藤 秀典,伴 正隆,津田 和彦,西尾 チヅル,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本
-    博文,尾碕 幸謙,吉田 光男,ベントン キャロライン,倉橋 節也
+    博文,尾碕 幸謙,吉田 光男,ベントン キャロライン,倉橋 節也,池田 めぐみ
 - class_id: 0BDM133
   class_outline: 研究指導教員の方針の下で,複数の関連指導教員によって行われるセミナー形式の授業である,春学期に開講し,学生各自に対して研究テーマに沿った研究の継続、博士論文の骨格部分について中間報告書としてまとめを促し,中間発表会で報告できる形を目標とする.
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-08-25 15:46:43'
   english_name: Advanced Research Seminar in Business Management I-III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -124586,11 +124613,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA163
   teaching_staff: 中村 亮介,佐藤 秀典,伴 正隆,津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田
-    雄二,佐藤 忠彦,立本 博文,尾碕 幸謙,吉田 光男,倉橋 節也
+    雄二,佐藤 忠彦,立本 博文,尾碕 幸謙,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM141
   class_outline: 研究指導教員によって,または研究指導教員の方針の下で複数の関連指導教員によって行われるセミナー形式の授業である.秋学期に開講する.学生各自に対して研究テーマに関連する博士論文の書き方(論文構成,表現方法,文献引用等)を指導する.論文ドラフトの完成を促し,論文ドラフト発表会に臨める形を目標とする.
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-08-25 15:47:08'
   english_name: Advanced Research Seminar in Business Management II-I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -124606,11 +124633,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA167
   teaching_staff: 中村 亮介,佐藤 秀典,伴 正隆,津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田
-    雄二,佐藤 忠彦,立本 博文,尾碕 幸謙,吉田 光男,倉橋 節也
+    雄二,佐藤 忠彦,立本 博文,尾碕 幸謙,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM142
   class_outline: 研究指導教員の方針の下で,複数の関連指導教員によって行われるセミナー形式の授業である.秋学期に開講し,学生各自に対して研究テーマに関連する博士論文の執筆を促し,論文ドラフト発表会の質疑応答をふまえて,論文の完成度を高めることを目標とする.
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-08-25 15:47:34'
   english_name: Advanced Research Seminar in Business Management II-II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -124626,11 +124653,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA168
   teaching_staff: 中村 亮介,佐藤 秀典,伴 正隆,津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田
-    雄二,佐藤 忠彦,立本 博文,尾碕 幸謙,吉田 光男,倉橋 節也
+    雄二,佐藤 忠彦,立本 博文,尾碕 幸謙,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM143
   class_outline: 研究指導教員の方針の下で,複数の関連指導教員によって行われるセミナー形式の授業である.秋学期に開講し,学生各自に対して研究テーマに関連する博士論文の完成を促し,論文審査委員会に提出できる形を目標とする.
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-08-25 15:48:04'
   english_name: Advanced Research Seminar in Business Management II-III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -124646,7 +124673,7 @@
   standard_course_year: 1 - 3
   subject_code: 02FA169
   teaching_staff: 中村 亮介,佐藤 秀典,伴 正隆,津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田
-    雄二,佐藤 忠彦,立本 博文,尾碕 幸謙,吉田 光男,倉橋 節也
+    雄二,佐藤 忠彦,立本 博文,尾碕 幸謙,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM201
   class_outline: 本講義では、市場のニーズを充足する製品・サービスを提供し、それを普及・浸透させ、顧客とのよい関係を長期的に形成・維持するために必要なコミュニケーションとその方法について検討する。具体的には、ブランド構築、広告コミュニケーション、セールスプロモーション、顧客維持などに関する国内外の諸文献を講読し、関連する知識と研究方法を体得すると共に、いくつかの具体的なテーマを設定して、マーケティングコミュニケーションの展開方法を議論する。
   credits: '1.0'
@@ -125110,7 +125137,7 @@
 - class_id: 0BDM281
   class_outline: 春学期に開講し,ビジネス・マネジメントの領域で登場する,経営戦略・経営組織,マーケティング,会計,ファイナンスなどのコア科目,ならびに,現代の経営を高度化する上で重要となる計量分析に代表される数理科学やシステム科学,情報学関連科目について,文献輪読による理解の深化をはかる.ここでは,受講生の要望に合わせて,各分野における基本的理論から先端的な理論や分析手法,事例に関する文献や著書等を輪読する.
   credits: '1.0'
-  data_update_date: '2025-10-20 08:03:20'
+  data_update_date: '2026-08-25 15:48:43'
   english_name: Reading in Business Management I-I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -125128,11 +125155,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA421
   teaching_staff: 津田 和彦,西尾 チヅル,ベントン キャロライン,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本
-    博文,中村 亮介,尾碕 幸謙,礪波 亜希,佐藤 秀典,伴 正隆,吉田 光男,倉橋 節也
+    博文,中村 亮介,尾碕 幸謙,礪波 亜希,佐藤 秀典,伴 正隆,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM282
   class_outline: ビジネスマネジメント輪講I-Iの履修を踏まえ,春学期に開講し,ビジネス・マネジメントの領域で登場する,経営戦略・経営組織,マーケティング,会計,ファイナンスなどのコア科目,ならびに,現代の経営を高度化する上で重要となる計量分析に代表される数理科学やシステム科学,情報学関連科目について,文献輪読による理解の深化をはかる.ここでは,受講生の要望に合わせて,各分野における基本的理論から先端的な理論や分析手法,事例に関する文献や著書等を輪読する.
   credits: '1.0'
-  data_update_date: '2025-10-20 08:03:20'
+  data_update_date: '2026-08-25 15:49:15'
   english_name: Reading in Business Management I-II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -125150,11 +125177,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA422
   teaching_staff: 津田 和彦,西尾 チヅル,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本 博文,中村 亮介,尾碕
-    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也
+    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM283
   class_outline: ビジネスマネジメント輪講I-IIの履修を踏まえ,春学期に開講し,ビジネス・マネジメントの領域で登場する,経営戦略・経営組織,マーケティング,会計,ファイナンスなどのコア科目,ならびに,現代の経営を高度化する上で重要となる計量分析に代表される数理科学やシステム科学,情報学関連科目について,文献輪読による理解の深化をはかる.ここでは,受講生の要望に合わせて,各分野における基本的理論から先端的な理論や分析手法,事例に関する文献や著書等を輪読する.
   credits: '1.0'
-  data_update_date: '2025-10-20 08:03:20'
+  data_update_date: '2026-08-25 15:49:39'
   english_name: Reading in Business Management I-III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -125172,11 +125199,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA423
   teaching_staff: 津田 和彦,西尾 チヅル,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本 博文,中村 亮介,尾碕
-    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也
+    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM284
   class_outline: 秋学期に開講し,ビジネス・マネジメントの領域で登場する,経営戦略・経営組織,マーケティング,会計,ファイナンスなどのコア科目,ならびに,現代の経営を高度化する上で重要となる計量分析に代表される数理科学やシステム科学,情報学関連科目について,文献輪読による理解の深化をはかる.ここでは,受講生の要望に合わせて,各分野における基本的理論から先端的な理論や分析手法,事例に関する文献や著書等を輪読する.
   credits: '1.0'
-  data_update_date: '2025-10-20 08:03:20'
+  data_update_date: '2026-08-25 15:50:01'
   english_name: Reading in Business Management II-I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -125194,11 +125221,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA424
   teaching_staff: 津田 和彦,西尾 チヅル,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本 博文,中村 亮介,尾碕
-    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也
+    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM285
   class_outline: ビジネスマネジメント輪講II-Iの履修を踏まえ,秋学期に開講し,ビジネス・マネジメントの領域で登場する,経営戦略・経営組織,マーケティング,会計,ファイナンスなどのコア科目,ならびに,現代の経営を高度化する上で重要となる計量分析に代表される数理科学やシステム科学,情報学関連科目について,文献輪読による理解の深化をはかる.ここでは,受講生の要望に合わせて,各分野における基本的理論から先端的な理論や分析手法,事例に関する文献や著書等を輪読する.
   credits: '1.0'
-  data_update_date: '2025-10-20 08:03:20'
+  data_update_date: '2026-08-25 16:01:26'
   english_name: Reading in Business Management II-II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -125216,11 +125243,11 @@
   standard_course_year: 1 - 3
   subject_code: 02FA425
   teaching_staff: 津田 和彦,西尾 チヅル,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本 博文,中村 亮介,佐藤
-    秀典,尾碕 幸謙,伴 正隆,礪波 亜希,ベントン キャロライン,吉田 光男,倉橋 節也
+    秀典,尾碕 幸謙,伴 正隆,礪波 亜希,ベントン キャロライン,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM286
   class_outline: ビジネスマネジメント輪講II-IIの履修を踏まえ,秋学期に開講し,ビジネス・マネジメントの領域で登場する,経営戦略・経営組織,マーケティング,会計,ファイナンスなどのコア科目,ならびに,現代の経営を高度化する上で重要となる計量分析に代表される数理科学やシステム科学,情報学関連科目について,文献輪読による理解の深化をはかる.ここでは,受講生の要望に合わせて,各分野における基本的理論から先端的な理論や分析手法,事例に関する文献や著書等を輪読する.
   credits: '1.0'
-  data_update_date: '2025-10-20 08:03:20'
+  data_update_date: '2026-08-25 16:01:51'
   english_name: Reading in Business Management II-III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -125238,7 +125265,7 @@
   standard_course_year: 1 - 3
   subject_code: 02FA426
   teaching_staff: 津田 和彦,西尾 チヅル,牧本 直樹,猿渡 康文,木野 泰伸,領家 美奈,山田 雄二,佐藤 忠彦,立本 博文,中村 亮介,尾碕
-    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也
+    幸謙,礪波 亜希,佐藤 秀典,伴 正隆,ベントン キャロライン,吉田 光男,倉橋 節也,池田 めぐみ
 - class_id: 0BDM291
   class_outline: この講義では、近年の経営組織論分野における研究を取り上げ、そこで用いられている理論および分析のための手法について検討する。経営組織論における研究では、対象とする現象が組織内の個人に焦点を当てるものから組織間のネットワークに焦点を当てるものまで多岐にわたるため、用いられる理論も多様である。また、分析のための手法も定性的アプローチ、定量的アプローチの両方を含み、様々なものが用いられている。そのため、実際の研究の詳細を見ることで、理論の理解を深めるとともに、主要な研究手法についても学ぶ。それにより、自らの研究に生かせるようにすることを目指す。
   credits: '1.0'
@@ -137761,6 +137788,8 @@
   remarks: '英語での対面授業。詳細はmanabaにて周知予定。
 
     英語で授業。
+
+    12/12-12/13,12/19-12/20
 
     対面'
   requirement_subject_name: 環境学フォーラムII
@@ -153610,7 +153639,7 @@
 
     アジアとの比較から日本の文化、デザインを捉えなおす力も身につけます。'
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-26 10:11:33'
   english_name: Design and Culture in South Asia
   enrollment_application: ×
   enrollment_requirements: ''
@@ -175677,7 +175706,7 @@
 - class_id: 33K2012
   class_outline: 初修者を対象にしたこのフランス語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-17 10:29:41'
+  data_update_date: '2026-08-25 09:08:16'
   english_name: Basic French AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -178936,7 +178965,7 @@
 - class_id: '3672002'
   class_outline: このコースでは、DELE A2試験の4つのパート(読解、文章表現、聞き取り、口頭試験)を体験し、テストに合格するための戦略とコツを学ぶ。受講者は、本学のスペイン語の1年次科目と2年次科目をすべて履修しているか、少なくともCEFRのA1よりも上のレベルを有していることが求められる。
   credits: '1.0'
-  data_update_date: '2026-07-23 16:50:40'
+  data_update_date: '2026-08-25 10:22:12'
   english_name: DELE A2 Practice
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -179329,7 +179358,7 @@
 - class_id: 36K2012
   class_outline: 初修者を対象にしたこのスペイン語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-06-30 10:36:36'
+  data_update_date: '2026-08-25 12:09:24'
   english_name: Basic Spanish AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -182346,7 +182375,7 @@
 - class_id: '3920812'
   class_outline: 日本語を総合的かつ集中的に習得する過程において、アグロノミスト養成コース担当教員から基礎的な知識、専門用語を習得することにより、農学に対する学習意欲を向上させ、今後の専門分野コースへの導入を行う。
   credits: '1.0'
-  data_update_date: '2026-01-22 15:11:04'
+  data_update_date: '2026-08-24 15:01:39'
   english_name: Japan-Expert Japanese for Special Purposes (Agricultural Science Course)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -182364,7 +182393,7 @@
   standard_course_year: '1'
   subject_code: '3920812'
   teaching_staff: 生物資源学類長,柴 博史,吉岡 洋輔,清野 達之,高橋 真哉,松山 茂,青柳 秀紀,古川 純,橋本 義輝,トファエル アハメド,小林
-    幹佳,内海 真生,水野谷 剛,興梠 克久,首藤 久人
+    幹佳,内海 真生,水野谷 剛,興梠 克久,首藤 久人,古川 誠一
 - class_id: '3920822'
   class_outline: 日本語を総合的かつ集中的に習得する過程において、ヘルスケアコース担当教員から、基礎的な知識、専門用語、会話表現を習得することにより、日本語に対する学習意欲を向上させ、今後の専門分野コースへの導入を行う。
   credits: '1.0'
@@ -182391,7 +182420,7 @@
 - class_id: '3920832'
   class_outline: 日本語を総合的かつ集中的に習得する過程において、日本芸術コース担当教員から、基礎的な知識、専門用語、会話表現を習得することにより、日本語に対する学習意欲を向上させ、今後の専門分野コースへの導入を行う。
   credits: '1.0'
-  data_update_date: '2026-01-12 09:03:31'
+  data_update_date: '2026-08-24 15:03:17'
   english_name: Japan-Expert Japanese for Special Purposes (Art and Design Course)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -182412,7 +182441,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: '3920832'
-  teaching_staff: 山本 浩之,武田 一文,直江 俊雄,福満 正志郎,宮坂 慎司,尾川 明穂,田島 直樹,大友 邦子,宮原 克人,小野 裕子,マクラウド
+  teaching_staff: 原 忠信,山本 浩之,武田 一文,直江 俊雄,福満 正志郎,宮坂 慎司,尾川 明穂,田島 直樹,大友 邦子,宮原 克人,小野 裕子,マクラウド
     ギャリー ロデリック,加藤 研,菅野 圭祐,山田 博之
 - class_id: '3920842'
   class_outline: 日本語を総合的かつ集中的に習得する過程において、日本語教師養成コース担当教員から、基礎的な知識、専門用語を習得することにより、日本語に対する学習意欲を向上させ、今後の専門分野コースへの導入を行う。
@@ -188212,6 +188241,25 @@
   standard_course_year: 1 - 4
   subject_code: '8331303'
   teaching_staff: 福嶋 美佐子
+- class_id: '8331353'
+  class_outline: 秋学期ないし春季休業期間に国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人大学院生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
+  credits: '1.0'
+  data_update_date: '2026-08-25 11:25:42'
+  english_name: Problem solving through multicultural co-learning (in Japan) B 2026
+  enrollment_application: ×
+  enrollment_requirements: ''
+  method: '3'
+  module: 秋学期
+  name: 多文化共修による課題解決実習(国内)B 2026
+  period: 随時
+  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。
+  requirement_subject_name: 多文化共修による課題解決実習(国内)B 2026
+  room: ''
+  short_term_students_application: ×
+  short_term_students_requirements: ''
+  standard_course_year: 1 - 4
+  subject_code: '8331353'
+  teaching_staff: 福嶋 美佐子
 - class_id: '8331403'
   class_outline: 春学期ないし夏季休業期間に海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
@@ -189433,7 +189481,7 @@
 - class_id: '9434034'
   class_outline: 「中等英語科教育法Ia」の学修を基盤として、さらに英語科教育の理論的側面を概観するとともに,中・高における英語指導の基本的な知識と技術を体得する。授業においては,個人やグループでの作業,ディスカッションなどへの積極的な参加が求められる。
   credits: '1.0'
-  data_update_date: '2025-01-16 11:26:14'
+  data_update_date: '2026-08-28 11:41:45'
   english_name: Methodology of English Language Education I b
   enrollment_application: △
   enrollment_requirements: ''
@@ -189448,7 +189496,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: '9434034'
-  teaching_staff: 平井 明代,柳沢 明文
+  teaching_staff: 平井 明代,柳沢 明文,岡 秀亮
 - class_id: '9434064'
   class_outline: 「中等英語科教育法Ia, b」の学修を発展させ,主に英語科教育の実践的側面を概観するとともに,模擬授業を中心に,高校における英語指導に役立つ実践的な知識と技術を体得する。
   credits: '1.0'
@@ -189986,7 +190034,7 @@
 - class_id: '9453101'
   class_outline: 学校数学の内容をどのような考えを背景に構成し得るのか。例えば、何故、そこでその内容を指導するのか、その説明理論を教材とともに検討する。
   credits: '2.0'
-  data_update_date: '2026-04-02 13:07:51'
+  data_update_date: '2026-08-28 16:15:45'
   english_name: Instructional Materials in Mathematics
   enrollment_application: △
   enrollment_requirements: ''
@@ -190539,7 +190587,7 @@
 - class_id: '9475001'
   class_outline: 美術科教育における学習指導と教材開発のための基礎的な観点や方法について概説する。
   credits: '1.0'
-  data_update_date: '2026-06-01 17:21:58'
+  data_update_date: '2026-08-28 09:32:15'
   english_name: Teaching Method of Art Education I
   enrollment_application: △
   enrollment_requirements: ''
@@ -196205,14 +196253,14 @@
 - class_id: AB71A61
   class_outline: 私文書を中心に近代史料の検討を行う。
   credits: '1.0'
-  data_update_date: '2023-12-27 11:38:03'
+  data_update_date: '2026-08-26 15:27:41'
   english_name: Sources of Japanese History III-b
   enrollment_application: ''
   enrollment_requirements: ''
   method: '1'
   module: 秋AB
   name: 日本史史料学III-b
-  period: 金4
+  period: 水4
   remarks: 対面
   requirement_subject_name: 日本史史料学III-b
   room: ''
@@ -196220,7 +196268,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2・3
   subject_code: AB71A61
-  teaching_staff: 田中 友香理
+  teaching_staff: 中野目 徹
 - class_id: AB71B11
   class_outline: ''
   credits: '1.0'
@@ -196245,14 +196293,14 @@
 - class_id: AB71B21
   class_outline: ''
   credits: '1.0'
-  data_update_date: '2026-04-20 17:16:01'
+  data_update_date: '2026-08-26 16:29:10'
   english_name: Topics in Japanese History I-b
   enrollment_application: ''
   enrollment_requirements: ''
   method: '1'
-  module: 秋AB
+  module: 秋C
   name: 日本史特講I-b
-  period: 金2
+  period: 集中
   remarks: '西暦偶数年度開講。
 
     対面'
@@ -196471,7 +196519,7 @@
 - class_id: AB71E42
   class_outline: ''
   credits: '2.0'
-  data_update_date: '2026-01-19 20:46:06'
+  data_update_date: '2026-08-26 14:25:04'
   english_name: Seminar in Japanese History II-b
   enrollment_application: ''
   enrollment_requirements: ''
@@ -196486,11 +196534,11 @@
   short_term_students_requirements: ''
   standard_course_year: 2 - 4
   subject_code: AB71E42
-  teaching_staff: 田中 友香理
+  teaching_staff: 中野目 徹
 - class_id: AB71G23
   class_outline: ''
   credits: '1.0'
-  data_update_date: '2026-01-09 18:49:29'
+  data_update_date: '2026-08-26 14:16:31'
   english_name: Training in the Studying of Japanese History-B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -196509,7 +196557,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2 - 4
   subject_code: AB71G23
-  teaching_staff: 田中 友香理
+  teaching_staff: 中野目 徹
 - class_id: AB71G33
   class_outline: 史跡・展示施設を訪問し、史料・遺物を実見することで、日本古代史を立体的に学習する。
   credits: '1.0'
@@ -227289,7 +227337,7 @@
 - class_id: CA10061
   class_outline: 「障害科学」についての基礎的な知識を教授するとともに、その領域についての展望を提示する。前半は「障害原理論・特別支援教育学の立場から障害科学を捉える」、後半は「障害福祉学の立場から障害科学を捉える」で構成する。
   credits: '2.0'
-  data_update_date: '2026-03-06 14:05:54'
+  data_update_date: '2026-08-29 15:23:18'
   english_name: Introduction to Disabilities Sciences II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -229019,7 +229067,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: CB23561
-  teaching_staff: 北川 智久,笠 雷太
+  teaching_staff: 笠 雷太
 - class_id: CB23571
   class_outline: 『学習指導要領解説 家庭編』の内容にも触れながら、家庭科の授業における教師の役割や育みたい力について、実際の子どもたちの姿と関連づけながら考えていく。また、調理や被服製作の実習や模擬授業を通して、安全上の配慮や個に応じた指導についても具体的な方法を検討する。さらに、担当教員の長年の小学校における経験(現在を含む)から、今日的な課題(少子高齢化・児童虐待の増加など)の家庭科授業への生かし方について学ぶ。
   credits: '2.0'
@@ -232171,7 +232219,7 @@
 - class_id: CE11131
   class_outline: 障害者総合支援法・児童福祉法による障害福祉に関わるサービス及び相談支援を中心に説明するとともに、障害者虐待防止法、障害者雇用促進法、バリアフリー新法、医療観察法などの他の法制度について紹介して、専門職連携も含めた障害者の生活支援について基盤と課題を論じる。
   credits: '1.0'
-  data_update_date: '2023-02-07 13:48:19'
+  data_update_date: '2026-08-29 15:25:20'
   english_name: Lectures on Welfare of Persons with Disabilities II
   enrollment_application: ''
   enrollment_requirements: ''
@@ -232190,7 +232238,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: CE11131
-  teaching_staff: 森地 徹,大村 美保
+  teaching_staff: 森地 徹
 - class_id: CE11141
   class_outline: 障害のある子どもの教育に係る基礎的事項を理解する。障害者教育基礎理論Iでは、とくに国内外の歴史、教育を支える思想や理念、教育の発展にかかわる背景的要因などを中心に学ぶ。
   credits: '1.0'
@@ -232728,12 +232776,14 @@
 - class_id: CE21928
   class_outline: 指導教員の指導の下で卒業研究を完成させる。
   credits: '4.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-29 15:26:01'
   english_name: Graduation Thesis II
   enrollment_application: ×
   enrollment_requirements: ''
   method: '8'
-  module: 通年
+  module: '春ABC
+
+    秋ABC'
   name: 卒業研究II
   period: 随時
   remarks: 対面(オンライン併用型)
@@ -232743,13 +232793,17 @@
   short_term_students_requirements: ''
   standard_course_year: '4'
   subject_code: CE21928
-  teaching_staff: 左藤 敦子,三盃 亜美,丹治 敬之,大村 美保,宮内 久絵,佐々木 銀河,名川 勝,岡 典子,柿澤 敏文,野呂 文行,宮本 昌子,山田
+  teaching_staff: '左藤 敦子,三盃 亜美,丹治 敬之,大村 美保,宮内 久絵,佐々木 銀河,名川 勝,岡 典子,柿澤 敏文,野呂 文行,宮本 昌子,山田
     実,小島 道生,佐島 毅,八重田 淳,山中 克夫,米田 宏樹,和田 恒彦,森地 徹,工藤 滋,小渕 千絵,河野 禎之,魚野 翔太,飯村 大智,石塚 祐香,藤本
     啓寛,林 小百合,前原 和明,沖中 美世乃,玉井 伸典,鈴木 寿人,細川 大瑛
+
+    左藤 敦子,三盃 亜美,丹治 敬之,宮内 久絵,佐々木 銀河,名川 勝,岡 典子,柿澤 敏文,野呂 文行,宮本 昌子,山田 実,小島 道生,佐島 毅,八重田
+    淳,山中 克夫,米田 宏樹,和田 恒彦,森地 徹,工藤 滋,小渕 千絵,河野 禎之,魚野 翔太,飯村 大智,石塚 祐香,藤本 啓寛,林 小百合,前原 和明,沖中
+    美世乃,玉井 伸典,鈴木 寿人,細川 大瑛'
 - class_id: CE21948
   class_outline: ''
   credits: '4.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-29 15:26:31'
   english_name: Graduation Thesis II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -234054,12 +234108,14 @@
 - class_id: CE31851
   class_outline: ソーシャルワーク実習の意義について学ぶ。さらに、相談援助にかかわる知識と技術について、具体的かつ実際的に理解し実践的な技術を体得する。
   credits: '3.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-29 15:27:36'
   english_name: Coaching for Social work practice
   enrollment_application: △
   enrollment_requirements: ''
   method: '1'
-  module: 通年
+  module: '春ABC
+
+    秋ABC'
   name: ソーシャルワーク実習指導
   period: 随時
   remarks: '社会福祉士国家試験受験資格指定科目。ソーシャルワーク実習と合わせて履修すること。2012年度までのCE31591と同一。
@@ -234071,7 +234127,9 @@
   short_term_students_requirements: ''
   standard_course_year: 3・4
   subject_code: CE31591
-  teaching_staff: 森地 徹,名川 勝,山中 克夫,大村 美保,河野 禎之,藤本 啓寛
+  teaching_staff: '森地 徹,名川 勝,山中 克夫,大村 美保,河野 禎之,藤本 啓寛
+
+    森地 徹,名川 勝,山中 克夫,河野 禎之,藤本 啓寛'
 - class_id: CE31873
   class_outline: 社会福祉士という専門職の現場における専門性,専門職倫理とその役割を理解し,さらに,対象者(施設利用者)との実際場面における関わりを通して相談援助職のあり方と意義を体験的に学ぶ。実習に加え,事前・事後指導ならびに教員による週1回の巡回指導を含む。
   credits: '6.0'
@@ -234371,7 +234429,7 @@
 - class_id: CE33063
   class_outline: 福祉事務所において社会福祉士という専門職の現場における専門性,専門職倫理とその役割を理解する。実習に加え,事前・事後指導ならびに教員による巡回指導を含む。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-29 15:29:12'
   english_name: Practice Teaching on Social Work I
   enrollment_application: △
   enrollment_requirements: ''
@@ -234396,22 +234454,14 @@
 - class_id: CE33073
   class_outline: 福祉施設及び機関において社会福祉士という専門職の現場における専門性,専門職倫理とその役割を理解する。実習に加え,事前・事後指導ならびに教員による巡回指導を含む。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-29 15:29:34'
   english_name: Practice Teaching on Social Work II
   enrollment_application: △
   enrollment_requirements: ''
   method: '3'
-  module: '春C
+  module: '秋学期
 
-    秋A
-
-    秋B
-
-    秋C
-
-    春季休業中
-
-    夏季休業中'
+    春C夏季休業中'
   name: ソーシャルワーク実習II
   period: 随時
   remarks: '社会福祉士国家試験受験指定科目、2021年度以降の入学者で社会福祉士国家試験受験資格取得希望者に限る。
@@ -234427,20 +234477,20 @@
   short_term_students_requirements: ''
   standard_course_year: 2・3
   subject_code: CE33073
-  teaching_staff: 森地 徹,名川 勝,山中 克夫,大村 美保,河野 禎之,藤本 啓寛
+  teaching_staff: '森地 徹,名川 勝,山中 克夫,河野 禎之,藤本 啓寛
+
+    森地 徹,名川 勝,山中 克夫,大村 美保,河野 禎之,藤本 啓寛'
 - class_id: CE33083
   class_outline: 社会福祉士という専門職の現場における専門性,専門職倫理とその役割を理解し,さらに,対象者(施設利用者)との実際場面における関わりを通して相談援助職のあり方と意義を体験的に学ぶ。実習に加え,事前・事後指導ならびに教員による週1回の巡回指導を含む。
   credits: '6.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-29 15:29:58'
   english_name: Practice Teaching on Social Work III
   enrollment_application: △
   enrollment_requirements: ''
   method: '3'
-  module: '春C
+  module: '秋A
 
-    秋A
-
-    夏季休業中'
+    春C夏季休業中'
   name: ソーシャルワーク実習III
   period: 随時
   remarks: '社会福祉士国家試験受験指定科目、2021年度以降の入学者で社会福祉士国家試験受験資格取得希望者もしくは福祉科の教員免許の取得希望者に限る。CE31873と同一。
@@ -234456,7 +234506,9 @@
   short_term_students_requirements: ''
   standard_course_year: 3・4
   subject_code: CE33083
-  teaching_staff: 森地 徹,名川 勝,山中 克夫,大村 美保,河野 禎之,藤本 啓寛
+  teaching_staff: '森地 徹,名川 勝,山中 克夫,河野 禎之,藤本 啓寛
+
+    森地 徹,名川 勝,山中 克夫,大村 美保,河野 禎之,藤本 啓寛'
 - class_id: EB00001
   class_outline: 本講義では、分子細胞生物学、遺伝学、進化系統学、生態学、動物および植物生理学など生物学全般について基礎から解説し、生物学の知識を身につけ生命現象についての理解を深めることをめざす。
   credits: '1.0'
@@ -246932,14 +246984,14 @@
 - class_id: EE51968
   class_outline: 指導教員の下で卒業研究を行い、論文にまとめて発表・提出する。
   credits: '12.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-25 11:53:25'
   english_name: Graduation Thesis
   enrollment_application: ×
   enrollment_requirements: ''
   method: '8'
   module: 通年
   name: 卒業研究
-  period: 随時
+  period: 応談
   remarks: 対面
   requirement_subject_name: 卒業研究
   room: ''
@@ -253441,14 +253493,14 @@
 - class_id: FB13901
   class_outline: 卒業研究の指導教員を選び,その指導教員のもとで,卒業研究に必要となる基礎知識を習得する.
   credits: '3.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-25 11:55:35'
   english_name: Introduction to the Study of Graduation Thesis
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
   module: 秋BC
   name: 卒業予備研究
-  period: 随時
+  period: 応談
   remarks: '数学類生に限る.
 
     対面'
@@ -253709,14 +253761,14 @@
 - class_id: FB14908
   class_outline: 卒業予備研究で学んだ内容を活用し,より最先端の数学を学び,研究し,卒業研究として発表する.
   credits: '9.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-25 11:55:12'
   english_name: Graduation Thesis
   enrollment_application: ×
   enrollment_requirements: ''
   method: '8'
   module: 通年
   name: 卒業研究
-  period: 随時
+  period: 応談
   remarks: '数学類生に限る.
 
     対面'
@@ -256421,14 +256473,14 @@
 - class_id: FCC4808
   class_outline: 各自の指導教員の下で研究を行い、結果を論文にまとめて提出するとともに、口頭で発表を行う。
   credits: '10.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-25 11:56:27'
   english_name: Graduation Thesis
   enrollment_application: ×
   enrollment_requirements: ''
   method: '8'
   module: 通年
   name: 卒業研究
-  period: 随時
+  period: 応談
   remarks: '3年次にCEGLOCが実施する英語試験(TOEIC IP等)を受験していること。
 
     対面'
@@ -256442,14 +256494,14 @@
 - class_id: FCC4818
   class_outline: 各自の指導教員の下で研究を行い、結果を論文にまとめて提出するとともに、口頭で発表を行う。
   credits: '5.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-25 11:56:48'
   english_name: ''
   enrollment_application: ×
   enrollment_requirements: ''
   method: '8'
   module: 春ABC
   name: 卒業研究I
-  period: 随時
+  period: 応談
   remarks: '留学等、特別な事情があると認められた学生のみ履修可。履修登録は事務が行う。3年次にCEGLOCが実施する英語試験(TOEIC IP等)を受験していること。
 
     対面'
@@ -256463,14 +256515,14 @@
 - class_id: FCC4828
   class_outline: ''
   credits: '5.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-25 11:57:06'
   english_name: ''
   enrollment_application: ×
   enrollment_requirements: ''
   method: '8'
   module: 秋ABC
   name: 卒業研究I
-  period: 随時
+  period: 応談
   remarks: '留学等、特別な事情があると認められた学生のみ履修可。履修登録は事務が行う。3年次にCEGLOCが実施する英語試験(TOEIC IP等)を受験していること。
 
     対面'
@@ -256484,14 +256536,14 @@
 - class_id: FCC4838
   class_outline: 各自の指導教員の下で研究を行い、結果を論文にまとめて提出するとともに、口頭で発表を行う。
   credits: '5.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-25 11:57:30'
   english_name: ''
   enrollment_application: ×
   enrollment_requirements: ''
   method: '8'
   module: 秋ABC
   name: 卒業研究II
-  period: 随時
+  period: 応談
   remarks: '留学等、特別な事情があると認められた学生のみ履修可。履修登録は事務が行う。3年次にCEGLOCが実施する英語試験(TOEIC IP等)を受験していること。
 
     対面'
@@ -256505,14 +256557,14 @@
 - class_id: FCC4848
   class_outline: 各自の指導教員の下で研究を行い、結果を論文にまとめて提出するとともに、口頭で発表を行う。
   credits: '5.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-25 11:58:19'
   english_name: ''
   enrollment_application: ×
   enrollment_requirements: ''
   method: '8'
   module: 春ABC
   name: 卒業研究II
-  period: 随時
+  period: 応談
   remarks: '留学等、特別な事情があると認められた学生のみ履修可。履修登録は事務が行う。3年次にCEGLOCが実施する英語試験(TOEIC IP等)を受験していること。
 
     対面'
@@ -257683,14 +257735,14 @@
 - class_id: FE14808
   class_outline: 配属された研究室の指導教員の下で研究を行い、結果を論文形式にまとめて提出するとともに、口頭でも発表する。
   credits: '14.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-08-25 11:59:26'
   english_name: Graduation Thesis
   enrollment_application: ×
   enrollment_requirements: ''
   method: '8'
   module: 通年
   name: 卒業研究
-  period: 随時
+  period: 応談
   remarks: '実務経験教員
 
     対面'
@@ -263964,7 +264016,7 @@
 - class_id: FG19103
   class_outline: 動的システム、回路とコンピュータ、センサとアクチュエータ、機構、固体の力学、流体の粘性、温度の計測など、幾つかの基本的なテーマで実験を行い、基本法則、実験技術、レポートの作成方法について学ぶ。さらに製図の基礎についてもこの中で実習する。
   credits: '2.0'
-  data_update_date: '2026-04-15 07:55:23'
+  data_update_date: '2026-08-25 13:24:43'
   english_name: Basic Laboratory of Engineering Systems A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -263986,7 +264038,7 @@
 - class_id: FG19113
   class_outline: 動的システム、回路とコンピュータ、センサとアクチュエータ、機構、固体の力学、流体の粘性、温度の計測など、幾つかの基本的なテーマで実験を行い、基本法則、実験技術、レポートの作成方法について学ぶ。さらに製図の基礎についてもこの中で実習する。
   credits: '2.0'
-  data_update_date: '2026-04-15 07:56:11'
+  data_update_date: '2026-08-25 13:27:59'
   english_name: Basic Laboratory of Engineering Systems B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -271806,7 +271858,7 @@
     time, mass, force and energy for a particle. The students are required to solve
     exercises and work on homework assignments.
   credits: '2.0'
-  data_update_date: '2025-05-08 14:06:50'
+  data_update_date: '2026-08-26 17:33:31'
   english_name: Mechanics I
   enrollment_application: △
   enrollment_requirements: ''
@@ -272603,7 +272655,7 @@
 - class_id: GA15211
   class_outline: 行列の基礎概念を学び,それを基に行列演算,連立1次方程式の解法,行列式の性質や展開について講義と演習を行なう。
   credits: '2.0'
-  data_update_date: '2025-12-24 11:12:32'
+  data_update_date: '2026-08-25 07:25:38'
   english_name: Linear Algebra A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -272626,7 +272678,7 @@
 - class_id: GA15221
   class_outline: 行列の基礎概念を学び,それを基に行列演算,連立1次方程式の解法,行列式の性質や展開について講義と演習を行なう。
   credits: '2.0'
-  data_update_date: '2026-05-21 16:59:22'
+  data_update_date: '2026-08-25 07:25:38'
   english_name: Linear Algebra A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -272650,7 +272702,7 @@
 - class_id: GA15231
   class_outline: 行列の基礎概念を学び,それを基に行列演算,連立1次方程式の解法,行列式の性質や展開について講義と演習を行なう。
   credits: '2.0'
-  data_update_date: '2024-11-27 14:58:18'
+  data_update_date: '2026-08-25 07:25:38'
   english_name: Linear Algebra A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -272675,7 +272727,7 @@
 - class_id: GA15241
   class_outline: 行列の基礎概念を学び、それを基に行列演算、連立1次方程式の解法、行列式の性質や展開について講義と演習を行なう。
   credits: '2.0'
-  data_update_date: '2026-06-01 12:05:10'
+  data_update_date: '2026-08-25 07:25:38'
   english_name: Linear Algebra A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -272700,7 +272752,7 @@
 - class_id: GA15311
   class_outline: 解析学の基礎として,実数,関数,数列ならびに連続性や極限などの基本概念と,1変数関数の微分法および積分法について講義を行う。
   credits: '2.0'
-  data_update_date: '2026-01-23 08:42:15'
+  data_update_date: '2026-08-25 07:33:25'
   english_name: Calculus A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -272721,7 +272773,7 @@
 - class_id: GA15321
   class_outline: 解析学の基礎として,実数,関数,数列ならびに連続性や極限などの基本概念と,1変数関数の微分法および積分法について講義を行う。
   credits: '2.0'
-  data_update_date: '2025-01-18 14:52:15'
+  data_update_date: '2026-08-25 07:33:25'
   english_name: Calculus A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -272742,7 +272794,7 @@
 - class_id: GA15331
   class_outline: 解析学の基礎として,実数,関数,数列ならびに連続性や極限などの基本概念と,1変数関数の微分積分法について学ぶ.
   credits: '2.0'
-  data_update_date: '2026-02-20 07:15:52'
+  data_update_date: '2026-08-25 07:33:25'
   english_name: Calculus A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -272763,7 +272815,7 @@
 - class_id: GA15341
   class_outline: 解析学の基礎として,実数,関数,数列ならびに連続性や極限などの基本概念と,1変数関数の微分法および積分法について講義を行う。
   credits: '2.0'
-  data_update_date: '2025-01-14 21:53:46'
+  data_update_date: '2026-08-25 07:33:25'
   english_name: Calculus A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -274387,7 +274439,7 @@
 - class_id: GB27401
   class_outline: ''
   credits: '1.0'
-  data_update_date: '2016-02-10 09:21:22'
+  data_update_date: '2026-08-27 11:59:17'
   english_name: Special Lecture on Software and Computing Science B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -274402,7 +274454,7 @@
   short_term_students_requirements: ''
   standard_course_year: 3・4
   subject_code: GB27401
-  teaching_staff: ''
+  teaching_staff: 鹿野 豊 他
 - class_id: GB30101
   class_outline: データ通信における伝送と交換の基礎およびLAN,WAN,インターネットなどのコンピュータネットワークを構築するための基礎となるアーキテクチャについて解説する。
   credits: '2.0'
@@ -281038,7 +281090,7 @@
     students’ international understanding and professionalism towards becoming a member
     of the global medical community.
   credits: '1.0'
-  data_update_date: '2026-01-07 14:48:07'
+  data_update_date: '2026-08-28 11:06:17'
   english_name: English for Specialized Subjects E
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
