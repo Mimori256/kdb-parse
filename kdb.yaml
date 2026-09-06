@@ -14193,7 +14193,7 @@
 - class_id: 02BQ030
   class_outline: 英語論文の書き方およびプレゼンテーションの技法について、外部より講師を招聘し集中講義を行う。基本的考え方から実践的テクニックまで幅広く紹介し、英語での論文執筆、プレゼンテーションを独力でこなせる実力を身に付けることを目指す。
   credits: '1.0'
-  data_update_date: '2025-12-04 11:02:56'
+  data_update_date: '2026-09-03 19:12:21'
   english_name: Technical Writing and Presentation in English
   enrollment_application: ×
   enrollment_requirements: ''
@@ -14203,14 +14203,16 @@
   period: 集中
   remarks: '0AJG441と同一。
 
-    対面'
+    11/26, 12/24
+
+    オンライン(同時双方向型)'
   requirement_subject_name: 英語論文執筆・プレゼンテーションの技法
   room: ''
   short_term_students_application: ''
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01BG097
-  teaching_staff: 黒田 眞司,小野 義正
+  teaching_staff: 黒田 眞司
 - class_id: 02BQ101
   class_outline: 1年次の後期課程大学院生を対象に、ナノサイエンス・ナノテクノロジー分野の研究テーマについて最先端の指導を行い、高度なナノサイエンス・ナノテクノロジー研究に従事できる能力を養成する。
   credits: '3.0'
@@ -30122,15 +30124,17 @@
 - class_id: 0A0A005
   class_outline: 自然環境やさらには住環境の基盤である緑地と、それらを視覚的に捉えた結果である景観の保全について、その意味するところと保全に対する考え方や手法を、事例を踏まえて概説する。また、実際に保全活動が行われている現場にてその実態を見学する。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:33'
+  data_update_date: '2026-09-04 11:45:02'
   english_name: Landscape Conservation
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 秋ABC
+  module: 秋B
   name: 景観・緑地保全論
-  period: 随時
-  remarks: 対面
+  period: 集中
+  remarks: '11/13,11/20, 11/25
+
+    対面'
   requirement_subject_name: 景観・緑地保全論
   room: ''
   short_term_students_application: ×
@@ -30217,6 +30221,8 @@
   period: 集中
   remarks: '非常勤講師:渡邉綱男
 
+    1/24-1/25
+
     対面'
   requirement_subject_name: 自然保護行政論
   room: ''
@@ -30257,7 +30263,9 @@
   module: 秋C
   name: 生態系の保全と復元
   period: 集中
-  remarks: 対面
+  remarks: '1/27,1/29
+
+    対面'
   requirement_subject_name: 生態系の保全と復元
   room: ''
   short_term_students_application: ×
@@ -55933,12 +55941,22 @@
 - class_id: 0AH0314
   class_outline: 農林社会経済学領域の生物資源経済学、国際資源開発経済学、農業経営学及び関連産業経営学、農村社会・農史学、森林資源経済学、森林資源社会学、、国際農林業開発学、地域森林資源開発学、生物圏情報計測制御学、食品品質評価工学、国際生物資源循環学に関連する今日的な課題を整理し、拠りどころとすべき専門分野の学術的な基礎について講述する。当該分野の最新、かつ、幅広い知識を系統的に学習することで、理工情報生命学術院における研究課題の設定と計画の立案・遂行に必要な基礎的な知識と能力の向上に役立つ。
   credits: '1.0'
-  data_update_date: '2026-06-05 13:53:14'
+  data_update_date: '2026-09-04 14:38:16'
   english_name: Topics in Agricultural Economics and Sociology I
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 通年
+  module: '春A
+
+    春B
+
+    春C
+
+    秋A
+
+    秋B
+
+    秋C'
   name: 農林社会経済学特別講義I
   period: 応談
   remarks: 'For students of the Agro-biological Resources degree program, this will
@@ -55951,7 +55969,17 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01AB301
-  teaching_staff: 興梠 克久,首藤 久人
+  teaching_staff: '興梠 克久,首藤 久人
+
+    首藤 久人,興梠 克久
+
+    首藤 久人,興梠 克久
+
+    首藤 久人,興梠 克久
+
+    首藤 久人,興梠 克久
+
+    首藤 久人,興梠 克久'
 - class_id: 0AH0315
   class_outline: 生物環境工学領域の環境コロイド界面工学、生物資源変換工学、流域保全工学、水利環境工学、生産基盤システム工学、生物生産機械学、保護地域管理学、食資源工学、生物材料化学、生物材料工学、農産食品プロセス工学に関連する基本的な知識と様々な研究手法について学ぶ。生物資源の調和的・持続的利用と管理に係る工学的手法について国内外の研究成果を例に挙げながら紹介する。当該分野の最新、かつ、幅広い知識を系統的に学習することで、理工情報生命学術院における研究課題の設定と計画の立案・遂行に必要な基礎的な知識と能力の向上に役立つ。
   credits: '1.0'
@@ -60380,15 +60408,17 @@
 - class_id: 0AJCF42
   class_outline: プラズマ物理学に関するトピックスについて、外部講師を招いて講義する。
   credits: '1.0'
-  data_update_date: '2025-12-16 17:49:16'
+  data_update_date: '2026-09-02 15:24:52'
   english_name: Special Lecture on Plasma Physics II
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 夏季休業中
+  module: 秋A
   name: プラズマ特講II
   period: 集中
   remarks: '英語で授業。
+
+    10/20-10/22
 
     対面
 
@@ -60399,7 +60429,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01BC507
-  teaching_staff: 坂本 瑞樹
+  teaching_staff: 池添 竜也
 - class_id: 0AJCG01
   class_outline: '1ヶ月程度、海外拠点へ派遣し、宇宙史に関連する分野の研究実習を行う。事前事後の筑波キャンパスにおける指導・報告および現地での研究指導を併せて行う。研究する分野は、主に素粒子物理学、原子核物理学、物質科学であるが、関連する近隣分野を含む。実習の具体的な例として、欧州CERN研究所や米国フェルミ国立加速器研究所における高エネルギー粒子ビームを用いた検出器の開発および性能評価が挙げられる。実習の成果を事後にまとめて発表することが要求される。これらを通じ、宇宙史研究の実践的技能の基礎を獲得し、グループの一員として共同研究を進める能力、および、研究の成果を他人に分かりやすく伝える能力を獲得する。
 
@@ -63015,6 +63045,8 @@
   name: 物理化学特論
   period: 集中
   remarks: '西暦偶数年度開講。
+
+    10/14,10/27,11/12,11/24
 
     要望があれば英語で授業'
   requirement_subject_name: 物理化学特論
@@ -65932,7 +65964,7 @@
 - class_id: 0AJG441
   class_outline: 英語論文の書き方およびプレゼンテーションの技法について、外部より講師を招聘し集中講義を行う。基本的考え方から実践的テクニックまで幅広く紹介し、英語での論文執筆、プレゼンテーションを独力でこなせる実力を身に付けることを目指す。
   credits: '1.0'
-  data_update_date: '2025-12-04 11:02:56'
+  data_update_date: '2026-09-03 19:12:21'
   english_name: Technical Writing and Presentation in English
   enrollment_application: ×
   enrollment_requirements: ''
@@ -65942,14 +65974,16 @@
   period: 集中
   remarks: '02BQ030と同一。
 
-    対面'
+    11/26, 12/24
+
+    オンライン(同時双方向型)'
   requirement_subject_name: 英語論文執筆・プレゼンテーションの技法
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01BG097
-  teaching_staff: 黒田 眞司,小野 義正
+  teaching_staff: 黒田 眞司
 - class_id: 0AJG451
   class_outline: 1年次生対象科目。企業や研究機関・教育機関における実習生、研修生や研究員など、自らの将来のキャリア・パス形成に資するため、国内外の研究機関や企業などで、技術研修や先端研究、業務を体験する。
   credits: '1.0'
@@ -95803,10 +95837,12 @@
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 秋AB
+  module: ''
   name: 運動障害学特講II
-  period: 火6
-  remarks: 'オンライン(同時双方向型)
+  period: ''
+  remarks: '2026年度開講せず。
+
+    オンライン(同時双方向型)
 
     主に日本語で講義
 
@@ -98035,7 +98071,7 @@
 - class_id: 0ATE312
   class_outline: 知的障害の心理や認知特性、教育課程や指導法、そして知的障害者に関わる福祉制度ならびにサービス評価や支援の実際について概説する。
   credits: '2.0'
-  data_update_date: '2026-08-18 14:37:36'
+  data_update_date: '2026-09-02 11:27:29'
   english_name: Disability Science for Individuals with Intellectual Disabilities
   enrollment_application: ×
   enrollment_requirements: ''
@@ -98060,7 +98096,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01EJ613
-  teaching_staff: 小島 道生,大村 美保
+  teaching_staff: 小島 道生,延原 稚枝
 - class_id: 0ATE313
   class_outline: 超高齢社会である現代において重大な疾患となっている「認知症」について、臨床的・実践的な講義を行うとともに、医療/福祉領域に限らず認知症を「社会的課題」として捉えるアプローチである「Dementia
     Friendly Community」について最新の知見を学ぶ。また、年代を問わず最も身近な精神障害と言える「うつ」について、その病理や最新の薬物/非薬物治療のほか、社会情勢、具体的な対応の実践について学ぶ。さらに、授業でグループワークを重ねることで、これらの課題について自らがどのように考え、どのように行動するのか、プロフェッショナルとして主体性を発揮できるようになることを目指す
@@ -105363,7 +105399,7 @@
 - class_id: 0ATP9K1
   class_outline: サッカーコーチに求められる資質である論理的思考とコミュケーション能力を高めることと、修士論文作成に向けての科学的手法によるサッカーのコーチング関する問題解決能力を高める。サッカーの指導に必要な具体的な問題を自ら設定し、それに関わる内外の文献資料を広く収集する。そして、自らのテーマに関して口頭で発表し、発言能力を高める。
   credits: '3.0'
-  data_update_date: '2026-02-03 13:29:00'
+  data_update_date: '2026-09-03 10:25:29'
   english_name: Seminar in Soccer Coaching Study I
   enrollment_application: △
   enrollment_requirements: ''
@@ -105382,11 +105418,11 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 01EH333
-  teaching_staff: 中山 雅雄,小井土 正亮
+  teaching_staff: 中山 雅雄,小井土 正亮,平嶋 裕輔
 - class_id: 0ATP9K2
   class_outline: 自らが設定したサッカーのコーチングに関するテームへのアプローチの仕方や、研究の進捗について、定期的に発表と討論を繰り返し、各種の文献を読解し専門的理解を深める。研究の実践を通して論文指導をおこなう。
   credits: '3.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-09-03 10:25:29'
   english_name: Seminar in Soccer Coaching Study II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -105401,7 +105437,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: 01EH380
-  teaching_staff: 中山 雅雄,小井土 正亮
+  teaching_staff: 中山 雅雄,小井土 正亮,平嶋 裕輔
 - class_id: 0ATP9M1
   class_outline: 授業は演習形式とし、ラグビーコーチングに関する様々な文献・映像の検討と討論を通して、基本的な知識の習得と各自の研究課題の明確化を図ることを目的とする。授業では、最初に様々なゲームパフォーマンス分析の手法について学ぶとともに、実際の分析手法を用いてゲーム構造に関する理解を深める。次に分析ツールを利用したデータ収集と解析を行い、パフォーマンスの評価法について学習する。最後に先行研究を元に各自で設定したコーチングやトレーニングに関する課題に対してデータの収集と検討を行い、実践知の習得を図る。
   credits: '3.0'
@@ -152908,6 +152944,8 @@
 
     英語で授業。
 
+    9/28-29
+
     対面'
   requirement_subject_name: Freshman Seminar
   room: ''
@@ -153639,7 +153677,7 @@
 
     アジアとの比較から日本の文化、デザインを捉えなおす力も身につけます。'
   credits: '1.0'
-  data_update_date: '2026-08-26 10:11:33'
+  data_update_date: '2026-09-03 14:24:34'
   english_name: Design and Culture in South Asia
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153658,7 +153696,7 @@
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
-  standard_course_year: 1・2
+  standard_course_year: 1 - 6
   subject_code: '1226231'
   teaching_staff: 櫻井 岳暁
 - class_id: '1226241'
@@ -153672,7 +153710,7 @@
 
     多角的に考える力を身につけます。'
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-09-03 14:28:55'
   english_name: Healthcare Research and Innovations in Japan and India
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153691,9 +153729,9 @@
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
-  standard_course_year: 1・2
+  standard_course_year: 1 - 6
   subject_code: '1226241'
-  teaching_staff: 櫻井 岳暁
+  teaching_staff: ホー キョン,宮脇 敦士,森川 一也,川口 敦史,岩上 将夫,橋爪 祐美,道喜 将太郎,櫻井 岳暁
 - class_id: '1226251'
   class_outline: ''
   credits: '1.0'
@@ -156805,7 +156843,7 @@
 - class_id: '1401031'
   class_outline: 哲学、史学、考古学・民俗学、言語学の4分野から成り、人間の思考や営みにかかわる多様な学問領域を扱い、人間とは何かを「見つける」きっかけを与える人文学の極意と深淵を提供する。入門ではなく、高年次生が人文知の深みに触れ、自らの専門を異なる視野から見直すきっかけとなるよう、10名のスペシャリストが問題提起する。
   credits: '1.0'
-  data_update_date: '2026-01-24 02:11:19'
+  data_update_date: '2026-09-04 14:08:08'
   english_name: The essence and depth of Humanities
   enrollment_application: ''
   enrollment_requirements: ''
@@ -156822,7 +156860,7 @@
   short_term_students_requirements: ''
   standard_course_year: 3・4
   subject_code: '1401031'
-  teaching_staff: 田中 友香理
+  teaching_staff: 田中 友香理,岩永 紘和
 - class_id: '1402011'
   class_outline: 人文・文化研究において, 文献との出会いは重要である。感銘を受け, 学問的に刺激された文献は, 研究上のみならず, その人の生き方にも影響を与えることがある。本講義では,
     グローバル時代において比較文化を探求する教員が自ら選んだ, 学生必読の文献を紹介しつつ, 高度かつ専門的な視野から文化を読み解く方法を考えていく。
@@ -187158,7 +187196,7 @@
 - class_id: '8049921'
   class_outline: 歴史地理学の視点から、近世~近現代の日本におけるさまざまなマチ(都市)・ムラ(村落)の景観と生活およびその変容について検討する。
   credits: '1.0'
-  data_update_date: '2026-03-05 18:02:45'
+  data_update_date: '2026-09-04 15:49:48'
   english_name: Japanese Culture and Society
   enrollment_application: ''
   enrollment_requirements: ''
@@ -205214,7 +205252,7 @@
 - class_id: AC54022
   class_outline: ドイツ語力(中級)の伸長を目指す。授業は日本語、ドイツ語で行う。ドイツ語圏の文学・文化研究を目指す人はむろん、広くドイツに関心のある学生に履修を強く勧める。
   credits: '1.0'
-  data_update_date: '2026-07-02 10:18:08'
+  data_update_date: '2026-09-04 15:59:32'
   english_name: German for Specialized Subjects
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -214626,7 +214664,7 @@
 - class_id: AE14A42
   class_outline: 日本の地域社会を理解するうえで基本となるマチとムラについて、フィールドワーク(巡検)を行う。2回実施する巡検では、教員が現地を案内・解説するとともに、留学生と日本人学生からなるグループが事前に調査した内容を発表し、歴史的・文化的な景観やそこに展開する生活文化の特色について考察する。
   credits: '1.0'
-  data_update_date: '2026-03-05 15:06:00'
+  data_update_date: '2026-09-04 15:47:07'
   english_name: Joint Research on Japanese Language and Culture IV
   enrollment_application: ×
   enrollment_requirements: 受講者多数の場合は不可となる場合がある
@@ -227337,7 +227375,7 @@
 - class_id: CA10061
   class_outline: 「障害科学」についての基礎的な知識を教授するとともに、その領域についての展望を提示する。前半は「障害原理論・特別支援教育学の立場から障害科学を捉える」、後半は「障害福祉学の立場から障害科学を捉える」で構成する。
   credits: '2.0'
-  data_update_date: '2026-08-29 15:23:18'
+  data_update_date: '2026-09-05 17:21:13'
   english_name: Introduction to Disabilities Sciences II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -227357,7 +227395,7 @@
   standard_course_year: '1'
   subject_code: CA10061
   teaching_staff: 王 青童,青木 瑞樹,左藤 敦子,名川 勝,佐々木 銀河,大村 美保,山中 克夫,米田 宏樹,岡 典子,八重田 淳,森地 徹,宮内
-    久絵,藤本 啓寛,石塚 祐香,山田 実,細川 大瑛,末吉 彩香
+    久絵,藤本 啓寛,石塚 祐香,山田 実,細川 大瑛,末吉 彩香,福田 奏子
 - class_id: CA10091
   class_outline: 大学卒業後の自分の進路について,講義とグループディスカッション,および人間学群の専門性と関連の深い職種・進路先からの外部講師による講演を通して考える。
   credits: '1.0'
@@ -232776,7 +232814,7 @@
 - class_id: CE21928
   class_outline: 指導教員の指導の下で卒業研究を完成させる。
   credits: '4.0'
-  data_update_date: '2026-08-29 15:26:01'
+  data_update_date: '2026-09-05 17:22:08'
   english_name: Graduation Thesis II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -232799,11 +232837,11 @@
 
     左藤 敦子,三盃 亜美,丹治 敬之,宮内 久絵,佐々木 銀河,名川 勝,岡 典子,柿澤 敏文,野呂 文行,宮本 昌子,山田 実,小島 道生,佐島 毅,八重田
     淳,山中 克夫,米田 宏樹,和田 恒彦,森地 徹,工藤 滋,小渕 千絵,河野 禎之,魚野 翔太,飯村 大智,石塚 祐香,藤本 啓寛,林 小百合,前原 和明,沖中
-    美世乃,玉井 伸典,鈴木 寿人,細川 大瑛'
+    美世乃,玉井 伸典,鈴木 寿人,細川 大瑛,福田 奏子'
 - class_id: CE21948
   class_outline: ''
   credits: '4.0'
-  data_update_date: '2026-08-29 15:26:31'
+  data_update_date: '2026-09-05 17:22:47'
   english_name: Graduation Thesis II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -242349,7 +242387,7 @@
 - class_id: EC32221
   class_outline: 生物プロセス工学の視点から、動物細胞工学の基礎知識である、哺乳類動物細胞の培養の意義、細胞の増殖制御機構の特性、細胞周期、増殖促進因子の情報伝達、細胞外足場の作用機序、細胞の不死化、癌化の発生機構、再生医療への応用について概説する。また、生物プロセス工学で扱う、環境生態工学の基礎知識についても概説する。これにより、汎用性の高い生物プロセス工学の基本的な学問手法や対象の多様性について修得する。
   credits: '1.0'
-  data_update_date: '2025-01-21 18:50:37'
+  data_update_date: '2026-09-02 15:59:47'
   english_name: Bioprocess Engineering
   enrollment_application: ''
   enrollment_requirements: ''
@@ -247210,7 +247248,7 @@
     exercise and investigation of academic discipline and agenda in agrobiological
     resource sciences, and presentation of the results.
   credits: '1.0'
-  data_update_date: '2026-06-10 16:00:09'
+  data_update_date: '2026-09-02 15:58:41'
   english_name: Agro-Biological Resource Science, Exercises
   enrollment_application: ×
   enrollment_requirements: ''
@@ -248569,7 +248607,7 @@
 - class_id: EG60701
   class_outline: 生物プロセス工学の視点から、動物細胞工学の基礎知識である、哺乳類動物細胞の培養の意義、細胞の増殖制御機構の特性、細胞周期、増殖促進因子の情報伝達、細胞外足場の作用機序、細胞の不死化、癌化の発生機構、再生医療への応用について概説する。また、生物プロセス工学で扱う、環境生態工学の基礎知識についても概説する。これにより、汎用性の高い生物プロセス工学の基本的な学問手法や対象の多様性について修得する。
   credits: '1.0'
-  data_update_date: '2025-01-21 18:50:37'
+  data_update_date: '2026-09-02 15:59:47'
   english_name: Bioprocess Engineering
   enrollment_application: ''
   enrollment_requirements: ''
@@ -270661,7 +270699,7 @@
     \ properties of atom, molecular structure, statistical physics, and solid state\
     \ physics."
   credits: '3.0'
-  data_update_date: '2025-11-02 12:13:16'
+  data_update_date: '2026-09-03 11:21:29'
   english_name: Modern Physics
   enrollment_application: △
   enrollment_requirements: ''
@@ -271939,7 +271977,7 @@
     \ law, and to cultivate the ability to reconstruct the learned matters from a\
     \ new perspective by using them as tools."
   credits: '1.0'
-  data_update_date: '2023-02-13 18:55:33'
+  data_update_date: '2026-09-03 11:22:12'
   english_name: Thermodynamics II
   enrollment_application: △
   enrollment_requirements: ''
@@ -273528,10 +273566,10 @@
 
     これらの要求に応える代表的な技術の一つが、オブジェクト指向プログラミングである。本授業では、Java言語を題材として、オブジェクト指向プログラミングの基本概念を学ぶ。具体的には、モジュールの単位となるオブジェクトやクラス、メソッドを用いたデータの抽象化や再利用の考え方、さらに静的型付けやインターフェースによる安全なプログラム構成について、講義と演習を通して理解を深める。'
   credits: '2.0'
-  data_update_date: '2026-01-17 12:58:03'
+  data_update_date: '2026-09-01 14:51:55'
   english_name: Object-Oriented Programming
   enrollment_application: ×
-  enrollment_requirements: ''
+  enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   method: '4'
   module: 秋C
   name: オブジェクト指向プログラミング
@@ -273540,11 +273578,13 @@
     木3,4'
   remarks: '2020年度までに開設された「オブジェクト指向プログラミング」(GB13022)または2019年度(令和元年度)まで開設された「オブジェクト指向プログラミング実習」(GB13013)の単位を修得した者の履修は認めない。
 
-    対面'
+    対面
+
+    短期留学生は日本語がわかる場合のみ履修可。'
   requirement_subject_name: オブジェクト指向プログラミング
   room: ''
-  short_term_students_application: ×
-  short_term_students_requirements: ''
+  short_term_students_application: △
+  short_term_students_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   standard_course_year: '2'
   subject_code: GB13024
   teaching_staff: 永谷 圭司
@@ -275829,7 +275869,7 @@
   class_outline: "書籍、映画、放送、広告などのために作られる“情報の中身”はコンテンツと呼ばれている。これまでのコンテンツは、プロが製作し一般の人々が購読・視聴することが一般的であった。しかし、インターネットやソーシャルメディアの普及に伴い、誰もがコンテンツを制作しメッセージを伝えることが可能になりつつある。\n\
     \ コンテンツはどのように作られ、どのように視聴者に届けられているのだろうか。そして、未来のコンテンツはどのように変わっていくのだろうか。本授業では、実際にコンテンを制作し、その体験を通じてコンテンツの概念や制作手法を学ぶ。"
   credits: '2.0'
-  data_update_date: '2026-02-04 12:22:56'
+  data_update_date: '2026-09-01 16:49:26'
   english_name: Introduction to Content Technology
   enrollment_application: ''
   enrollment_requirements: ''
@@ -282674,7 +282714,7 @@
 - class_id: HC36191
   class_outline: 人間の成長・発達・加齢の過程の特徴を生涯発達の考え方に基づき多面的に理解した上で、人間の発達段階および発達課題に応じた援助の方法について学ぶ。また、家族看護の視点から家族の位置づけや役割・機能について理解しながら家族支援のあり方を学ぶ。
   credits: '2.0'
-  data_update_date: '2025-12-15 09:55:50'
+  data_update_date: '2026-09-04 09:02:21'
   english_name: Life-span Development & Family Support
   enrollment_application: ''
   enrollment_requirements: ''
@@ -283947,7 +283987,7 @@
 - class_id: HE23033
   class_outline: 医用電子計測機器の基礎的電子モジュールを組立て諸特性を測定させ、電子機器の動作の理解を深めさせる。また、心電計の周波数特性を測定し、医用機器の特性の理解を深める。接地抵抗や機器の漏れ電流の測定を通して医用安全の確保の仕方を身につけさせる。
   credits: '1.0'
-  data_update_date: '2026-02-19 07:48:50'
+  data_update_date: '2026-09-03 16:12:58'
   english_name: Practice of Medical Engineering
   enrollment_application: ×
   enrollment_requirements: ''
@@ -283956,6 +283996,8 @@
   name: 医用工学実習
   period: 火・金5,6
   remarks: '医療科学類学生で「医用工学」既履修者に限る。
+
+    対面
 
     全て対面で行う。'
   requirement_subject_name: 医用工学実習
@@ -284852,14 +284894,12 @@
 - class_id: HE35041
   class_outline: 臨床検査学における学問と技術の進歩の最前線とポイントを解説する。また、本科目は4学年を通しての総括的な講義でもあり、臨床検査全般の知識を整理する。
   credits: '2.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-09-02 14:14:34'
   english_name: Frontier of Clinical Laboratory Science
   enrollment_application: △
   enrollment_requirements: ''
   method: '1'
-  module: '秋A
-
-    秋BC'
+  module: 秋ABC
   name: 医学検査学フロンティア
   period: 随時
   remarks: '医療科学類学生に限る。
@@ -284873,9 +284913,7 @@
   short_term_students_requirements: ''
   standard_course_year: '4'
   subject_code: HE35041
-  teaching_staff: '磯辺 智範,會田 雄一,森川 一也,大根田 修,小原 直,渋谷 和子,岡田 浩介,森戸 直記,三好 浩稔,福重 瑞穂,沖田 結花里
-
-    會田 雄一,磯辺 智範,森川 一也,大根田 修,小原 直,渋谷 和子,岡田 浩介,森戸 直記,三好 浩稔,福重 瑞穂,沖田 結花里'
+  teaching_staff: 會田 雄一,磯辺 智範,森川 一也,大根田 修,小原 直,渋谷 和子,岡田 浩介,森戸 直記,三好 浩稔,福重 瑞穂,沖田 結花里
 - class_id: HE35053
   class_outline: 尿や血清、髄液、穿刺液などについての検査法及び基本分析法を実際に行わせ、十分検査手技に習熟させる。結果の解釈や問題点の抽出ができる能力を養成する。
   credits: '1.0'
@@ -285619,6 +285657,8 @@
   remarks: '原則英語、場合によっては日本語でも授業。
 
     英語で授業。
+
+    10/2,10/6,10/15,10/16,10/20,10/27,11/10
 
     詳細後日周知
 

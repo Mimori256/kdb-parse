@@ -10083,7 +10083,7 @@
   "02BQ030": {
     "class_id": "02BQ030",
     "name": "Technical Writing and Presentation in English",
-    "description": "0AJG441と同一。\\n対面",
+    "description": "0AJG441と同一。\\n11/26, 12/24\\nオンライン(同時双方向型)",
     "module": [
       [
         "秋B"
@@ -20976,15 +20976,15 @@
   "0A0A005": {
     "class_id": "0A0A005",
     "name": "Landscape Conservation",
-    "description": "対面",
+    "description": "11/13,11/20, 11/25\\n対面",
     "module": [
       [
-        "秋ABC"
+        "秋B"
       ]
     ],
     "period": [
       [
-        "随時"
+        "集中"
       ]
     ],
     "room": " "
@@ -21040,7 +21040,7 @@
   "0A0A010": {
     "class_id": "0A0A010",
     "name": "Nature Conservation Administration",
-    "description": "非常勤講師:渡邉綱男\\n対面",
+    "description": "非常勤講師:渡邉綱男\\n1/24-1/25\\n対面",
     "module": [
       [
         "秋C"
@@ -21072,7 +21072,7 @@
   "0A0A013": {
     "class_id": "0A0A013",
     "name": "Ecosystem Conservation and Restoration",
-    "description": "対面",
+    "description": "1/27,1/29\\n対面",
     "module": [
       [
         "秋C"
@@ -39113,7 +39113,22 @@
     "description": "For students of the Agro-biological Resources degree program, this will be the Agro-biological Resources course.\\n対面(オンライン併用型)",
     "module": [
       [
-        "通年"
+        "春A"
+      ],
+      [
+        "春B"
+      ],
+      [
+        "春C"
+      ],
+      [
+        "秋A"
+      ],
+      [
+        "秋B"
+      ],
+      [
+        "秋C"
       ]
     ],
     "period": [
@@ -42550,10 +42565,10 @@
   "0AJCF42": {
     "class_id": "0AJCF42",
     "name": "Special Lecture on Plasma Physics II",
-    "description": "英語で授業。\\n対面\\nMeeting Room, 3rd Floor, Plasma Research Center",
+    "description": "英語で授業。\\n10/20-10/22\\n対面\\nMeeting Room, 3rd Floor, Plasma Research Center",
     "module": [
       [
-        "通年"
+        "秋A"
       ]
     ],
     "period": [
@@ -44454,7 +44469,7 @@
   "0AJED05": {
     "class_id": "0AJED05",
     "name": "Advanced Physical Chemistry",
-    "description": "西暦偶数年度開講。\\n要望があれば英語で授業",
+    "description": "西暦偶数年度開講。\\n10/14,10/27,11/12,11/24\\n要望があれば英語で授業",
     "module": [
       [
         "秋ABC"
@@ -46592,7 +46607,7 @@
   "0AJG441": {
     "class_id": "0AJG441",
     "name": "Technical Writing and Presentation in English",
-    "description": "02BQ030と同一。\\n対面",
+    "description": "02BQ030と同一。\\n11/26, 12/24\\nオンライン(同時双方向型)",
     "module": [
       [
         "秋B"
@@ -69069,15 +69084,15 @@
   "0ATC222": {
     "class_id": "0ATC222",
     "name": "Special Lecture of Motor Impairments II",
-    "description": "オンライン(同時双方向型)\\n主に日本語で講義\\nレポート・テスト回答は英語でも可",
+    "description": "2026年度開講せず。\\nオンライン(同時双方向型)\\n主に日本語で講義\\nレポート・テスト回答は英語でも可",
     "module": [
       [
-        "秋AB"
+        "通年"
       ]
     ],
     "period": [
       [
-        "火6"
+        "随時"
       ]
     ],
     "room": " "
@@ -110812,7 +110827,7 @@
   "1190232": {
     "class_id": "1190232",
     "name": "First Year Seminar",
-    "description": "Only for IDE students\\n英語で授業。\\n対面",
+    "description": "Only for IDE students\\n英語で授業。\\n9/28-29\\n対面",
     "module": [
       [
         "通年"
@@ -195912,7 +195927,7 @@
   "GB13024": {
     "class_id": "GB13024",
     "name": "Object-Oriented Programming",
-    "description": "2020年度までに開設された「オブジェクト指向プログラミング」(GB13022)または2019年度(令和元年度)まで開設された「オブジェクト指向プログラミング実習」(GB13013)の単位を修得した者の履修は認めない。\\n対面",
+    "description": "2020年度までに開設された「オブジェクト指向プログラミング」(GB13022)または2019年度(令和元年度)まで開設された「オブジェクト指向プログラミング実習」(GB13013)の単位を修得した者の履修は認めない。\\n対面\\n短期留学生は日本語がわかる場合のみ履修可。",
     "module": [
       [
         "秋C"
@@ -203593,7 +203608,7 @@
   "HE23033": {
     "class_id": "HE23033",
     "name": "Practice of Medical Engineering",
-    "description": "医療科学類学生で「医用工学」既履修者に限る。\\n全て対面で行う。",
+    "description": "医療科学類学生で「医用工学」既履修者に限る。\\n対面\\n全て対面で行う。",
     "module": [
       [
         "秋C"
@@ -204248,10 +204263,7 @@
     "description": "医療科学類学生に限る。\\n実務経験教員\\nオンライン(オンデマンド型)",
     "module": [
       [
-        "秋A"
-      ],
-      [
-        "秋BC"
+        "秋ABC"
       ]
     ],
     "period": [
@@ -204796,7 +204808,7 @@
   "HE40161": {
     "class_id": "HE40161",
     "name": "Topics in Vascular Biology",
-    "description": "原則英語、場合によっては日本語でも授業。\\n英語で授業。\\n詳細後日周知\\n対面",
+    "description": "原則英語、場合によっては日本語でも授業。\\n英語で授業。\\n10/2,10/6,10/15,10/16,10/20,10/27,11/10\\n詳細後日周知\\n対面",
     "module": [
       [
         "秋AB"

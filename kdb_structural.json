@@ -12923,9 +12923,9 @@
       "standard_course_year": "1・2",
       "module": "秋B",
       "period": "集中",
-      "teaching_staff": "黒田 眞司,小野 義正",
+      "teaching_staff": "黒田 眞司",
       "class_outline": "英語論文の書き方およびプレゼンテーションの技法について、外部より講師を招聘し集中講義を行う。基本的考え方から実践的テクニックまで幅広く紹介し、英語での論文執筆、プレゼンテーションを独力でこなせる実力を身に付けることを目指す。",
-      "remarks": "0AJG441と同一。\n対面",
+      "remarks": "0AJG441と同一。\n11/26, 12/24\nオンライン(同時双方向型)",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "",
@@ -12933,7 +12933,7 @@
       "english_name": "Technical Writing and Presentation in English",
       "subject_code": "01BG097",
       "requirement_subject_name": "英語論文執筆・プレゼンテーションの技法",
-      "data_update_date": "2025-12-04 11:02:56",
+      "data_update_date": "2026-09-03 19:12:21",
       "room": ""
     },
     {
@@ -27075,11 +27075,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1 - 5",
-      "module": "秋ABC",
-      "period": "随時",
+      "module": "秋B",
+      "period": "集中",
       "teaching_staff": "伊藤 弘,黒田 乃生",
       "class_outline": "自然環境やさらには住環境の基盤である緑地と、それらを視覚的に捉えた結果である景観の保全について、その意味するところと保全に対する考え方や手法を、事例を踏まえて概説する。また、実際に保全活動が行われている現場にてその実態を見学する。",
-      "remarks": "対面",
+      "remarks": "11/13,11/20, 11/25\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -27087,7 +27087,7 @@
       "english_name": "Landscape Conservation",
       "subject_code": "02JZ004",
       "requirement_subject_name": "景観・緑地保全論",
-      "data_update_date": "2026-08-03 04:16:33",
+      "data_update_date": "2026-09-04 11:45:02",
       "room": ""
     },
     {
@@ -27163,7 +27163,7 @@
       "period": "集中",
       "teaching_staff": "飯田 義彦",
       "class_outline": "自然保護行政に係る政策形成やガバナンスの実態を環境省自然環境局等の実務経験者から学ぶ。",
-      "remarks": "非常勤講師:渡邉綱男\n対面",
+      "remarks": "非常勤講師:渡邉綱男\n1/24-1/25\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -27205,7 +27205,7 @@
       "period": "集中",
       "teaching_staff": "飯島 大智",
       "class_outline": "森林、湿地、里山、山岳、島嶼、都市など様々な生態系の保全と復元について、自然を守りながら、持続的に利用していくための理念と実践例について学ぶことを目的とする。授業は、講義、関連文献の精読、ディスカッション、プレゼンテーションなどを主体とする。キーワード:自然保護、生物多様性、生態系サービス、モニタリング、気候変動、人と自然との関係ほか",
-      "remarks": "対面",
+      "remarks": "1/27,1/29\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -50469,9 +50469,9 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "通年",
+      "module": "春A\n春B\n春C\n秋A\n秋B\n秋C",
       "period": "応談",
-      "teaching_staff": "興梠 克久,首藤 久人",
+      "teaching_staff": "興梠 克久,首藤 久人\n首藤 久人,興梠 克久\n首藤 久人,興梠 克久\n首藤 久人,興梠 克久\n首藤 久人,興梠 克久\n首藤 久人,興梠 克久",
       "class_outline": "農林社会経済学領域の生物資源経済学、国際資源開発経済学、農業経営学及び関連産業経営学、農村社会・農史学、森林資源経済学、森林資源社会学、、国際農林業開発学、地域森林資源開発学、生物圏情報計測制御学、食品品質評価工学、国際生物資源循環学に関連する今日的な課題を整理し、拠りどころとすべき専門分野の学術的な基礎について講述する。当該分野の最新、かつ、幅広い知識を系統的に学習することで、理工情報生命学術院における研究課題の設定と計画の立案・遂行に必要な基礎的な知識と能力の向上に役立つ。",
       "remarks": "For students of the Agro-biological Resources degree program, this will be the Agro-biological Resources course.\n対面(オンライン併用型)",
       "enrollment_application": "×",
@@ -50481,7 +50481,7 @@
       "english_name": "Topics in Agricultural Economics and Sociology I",
       "subject_code": "01AB301",
       "requirement_subject_name": "農林社会経済学特別講義I",
-      "data_update_date": "2026-06-05 13:53:14",
+      "data_update_date": "2026-09-04 14:38:16",
       "room": ""
     },
     {
@@ -54921,11 +54921,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "夏季休業中",
+      "module": "秋A",
       "period": "集中",
-      "teaching_staff": "坂本 瑞樹",
+      "teaching_staff": "池添 竜也",
       "class_outline": "プラズマ物理学に関するトピックスについて、外部講師を招いて講義する。",
-      "remarks": "英語で授業。\n対面\nMeeting Room, 3rd Floor, Plasma Research Center",
+      "remarks": "英語で授業。\n10/20-10/22\n対面\nMeeting Room, 3rd Floor, Plasma Research Center",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -54933,7 +54933,7 @@
       "english_name": "Special Lecture on Plasma Physics II",
       "subject_code": "01BC507",
       "requirement_subject_name": "プラズマ特講II",
-      "data_update_date": "2025-12-16 17:49:16",
+      "data_update_date": "2026-09-02 15:24:52",
       "room": ""
     },
     {
@@ -57424,7 +57424,7 @@
       "period": "集中",
       "teaching_staff": "石橋 孝章",
       "class_outline": "線形分光と非線形分光法の原理を、分子分極と電磁波の相互作用として理解する方法を解説する。具体的には以下の項目を扱う。\n1. 線形分極と光吸収(分極、巨視的Maxwell方程式、電気的に中性な非磁性体中の波動方程式、等方的誘電体中の光と伝播と光吸収)\n2. 非線形分極と和周波発生(非線形分極、2次の非線形感受率、非線形分極のある場合の波動方程式、位相整合条件、一軸性の結晶での位相整合)\n3. 分極と共鳴(密度行列演算子、密度行列の現象論的な緩和の速度式、密度行列を使った感受率の計算、2次の非線形感受率の共鳴項)\n4. 振動SFG分光(原理と特徴、SFG分光法の界面選択性、SFG感受率と振動SFGスペクトル、測定例)",
-      "remarks": "西暦偶数年度開講。\n要望があれば英語で授業",
+      "remarks": "西暦偶数年度開講。\n10/14,10/27,11/12,11/24\n要望があれば英語で授業",
       "enrollment_application": "×",
       "enrollment_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
       "short_term_students_application": "△",
@@ -60215,9 +60215,9 @@
       "standard_course_year": "1・2",
       "module": "秋B",
       "period": "集中",
-      "teaching_staff": "黒田 眞司,小野 義正",
+      "teaching_staff": "黒田 眞司",
       "class_outline": "英語論文の書き方およびプレゼンテーションの技法について、外部より講師を招聘し集中講義を行う。基本的考え方から実践的テクニックまで幅広く紹介し、英語での論文執筆、プレゼンテーションを独力でこなせる実力を身に付けることを目指す。",
-      "remarks": "02BQ030と同一。\n対面",
+      "remarks": "02BQ030と同一。\n11/26, 12/24\nオンライン(同時双方向型)",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -60225,7 +60225,7 @@
       "english_name": "Technical Writing and Presentation in English",
       "subject_code": "01BG097",
       "requirement_subject_name": "英語論文執筆・プレゼンテーションの技法",
-      "data_update_date": "2025-12-04 11:02:56",
+      "data_update_date": "2026-09-03 19:12:21",
       "room": ""
     },
     {
@@ -88983,11 +88983,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "秋AB",
-      "period": "火6",
+      "module": "",
+      "period": "",
       "teaching_staff": "",
       "class_outline": "生理学・心理学・教育学等の様々な障害科学の視点から、運動障害学領域における学問上・研究上の課題について論述する。運動障害教育学における課題である脳性まひの運動発達の特性、脳性まひの知覚認知の発達特性など心理学的視点から論述するとともに、障害の重度・重複化に対応した教育課程、教員の専門性などについても考察する。",
-      "remarks": "オンライン(同時双方向型)\n主に日本語で講義\nレポート・テスト回答は英語でも可",
+      "remarks": "2026年度開講せず。\nオンライン(同時双方向型)\n主に日本語で講義\nレポート・テスト回答は英語でも可",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -90938,7 +90938,7 @@
       "standard_course_year": "1・2",
       "module": "秋A\n秋BC",
       "period": "金7,8\n集中",
-      "teaching_staff": "小島 道生,大村 美保",
+      "teaching_staff": "小島 道生,延原 稚枝",
       "class_outline": "知的障害の心理や認知特性、教育課程や指導法、そして知的障害者に関わる福祉制度ならびにサービス評価や支援の実際について概説する。",
       "remarks": "10/2(金)7・8限、10/16(金)7・8限、11/28(土)2-6限、12/19(土)2-6限、1/23(土)1-6限\n10/2,10/16,11/28,12/19,1/23\n対面\nただし、状況によって対面とオンライン(同時双方向型)の併用に変更する場合がある。どの回がオンライン(同時双方向型)になるのかといった具体的な授業スケジュールはManaba等で示す。",
       "enrollment_application": "×",
@@ -90948,7 +90948,7 @@
       "english_name": "Disability Science for Individuals with Intellectual Disabilities",
       "subject_code": "01EJ613",
       "requirement_subject_name": "知的・発達・行動障害リハビリテーション",
-      "data_update_date": "2026-08-18 14:37:36",
+      "data_update_date": "2026-09-02 11:27:29",
       "room": ""
     },
     {
@@ -98162,7 +98162,7 @@
       "standard_course_year": "1",
       "module": "春AB秋AB\n秋C",
       "period": "木3\n木3,4",
-      "teaching_staff": "中山 雅雄,小井土 正亮",
+      "teaching_staff": "中山 雅雄,小井土 正亮,平嶋 裕輔",
       "class_outline": "サッカーコーチに求められる資質である論理的思考とコミュケーション能力を高めることと、修士論文作成に向けての科学的手法によるサッカーのコーチング関する問題解決能力を高める。サッカーの指導に必要な具体的な問題を自ら設定し、それに関わる内外の文献資料を広く収集する。そして、自らのテーマに関して口頭で発表し、発言能力を高める。",
       "remarks": "対面",
       "enrollment_application": "△",
@@ -98172,7 +98172,7 @@
       "english_name": "Seminar in Soccer Coaching Study I",
       "subject_code": "01EH333",
       "requirement_subject_name": "サッカーコーチング論演習",
-      "data_update_date": "2026-02-03 13:29:00",
+      "data_update_date": "2026-09-03 10:25:29",
       "room": ""
     },
     {
@@ -98183,7 +98183,7 @@
       "standard_course_year": "2",
       "module": "通年",
       "period": "随時",
-      "teaching_staff": "中山 雅雄,小井土 正亮",
+      "teaching_staff": "中山 雅雄,小井土 正亮,平嶋 裕輔",
       "class_outline": "自らが設定したサッカーのコーチングに関するテームへのアプローチの仕方や、研究の進捗について、定期的に発表と討論を繰り返し、各種の文献を読解し専門的理解を深める。研究の実践を通して論文指導をおこなう。",
       "remarks": "対面",
       "enrollment_application": "×",
@@ -98193,7 +98193,7 @@
       "english_name": "Seminar in Soccer Coaching Study II",
       "subject_code": "01EH380",
       "requirement_subject_name": "サッカーコーチング論演習II",
-      "data_update_date": "2026-08-03 04:16:34",
+      "data_update_date": "2026-09-03 10:25:29",
       "room": ""
     },
     {
@@ -142369,7 +142369,7 @@
       "period": "応談",
       "teaching_staff": "シャーミン ソニア,ハサン モダル",
       "class_outline": "This is a series of information sessions for Interdisciplinary Engineering students new to the University of Tsukuba. It includes an orientation seminar to help the students make their course plans and also facility visits on campus, such as a library, health center, cafeterias, and some selected Research Laboratories in the College of Engineering Sciences and that of Engineering Systems to become familiar with campus life.",
-      "remarks": "Only for IDE students\n英語で授業。\n対面",
+      "remarks": "Only for IDE students\n英語で授業。\n9/28-29\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -142910,7 +142910,7 @@
       "name": "南アジアデザイン・文化比較概論",
       "method": "1",
       "credits": "1.0",
-      "standard_course_year": "1・2",
+      "standard_course_year": "1 - 6",
       "module": "秋学期",
       "period": "随時",
       "teaching_staff": "櫻井 岳暁",
@@ -142923,7 +142923,7 @@
       "english_name": "Design and Culture in South Asia",
       "subject_code": "1226231",
       "requirement_subject_name": "南アジアデザイン・文化比較概論",
-      "data_update_date": "2026-08-26 10:11:33",
+      "data_update_date": "2026-09-03 14:24:34",
       "room": ""
     },
     {
@@ -142931,10 +142931,10 @@
       "name": "日印医療比較概論",
       "method": "1",
       "credits": "1.0",
-      "standard_course_year": "1・2",
+      "standard_course_year": "1 - 6",
       "module": "秋学期",
       "period": "随時",
-      "teaching_staff": "櫻井 岳暁",
+      "teaching_staff": "ホー キョン,宮脇 敦士,森川 一也,川口 敦史,岩上 将夫,橋爪 祐美,道喜 将太郎,櫻井 岳暁",
       "class_outline": "科学技術が進歩した現代においても、世界には多くの未充足の医療ニーズが存在\nしています。本授業では、医療制度や社会的背景の異なる日本とインドを比較\nし、医療提供、公衆衛生、感染症対策、先端医療技術などのテーマを扱います。\nこれらの講義を通じて、学生は医療を比較的な視点から捉え、医療課題について\n多角的に考える力を身につけます。",
       "remarks": "【事前登録対象】【定員100 名】英語で授業\n英語で授業。\nオンライン(オンデマンド型)\n詳細は後日manaba で周知",
       "enrollment_application": "×",
@@ -142944,7 +142944,7 @@
       "english_name": "Healthcare Research and Innovations in Japan and India",
       "subject_code": "1226241",
       "requirement_subject_name": "日印医療比較概論",
-      "data_update_date": "2026-08-03 04:16:35",
+      "data_update_date": "2026-09-03 14:28:55",
       "room": ""
     },
     {
@@ -145685,7 +145685,7 @@
       "standard_course_year": "3・4",
       "module": "秋AB",
       "period": "金4",
-      "teaching_staff": "田中 友香理",
+      "teaching_staff": "田中 友香理,岩永 紘和",
       "class_outline": "哲学、史学、考古学・民俗学、言語学の4分野から成り、人間の思考や営みにかかわる多様な学問領域を扱い、人間とは何かを「見つける」きっかけを与える人文学の極意と深淵を提供する。入門ではなく、高年次生が人文知の深みに触れ、自らの専門を異なる視野から見直すきっかけとなるよう、10名のスペシャリストが問題提起する。",
       "remarks": "【事前登録対象】【定員120名】(人文開設)\n対面(オンライン併用型)",
       "enrollment_application": "",
@@ -145695,7 +145695,7 @@
       "english_name": "The essence and depth of Humanities",
       "subject_code": "1401031",
       "requirement_subject_name": "人文学の極意と深淵",
-      "data_update_date": "2026-01-24 02:11:19",
+      "data_update_date": "2026-09-04 14:08:08",
       "room": ""
     },
     {
@@ -172113,7 +172113,7 @@
       "english_name": "Japanese Culture and Society",
       "subject_code": "8049921",
       "requirement_subject_name": "日本の生活文化",
-      "data_update_date": "2026-03-05 18:02:45",
+      "data_update_date": "2026-09-04 15:49:48",
       "room": ""
     },
     {
@@ -189270,7 +189270,7 @@
       "english_name": "German for Specialized Subjects",
       "subject_code": "AC54022",
       "requirement_subject_name": "専門ドイツ語",
-      "data_update_date": "2026-07-02 10:18:08",
+      "data_update_date": "2026-09-04 15:59:32",
       "room": ""
     },
     {
@@ -198132,7 +198132,7 @@
       "english_name": "Joint Research on Japanese Language and Culture IV",
       "subject_code": "AE14A42",
       "requirement_subject_name": "日本語・日本文化共同研究IV",
-      "data_update_date": "2026-03-05 15:06:00",
+      "data_update_date": "2026-09-04 15:47:07",
       "room": ""
     },
     {
@@ -209105,7 +209105,7 @@
       "standard_course_year": "1",
       "module": "秋AB",
       "period": "フルオンデマンド",
-      "teaching_staff": "王 青童,青木 瑞樹,左藤 敦子,名川 勝,佐々木 銀河,大村 美保,山中 克夫,米田 宏樹,岡 典子,八重田 淳,森地 徹,宮内 久絵,藤本 啓寛,石塚 祐香,山田 実,細川 大瑛,末吉 彩香",
+      "teaching_staff": "王 青童,青木 瑞樹,左藤 敦子,名川 勝,佐々木 銀河,大村 美保,山中 克夫,米田 宏樹,岡 典子,八重田 淳,森地 徹,宮内 久絵,藤本 啓寛,石塚 祐香,山田 実,細川 大瑛,末吉 彩香,福田 奏子",
       "class_outline": "「障害科学」についての基礎的な知識を教授するとともに、その領域についての展望を提示する。前半は「障害原理論・特別支援教育学の立場から障害科学を捉える」、後半は「障害福祉学の立場から障害科学を捉える」で構成する。",
       "remarks": "専門導入科目(事前登録対象)\n実務経験教員\nオンライン(オンデマンド型)",
       "enrollment_application": "×",
@@ -209115,7 +209115,7 @@
       "english_name": "Introduction to Disabilities Sciences II",
       "subject_code": "CA10061",
       "requirement_subject_name": "障害科学II",
-      "data_update_date": "2026-08-29 15:23:18",
+      "data_update_date": "2026-09-05 17:21:13",
       "room": ""
     },
     {
@@ -213977,7 +213977,7 @@
       "standard_course_year": "4",
       "module": "春ABC\n秋ABC",
       "period": "随時",
-      "teaching_staff": "左藤 敦子,三盃 亜美,丹治 敬之,大村 美保,宮内 久絵,佐々木 銀河,名川 勝,岡 典子,柿澤 敏文,野呂 文行,宮本 昌子,山田 実,小島 道生,佐島 毅,八重田 淳,山中 克夫,米田 宏樹,和田 恒彦,森地 徹,工藤 滋,小渕 千絵,河野 禎之,魚野 翔太,飯村 大智,石塚 祐香,藤本 啓寛,林 小百合,前原 和明,沖中 美世乃,玉井 伸典,鈴木 寿人,細川 大瑛\n左藤 敦子,三盃 亜美,丹治 敬之,宮内 久絵,佐々木 銀河,名川 勝,岡 典子,柿澤 敏文,野呂 文行,宮本 昌子,山田 実,小島 道生,佐島 毅,八重田 淳,山中 克夫,米田 宏樹,和田 恒彦,森地 徹,工藤 滋,小渕 千絵,河野 禎之,魚野 翔太,飯村 大智,石塚 祐香,藤本 啓寛,林 小百合,前原 和明,沖中 美世乃,玉井 伸典,鈴木 寿人,細川 大瑛",
+      "teaching_staff": "左藤 敦子,三盃 亜美,丹治 敬之,大村 美保,宮内 久絵,佐々木 銀河,名川 勝,岡 典子,柿澤 敏文,野呂 文行,宮本 昌子,山田 実,小島 道生,佐島 毅,八重田 淳,山中 克夫,米田 宏樹,和田 恒彦,森地 徹,工藤 滋,小渕 千絵,河野 禎之,魚野 翔太,飯村 大智,石塚 祐香,藤本 啓寛,林 小百合,前原 和明,沖中 美世乃,玉井 伸典,鈴木 寿人,細川 大瑛\n左藤 敦子,三盃 亜美,丹治 敬之,宮内 久絵,佐々木 銀河,名川 勝,岡 典子,柿澤 敏文,野呂 文行,宮本 昌子,山田 実,小島 道生,佐島 毅,八重田 淳,山中 克夫,米田 宏樹,和田 恒彦,森地 徹,工藤 滋,小渕 千絵,河野 禎之,魚野 翔太,飯村 大智,石塚 祐香,藤本 啓寛,林 小百合,前原 和明,沖中 美世乃,玉井 伸典,鈴木 寿人,細川 大瑛,福田 奏子",
       "class_outline": "指導教員の指導の下で卒業研究を完成させる。",
       "remarks": "対面(オンライン併用型)",
       "enrollment_application": "×",
@@ -213987,7 +213987,7 @@
       "english_name": "Graduation Thesis II",
       "subject_code": "CE21928",
       "requirement_subject_name": "卒業研究II",
-      "data_update_date": "2026-08-29 15:26:01",
+      "data_update_date": "2026-09-05 17:22:08",
       "room": ""
     },
     {
@@ -214008,7 +214008,7 @@
       "english_name": "Graduation Thesis II",
       "subject_code": "CE21948",
       "requirement_subject_name": "卒業研究II",
-      "data_update_date": "2026-08-29 15:26:31",
+      "data_update_date": "2026-09-05 17:22:47",
       "room": ""
     },
     {
@@ -222072,7 +222072,7 @@
       "english_name": "Bioprocess Engineering",
       "subject_code": "EC32221",
       "requirement_subject_name": "生物プロセス工学",
-      "data_update_date": "2025-01-21 18:50:37",
+      "data_update_date": "2026-09-02 15:59:47",
       "room": ""
     },
     {
@@ -226608,7 +226608,7 @@
       "english_name": "Agro-Biological Resource Science, Exercises",
       "subject_code": "EC11212",
       "requirement_subject_name": "生物資源科学演習",
-      "data_update_date": "2026-06-10 16:00:09",
+      "data_update_date": "2026-09-02 15:58:41",
       "room": ""
     },
     {
@@ -227700,7 +227700,7 @@
       "english_name": "Bioprocess Engineering",
       "subject_code": "EC32221",
       "requirement_subject_name": "生物プロセス工学",
-      "data_update_date": "2025-01-21 18:50:37",
+      "data_update_date": "2026-09-02 15:59:47",
       "room": ""
     },
     {
@@ -247797,7 +247797,7 @@
       "english_name": "Modern Physics",
       "subject_code": "FJ12001",
       "requirement_subject_name": "Modern Physics",
-      "data_update_date": "2025-11-02 12:13:16",
+      "data_update_date": "2026-09-03 11:21:29",
       "room": ""
     },
     {
@@ -248763,7 +248763,7 @@
       "english_name": "Thermodynamics II",
       "subject_code": "FJ26114",
       "requirement_subject_name": "Thermodynamics II",
-      "data_update_date": "2023-02-13 18:55:33",
+      "data_update_date": "2026-09-03 11:22:12",
       "room": ""
     },
     {
@@ -250183,15 +250183,15 @@
       "period": "水1,2\n木3,4",
       "teaching_staff": "永谷 圭司",
       "class_outline": "大規模なソフトウェアを効率的かつ安全に開発するためには、プログラムを適切な規模の部品(モジュール)に分割し、不要な内部の詳細を意識せずに利用できるよう抽象化することが重要である。また、モジュール同士の組み合わせ方を一定の規則に基づいて設計し、その正しさを自動的に検証できる仕組みも求められる。\nこれらの要求に応える代表的な技術の一つが、オブジェクト指向プログラミングである。本授業では、Java言語を題材として、オブジェクト指向プログラミングの基本概念を学ぶ。具体的には、モジュールの単位となるオブジェクトやクラス、メソッドを用いたデータの抽象化や再利用の考え方、さらに静的型付けやインターフェースによる安全なプログラム構成について、講義と演習を通して理解を深める。",
-      "remarks": "2020年度までに開設された「オブジェクト指向プログラミング」(GB13022)または2019年度(令和元年度)まで開設された「オブジェクト指向プログラミング実習」(GB13013)の単位を修得した者の履修は認めない。\n対面",
+      "remarks": "2020年度までに開設された「オブジェクト指向プログラミング」(GB13022)または2019年度(令和元年度)まで開設された「オブジェクト指向プログラミング実習」(GB13013)の単位を修得した者の履修は認めない。\n対面\n短期留学生は日本語がわかる場合のみ履修可。",
       "enrollment_application": "×",
-      "enrollment_requirements": "",
-      "short_term_students_application": "×",
-      "short_term_students_requirements": "",
+      "enrollment_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
+      "short_term_students_application": "△",
+      "short_term_students_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
       "english_name": "Object-Oriented Programming",
       "subject_code": "GB13024",
       "requirement_subject_name": "オブジェクト指向プログラミング",
-      "data_update_date": "2026-01-17 12:58:03",
+      "data_update_date": "2026-09-01 14:51:55",
       "room": ""
     },
     {
@@ -252417,7 +252417,7 @@
       "english_name": "Introduction to Content Technology",
       "subject_code": "GC24401",
       "requirement_subject_name": "コンテンツ概論",
-      "data_update_date": "2026-02-04 12:22:56",
+      "data_update_date": "2026-09-01 16:49:26",
       "room": ""
     },
     {
@@ -258591,7 +258591,7 @@
       "english_name": "Life-span Development & Family Support",
       "subject_code": "HC21171",
       "requirement_subject_name": "生涯発達と家族支援",
-      "data_update_date": "2025-12-15 09:55:50",
+      "data_update_date": "2026-09-04 09:02:21",
       "room": ""
     },
     {
@@ -259675,7 +259675,7 @@
       "period": "火・金5,6",
       "teaching_staff": "磯辺 智範,大川 敬子",
       "class_outline": "医用電子計測機器の基礎的電子モジュールを組立て諸特性を測定させ、電子機器の動作の理解を深めさせる。また、心電計の周波数特性を測定し、医用機器の特性の理解を深める。接地抵抗や機器の漏れ電流の測定を通して医用安全の確保の仕方を身につけさせる。",
-      "remarks": "医療科学類学生で「医用工学」既履修者に限る。\n全て対面で行う。",
+      "remarks": "医療科学類学生で「医用工学」既履修者に限る。\n対面\n全て対面で行う。",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -259683,7 +259683,7 @@
       "english_name": "Practice of Medical Engineering",
       "subject_code": "HE23033",
       "requirement_subject_name": "医用工学実習",
-      "data_update_date": "2026-02-19 07:48:50",
+      "data_update_date": "2026-09-03 16:12:58",
       "room": ""
     },
     {
@@ -260469,9 +260469,9 @@
       "method": "1",
       "credits": "2.0",
       "standard_course_year": "4",
-      "module": "秋A\n秋BC",
+      "module": "秋ABC",
       "period": "随時",
-      "teaching_staff": "磯辺 智範,會田 雄一,森川 一也,大根田 修,小原 直,渋谷 和子,岡田 浩介,森戸 直記,三好 浩稔,福重 瑞穂,沖田 結花里\n會田 雄一,磯辺 智範,森川 一也,大根田 修,小原 直,渋谷 和子,岡田 浩介,森戸 直記,三好 浩稔,福重 瑞穂,沖田 結花里",
+      "teaching_staff": "會田 雄一,磯辺 智範,森川 一也,大根田 修,小原 直,渋谷 和子,岡田 浩介,森戸 直記,三好 浩稔,福重 瑞穂,沖田 結花里",
       "class_outline": "臨床検査学における学問と技術の進歩の最前線とポイントを解説する。また、本科目は4学年を通しての総括的な講義でもあり、臨床検査全般の知識を整理する。",
       "remarks": "医療科学類学生に限る。\n実務経験教員\nオンライン(オンデマンド型)",
       "enrollment_application": "△",
@@ -260481,7 +260481,7 @@
       "english_name": "Frontier of Clinical Laboratory Science",
       "subject_code": "HE35041",
       "requirement_subject_name": "医学検査学フロンティア",
-      "data_update_date": "2026-08-03 04:16:35",
+      "data_update_date": "2026-09-02 14:14:34",
       "room": ""
     },
     {
@@ -261145,7 +261145,7 @@
       "period": "集中",
       "teaching_staff": "柳沢 裕美,木村 健一,エルナ ラジャ,浅野 恵一,松宮 舞奈",
       "class_outline": "To provide basic knowledge and understanding of vascular biology, ranging from normal vascular development and physiology to molecular mechanisms of vascular diseases, as well as novel diagnostic and therapeutic approaches.  The course aims to solicit active participation of students in lectures and journal clubs.",
-      "remarks": "原則英語、場合によっては日本語でも授業。\n英語で授業。\n詳細後日周知\n対面",
+      "remarks": "原則英語、場合によっては日本語でも授業。\n英語で授業。\n10/2,10/6,10/15,10/16,10/20,10/27,11/10\n詳細後日周知\n対面",
       "enrollment_application": "",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
