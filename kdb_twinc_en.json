@@ -1395,12 +1395,13 @@
     "description": "0ADL204と同一。\\nオンライン(対面併用型)",
     "module": [
       [
-        "通年"
+        "秋BC"
       ]
     ],
     "period": [
       [
-        "集中"
+        "木7",
+        "木8"
       ]
     ],
     "room": " "
@@ -28515,7 +28516,7 @@
   "0ABC003": {
     "class_id": "0ABC003",
     "name": "International Relations B",
-    "description": "英語で授業。\\n授業形式はシラバスの「その他」欄で確認してください。",
+    "description": "英語で授業。\\nオンライン(オンデマンド型)\\n授業形式はシラバスの「その他」欄で確認してください。",
     "module": [
       [
         "秋AB"
@@ -31801,7 +31802,7 @@
   },
   "0ABE048": {
     "class_id": "0ABE048",
-    "name": "",
+    "name": "Public Administration in Japan",
     "description": "西暦奇数年度開講。\\n対面",
     "module": [
       [
@@ -31897,7 +31898,7 @@
   },
   "0ABE054": {
     "class_id": "0ABE054",
-    "name": "",
+    "name": "Global Communication Theory 1A",
     "description": "西暦奇数年度開講。\\n対面\\n対面(オンライン併用型)",
     "module": [
       [
@@ -31913,7 +31914,7 @@
   },
   "0ABE055": {
     "class_id": "0ABE055",
-    "name": "",
+    "name": "Global Communication Theory 2A",
     "description": "西暦偶数年度開講。\\n英語で授業。\\n対面\\n対面(オンライン併用型)",
     "module": [
       [
@@ -32329,7 +32330,7 @@
   },
   "0ABE162": {
     "class_id": "0ABE162",
-    "name": "",
+    "name": "Japanese economic and business history1A",
     "description": "西暦奇数年度開講。\\n2026年度開講せず。\\n対面(オンライン併用型)",
     "module": [
       [
@@ -32842,7 +32843,7 @@
   },
   "0ABE348": {
     "class_id": "0ABE348",
-    "name": "",
+    "name": "Japanese Public Administration",
     "description": "西暦奇数年度開講。\\nオンライン(同時双方向型)",
     "module": [
       [
@@ -32938,7 +32939,7 @@
   },
   "0ABE354": {
     "class_id": "0ABE354",
-    "name": "",
+    "name": "Global Communication Theory 1B",
     "description": "西暦奇数年度開講。\\n対面\\n対面(オンライン併用型)",
     "module": [
       [
@@ -32954,7 +32955,7 @@
   },
   "0ABE355": {
     "class_id": "0ABE355",
-    "name": "",
+    "name": "Global Communication Theory 2B",
     "description": "西暦偶数年度開講。\\n英語で授業。\\n対面\\n対面(オンライン併用型)",
     "module": [
       [
@@ -32986,7 +32987,7 @@
   },
   "0ABE369": {
     "class_id": "0ABE369",
-    "name": "",
+    "name": "Japanese economic and business history1B",
     "description": "西暦奇数年度開講。\\n対面",
     "module": [
       [
@@ -33082,7 +33083,7 @@
   },
   "0ABE379": {
     "class_id": "0ABE379",
-    "name": "",
+    "name": "Comparative Perspectives on Law 2B",
     "description": "西暦奇数年度開講。\\n英語で授業。\\n対面",
     "module": [
       [
@@ -33274,7 +33275,7 @@
   },
   "0ABE440": {
     "class_id": "0ABE440",
-    "name": "",
+    "name": "Public Administration",
     "description": "西暦偶数年度開講。\\nオンライン(同時双方向型)",
     "module": [
       [
@@ -33290,7 +33291,7 @@
   },
   "0ABE442": {
     "class_id": "0ABE442",
-    "name": "",
+    "name": "Politics and Society in East Asia",
     "description": "西暦偶数年度開講。\\n英語で授業。\\n対面",
     "module": [
       [
@@ -34112,12 +34113,13 @@
     "description": "01LA204と同一。\\nオンライン(対面併用型)",
     "module": [
       [
-        "通年"
+        "秋BC"
       ]
     ],
     "period": [
       [
-        "集中"
+        "木7",
+        "木8"
       ]
     ],
     "room": " "
@@ -52006,10 +52008,10 @@
   "0AL5447": {
     "class_id": "0AL5447",
     "name": "AI Social Practice B",
-    "description": "英語で授業。\\n対面(オンライン併用型)",
+    "description": "英語で授業。\\n11/11, 11/24, 12/9\\n対面(オンライン併用型)",
     "module": [
       [
-        "秋B"
+        "秋AB"
       ]
     ],
     "period": [
@@ -72540,7 +72542,7 @@
   "0ATHF39": {
     "class_id": "0ATHF39",
     "name": "Global Health",
-    "description": "1/14(木)4・5限,1/18(月)3~5限,1/21(木)4・5限,1/22(金)4限,1/25(月)4・5限\\n英語で授業。\\n1/14,1/18,1/21,1/22,1/25\\n対面",
+    "description": "英語で授業。\\n1/14,(木)4・5限,1/15(金)3~5限,1/20(水)2時限,1/21(木)4・5限,1/25(月)4・5限\\n対面",
     "module": [
       [
         "秋C"
@@ -82913,10 +82915,10 @@
   "0ATV406": {
     "class_id": "0ATV406",
     "name": "Heritage Interpretation",
-    "description": "対面",
+    "description": "10/19,10/26,11/9,11/16,11/30,12/19,12/21\\n対面",
     "module": [
       [
-        "秋AB"
+        "秋ABC"
       ]
     ],
     "period": [
@@ -111240,7 +111242,7 @@
   "1226223": {
     "class_id": "1226223",
     "name": "Fieldwork for co-creating harmonious future (B)",
-    "description": "履修条件を満たした学生のうち、8 名を選抜する。 実習での使用言語は英語。8 students will be selected among those who complete “Lectures for co-creating harmonious future” and “Seminar for co-creating harmonious future”. The language used in the fieldwork is English.\\n英語で授業。\\n対面\\n詳細は後日manaba で周知。Details will be announced through manaba in due course.",
+    "description": "履修条件を満たした学生のうち、8 名を選抜する。 実習での使用言語は英語。8 students will be selected among those who complete “Lectures for co-creating harmonious future” and “Seminar for co-creating harmonious future”. The language used in the fieldwork is English.\\n英語で授業。\\n2026年度開講せず。\\n対面\\n詳細は後日manaba で周知。Details will be announced through manaba in due course.",
     "module": [
       [
         "通年"
@@ -111248,7 +111250,7 @@
     ],
     "period": [
       [
-        "集中"
+        "随時"
       ]
     ],
     "room": " "
@@ -111287,16 +111289,17 @@
   },
   "1226251": {
     "class_id": "1226251",
-    "name": "Finance and Economics for Making Choices",
-    "description": "",
+    "name": "Discovering Who You Want to Become ? Learning from Diverse Perspectives to Shape Your Own Path ?",
+    "description": "対面",
     "module": [
       [
-        "通年"
+        "秋B"
       ]
     ],
     "period": [
       [
-        "随時"
+        "火5",
+        "火6"
       ]
     ],
     "room": " "
@@ -133188,7 +133191,7 @@
   "6512102": {
     "class_id": "6512102",
     "name": "Data Science",
-    "description": "数学対象\\n詳細後日周知\\n対面(オンライン併用型)",
+    "description": "数学対象\\n対面(オンライン併用型)",
     "module": [
       [
         "秋AB"
@@ -133680,7 +133683,7 @@
   "6527402": {
     "class_id": "6527402",
     "name": "Data Science",
-    "description": "総学第3類B班対象\\n詳細後日周知\\n実務経験教員\\n対面(オンライン併用型)",
+    "description": "総学第3類B班対象\\n実務経験教員\\n対面(オンライン併用型)",
     "module": [
       [
         "秋AB"
@@ -136002,7 +136005,7 @@
   "9450201": {
     "class_id": "9450201",
     "name": "Introduction to Mathematics Education II",
-    "description": "対面\\n秋AB木1限、秋C木2限、秋C(集中)2-6限(1日間)",
+    "description": "2/11\\n対面\\n秋AB木1限、秋C木2限、秋C(集中)2/11 2-6限(1日間)",
     "module": [
       [
         "秋AB"
@@ -156660,16 +156663,15 @@
   "BB23531": {
     "class_id": "BB23531",
     "name": "Criminology",
-    "description": "対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
+    "description": "10/5,10/19,10/26,11/9,11/16,11/30,12/7,12/14,1/19\\n対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
     "module": [
       [
-        "秋AB"
+        "秋ABC"
       ]
     ],
     "period": [
       [
-        "月5",
-        "月6"
+        "集中"
       ]
     ],
     "room": " "
@@ -157627,16 +157629,15 @@
   "BB29922": {
     "class_id": "BB29922",
     "name": "Seminar on Criminology and Law II",
-    "description": "西暦偶数年度開講。\\n対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
+    "description": "西暦偶数年度開講。\\n10/6,10/13,10/20,10/27,11/10,11/17,12/1,12/8,1/19\\n対面(オンライン併用型)\\n令和9年度以降は、社会学類法学主専攻のカリキュラム変更のため、開講されない予定。",
     "module": [
       [
-        "秋AB"
+        "秋ABC"
       ]
     ],
     "period": [
       [
-        "火5",
-        "火6"
+        "集中"
       ]
     ],
     "room": " "
@@ -176264,7 +176265,7 @@
   "EE31481": {
     "class_id": "EE31481",
     "name": "Special Lecture on Geology IV",
-    "description": "標準履修は3,4年次であるが、1,2年次の履修も歓迎する。\\n西暦偶数年度開講。\\n9/14,9/15\\n対面\\n実施形態は未定.",
+    "description": "標準履修は3,4年次であるが、1,2年次の履修も歓迎する。\\n西暦偶数年度開講。\\n9/14,9/15\\n対面",
     "module": [
       [
         "通年"
@@ -196633,10 +196634,12 @@
   "GB27401": {
     "class_id": "GB27401",
     "name": "Special Lecture on Software and Computing Science B",
-    "description": "開設する場合は掲示で周知する。",
+    "description": "1/15,1/18,2/18\\n対面(オンライン併用型)",
     "module": [
       [
-        "通年"
+        "春ABC",
+        "秋ABC",
+        "夏季休業中"
       ]
     ],
     "period": [
@@ -201674,7 +201677,7 @@
   "HB37252": {
     "class_id": "HB37252",
     "name": "English for Specialized Subjects P",
-    "description": "新医学専攻学生対象\\n詳細後日周知\\n対面",
+    "description": "新医学専攻学生対象\\n1/6,1/14,1/20,1/27,2/3\\n詳細後日周知\\n対面",
     "module": [
       [
         "秋C"
@@ -209060,7 +209063,9 @@
     "description": "対面",
     "module": [
       [
-        "春AB",
+        "春AB"
+      ],
+      [
         "秋AB"
       ]
     ],
