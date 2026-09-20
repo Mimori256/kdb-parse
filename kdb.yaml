@@ -28454,7 +28454,7 @@
 - class_id: 0A00215
   class_outline: 本授業では、大学院生がキャンパス生活や学術活動で必要となる日本事情、日本文化、日本語に関する知識やスキルを習得することを目指す。日本の大学キャンパスの特徴を理解するとともに、学術的場面や日常生活における日本語の効果的な使い方を学ぶことにより、留学生としての生活や研究活動をより充実させるための実践的なスキルを身につける。
   credits: '1.0'
-  data_update_date: '2026-06-03 11:25:16'
+  data_update_date: '2026-09-17 10:49:27'
   english_name: Introduction to Japanese Language and Culture for Academic and Daily
     Life
   enrollment_application: ×
@@ -28476,7 +28476,7 @@
 - class_id: 0A00216
   class_outline: 本授業では、大学院生がキャンパス生活や学術活動で必要となる日本事情、日本文化、日本語に関する知識やスキルを習得することを目指す。日本の大学キャンパスの特徴を理解するとともに、学術的場面や日常生活における日本語の効果的な使い方を学ぶことにより、留学生としての生活や研究活動をより充実させるための実践的なスキルを身につける。
   credits: '1.0'
-  data_update_date: '2026-06-04 16:08:18'
+  data_update_date: '2026-09-18 14:32:06'
   english_name: Introduction to Japanese Language and Culture for Academic and Daily
     Life
   enrollment_application: ×
@@ -28498,7 +28498,7 @@
 - class_id: 0A00217
   class_outline: 本授業では、大学院生がキャンパス生活や学術活動で必要となる日本事情、日本文化、日本語に関する知識やスキルを習得することを目指す。日本の大学キャンパスの特徴を理解するとともに、学術的場面や日常生活における日本語の効果的な使い方を学ぶことにより、留学生としての生活や研究活動をより充実させるための実践的なスキルを身につける。
   credits: '1.0'
-  data_update_date: '2026-06-04 16:08:53'
+  data_update_date: '2026-09-18 14:32:24'
   english_name: Introduction to Japanese Language and Culture for Academic and Daily
     Life
   enrollment_application: ×
@@ -42762,6 +42762,67 @@
   standard_course_year: '2'
   subject_code: 0ABC420
   teaching_staff: 蔡 芸?
+- class_id: 0ABC421
+  class_outline: This course examines agricultural issues in developing countries.
+    In many developing countries, agriculture is a major sector of the economy and
+    plays an important role in food security. However, agricultural sectors in developing
+    countries face a wide range of economic challenges. This course will cover topics
+    such as risk and rural finance, technology adoption, farming strategies, resource
+    management, and climate change. This course explores these issues, using microeconomic
+    theory and microeconometric methods as the main analytical tools. Students are
+    expected to have basic knowledge of statistics, econometrics, and microeconomics.
+    Students who have not taken courses in these subjects should consult the instructor
+    in advance. Students will be evaluated mainly based on their presentations of
+    assigned research papers and a final research proposal. This course is conducted
+    in English.
+  credits: '2.0'
+  data_update_date: '2026-09-17 14:59:18'
+  english_name: Agricultural Economics
+  enrollment_application: ''
+  enrollment_requirements: ''
+  method: '1'
+  module: 秋AB
+  name: 農業経済学
+  period: 火1,2
+  remarks: 英語で授業。
+  requirement_subject_name: 農業経済学
+  room: ''
+  short_term_students_application: ''
+  short_term_students_requirements: ''
+  standard_course_year: '2'
+  subject_code: 0ABC421
+  teaching_staff: 藤本 丈史
+- class_id: 0ABC422
+  class_outline: This graduate course examines why living standards differ so much
+    across countries, and what policy can do about it. The first half covers macro
+    development, including growth theory, institutions, trade and industrial policy,
+    and structural transformation. The second half covers micro development, including
+    poverty and inequality, health and education, agriculture, and behavioral approaches.
+    Each topic pairs a classic reference with recent empirical work, and the course
+    puts substantial weight on the causal inference methods behind that work, including
+    instrumental variables, difference in differences, and regression discontinuity.
+    Assessment is based on a research proposal (80%), following the strict deadline
+    on proposal development (10%) and class participation (10%). Students are expected
+    to have basic knowledge of microeconomics, statistics, and econometrics. Students
+    who have not taken courses in these subjects should consult the instructor in
+    advance. This course is conducted in English.
+  credits: '2.0'
+  data_update_date: '2026-09-15 11:54:53'
+  english_name: Development Economics
+  enrollment_application: ''
+  enrollment_requirements: ''
+  method: '1'
+  module: 秋AB
+  name: 開発経済学
+  period: 水1,2
+  remarks: 英語で授業。
+  requirement_subject_name: 開発経済学
+  room: ''
+  short_term_students_application: ''
+  short_term_students_requirements: ''
+  standard_course_year: '2'
+  subject_code: 0ABC422
+  teaching_staff: ブオング ディン トゥアン グエン
 - class_id: 0ABC500
   class_outline: 研究倫理を踏まえ、研究関心や着想を修士論文のテーマ設定に結び付け、かつ、自立的に研究プロセスを管理する能力及びリサーチデザイン能力の育成を図る。また、指導教員による指導を継続的に受け、修士論文作成を進める。
   credits: '3.0'
@@ -44152,10 +44213,10 @@
   teaching_staff: 東野 篤子
 - class_id: 0ABC823
   class_outline: This seminar seeks to help students improve their skills in conducting
-    fieldwork, especially in working on their theses and dissertations through Hiroshima
+    fieldwork, especially in working on their theses and dissertations through Hokkaido
     study tour.
   credits: '1.0'
-  data_update_date: '2025-12-15 14:00:00'
+  data_update_date: '2026-09-17 09:28:37'
   english_name: Special Seminar on Area Studies I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -44163,11 +44224,7 @@
   module: 秋B
   name: 地域研究特別演習I
   period: 応談
-  remarks: 'JDS学生限定
-
-    available only to JDS students
-
-    Hiroshima Study Tour
+  remarks: 'JDS学生限定 available only to JDS students Hokkaido Study Tour
 
     西暦偶数年度開講。
 
@@ -44178,7 +44235,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 0ABC823
-  teaching_staff: 秋山 肇,チョタニ ヴィンドゥ マイ
+  teaching_staff: チョタニ ヴィンドゥ マイ,川? レスリー タック
 - class_id: 0ABC824
   class_outline: This seminar seeks to help students improve their skills in conducting
     fieldwork. By participating in the Okinawa study tour, students are encouraged
@@ -51438,7 +51495,7 @@
   class_outline: "この授業は演習形式により、あらかじめ提示されたケース問題に含まれる行政法総論および行政救済法上の論点を析出し、柔軟性のある法的解決に向けた議論をおこない、もって、行政法に関する受講生の理解がより深まることを目指す。\n\
     \ 事例問題を解きながら、関連する知識の確認を行いつつ、紛争解決のあり方を多面的に議論する。"
   credits: '2.0'
-  data_update_date: '2025-12-15 13:58:24'
+  data_update_date: '2026-09-18 20:26:52'
   english_name: Administrative Law III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -51452,7 +51509,7 @@
 
     対面(オンライン併用型)
 
-    第1・2・4週は「講義」であるため,オンディマンドで実施する.詳細はmanabaで通知する.'
+    第1・2・3週は「講義」であるため,オンディマンドで実施する.詳細はmanabaで通知する.'
   requirement_subject_name: 行政法III
   room: ''
   short_term_students_application: ×
@@ -58744,22 +58801,24 @@
 - class_id: 0AJCC42
   class_outline: 宇宙物理学分野に関するトピックスについて、外部講師を招いて講義する。
   credits: '1.0'
-  data_update_date: '2025-12-16 17:46:53'
+  data_update_date: '2026-09-14 18:02:28'
   english_name: Special Lecture on Astrophysics II
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 秋B
+  module: 秋A
   name: 宇宙物理特講II
   period: 集中
-  remarks: 詳細後日周知
+  remarks: '10/28-10/30
+
+    詳細後日周知'
   requirement_subject_name: 宇宙物理学特講II
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01BC370
-  teaching_staff: 大須賀 健
+  teaching_staff: 松下 恭子
 - class_id: 0AJCC43
   class_outline: 宇宙観測分野に関するトピックスについて、外部講師を招いて講義する。
   credits: '1.0'
@@ -74190,10 +74249,12 @@
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 秋AB
+  module: 秋B
   name: 構造エネルギー工学特別講義III
   period: 集中
   remarks: '世話人:金子
+
+    11/20,12/4,12/10,12/11,12/17,12/18
 
     対面'
   requirement_subject_name: 構造エネルギー工学特別講義III
@@ -77646,7 +77707,7 @@
   module: 春C秋AB夏季休業中
   name: サイエンスライティング
   period: 集中
-  remarks: '7/29,9/8
+  remarks: '7/29,10/16,12/21,12/23,9/8
 
     対面'
   requirement_subject_name: サイエンスライティング
@@ -81551,6 +81612,27 @@
   standard_course_year: 1・2
   subject_code: 0ANC005
   teaching_staff: 日下 博幸
+- class_id: 0ANC012
+  class_outline: 指導教員やクラス、グループでのディスカッションをもとに、人文地理学、地誌学、地形学、水文科学、大気科学、空間情報科学、環境動態解析学、水災害科学、海洋大気相互システムに関する野外調査方法、論文の読み方・書き方、データ処理方法などの指導を受け、実践する。Ibでは、個々の研究テーマについて、今後必要な科学的な展開について、考察する。また、研究発表会に参加してプレゼンテーション技術や研究の方法論等に関して他者からの学びを得るとともに、分野横断的な理解の深化と視野の拡大を図る。この授業により、知識と理解力、企画力、問題解決能力、表現力、創造力の向上を図る。博士前期課程1年次に履修することが望ましい。
+  credits: '3.0'
+  data_update_date: '2026-09-16 08:37:55'
+  english_name: Special Study in Geoenvironmental Sciences Ib
+  enrollment_application: ×
+  enrollment_requirements: ''
+  method: '6'
+  module: 通年
+  name: 地球環境科学特別研究Ib
+  period: 応談
+  remarks: 全プログラム出席・運営担当・レポート提出(R7年度以前の入学者に限る)
+  requirement_subject_name: 地球環境科学特別研究Ib
+  room: ''
+  short_term_students_application: ×
+  short_term_students_requirements: ''
+  standard_course_year: '1'
+  subject_code: 0ANC012
+  teaching_staff: 山中 勤,浅沼 順,植田 宏昭,恩田 裕一,日下 博幸,呉羽 正昭,辻村 真貴,堤 純,津旨 大輔,松井 圭介,五十嵐 康記,池田
+    敦,加藤 弘亮,八反地 剛,松下 文経,関口 智寛,森本 健弘,久保 倫子,高橋 純子,山下 亜紀郎,パークナー トーマス,ドアン グアン ヴァン,石井 正好,梶野
+    瑞王,飯塚 聡,下川 信也,出世 ゆかり
 - class_id: 0ANC013
   class_outline: 指導教員やクラス、グループでのディスカッションをもとに、人文地理学、地誌学、地形学、水文科学、大気科学、空間情報科学、環境動態解析学、水災害科学、海洋大気相互システムに関する野外調査方法、論文の読み方・書き方、データ処理方法などの指導を受け、実践する。IIaでは、自身の修士論文の研究計画を作成し、それにもとづいて、研究活動を行う。この授業により、知識と理解力、企画力、問題解決能力、表現力、創造力の向上を図る。博士前期課程2年次に履修することが望ましい。
   credits: '3.0'
@@ -106243,7 +106325,7 @@
 - class_id: 0ATQ203
   class_outline: スポーツマネジメントを専門とする指導教員のもと、教員による話題提供及び国内外の事例に関する研究の紹介を交えながら、スポーツマネジメントに関わる研究方法について学ぶ。また、履修学生の課題に応じたスポーツマネジメント関連の研究論文を購読し、その内容について批評的にまとめて発表し、ディスカッションしながら研究テーマを深めていく。
   credits: '2.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-09-14 10:09:26'
   english_name: Seminar in Sport Management I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -113231,7 +113313,7 @@
 - class_id: 0ATV202
   class_outline: ユネスコ世界遺産条約は、国際遺産分野で最も影響力のある制度として、個々の遺産の保護・保全の実際から、各国の遺産政策や行政の展開に至るまで、加盟国に重要な指導的枠組みを提供してきた。本講義では、世界遺産条約の歴史、理念、運用スキームを網羅しながら、世界遺産条約とその周辺で展開された国際的な議論の全体像を解説する。
   credits: '1.0'
-  data_update_date: '2026-04-14 12:07:58'
+  data_update_date: '2026-09-18 09:44:12'
   english_name: UNESCO and the World Heritage Convention
   enrollment_application: ×
   enrollment_requirements: ''
@@ -113241,7 +113323,9 @@
   period: 集中
   remarks: '非常勤講師:稲葉信子
 
-    10/9-10/10'
+    10/9-10/10
+
+    オンライン(同時双方向型)'
   requirement_subject_name: ユネスコと世界遺産条約
   room: ''
   short_term_students_application: ×
@@ -116482,7 +116566,7 @@
 - class_id: 0ATW35B
   class_outline: 本講義では、主に図書館・博物館・文書館(以下、文化施設)を対象として、政策の動向と最先端の実践事例を通した経営のあり方やサービスについて学修する。具体的には、文化施設に関する政策、原則、概念、技法などについて解説するとともに、それらを非営利組織体である文化施設に応用することの展望と限界について検討する。さらに文化施設の政策・法制度、人的資源管理、サービス計画と評価、予算獲得と資金調達、広報、地域連携(官民連携等含む)などについて学修する
   credits: '1.0'
-  data_update_date: '2026-01-15 10:31:05'
+  data_update_date: '2026-09-16 10:21:39'
   english_name: Cultural Institutions Policies and Practices
   enrollment_application: ''
   enrollment_requirements: ''
@@ -116499,7 +116583,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 0ATW35B
-  teaching_staff: 小泉 公乃
+  teaching_staff: 小泉 公乃,新 出,鎮目 良文,富田 任
 - class_id: 0AVA101
   class_outline: スポーツ国際開発学の理論と実践を概観し、国際的・社会的・文化的な課題解決に向けたスポーツによる取り組みを学ぶ。講義では特に、開発問題に焦点をあて、地球規模の問題と持続可能で平和な社会を築くためのスポーツの利用について議論を行う。
   credits: '1.0'
@@ -152960,10 +153044,19 @@
   subject_code: '1190232'
   teaching_staff: シャーミン ソニア,ハサン モダル
 - class_id: '1190312'
-  class_outline: Students in Bachelor's Program in Global Issues will obtain various
-    information to live a fruitful life.
+  class_outline: This course supports first-year BPGI students in making a smooth
+    transition to university-level learning and establishing a foundation for their
+    four years of study in the Bachelor's Program in Global Issues. Students will
+    learn about the BPGI curriculum, academic planning, university facilities and
+    student support systems, research ethics, mental health and well-being, and opportunities
+    for student networking and intercultural communication. Through a series of career
+    design activities, students will also reflect on their academic interests, future
+    goals, and possible academic and professional pathways and develop an individual
+    study plan for their university life. Through these activities, the course provides
+    a foundation for communication ability, a broad perspective and international
+    outlook, self-directed learning, and responsible participation in university life.
   credits: '1.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-09-15 09:34:06'
   english_name: First Year Seminar
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153394,7 +153487,7 @@
 
     1 グローバル化と地域の日本のあり方」、2「政治・政策」、3「安全保障・憲法」、4「経済・産業」、5「資源・エネルギー」、6「世界/アジア」(順不同)'
   credits: '1.0'
-  data_update_date: '2026-02-17 10:41:50'
+  data_update_date: '2026-09-18 15:33:22'
   english_name: 'Top Runners talk on Social Issues: A Turbulent World and the Transformation
     of Local Communities'
   enrollment_application: ×
@@ -153684,7 +153777,7 @@
 
     アジアとの比較から日本の文化、デザインを捉えなおす力も身につけます。'
   credits: '1.0'
-  data_update_date: '2026-09-03 14:24:34'
+  data_update_date: '2026-09-18 09:22:23'
   english_name: Design and Culture in South Asia
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153705,7 +153798,8 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 6
   subject_code: '1226231'
-  teaching_staff: 櫻井 岳暁
+  teaching_staff: 山田 協太,チョタニ ヴィンドゥ マイ,チョーハン アヌブティ,中村 友香,中空 萌,岩田 祐佳梨,永田 真一,包 索米亜,櫻井
+    岳暁
 - class_id: '1226241'
   class_outline: '科学技術が進歩した現代においても、世界には多くの未充足の医療ニーズが存在
 
@@ -169925,7 +170019,7 @@
 - class_id: 31KA082
   class_outline: 「一般学術目的の英語」の枠組みで、実践的リーディング方略を中心に、より深く学ぶことができる。これにより、言語としての英語を深く理解するとともに、大学生として学術的及び学際的素養を養い、思考力・判断力・表現力を向上させることができる。
   credits: '1.0'
-  data_update_date: '2026-01-19 12:00:00'
+  data_update_date: '2026-09-18 16:50:18'
   english_name: English Reading Skills II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -170203,7 +170297,7 @@
 - class_id: 31KB082
   class_outline: 「一般学術目的の英語」の枠組みで、実践的リーディング方略を中心に、より深く学ぶことができる。これにより、言語としての英語を深く理解するとともに、大学生として学術的及び学際的素養を養い、思考力・判断力・表現力を向上させることができる。
   credits: '1.0'
-  data_update_date: '2026-01-19 12:00:00'
+  data_update_date: '2026-09-18 16:49:52'
   english_name: English Reading Skills II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -188326,7 +188420,7 @@
 - class_id: '8331453'
   class_outline: 秋学期ないし春季休業期間に海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-09-18 11:33:27'
   english_name: Problem solving through multicultural co-learning (overseas) B 2026
   enrollment_application: ×
   enrollment_requirements: ''
@@ -188341,7 +188435,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '8331453'
-  teaching_staff: 福嶋 美佐子
+  teaching_staff: 福嶋 美佐子,朝倉 雅史
 - class_id: '8333204'
   class_outline: 日本語の歴史、方言などの様々なジャンルや目的の日本語に触れ、日本語に対する知識を深める。現代日本社会の特徴、魅力、課題を、日本語を通じて、日本人学生には外国語力としての発信力と多文化理解、留学生には日本理解を通じての母文化の理解を深めることで、アカデミックな国際交流を深化させる。
   credits: '1.0'
@@ -188742,7 +188836,7 @@
 - class_id: '9200151'
   class_outline: 子どもが人として生まれ、人間として形成されていく過程で、大人・教育者はどのようなはたらきかけを行うべきか。また、社会は社会的存在としての人間の形成にどのように関わるべきか。こうした課題を、人間の発達、教育の目的、内容、方法、制度的・組織的原理等に関わる教育の基礎理論・基本的概念をふまえながら、多面的に考察する。
   credits: '1.0'
-  data_update_date: '2026-03-03 15:50:20'
+  data_update_date: '2026-09-14 09:03:01'
   english_name: The Ideal and The Real of Education
   enrollment_application: △
   enrollment_requirements: ''
@@ -188756,7 +188850,7 @@
 
     対面
 
-    11/21(1-3限),11/28(1-3限),12/5(1-4限)'
+    11/21(1-4限),11/28(1-3限),12/5(1-3限)'
   requirement_subject_name: 現代教育と教育理念
   room: ''
   short_term_students_application: ×
@@ -189216,17 +189310,19 @@
 - class_id: '9303011'
   class_outline: 道徳の本質をおさえた上で、現代の国内外における道徳教育の現状や課題について把握し、今日日本の学校における道徳教育及び道徳科の目標や内容に対する理解を深める。また、第二次世界大戦を契機として大きく変化した国内外の価値教育の在り方をおさえ、子供の心の成長や道徳性の発達への視座など、今後求められる指導の在り方についても考える。
   credits: '1.0'
-  data_update_date: '2025-10-10 16:13:19'
+  data_update_date: '2026-09-14 16:08:31'
   english_name: Moral Education II
   enrollment_application: △
   enrollment_requirements: ''
   method: '1'
-  module: 秋C
+  module: 春季休業中
   name: 道徳教育II
   period: 集中
-  remarks: '対面
+  remarks: '3/2,3/3
 
-    2/11(2-5限)2/14(3-5限)2/15(3-5限)'
+    対面
+
+    1-5限'
   requirement_subject_name: 道徳教育II
   room: ''
   short_term_students_application: ×
@@ -189409,7 +189505,7 @@
 
     第6回から第20回は、古典(古文・漢文)教育について取り扱う。古文・漢文の基礎的知見を学びつつ、実践例などにも言及しながらその問題点と対応の仕方について考える。また具体的な教材研究の方法・着眼点、授業の方法等を紹介したうえで、模擬授業を実施する。'
   credits: '2.0'
-  data_update_date: '2026-01-05 13:22:48'
+  data_update_date: '2026-09-15 14:04:06'
   english_name: Teaching Method in Japanese Language Teaching
   enrollment_application: △
   enrollment_requirements: ''
@@ -189426,7 +189522,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: '9432114'
-  teaching_staff: 赤松 幸紀
+  teaching_staff: 赤松 幸紀,五味 貴久子
 - class_id: '9433004'
   class_outline: 指導の観点から英語自体についての知識を再確認し,指導上の要点や課題を概観する。個人やグループでの作業,ディスカッションを行う。
   credits: '1.0'
@@ -192629,7 +192725,7 @@
 - class_id: '9802511'
   class_outline: 進路指導とそれを包含するキャリア教育について双方の定義や概念を明らかにした上で、進路指導・キャリア教育の視点に立った教育実践、評価改善の推進の在り方やガイダンスとカウンセリングの充実方策、学校内外の組織的な体制づくり等について講義する。
   credits: '1.0'
-  data_update_date: '2025-10-15 16:49:55'
+  data_update_date: '2026-09-14 16:08:01'
   english_name: Career Guidance and Career Education
   enrollment_application: △
   enrollment_requirements: ''
@@ -192637,7 +192733,9 @@
   module: 秋C
   name: 進路指導・キャリア教育
   period: 集中
-  remarks: '対面
+  remarks: '1/23,1/24
+
+    対面
 
     9時開始'
   requirement_subject_name: 進路指導
@@ -204755,7 +204853,7 @@
 
     各教員の研究テーマに応じて演習を行う。'
   credits: '1.0'
-  data_update_date: '2026-04-27 09:43:43'
+  data_update_date: '2026-09-17 19:32:22'
   english_name: Introductory Seminar in Anglo-American and European Studies I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -204778,7 +204876,7 @@
 
     欧米諸国の文化を専門的に学んでいく際に必要となる基礎知識を習得する。'
   credits: '1.0'
-  data_update_date: '2025-10-17 15:37:26'
+  data_update_date: '2026-09-17 19:45:26'
   english_name: Introductory Seminar in Anglo-American and European Studies II
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -204795,7 +204893,7 @@
   short_term_students_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   standard_course_year: '2'
   subject_code: AC51612
-  teaching_staff: 秋山 学,加藤 百合,津田 博司,宮? 和夫
+  teaching_staff: 秋山 学,加藤 百合,津田 博司,宮? 和夫,ヴァン ロメル ピーテル
 - class_id: AC51642
   class_outline: 【文化人類学コース専門導入基礎演習】比較文化学類のフィールド文化領域文化人類学コースの入門演習。領域・コースにおける学修の基礎を学びつつ、各自の問題意識を深める。
   credits: '1.0'
@@ -205076,7 +205174,7 @@
   class_outline: This course focuses on enhancing students' English reading, writing,
     speaking, and listening.
   credits: '1.0'
-  data_update_date: '2026-04-27 09:44:27'
+  data_update_date: '2026-09-18 15:17:47'
   english_name: English for Specific Purposes I-B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -205086,7 +205184,7 @@
   period: 木5
   remarks: '英語で授業。
 
-    オンライン(同時双方向型)
+    対面
 
     比較文化学類2班対象。原則として2022年度以前開講「専門英語IB」AC52012, AC52032, AC52052 の単位修得者は履修できない。'
   requirement_subject_name: 専門英語I-B
@@ -205170,7 +205268,7 @@
 - class_id: AC53132
   class_outline: This course focuses on developing students' English academic writing.
   credits: '1.0'
-  data_update_date: '2026-08-16 17:40:36'
+  data_update_date: '2026-09-18 15:19:54'
   english_name: English for Specific Purposes II-2
   enrollment_application: ×
   enrollment_requirements: ''
@@ -205180,7 +205278,7 @@
   period: 水1
   remarks: '英語で授業。
 
-    オンライン(同時双方向型)
+    対面
 
     履修数制限25名。比較文化学類生に限る。専門英語IAとIBの既修者もしくは履修中の者に限る。専門英語II-1A~専門英語II-6B(AC53002~AC53112)の単位取得者は履修できない。'
   requirement_subject_name: 専門英語II-2
@@ -205216,7 +205314,7 @@
   class_outline: This course focuses on further developing students’ presentation
     skills and introducing them to strategies for interviews and debates.
   credits: '1.0'
-  data_update_date: '2026-08-16 17:54:13'
+  data_update_date: '2026-09-18 15:20:46'
   english_name: English for Specific Purposes II-4
   enrollment_application: ×
   enrollment_requirements: ''
@@ -205226,7 +205324,7 @@
   period: 金3,4
   remarks: '英語で授業。
 
-    オンライン(同時双方向型)
+    対面
 
     履修数制限25名。比較文化学類生に限る。専門英語IAとIBの既修者もしくは履修中の者に限る。専門英語II-1A~専門英語II-6B(AC53002~AC53112)の単位取得者は履修できない。'
   requirement_subject_name: 専門英語II-4
@@ -205693,7 +205791,7 @@
 - class_id: AC56011
   class_outline: 比較文化学類の日本・アジア領域における文化研究のエッセンスを学修し、文化研究に対する履修者各自の問題意識を深める。
   credits: '1.0'
-  data_update_date: '2025-12-17 16:03:40'
+  data_update_date: '2026-09-14 09:40:33'
   english_name: 'Studies in Comparative Culture: Japanese and Asian Studies'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -205716,7 +205814,7 @@
 - class_id: AC56021
   class_outline: 比較文化学類の英米・ヨーロッパ領域における文化研究のエッセンスを学修し、文化研究に対する履修者各自の問題意識を深める。
   credits: '1.0'
-  data_update_date: '2026-09-11 12:22:01'
+  data_update_date: '2026-09-14 09:40:59'
   english_name: 'Studies in Comparative Culture: Anglo-American and European Studies'
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -205737,7 +205835,7 @@
 - class_id: AC56031
   class_outline: 比較文化学類のフィールド文化領域における文化研究のエッセンスを学修し、文化研究に対する履修者各自の問題意識を深める。
   credits: '1.0'
-  data_update_date: '2025-10-21 15:49:23'
+  data_update_date: '2026-09-14 09:40:02'
   english_name: 'Studies in Comparative Culture: Field Studies'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -205781,7 +205879,7 @@
 - class_id: AC56051
   class_outline: 比較文化研究について、先端文化学の観点と情報文化学の観点から、代表的な研究を紹介しながら考察する。
   credits: '1.0'
-  data_update_date: '2025-09-18 14:54:59'
+  data_update_date: '2026-09-14 09:41:30'
   english_name: 'Studies in Comparative Culture: Cultural and Social Sciences'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -205804,7 +205902,7 @@
 
     現代哲学、倫理学、東洋思想の諸分野のトピックを概説しながら、現代社会との接点を考える(現代思想コース)。聖典の宗教と口承伝統文化の宗教、また社会的宗教と他界的宗教を対比して、複眼的な宗教理解をめざす(比較宗教コース)。'
   credits: '1.0'
-  data_update_date: '2026-03-04 14:34:48'
+  data_update_date: '2026-09-14 09:41:41'
   english_name: 'Studies in Comparative Culture: Philosophy and Religious Studies'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -207527,7 +207625,7 @@
     (1993). Students will discuss and write reaction papers for each theme presented
     in class.
   credits: '1.0'
-  data_update_date: '2026-06-05 16:54:31'
+  data_update_date: '2026-09-18 15:23:30'
   english_name: Anglo-American Studies V
   enrollment_application: ''
   enrollment_requirements: ''
@@ -214439,7 +214537,7 @@
     \ 現在「古典」と考えられている作品は、もともと「古典」であったわけではなく、評価も時代を通して一定であるわけでもありません。一定の解釈の枠組に沿って「古典」は価値づけられ、読解されていきます。\n\
     \ そこで本授業は、作品の成立年代に沿って文学史上の事項を順番に覚えていくことよりも、ある時代の人々における「文学とは何か」という問いに着目して進めていきます。"
   credits: '1.0'
-  data_update_date: '2026-08-19 17:15:08'
+  data_update_date: '2026-09-16 11:58:14'
   english_name: History of Japanese Literature
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -219734,10 +219832,12 @@
   enrollment_application: ''
   enrollment_requirements: ''
   method: '1'
-  module: 秋AB
+  module: ''
   name: 比較政治学
-  period: 月1,2
+  period: ''
   remarks: '西暦偶数年度開講。
+
+    2026年度開講せず。
 
     対面'
   requirement_subject_name: 比較政治学I
@@ -219746,7 +219846,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2 - 4
   subject_code: BB31131
-  teaching_staff: 鈴木 創
+  teaching_staff: ''
 - class_id: BB31141
   class_outline: アメリカの政治制度と政治過程の特質を,主として国内政治に焦点を置いて論じる。
   credits: '2.0'
@@ -220247,7 +220347,7 @@
 - class_id: BB31902
   class_outline: 政治学の基礎概念について,2年生を対象として,政治学研究への入門指導を2期に分けて行う。
   credits: '2.0'
-  data_update_date: '2026-01-15 13:30:49'
+  data_update_date: '2026-09-14 11:51:10'
   english_name: Introductory Seminar of Politics
   enrollment_application: ×
   enrollment_requirements: ''
@@ -220266,7 +220366,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: BB32122
-  teaching_staff: 山本 英弘,崔 宰栄
+  teaching_staff: 中越 みずき,山本 英弘,崔 宰栄
 - class_id: BB31998
   class_outline: ''
   credits: '6.0'
@@ -227560,7 +227660,7 @@
 - class_id: CA10201
   class_outline: 「人間学」は、個と社会との関係性を、教育学、心理学、障害科学の視点から、「人間とは何か」を多面的に学習してきた。「人間学IIは、個と社会との関係性を、教員のそれぞれの学問分野の研究実践から、「人間とは何か」を追究する。
   credits: '1.0'
-  data_update_date: '2025-12-28 10:31:14'
+  data_update_date: '2026-09-16 08:49:36'
   english_name: Human Sciences II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -227579,7 +227679,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: CA10201
-  teaching_staff: 森地 徹,山口 一大,上田 孝典,石塚 祐香,外山 美樹,勝田 光,小渕 千絵,川上 直秋,長田 友紀
+  teaching_staff: 林 小百合,森地 徹,山口 一大,上田 孝典,石塚 祐香,外山 美樹,勝田 光,小渕 千絵,川上 直秋,長田 友紀
 - class_id: CB11051
   class_outline: この授業では、教育インターンシップ実践演習において実際に教育現場を訪問することに先立ち、どのような教育現場があるのか、そこではどのような人たちが働いているのか、さらには、どの人たちはどのような教育活動を展開しているのかを、調べ学習やゲストの講話を通して理解することを目的とする。
   credits: '1.0'
@@ -234957,7 +235057,7 @@
 - class_id: EB11131
   class_outline: 生物学の基礎である生物の系統分類と進化について、教科書に沿って概説する。生物の多様性を生み出した進化の機構、および生物界全体の分類体系を、その基礎となる系統樹や地球環境の変遷等と関連付けながら概説する。また、進化学・分類学の歴史や生物分類に関する国際的なルールについても学ぶ。
   credits: '1.0'
-  data_update_date: '2025-01-16 11:26:31'
+  data_update_date: '2026-09-16 14:03:02'
   english_name: Introduction to Systematics and Evolutionary Biology
   enrollment_application: ×
   enrollment_requirements: ''
@@ -234985,7 +235085,7 @@
     environment. You will also learn about the history of evolutionary science and
     taxonomy and the international rules on taxonomy.
   credits: '1.0'
-  data_update_date: '2023-02-27 14:56:02'
+  data_update_date: '2026-09-16 14:04:37'
   english_name: Introduction to Systematics and Evolutionary Biology
   enrollment_application: ×
   enrollment_requirements: ''
@@ -237395,7 +237495,7 @@
 - class_id: EB51121
   class_outline: 地球上には多くの生物が存在し、複雑な相互関係をもって生活している。さまざまな生物の生活史や行動習性を例に挙げて解説し、生物個体のふるまいから個体群や群集の構造と機能の基礎、生物保全のためのアプローチまでを理解する。
   credits: '1.0'
-  data_update_date: '2024-01-17 16:56:39'
+  data_update_date: '2026-09-15 08:35:15'
   english_name: Animal Ecology II
   enrollment_application: △
   enrollment_requirements: ''
@@ -242925,7 +243025,7 @@
 - class_id: EC33551
   class_outline: 木質バイオマス利用の様々な技術開発例を通じて、地域資源およびバイオマス利用の意義や化学工学の基礎知識を身に着ける。とりわけ産業化が期待されているリグニン系の新素材や、セルロースナノファイバーなどのバイオベース材料の開発について、最新の開発例を解説することで、その化学工学の技術と社会的な意義を学習する。
   credits: '1.0'
-  data_update_date: '2025-12-22 13:47:31'
+  data_update_date: '2026-09-18 08:47:43'
   english_name: Engineering of Woody Biomass
   enrollment_application: ''
   enrollment_requirements: ''
@@ -252566,7 +252666,7 @@
 - class_id: FA018D1
   class_outline: 具体例を用いて,線形代数の抽象的な概念を理解する.固有値・固有ベクトル,対称行列,2次形式とその応用.
   credits: '1.0'
-  data_update_date: '2025-01-16 11:26:54'
+  data_update_date: '2026-09-17 15:45:04'
   english_name: Linear Algebra 3
   enrollment_application: ×
   enrollment_requirements: ''
@@ -252587,7 +252687,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: FA01801
-  teaching_staff: 白木 賢太郎
+  teaching_staff: 丸山 実那
 - class_id: FA45224
   class_outline: 線形代数の基礎的な事項について講義と演習を行う。
   credits: '1.0'
@@ -261202,7 +261302,7 @@
 - class_id: FF40071
   class_outline: e-ラーニングシステムを使い、英語表現に慣れ親しむ。ヒヤリング能力、語彙力、表現力の養成を目指す。
   credits: '1.0'
-  data_update_date: '2025-12-23 17:14:26'
+  data_update_date: '2026-09-17 15:37:02'
   english_name: Technical English 3
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -261225,7 +261325,7 @@
   short_term_students_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
   standard_course_year: '3'
   subject_code: FF20071
-  teaching_staff: ''
+  teaching_staff: コウ セイ
 - class_id: FF40113
   class_outline: 物性工学における重要なテーマ(X線回折、半導体の電気伝導とホール効果、金属物性基礎)について基本的な実験を行い,その体験を通して物性工学の研究において必要な技術を修得するとともに,将来へ向けての応用能力を養うことを目的とする。
   credits: '2.0'
@@ -268011,7 +268111,7 @@
 - class_id: FH24031
   class_outline: 効用モデル、リスク態度、トレード・オフなどの習得を通して、リスク下でののぞましい意思決定について学習する。さらに、社会・経済問題における代表的な対応策である保険を通して、リスク・マネジメントの手法について学習する。
   credits: '2.0'
-  data_update_date: '2025-12-17 17:33:24'
+  data_update_date: '2026-09-14 09:23:19'
   english_name: Decision Theory
   enrollment_application: ×
   enrollment_requirements: ''
@@ -268030,7 +268130,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2 - 4
   subject_code: FH24031
-  teaching_staff: 藤井 陽一朗
+  teaching_staff: 藤井 陽一朗,上市 秀雄
 - class_id: FH24044
   class_outline: 社会科学に大きな影響を与えたダーウィン進化論と学習理論を概観し,進化ゲーム論の初歩を学ぶ。人間の進化・学習(適応)が身近な社会現象を生み出すメカニズムを,具体例を通して追求する。
   credits: '2.0'
@@ -268099,7 +268199,7 @@
 - class_id: FH24111
   class_outline: ミクロ的な実証分析、及び、政策評価に必要となる技術習得を目標とする。
   credits: '2.0'
-  data_update_date: '2023-01-12 11:35:23'
+  data_update_date: '2026-09-15 10:50:15'
   english_name: Empirical Microeconomics
   enrollment_application: ''
   enrollment_requirements: ''
@@ -281142,13 +281242,20 @@
   subject_code: HB36193
   teaching_staff: 関谷 元博
 - class_id: HB37142
-  class_outline: This course is designed to increase students’ confidence and ability
-    to discuss, debate, and make presentations in English on a range of current topics
-    and issues in medicine and medical research. The aim of the course is to develop
-    students’ international understanding and professionalism towards becoming a member
-    of the global medical community.
+  class_outline: 'This course is designed to increase students’ confidence and ability
+    to discuss, debate, and make presentations in English on a range of topics related
+    to health, disease prevention, healthy longevity, and the future of medicine.
+    Using a Content and Language Integrated Learning (CLIL) approach, students will
+    develop both their understanding of medical and health-related issues and their
+    ability to communicate about them effectively in English. The course also aims
+    to broaden students’ international perspectives and professionalism as future
+    members of the global medical community.
+
+
+    本授業では、健康、疾病予防、健康長寿、未来医療に関するさまざまなテーマについて、英語で議論、ディベート、プレゼンテーションを行う能力と自信を高めることを目的とします。Content
+    and Language Integrated Learning(CLIL:内容言語統合型学習)のアプローチを用い、医学・健康に関する理解を深めるとともに、それらについて英語で効果的にコミュニケーションする能力を養います。また、将来グローバルな医療コミュニティの一員として活躍するために必要な国際的視野と専門職としての意識を高めることを目指します。'
   credits: '1.0'
-  data_update_date: '2026-09-08 15:49:42'
+  data_update_date: '2026-09-15 09:40:01'
   english_name: English for Specialized Subjects E
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -281252,12 +281359,18 @@
   subject_code: HB37242
   teaching_staff: コスミン ミハイル フロレスク
 - class_id: HB37252
-  class_outline: In this course, students will learn about the theory and protocols
-    of modern molecular biology lab techniques using practical, scientific English.
-    The course will be taught in the context of current research being carried out
-    within the Univerity. No previous lab experience required.
+  class_outline: 'This course is designed to develop the practical English communication
+    skills needed to participate effectively in biomedical research laboratories.
+    Using a Content and Language Integrated Learning (CLIL) approach, students will
+    learn essential laboratory concepts and terminology while practicing how to understand
+    protocols, communicate with supervisors and colleagues, discuss experimental procedures
+    and results, and present scientific information in English. The course aims to
+    prepare medical students to participate confidently in international and interdisciplinary
+    research environments. No previous laboratory experience is required.
+
+    本授業では、生物医学研究室で活動するために必要な実践的な英語コミュニケーション能力を養う。Content and Language Integrated Learning(CLIL:内容言語統合型学習)のアプローチを用い、基本的な実験・研究に関する知識や用語を学びながら、英語で実験プロトコルを理解し、指導教員や研究者とコミュニケーションをとり、実験方法や結果について議論し、科学的情報を発表する能力を身につける。本授業を通して、国際的・学際的な研究環境において、自信をもって研究活動に参加できる基礎力を養う。実験経験は問わない。'
   credits: '1.0'
-  data_update_date: '2026-09-08 15:50:46'
+  data_update_date: '2026-09-15 12:00:54'
   english_name: English for Specialized Subjects P
   enrollment_application: ×
   enrollment_requirements: ''
@@ -281265,7 +281378,7 @@
   module: 秋C
   name: 専門語学(英語)P
   period: 集中
-  remarks: '新医学専攻学生対象
+  remarks: '新医学専攻学生履修推奨
 
     1/6,1/14,1/20,1/27,2/3
 
@@ -286889,7 +287002,7 @@
     this, they will acquire fundamental literacy and skills for observing, understanding,
     and expressing objects and concepts.
   credits: '3.0'
-  data_update_date: '2025-09-19 15:40:51'
+  data_update_date: '2026-09-15 09:35:49'
   english_name: Methodology for Global Issues
   enrollment_application: ×
   enrollment_requirements: ''
@@ -287124,7 +287237,7 @@
     knowledge from lecture to understand problems and suggest solution for target
     area. Lastly, students will present the achievement of group work.
   credits: '6.0'
-  data_update_date: '2026-01-06 11:39:39'
+  data_update_date: '2026-09-16 16:44:45'
   english_name: Seminars on Global Issues A-I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -287143,7 +287256,9 @@
 
     主専攻必修科目。
 
-    対面'
+    対面
+
+    interdepartmental course'
   requirement_subject_name: Seminars on Global Issues A-I
   room: ''
   short_term_students_application: ×
@@ -287285,21 +287400,22 @@
   subject_code: VB30001
   teaching_staff: 秋山 肇,佐々木 萌
 - class_id: VB30012
-  class_outline: These seminars will approach a wide range of academic knowledge,
-    evaluation methods, and coping and preventive strategies related to the issues
-    of social diversity-inclusion as well as human health-wellbeing.For the former
-    part, the course will provide a variety of global issues concerning the disciplines
-    of humanities and social sciences. Students will learn what are problems and discuss
-    how we can resolve them. As for the latter part, the course will approach the
-    health matters of aged people, as contemporary society requires information literacy
-    and care of the elderly, as well as molecular level understanding of the health.
-    Students will learn basic concepts and techniques of a survey to grasp problems
-    in a real situation, processing methods, and interpretative strategies for gathered
-    information (documents, data). In the end, students will come up with an action
-    plan and/or original research project aiming at finding and solving problems in
-    a real situation.
+  class_outline: "This seminar-based course addresses global issues in the BPGI Human\
+    \ domain from two complementary perspectives: Social Diversity and Inclusion,\
+    \ and Health & Wellness. \nIn the Social Diversity and Inclusion component, students\
+    \ examine contemporary social issues through perspectives from the humanities\
+    \ and social sciences, discuss how such issues emerge in different contexts, and\
+    \ explore possible approaches to addressing them. \nIn the Health & Wellness component,\
+    \ students study public health, health information science, and molecular-based\
+    \ medicine. They learn to understand health problems at population, information,\
+    \ cellular, and molecular levels and to critically interpret relevant evidence,\
+    \ documents, and data. \nAcross both components, students engage in discussion,\
+    \ reflection, research, presentations, and other seminar activities. By the end\
+    \ of the course, they are expected to integrate knowledge and perspectives from\
+    \ multiple fields and formulate an initial solution, action plan, and/or research\
+    \ idea for a real-world global issue."
   credits: '6.0'
-  data_update_date: '2026-05-22 09:23:25'
+  data_update_date: '2026-09-16 16:42:58'
   english_name: Seminars on Global Issues B-I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -287316,14 +287432,16 @@
 
     主専攻必修科目。
 
-    対面'
+    対面
+
+    interdepartmental course'
   requirement_subject_name: Seminars on Global Issues B-I
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: VB30012
-  teaching_staff: 秋山 肇,大庭 良介,矢田 竣太郎,トゴバタラ ガンチメゲ,守谷 優希,タスタンベコワ クアニシ,秋山 知宏,関 洋平
+  teaching_staff: 大庭 良介,秋山 肇,矢田 竣太郎,トゴバタラ ガンチメゲ,守谷 優希,タスタンベコワ クアニシ,秋山 知宏,関 洋平
 - class_id: VB30013
   class_outline: 'This practical training provides foundational experience in research
     methodology through systematically organized classroom-based PBL (Problem-Based

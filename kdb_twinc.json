@@ -29856,6 +29856,40 @@
     ],
     "room": " "
   },
+  "0ABC421": {
+    "class_id": "0ABC421",
+    "name": "農業経済学",
+    "description": "英語で授業。",
+    "module": [
+      [
+        "秋AB"
+      ]
+    ],
+    "period": [
+      [
+        "火1",
+        "火2"
+      ]
+    ],
+    "room": " "
+  },
+  "0ABC422": {
+    "class_id": "0ABC422",
+    "name": "開発経済学",
+    "description": "英語で授業。",
+    "module": [
+      [
+        "秋AB"
+      ]
+    ],
+    "period": [
+      [
+        "水1",
+        "水2"
+      ]
+    ],
+    "room": " "
+  },
   "0ABC500": {
     "class_id": "0ABC500",
     "name": "国際公共政策リサーチワークショップA",
@@ -30868,7 +30902,7 @@
   "0ABC823": {
     "class_id": "0ABC823",
     "name": "地域研究特別演習I",
-    "description": "JDS学生限定\\navailable only to JDS students\\nHiroshima Study Tour\\n西暦偶数年度開講。\\n英語で授業。",
+    "description": "JDS学生限定 available only to JDS students Hokkaido Study Tour\\n西暦偶数年度開講。\\n英語で授業。",
     "module": [
       [
         "秋B"
@@ -36090,7 +36124,7 @@
   "0AFL103": {
     "class_id": "0AFL103",
     "name": "行政法III",
-    "description": "法曹専攻の学生のみ履修可\\n社会人に限る\\n対面(オンライン併用型)\\n第1・2・4週は「講義」であるため,オンディマンドで実施する.詳細はmanabaで通知する.",
+    "description": "法曹専攻の学生のみ履修可\\n社会人に限る\\n対面(オンライン併用型)\\n第1・2・3週は「講義」であるため,オンディマンドで実施する.詳細はmanabaで通知する.",
     "module": [
       [
         "秋AB"
@@ -41279,10 +41313,10 @@
   "0AJCC42": {
     "class_id": "0AJCC42",
     "name": "宇宙物理特講II",
-    "description": "詳細後日周知",
+    "description": "10/28-10/30\\n詳細後日周知",
     "module": [
       [
-        "秋B"
+        "秋A"
       ]
     ],
     "period": [
@@ -52667,10 +52701,10 @@
   "0AL5618": {
     "class_id": "0AL5618",
     "name": "構造エネルギー工学特別講義III",
-    "description": "世話人:金子\\n対面",
+    "description": "世話人:金子\\n11/20,12/4,12/10,12/11,12/17,12/18\\n対面",
     "module": [
       [
-        "秋AB"
+        "秋B"
       ]
     ],
     "period": [
@@ -55290,7 +55324,7 @@
   "0ANA058": {
     "class_id": "0ANA058",
     "name": "サイエンスライティング",
-    "description": "7/29,9/8\\n対面",
+    "description": "7/29,10/16,12/21,12/23,9/8\\n対面",
     "module": [
       [
         "春C",
@@ -58333,6 +58367,22 @@
     "class_id": "0ANC005",
     "name": "地球環境科学実践実習",
     "description": "報告書には、地球環境科学実践実習を受講した意見や感想を必ず記載する事。",
+    "module": [
+      [
+        "通年"
+      ]
+    ],
+    "period": [
+      [
+        "応談"
+      ]
+    ],
+    "room": " "
+  },
+  "0ANC012": {
+    "class_id": "0ANC012",
+    "name": "地球環境科学特別研究Ib",
+    "description": "全プログラム出席・運営担当・レポート提出(R7年度以前の入学者に限る)",
     "module": [
       [
         "通年"
@@ -82586,7 +82636,7 @@
   "0ATV202": {
     "class_id": "0ATV202",
     "name": "UNESCO and the World Heritage Convention (ユネスコと世界遺産条約)",
-    "description": "非常勤講師:稲葉信子\\n10/9-10/10",
+    "description": "非常勤講師:稲葉信子\\n10/9-10/10\\nオンライン(同時双方向型)",
     "module": [
       [
         "秋A"
@@ -135050,7 +135100,7 @@
   "9200151": {
     "class_id": "9200151",
     "name": "現代教育と教育理念",
-    "description": "体育6~10クラス対象\\n11/21,11/28,12/5\\n対面\\n11/21(1-3限),11/28(1-3限),12/5(1-4限)",
+    "description": "体育6~10クラス対象\\n11/21,11/28,12/5\\n対面\\n11/21(1-4限),11/28(1-3限),12/5(1-3限)",
     "module": [
       [
         "秋B"
@@ -135404,10 +135454,10 @@
   "9303011": {
     "class_id": "9303011",
     "name": "道徳教育II",
-    "description": "対面\\n2/11(2-5限)2/14(3-5限)2/15(3-5限)",
+    "description": "3/2,3/3\\n対面\\n1-5限",
     "module": [
       [
-        "秋C"
+        "夏季休業中"
       ]
     ],
     "period": [
@@ -137824,7 +137874,7 @@
   "9802511": {
     "class_id": "9802511",
     "name": "進路指導・キャリア教育",
-    "description": "対面\\n9時開始",
+    "description": "1/23,1/24\\n対面\\n9時開始",
     "module": [
       [
         "秋C"
@@ -147176,7 +147226,7 @@
   "AC52102": {
     "class_id": "AC52102",
     "name": "専門英語I-B",
-    "description": "英語で授業。\\nオンライン(同時双方向型)\\n比較文化学類2班対象。原則として2022年度以前開講「専門英語IB」AC52012, AC52032, AC52052 の単位修得者は履修できない。",
+    "description": "英語で授業。\\n対面\\n比較文化学類2班対象。原則として2022年度以前開講「専門英語IB」AC52012, AC52032, AC52052 の単位修得者は履修できない。",
     "module": [
       [
         "秋AB"
@@ -147240,7 +147290,7 @@
   "AC53132": {
     "class_id": "AC53132",
     "name": "専門英語II-2",
-    "description": "英語で授業。\\nオンライン(同時双方向型)\\n履修数制限25名。比較文化学類生に限る。専門英語IAとIBの既修者もしくは履修中の者に限る。専門英語II-1A~専門英語II-6B(AC53002~AC53112)の単位取得者は履修できない。",
+    "description": "英語で授業。\\n対面\\n履修数制限25名。比較文化学類生に限る。専門英語IAとIBの既修者もしくは履修中の者に限る。専門英語II-1A~専門英語II-6B(AC53002~AC53112)の単位取得者は履修できない。",
     "module": [
       [
         "秋AB"
@@ -147272,7 +147322,7 @@
   "AC53152": {
     "class_id": "AC53152",
     "name": "専門英語II-4",
-    "description": "英語で授業。\\nオンライン(同時双方向型)\\n履修数制限25名。比較文化学類生に限る。専門英語IAとIBの既修者もしくは履修中の者に限る。専門英語II-1A~専門英語II-6B(AC53002~AC53112)の単位取得者は履修できない。",
+    "description": "英語で授業。\\n対面\\n履修数制限25名。比較文化学類生に限る。専門英語IAとIBの既修者もしくは履修中の者に限る。専門英語II-1A~専門英語II-6B(AC53002~AC53112)の単位取得者は履修できない。",
     "module": [
       [
         "秋C"
@@ -157815,16 +157865,15 @@
   "BB31131": {
     "class_id": "BB31131",
     "name": "比較政治学",
-    "description": "西暦偶数年度開講。\\n対面",
+    "description": "西暦偶数年度開講。\\n2026年度開講せず。\\n対面",
     "module": [
       [
-        "秋AB"
+        "通年"
       ]
     ],
     "period": [
       [
-        "月1",
-        "月2"
+        "随時"
       ]
     ],
     "room": " "
@@ -201677,7 +201726,7 @@
   "HB37252": {
     "class_id": "HB37252",
     "name": "専門語学(英語)P",
-    "description": "新医学専攻学生対象\\n1/6,1/14,1/20,1/27,2/3\\n詳細後日周知\\n対面",
+    "description": "新医学専攻学生履修推奨\\n1/6,1/14,1/20,1/27,2/3\\n詳細後日周知\\n対面",
     "module": [
       [
         "秋C"
@@ -205744,7 +205793,7 @@
   "VB20012": {
     "class_id": "VB20012",
     "name": "Seminars on Global Issues A-I",
-    "description": "This course is for BPGI students, or students who have earned credits of VB10001 and VB10011.\\n英語で授業。\\n主専攻必修科目。\\n対面",
+    "description": "This course is for BPGI students, or students who have earned credits of VB10001 and VB10011.\\n英語で授業。\\n主専攻必修科目。\\n対面\\ninterdepartmental course",
     "module": [
       [
         "春ABC"
@@ -205845,7 +205894,7 @@
   "VB30012": {
     "class_id": "VB30012",
     "name": "Seminars on Global Issues B-I",
-    "description": "This course is for BPGI students, or students who have earned credits of VB10001 and VB10011.\\n英語で授業。\\n主専攻必修科目。\\n対面",
+    "description": "This course is for BPGI students, or students who have earned credits of VB10001 and VB10011.\\n英語で授業。\\n主専攻必修科目。\\n対面\\ninterdepartmental course",
     "module": [
       [
         "秋ABC"
