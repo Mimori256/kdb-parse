@@ -2507,7 +2507,7 @@
 - class_id: 01LA302
   class_outline: 企業活動のグローバル化を背景として、現代の国際取引法の基礎理論を学び、その応用として実際の国際取引・国際金融取引の多様な形態とそれに関連する法的諸問題を検討する。授業は講義形式とする。
   credits: '2.0'
-  data_update_date: '2026-07-10 12:41:44'
+  data_update_date: '2026-10-01 14:12:38'
   english_name: Law of International Business Transactions
   enrollment_application: ''
   enrollment_requirements: ''
@@ -2517,16 +2517,14 @@
   period: 木7,8
   remarks: '0ADL302と同一。
 
-    対面
-
-    非常勤講師担当科目のため、講師については後日お知らせします。'
+    対面'
   requirement_subject_name: 国際取引法
   room: ''
   short_term_students_application: ''
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01LA302
-  teaching_staff: 岡本 裕樹
+  teaching_staff: 岡本 裕樹,阿部 耕一
 - class_id: 01LA306
   class_outline: グローバルに議論されている先端的論点(デジタルプラットフォーム規制・知的財産権濫用規制・政府規制と独占禁止法の関係等)、外国独占禁止法(競争法)の概要について、講義形式で解説する。
   credits: '1.0'
@@ -3342,7 +3340,7 @@
 - class_id: 01MB50B
   class_outline: 博物館はメディアである、博物館が提供するのは情報であり、テレビに似ている(梅棹1987)と唱えられて以後、インターネットの普及に伴い、メディアとしての博物館は急速に発展しつつある。リアルな博物館とヴァーチャルな博物館の双方において、情報メディアに関する知識と理解が強く求められている。本講義は、インターネット展開における映像リテラシーの重要性を鑑みつつ、博物館と情報メディアに関し、その現状と展望について、さまざまな観点から考察する。
   credits: '2.0'
-  data_update_date: '2026-03-18 13:37:54'
+  data_update_date: '2026-09-29 13:52:23'
   english_name: Selected Topics in Digital Contents II
   enrollment_application: ''
   enrollment_requirements: ''
@@ -3510,7 +3508,7 @@
 - class_id: 01MBA01
   class_outline: 知識についての論考とそれを形成・獲得するための方法について学ぶ。まず,知識とは何かについて検討しする。「正当化された真なる信念」という知識の定義やそれに対する批判(ゲティア問題等)を紹介した上で,知識の共有について意味論との関わりを踏まえ,相対主義とその批判という視点から講義する。次に,身体化された認知の観点から知識の形成についての3つの考え方を紹介し,最近の研究動向を踏まえて考究する。そして,最後に,知識・情報・データの関係を整理した上で,計量情報学のモデルに基づいて知識を表現・獲得する方法について学ぶ。
   credits: '2.0'
-  data_update_date: '2025-10-06 15:04:53'
+  data_update_date: '2026-09-29 11:39:37'
   english_name: Knowledge and Information
   enrollment_application: ''
   enrollment_requirements: ''
@@ -3541,7 +3539,7 @@
 - class_id: 01MBA02
   class_outline: 知識についての論考とそれを形成・獲得するための方法について学ぶ。まず,知識とは何かについて検討しする。「正当化された真なる信念」という知識の定義やそれに対する批判(ゲティア問題等)を紹介した上で,知識の共有について意味論との関わりを踏まえ,相対主義とその批判という視点から講義する。次に,身体化された認知の観点から知識の形成についての3つの考え方を紹介し,最近の研究動向を踏まえて考究する。そして,最後に,知識・情報・データの関係を整理した上で,計量情報学のモデルに基づいて知識を表現・獲得する方法について学ぶ。
   credits: '2.0'
-  data_update_date: '2025-10-06 15:04:53'
+  data_update_date: '2026-09-29 11:39:37'
   english_name: System Thinking
   enrollment_application: ''
   enrollment_requirements: ''
@@ -3770,7 +3768,7 @@
   class_outline: まず、それぞれの担当教員が専門とする研究領域を紹介し、研究テーマの設定方法や調査・実験の方法、研究成果の公表方法などの特徴について解説する。その後、修士論文執筆を最終目標として、文書作成、研究倫理、ブレーンストーミング、協調作業、プレゼンテーションの5つのテーマについて学ぶ。(取り上げるテーマの順番は変更になる可能性がある。)
     さらに、研究の遂行と論文作成ために有用な各種のツールの使い方を演習を通して学ぶ。これらを通して、研究者となるための基礎的知識と技能を身に着ける。
   credits: '2.0'
-  data_update_date: '2025-10-06 15:59:04'
+  data_update_date: '2026-09-29 11:36:07'
   english_name: Information Media Seminar C
   enrollment_application: ×
   enrollment_requirements: ''
@@ -3880,7 +3878,7 @@
   class_outline: 本講義では、様々な情報資源を効果的かつ効率的に利用するための組織化について学ぶ。主にWWWやデジタルライブラリー等のネットワークを介して提供・共有される情報資源を対象とし、情報資源の分析とそのメタデータ記述、分類や識別の手法について学ぶ。また、Linked
     Open Data等の実践的なメタデータ記述も対象とし、記述に対するRDF Schema、OWL、SKOS等を利用したスキーマ定義とオントロジーについても理解を深める。あわせて、電子情報資源を対象としたレコード識別の方法として、適切な識別子を用いた同定、データクリーニング、自動同定の手法について解説する。
   credits: '2.0'
-  data_update_date: '2025-10-06 15:54:59'
+  data_update_date: '2026-09-29 11:40:56'
   english_name: Semantic Web
   enrollment_application: ''
   enrollment_requirements: ''
@@ -4175,7 +4173,7 @@
 - class_id: 01MBB21
   class_outline: 博物館はメディアである、博物館が提供するのは情報であり、テレビに似ている(梅棹1987)と唱えられて以後、インターネットの普及に伴い、メディアとしての博物館は急速に発展しつつある。リアルな博物館とヴァーチャルな博物館の双方において、情報メディアに関する知識と理解が強く求められている。本講義は、インターネット展開における映像リテラシーの重要性を鑑みつつ、博物館と情報メディアに関し、その現状と展望について、さまざまな観点から考察する。
   credits: '2.0'
-  data_update_date: '2026-03-18 13:37:33'
+  data_update_date: '2026-09-29 13:52:23'
   english_name: Advanced Topics in Video Media
   enrollment_application: ''
   enrollment_requirements: ''
@@ -4377,7 +4375,7 @@
 - class_id: 01MBC06
   class_outline: 博物館はメディアである、博物館が提供するのは情報であり、テレビに似ている(梅棹1987)と唱えられて以後、インターネットの普及に伴い、メディアとしての博物館は急速に発展しつつある。リアルな博物館とヴァーチャルな博物館の双方において、情報メディアに関する知識と理解が強く求められている。本講義は、インターネット展開における映像リテラシーの重要性を鑑みつつ、博物館と情報メディアに関し、その現状と展望について、さまざまな観点から考察する。
   credits: '2.0'
-  data_update_date: '2026-03-18 13:37:33'
+  data_update_date: '2026-09-29 13:52:23'
   english_name: Organization of Information and Resources
   enrollment_application: ''
   enrollment_requirements: ''
@@ -4405,7 +4403,7 @@
   class_outline: 本講義では、様々な情報資源を効果的かつ効率的に利用するための組織化について学ぶ。主にWWWやデジタルライブラリー等のネットワークを介して提供・共有される情報資源を対象とし、情報資源の分析とそのメタデータ記述、分類や識別の手法について学ぶ。また、Linked
     Open Data等の実践的なメタデータ記述も対象とし、記述に対するRDF Schema、OWL、SKOS等を利用したスキーマ定義とオントロジーについても理解を深める。あわせて、電子情報資源を対象としたレコード識別の方法として、適切な識別子を用いた同定、データクリーニング、自動同定の手法について解説する。
   credits: '2.0'
-  data_update_date: '2025-10-06 15:54:59'
+  data_update_date: '2026-09-29 11:40:56'
   english_name: Metadata
   enrollment_application: ''
   enrollment_requirements: ''
@@ -4956,7 +4954,7 @@
   class_outline: まず、それぞれの担当教員が専門とする研究領域を紹介し、研究テーマの設定方法や調査・実験の方法、研究成果の公表方法などの特徴について解説する。その後、修士論文執筆を最終目標として、文書作成、研究倫理、ブレーンストーミング、協調作業、プレゼンテーションの5つのテーマについて学ぶ。(取り上げるテーマの順番は変更になる可能性がある。)
     さらに、研究の遂行と論文作成ために有用な各種のツールの使い方を演習を通して学ぶ。これらを通して、研究者となるための基礎的知識と技能を身に着ける。
   credits: '2.0'
-  data_update_date: '2025-10-07 09:10:23'
+  data_update_date: '2026-09-29 11:35:46'
   english_name: Introduction to Research Methods
   enrollment_application: ×
   enrollment_requirements: ''
@@ -29100,7 +29098,7 @@
 - class_id: 0A00323
   class_outline: 海外協定校等を共修の場とし、本学の日本人大学院生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-08-24 08:38:08'
+  data_update_date: '2026-09-30 14:07:11'
   english_name: Problem solving through multicultural co-learning (overseas)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -29108,7 +29106,7 @@
   module: 春ABC夏季休業中秋ABC春季休業中
   name: 多文化共修による課題解決実習(海外)
   period: 随時
-  remarks: '履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。 (多文化共修・推進企画会議企画)
+  remarks: '履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。 (多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。
 
     対面'
   requirement_subject_name: 多文化共修による課題解決実習(海外)
@@ -29122,7 +29120,7 @@
 - class_id: 0A00324
   class_outline: 国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人大学院生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:33'
+  data_update_date: '2026-09-30 14:07:47'
   english_name: Problem solving through multicultural co-learning (in Japan)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -29130,7 +29128,7 @@
   module: 春ABC夏季休業中秋ABC春季休業中
   name: 多文化共修による課題解決実習(国内)
   period: 随時
-  remarks: '履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。 (多文化共修・推進企画会議企画)
+  remarks: '履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。 (多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。
 
     対面'
   requirement_subject_name: 多文化共修による課題解決実習(国内)
@@ -30223,7 +30221,7 @@
   period: 集中
   remarks: '非常勤講師:渡邉綱男
 
-    1/24-1/25
+    1/23-1/24
 
     対面'
   requirement_subject_name: 自然保護行政論
@@ -42799,17 +42797,12 @@
     across countries, and what policy can do about it. The first half covers macro
     development, including growth theory, institutions, trade and industrial policy,
     and structural transformation. The second half covers micro development, including
-    poverty and inequality, health and education, agriculture, and behavioral approaches.
+    poverty and inequality, health and education, environment, and behavioral approaches.
     Each topic pairs a classic reference with recent empirical work, and the course
     puts substantial weight on the causal inference methods behind that work, including
     instrumental variables, difference in differences, and regression discontinuity.
-    Assessment is based on a research proposal (80%), following the strict deadline
-    on proposal development (10%) and class participation (10%). Students are expected
-    to have basic knowledge of microeconomics, statistics, and econometrics. Students
-    who have not taken courses in these subjects should consult the instructor in
-    advance. This course is conducted in English.
   credits: '2.0'
-  data_update_date: '2026-09-15 11:54:53'
+  data_update_date: '2026-10-02 10:44:05'
   english_name: Development Economics
   enrollment_application: ''
   enrollment_requirements: ''
@@ -49288,7 +49281,7 @@
 - class_id: 0ADL302
   class_outline: 企業活動のグローバル化を背景として、現代の国際取引法の基礎理論を学び、その応用として実際の国際取引・国際金融取引の多様な形態とそれに関連する法的諸問題を検討する。授業は講義形式とする。
   credits: '2.0'
-  data_update_date: '2026-07-10 12:41:44'
+  data_update_date: '2026-10-01 14:12:38'
   english_name: Law of International Business Transactions
   enrollment_application: ''
   enrollment_requirements: ''
@@ -49298,16 +49291,14 @@
   period: 木7,8
   remarks: '01LA302と同一。
 
-    対面
-
-    非常勤講師担当科目のため、講師については後日お知らせします。'
+    対面'
   requirement_subject_name: 国際取引法
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01LA302
-  teaching_staff: 岡本 裕樹
+  teaching_staff: 岡本 裕樹,阿部 耕一
 - class_id: 0ADL304
   class_outline: 契約法に関するヨーロッパの規定に関する理解を深めることを目標とする。日本法との考え方の共通点や相違点について考える。授業は講義形式とする。
   credits: '1.0'
@@ -53743,7 +53734,7 @@
     the course aims to familiarize students with actual stress reduction skills and
     the theories behind them.
   credits: '1.0'
-  data_update_date: '2026-08-29 14:45:17'
+  data_update_date: '2026-09-29 11:08:55'
   english_name: 'Human Resource Management II: Stress Management'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -53756,7 +53747,7 @@
 
     英語で授業。
 
-    オンライン(オンデマンド型)'
+    対面'
   requirement_subject_name: 'Human Resource Management II: Stress Management'
   room: ''
   short_term_students_application: ×
@@ -53843,7 +53834,7 @@
     but also self-coaching as self-development is essential for promoting growths
     in others.
   credits: '1.0'
-  data_update_date: '2026-08-29 14:47:09'
+  data_update_date: '2026-09-29 11:09:40'
   english_name: 'Global Skills I: Coaching to Grow People'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -53856,7 +53847,7 @@
 
     英語で授業。
 
-    オンライン(オンデマンド型)'
+    対面'
   requirement_subject_name: 'Global Skills I: Coaching to Grow People'
   room: ''
   short_term_students_application: ×
@@ -67672,22 +67663,24 @@
 - class_id: 0AJMA31
   class_outline: 量子物性分野の特定のトッピックスについて、基礎的な内容から最先端の研究内容まで幅広く解説する
   credits: '1.0'
-  data_update_date: '2026-02-04 16:56:37'
+  data_update_date: '2026-10-01 17:43:59'
   english_name: Advanced Quantum Physics of Solid States I
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 秋C
+  module: 秋B
   name: 量子物性特別講義I
   period: 集中
-  remarks: 対面
+  remarks: '12/11,12/14
+
+    対面'
   requirement_subject_name: 量子物性特別講義I
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01BG141
-  teaching_staff: ''
+  teaching_staff: 近松 真之
 - class_id: 0AJMB01
   class_outline: "分子と結晶の対称性を群論によって理解し、量子力学への応用を講じる。物質の振動状態および電子状態を群論によって理解することを目指す。\n\
     \ 量子力学は、ミクロな物質の量子状態を理解するための基幹理論である。この理論は、互いに相補的な解析学的な手法(微積分)と幾何学的な手法(群論)によって構成されている。通常の量子力学の授業では、前者の解析学的な手法を主体とした枠組みのみが紹介されている。ここでは、後者の群論と量子力学の関係を中心とした講義を行い、従来の解析学的な理解とは異なった切り口で、物質の量子状態を理解し深化させる。"
@@ -70723,19 +70716,9 @@
   subject_code: 0AL0016
   teaching_staff: 星野 准一
 - class_id: 0AL0017
-  class_outline: '博士前期課程1・2年次生を対象とし、企業・行政・研究機関(以下「企業等」という)において実社会の課題解決を目的にどのような研究開発が行われているのかを学ぶ。数理・データサイエンス・AI(MDA)分野で活躍する企業等に所属する博士研究者による研究事例を通じて、最前線の研究実践のあり方を理解する。また、学生自身の研究内容に対して企業等の博士研究者から専門的かつ実践的な助言を受けることで、
-
-    (1)研究を実社会の課題と関連付けて考える力
-
-
-    (2)異分野・異業種の専門家と建設的に議論する力
-
-
-    (3)自身の研究成果をわかりやすく発信する力
-
-    を養うことを目的とする。'
+  class_outline: 博士前期課程1・2年次生を対象とし、企業・行政・研究機関(以下「企業等」という)において、実社会の課題解決に向けてどのような研究開発が行われているかを学ぶ。数理・データサイエンス・AI(MDA)分野で活躍する企業等の博士研究者による研究事例を通じて、実践的な研究の進め方を理解する。また、各講師が出題する課題にグループで取り組み、課題の分析、解決方法の検討、実装および成果の発表を行う。これらの学修を通じて、(1)実社会の課題を捉え、研究課題として分析する力、(2)異なる専門分野の学生と議論し、協働して解決方法を検討する力、(3)検討過程と成果をわかりやすく発信する力を養う。
   credits: '2.0'
-  data_update_date: '2026-01-30 15:43:43'
+  data_update_date: '2026-09-30 16:39:39'
   english_name: MDA Practical Research Exercises
   enrollment_application: ''
   enrollment_requirements: ''
@@ -71322,7 +71305,7 @@
 - class_id: 0AL0401
   class_outline: 企業のプロジェクトリーダーや研究教育機関における人材育成を担う者にとって、自らの知識や経験を分かりやすく人に教える能力を身につけることは非常に重要である。この授業は、専門技術教育に関する専門家による講義と実習を通じて、教授法やプレゼンテーションの技術を体系的かつ実践的に習得することを目的とする。そのために、専門技術教育法に関する講義や模擬授業等を行う。また、コーチングに関する講義とロールプレイングによる演習も併せて実施する。
   credits: '1.0'
-  data_update_date: '2026-03-05 16:39:46'
+  data_update_date: '2026-10-01 17:24:45'
   english_name: Instructional Design
   enrollment_application: ×
   enrollment_requirements: ''
@@ -71345,7 +71328,7 @@
 - class_id: 0AL0402
   class_outline: 多様なデータを対象とした分析・解釈・予測に関する基礎から発展的内容までを体系的に学び、各手法の考え方と特徴を理解する。講義とPythonを用いた演習を通して、データに基づく客観的な評価や問題解決に応用できる実践的な能力の習得を目指す。
   credits: '2.0'
-  data_update_date: '2026-01-08 10:41:49'
+  data_update_date: '2026-10-01 17:20:09'
   english_name: Advanced Course in Data Science
   enrollment_application: ''
   enrollment_requirements: ''
@@ -72992,7 +72975,7 @@
 - class_id: 0AL5419
   class_outline: 計算生物学についての基礎的な概念と計算手法について学ぶ。本講義では、計算機を用いて生物学で現れる各種の問題を解くための基礎的な手法について理解する。分子系統解析、分子動力学法、現象のモデル化とアルゴリズム、成分分析法、高性能計算について説明する。
   credits: '2.0'
-  data_update_date: '2025-02-18 18:12:45'
+  data_update_date: '2026-10-01 17:29:36'
   english_name: Basic Computational Biology
   enrollment_application: ×
   enrollment_requirements: ''
@@ -73146,7 +73129,7 @@
 
     5. 数値計算手法の並列化について理解する。'
   credits: '2.0'
-  data_update_date: '2025-09-30 11:03:08'
+  data_update_date: '2026-10-01 17:23:25'
   english_name: Advanced Course in Computational Algorithms
   enrollment_application: ''
   enrollment_requirements: ''
@@ -73211,7 +73194,7 @@
 - class_id: 0AL5432
   class_outline: 物理、化学、生体及び数理系にみられるカオス・フラクタル・分岐等の非線形現象を紹介し、その発生機構を力学系理論に基づき講義する。まず、1次元差分力学系を例に乱雑な軌道の発生機構および不変集合とフラクタルの関係性について学ぶ。次に、2次元連続差分力学系における漸近安定な不変集合について学び、これを3次元微分力学系の挙動と対応づける。さらに、力学系を係数族へ拡張し、不変集合の形成過程を一連の分岐現象により特徴づけ、カオスへの普遍性的ルートとして理解する。
   credits: '2.0'
-  data_update_date: '2024-10-01 11:13:18'
+  data_update_date: '2026-10-01 17:30:21'
   english_name: Advanced Nonlinear Systems
   enrollment_application: ×
   enrollment_requirements: ''
@@ -75321,7 +75304,7 @@
 - class_id: 0ALC000
   class_outline: リスク・レジリエンス工学の対象とする範疇は環境・エネルギー、都市防災減災、情報セキュリティをはじめとして多岐に亘る。また、それらを支える基礎理論も視野に入れなければならない。そのため、リスク・レジリエンス工学に係る専門分野を修得するためには自分自身の専門のリスク・レジリエンス工学における位置付けを明確にする必要がある。そのため、本授業科目では、リスク・レジリエンス工学の基本的概念、リスクとレジリエンスの定義並びに数学的定式化、リスク・レジリエンス工学における理論的基礎と発展、理論の応用と具体的実例など、理論的側面に重点を置きつつ、様々な側面をとりあげて概説する。本授業科目とリスク・レジリエンス工学概論とでリスク・レジリエンス工学の俯瞰的な視野を涵養する。
   credits: '1.0'
-  data_update_date: '2026-02-12 17:09:02'
+  data_update_date: '2026-09-30 11:35:14'
   english_name: Fundamentals of Risk and Resilience Engineering
   enrollment_application: ×
   enrollment_requirements: ''
@@ -75337,7 +75320,7 @@
   standard_course_year: '1'
   subject_code: 0ALC000
   teaching_staff: 鈴木 研悟,三崎 広海,高安 亮紀,面 和成,齊藤 裕一,木下 陽平,鈴木 勉,羽田野 祐子,古川 宏,イリチュ 美佳,遠藤 靖典,岡島
-    敬一,谷口 綾子,伊藤 誠,庄司 学,梅本 通孝,西出 隆志,秋元 祐太朗,掛谷 英紀,?橋 大成,干川 尚人,崔 子?
+    敬一,谷口 綾子,伊藤 誠,庄司 学,梅本 通孝,西出 隆志,秋元 祐太朗,掛谷 英紀,?橋 大成,干川 尚人,崔 子?,長田 繁幸,三井 健
 - class_id: 0ALC500
   class_outline: 3-4 名の学生グループ毎にリスク・レジリエンス工学に関する課題(下記の(研究指導)欄に示される各教員の研究指導する専門領域や研究テーマを中心とする)を設定し、当該課題を担当しているアドヴァイザー教員、TA、あるいはアドヴァイザー学生のもとで、グループとして問題の把握、分析、考察を行い、結果をまとめる。
   credits: '3.0'
@@ -77309,8 +77292,6 @@
   name: 生物学概論I
   period: ''
   remarks: '西暦奇数年度開講。
-
-    オンライン(オンデマンド型)
 
     オンライン(同時双方向型)
 
@@ -86191,6 +86172,8 @@
 
     英語で授業。
 
+    2/5, 6
+
     対面(オンライン併用型)'
   requirement_subject_name: Olympic and Paralympic History(オリンピック・パラリンピック史)
   room: ''
@@ -94608,7 +94591,7 @@
 - class_id: 0ATC112
   class_outline: 視覚障害児に対する指導について、教科と自立活動領域の指導を中心にして、その指導内容、指導計画、指導方法、指導の評価等の視点から具体的内容を想定して検討する。
   credits: '2.0'
-  data_update_date: '2026-03-03 14:23:39'
+  data_update_date: '2026-09-29 14:04:56'
   english_name: Teaching Methods for Persons with Visual Impairments
   enrollment_application: ×
   enrollment_requirements: ''
@@ -101731,7 +101714,9 @@
   module: 秋B
   name: 体育・スポーツ哲学
   period: 集中
-  remarks: オンライン(対面併用型)
+  remarks: '12/1-12/12
+
+    オンライン(対面併用型)'
   requirement_subject_name: 体育・スポーツ哲学
   room: ''
   short_term_students_application: ×
@@ -103752,7 +103737,9 @@
   module: 秋B
   name: 競技マネジメント論
   period: 集中
-  remarks: 対面
+  remarks: '11/14-11/15
+
+    対面'
   requirement_subject_name: 競技マネジメント論
   room: ''
   short_term_students_application: ×
@@ -114348,7 +114335,7 @@
 - class_id: 0ATW131
   class_outline: 知識についての論考とそれを形成・獲得するための方法について学ぶ。まず,知識とは何かについて検討しする。「正当化された真なる信念」という知識の定義やそれに対する批判(ゲティア問題等)を紹介した上で,知識の共有について意味論との関わりを踏まえ,相対主義とその批判という視点から講義する。次に,身体化された認知の観点から知識の形成についての3つの考え方を紹介し,最近の研究動向を踏まえて考究する。そして,最後に,知識・情報・データの関係を整理した上で,計量情報学のモデルに基づいて知識を表現・獲得する方法について学ぶ。
   credits: '2.0'
-  data_update_date: '2025-10-06 15:04:53'
+  data_update_date: '2026-09-29 11:39:37'
   english_name: Analysis of Knowledge and Information
   enrollment_application: ''
   enrollment_requirements: ''
@@ -114551,7 +114538,7 @@
 - class_id: 0ATW13A
   class_outline: 知識についての論考とそれを形成・獲得するための方法について学ぶ。まず,知識とは何かについて検討しする。「正当化された真なる信念」という知識の定義やそれに対する批判(ゲティア問題等)を紹介した上で,知識の共有について意味論との関わりを踏まえ,相対主義とその批判という視点から講義する。次に,身体化された認知の観点から知識の形成についての3つの考え方を紹介し,最近の研究動向を踏まえて考究する。そして,最後に,知識・情報・データの関係を整理した上で,計量情報学のモデルに基づいて知識を表現・獲得する方法について学ぶ。
   credits: '2.0'
-  data_update_date: '2024-11-20 16:09:10'
+  data_update_date: '2026-09-29 11:40:11'
   english_name: Analysis of Knowledge and Information
   enrollment_application: ''
   enrollment_requirements: ''
@@ -115021,7 +115008,7 @@
 - class_id: 0ATW156
   class_outline: 博物館はメディアである、博物館が提供するのは情報であり、テレビに似ている(梅棹1987)と唱えられて以後、インターネットの普及に伴い、メディアとしての博物館は急速に発展しつつある。リアルな博物館とヴァーチャルな博物館の双方において、情報メディアに関する知識と理解が強く求められている。本講義は、インターネット展開における映像リテラシーの重要性を鑑みつつ、博物館と情報メディアに関し、その現状と展望について、さまざまな観点から考察する。
   credits: '2.0'
-  data_update_date: '2026-03-18 13:37:33'
+  data_update_date: '2026-09-29 13:52:23'
   english_name: Museum and Information Media
   enrollment_application: ''
   enrollment_requirements: ''
@@ -115049,7 +115036,7 @@
   class_outline: 本講義では、様々な情報資源を効果的かつ効率的に利用するための組織化について学ぶ。主にWWWやデジタルライブラリー等のネットワークを介して提供・共有される情報資源を対象とし、情報資源の分析とそのメタデータ記述、分類や識別の手法について学ぶ。また、Linked
     Open Data等の実践的なメタデータ記述も対象とし、記述に対するRDF Schema、OWL、SKOS等を利用したスキーマ定義とオントロジーについても理解を深める。あわせて、電子情報資源を対象としたレコード識別の方法として、適切な識別子を用いた同定、データクリーニング、自動同定の手法について解説する。
   credits: '2.0'
-  data_update_date: '2025-10-06 15:54:59'
+  data_update_date: '2026-09-29 11:40:56'
   english_name: Information Organization
   enrollment_application: ''
   enrollment_requirements: ''
@@ -115236,7 +115223,7 @@
 - class_id: 0ATW15F
   class_outline: 博物館はメディアである、博物館が提供するのは情報であり、テレビに似ている(梅棹1987)と唱えられて以後、インターネットの普及に伴い、メディアとしての博物館は急速に発展しつつある。リアルな博物館とヴァーチャルな博物館の双方において、情報メディアに関する知識と理解が強く求められている。本講義は、インターネット展開における映像リテラシーの重要性を鑑みつつ、博物館と情報メディアに関し、その現状と展望について、さまざまな観点から考察する。
   credits: '2.0'
-  data_update_date: '2026-03-18 13:37:54'
+  data_update_date: '2026-09-29 13:52:23'
   english_name: Museum and Information Media
   enrollment_application: ''
   enrollment_requirements: ''
@@ -115483,7 +115470,7 @@
     investigates the current activities and the overview of future from various viewpoints
     in consideration of the importance of video media literacy.
   credits: '2.0'
-  data_update_date: '2026-02-20 08:39:17'
+  data_update_date: '2026-09-29 13:52:23'
   english_name: Museum and Information Media
   enrollment_application: ''
   enrollment_requirements: ''
@@ -115624,7 +115611,7 @@
   class_outline: まず、それぞれの担当教員が専門とする研究領域を紹介し、研究テーマの設定方法や調査・実験の方法、研究成果の公表方法などの特徴について解説する。その後、修士論文執筆を最終目標として、文書作成、研究倫理、ブレーンストーミング、協調作業、プレゼンテーションの5つのテーマについて学ぶ。(取り上げるテーマの順番は変更になる可能性がある。)
     さらに、研究の遂行と論文作成ために有用な各種のツールの使い方を演習を通して学ぶ。これらを通して、研究者となるための基礎的知識と技能を身に着ける。
   credits: '2.0'
-  data_update_date: '2025-10-06 15:59:04'
+  data_update_date: '2026-09-29 11:36:07'
   english_name: Research Foundation
   enrollment_application: ×
   enrollment_requirements: ''
@@ -115803,7 +115790,7 @@
   class_outline: まず、それぞれの担当教員が専門とする研究領域を紹介し、研究テーマの設定方法や調査・実験の方法、研究成果の公表方法などの特徴について解説する。その後、修士論文執筆を最終目標として、文書作成、研究倫理、ブレーンストーミング、協調作業、プレゼンテーションの5つのテーマについて学ぶ。(取り上げるテーマの順番は変更になる可能性がある。)
     さらに、研究の遂行と論文作成ために有用な各種のツールの使い方を演習を通して学ぶ。これらを通して、研究者となるための基礎的知識と技能を身に着ける。
   credits: '2.0'
-  data_update_date: '2025-10-07 09:10:23'
+  data_update_date: '2026-09-29 11:35:46'
   english_name: Research Foundation
   enrollment_application: ×
   enrollment_requirements: ''
@@ -116725,7 +116712,7 @@
 - class_id: 0AVA108
   class_outline: 講義では、学生は障害者のスポーツについて学ぶ。その際に、パラリンピックやパラリンピック以外の世界大会、また障害(身体障害、知的障害、精神障害)の特性など、講義内で議論が可能と思われる事例なども提示していく。
   credits: '1.0'
-  data_update_date: '2026-01-18 16:54:11'
+  data_update_date: '2026-09-28 18:01:08'
   english_name: Sport and Person with Disabilities (PWDs)
   enrollment_application: ×
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -116739,7 +116726,7 @@
 
     遠隔授業
 
-    オンライン(同時双方向型)'
+    対面(オンライン併用型)'
   requirement_subject_name: Sport and Person with Disabilities (PWDs)(スポーツと障がい者)
   room: ''
   short_term_students_application: △
@@ -133178,7 +133165,7 @@
 - class_id: 0BL5000
   class_outline: 指導教員の指導の下、ジョブ型研究インターンシップ制度にエントリーし、企業でジョブ型研究インターンシップを実施する。これにより、進路の可能性を広げ、自らの専門性を客観的に確認し、アカデミアに進んでも生きる研究力に裏打ちされた実践力を涵養することを目的とする。
   credits: '2.0'
-  data_update_date: '2026-08-03 04:16:34'
+  data_update_date: '2026-09-28 14:23:34'
   english_name: Cooperative Education through Research Internships (Systems and Information
     Engineering)
   enrollment_application: ×
@@ -133187,16 +133174,14 @@
   module: 春ABC夏季休業中秋ABC春季休業中
   name: ジョブ型研究インターンシップ(システム情報工学)
   period: 随時
-  remarks: 'システム情報工学研究群(後期)の学生のみ履修可(※エンパワーメント情報学プログラム及びライフイノベーション(生物情報)学位プログラムの学生は除く)
-
-    履修条件:ジョブ型研究インターンシップに応募し、企業とマッチングした者(インターンシップ先が正式に決定した者)'
+  remarks: システム情報工学研究群(後期)の学生のみ履修可(※エンパワーメント情報学プログラム及びライフイノベーション(生物情報)学位プログラムの学生は除く)履修条件:ジョブ型研究インターンシップに応募し、企業とマッチングした者(インターンシップ先が正式に決定した者)
   requirement_subject_name: ジョブ型研究インターンシップ(システム情報工学)
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1 - 3
   subject_code: 0BL5000
-  teaching_staff: ''
+  teaching_staff: 塩川 浩昭,奥島 真一郎,小西 葉子,伊藤 誠,若槻 尚斗,武若 聡
 - class_id: 0BLA500
   class_outline: 社会工学に関連する機関でインターンシップを行い実践力を養う。履修希望学生は、申請書に、受入組織、受入組織所在地、受入組織責任者、受入組織担当者、受入期間、就業日数と時間(35時間以上であることが必須)、インターンシップ中の連絡先、補助等を明記し、学生教育研究災害障害保険(インターンシップコース)に加入した上で申請書を提出する。履修が認められインターンシップに参加した後、インターンシップの内容の概要、具体的成果等からなる報告書を提出し、担当教員が評価を行う。
   credits: '2.0'
@@ -151146,7 +151131,7 @@
 - class_id: '1110102'
   class_outline: 筑波大学の各種の組織や運営,生物資源学類のカリキュラムのあり方,学問研究への方向づけ,クラス制度の役割,大学と社会,新しい人間関係の促進について指導に当たる。
   credits: '1.0'
-  data_update_date: '2025-12-08 11:29:21'
+  data_update_date: '2026-09-30 11:24:56'
   english_name: First Year Seminar
   enrollment_application: ×
   enrollment_requirements: ''
@@ -151169,7 +151154,7 @@
 - class_id: '1110202'
   class_outline: 筑波大学の各種の組織や運営,生物資源学類のカリキュラムのあり方,学問研究への方向づけ,クラス制度の役割,大学と社会,新しい人間関係の促進について指導に当たる。
   credits: '1.0'
-  data_update_date: '2025-12-08 11:30:29'
+  data_update_date: '2026-09-30 11:25:42'
   english_name: First Year Seminar
   enrollment_application: ×
   enrollment_requirements: ''
@@ -151192,7 +151177,7 @@
 - class_id: '1110302'
   class_outline: 筑波大学の各種の組織や運営,生物資源学類のカリキュラムのあり方,学問研究への方向づけ,クラス制度の役割,大学と社会,新しい人間関係の促進について指導に当たる。
   credits: '1.0'
-  data_update_date: '2025-12-08 11:31:45'
+  data_update_date: '2026-09-30 11:26:27'
   english_name: First Year Seminar
   enrollment_application: ×
   enrollment_requirements: ''
@@ -151215,7 +151200,7 @@
 - class_id: '1110402'
   class_outline: 筑波大学の各種の組織や運営,生物資源学類のカリキュラムのあり方,学問研究への方向づけ,クラス制度の役割,大学と社会,新しい人間関係の促進について指導に当たる。
   credits: '1.0'
-  data_update_date: '2025-12-08 11:33:01'
+  data_update_date: '2026-09-30 11:27:24'
   english_name: First Year Seminar
   enrollment_application: ×
   enrollment_requirements: ''
@@ -152083,6 +152068,8 @@
   name: Japan-Expertファーストイヤーセミナー
   period: 集中
   remarks: 'Japan-Expert(学士)プログラム生に限る
+
+    10/6,10/13,10/20,10/27,11/10,11/17,12/1,12/8,12/22
 
     CDP
 
@@ -153276,7 +153263,7 @@
 - class_id: '1226014'
   class_outline: 人生のなかでも重要な期間である大学での生活を、生涯における人生設計(キャリア・デザイン)の準備に必要な基礎づくりの期間として主体的かつ有意義に過ごすことを動機づけ、実践することを目的とします。特に、自己と文化の多様性の理解、社会と関わる力、変化する社会の中で主体的に生きる力を自ら身につけることを目指します。
   credits: '1.0'
-  data_update_date: '2026-07-16 12:04:47'
+  data_update_date: '2026-09-30 15:47:18'
   english_name: 'Introduction to Career Design: Designing your Future in Global Context'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153462,7 +153449,7 @@
 - class_id: '1226121'
   class_outline: 学生生活でよく出会う身体の不調や症状,病気,捻挫や骨折などの外傷,温熱や化学物質による熱傷,環境要因による障害,中毒,感染症などをわかりやすく学ぶとともに,予防法や自分でも出来る応急処置について学習します。
   credits: '1.0'
-  data_update_date: '2025-01-16 11:22:09'
+  data_update_date: '2026-09-30 13:44:37'
   english_name: CardioPulmonary Resuscitation and First aid
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153519,7 +153506,7 @@
 - class_id: '1226181'
   class_outline: 障害、性別、文化、世代など、多様な背景をもつ人々が包摂された社会の実現のために、身体障害や発達障害といった障害の理解に関する講義をはじめ、性や国籍、言語などに関する多様性についても幅広く紹介する。また、多様性に関するテクノロジーや公共政策といったマクロな視点も通して、多様な背景をもつ人々が共生することのできる社会とはどのような社会なのかについて、受講生が自ら考える機会を提供する。
   credits: '1.0'
-  data_update_date: '2026-03-06 14:05:54'
+  data_update_date: '2026-09-30 15:49:24'
   english_name: Introduction to diversity & inclusion
   enrollment_application: ×
   enrollment_requirements: ''
@@ -153842,7 +153829,7 @@
 
     本講義では、多様な生き方や働き方、社会課題に関する具体的な事例を通じて、「社会を知る」「自分を知る」「行動する」を段階的に学ぶ。社会への視野を広げ、自身の興味・関心や価値観を整理するとともに、将来のありたい姿を描き、主体的な将来選択と具体的な行動につなげる力を養う。'
   credits: '1.0'
-  data_update_date: '2026-09-08 11:54:36'
+  data_update_date: '2026-10-01 10:44:56'
   english_name: Discovering Who You Want to Become ? Learning from Diverse Perspectives
     to Shape Your Own Path ?
   enrollment_application: ''
@@ -153851,7 +153838,9 @@
   module: 秋B
   name: '"なりたい自分"を見つける大学生活の過ごし方 ― 多様な人生・考えから自律的な生き方を学ぶ ―'
   period: 火5,6
-  remarks: 対面
+  remarks: '【事前登録対象】【定員100名】
+
+    対面'
   requirement_subject_name: '"なりたい自分"を見つける大学生活の過ごし方 ― 多様な人生・考えから自律的な生き方を学ぶ ―'
   room: ''
   short_term_students_application: ''
@@ -154391,7 +154380,7 @@
 - class_id: '1227291'
   class_outline: 本講義は,本学の学士課程教育への導入を担う。大学における学問の方法論へ誘(いざな)い、自らが専攻する学問分野への理解や、関連する諸分野との関係性も理解できる能力を涵養する。
   credits: '1.0'
-  data_update_date: '2025-12-08 11:40:08'
+  data_update_date: '2026-09-30 11:28:57'
   english_name: Invitation to Arts and Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -154414,7 +154403,7 @@
 - class_id: '1227301'
   class_outline: 本講義は,本学の学士課程教育への導入を担う。大学における学問の方法論へ誘(いざな)い、自らが専攻する学問分野への理解や、関連する諸分野との関係性も理解できる能力を涵養する。
   credits: '1.0'
-  data_update_date: '2025-12-08 11:40:57'
+  data_update_date: '2026-09-30 11:30:11'
   english_name: Invitation to Arts and Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -154437,7 +154426,7 @@
 - class_id: '1227311'
   class_outline: 本講義は,本学の学士課程教育への導入を担う。大学における学問の方法論へ誘(いざな)い、自らが専攻する学問分野への理解や、関連する諸分野との関係性も理解できる能力を涵養する。
   credits: '1.0'
-  data_update_date: '2025-12-08 11:41:47'
+  data_update_date: '2026-09-30 11:30:43'
   english_name: Invitation to Arts and Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -154460,7 +154449,7 @@
 - class_id: '1227321'
   class_outline: 本講義は,本学の学士課程教育への導入を担う。大学における学問の方法論へ誘(いざな)い、自らが専攻する学問分野への理解や、関連する諸分野との関係性も理解できる能力を涵養する。
   credits: '1.0'
-  data_update_date: '2025-12-08 11:42:45'
+  data_update_date: '2026-09-30 11:31:21'
   english_name: Invitation to Arts and Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -156399,7 +156388,7 @@
     ・To learn business etiquette in Japan based on an understanding of the principles
     of protocol (international etiquette).'
   credits: '1.0'
-  data_update_date: '2023-01-11 13:47:58'
+  data_update_date: '2026-10-01 14:31:26'
   english_name: OMOTENASHI ―Japanese Culture and Manner―
   enrollment_application: ×
   enrollment_requirements: ''
@@ -156773,7 +156762,7 @@
     ・To learn business etiquette in Japan based on an understanding of the principles
     of protocol (international etiquette).'
   credits: '1.0'
-  data_update_date: '2023-03-10 15:26:28'
+  data_update_date: '2026-10-01 14:31:39'
   english_name: OMOTENASHI ―Japanese Culture and Manner―
   enrollment_application: ×
   enrollment_requirements: ''
@@ -156883,7 +156872,7 @@
     graduation, visa application required after the employment or in case of unemployment,
     marriage to a Japanese or a foreigner, and family life.
   credits: '1.0'
-  data_update_date: '2023-12-28 10:56:37'
+  data_update_date: '2026-10-02 13:20:08'
   english_name: Living in Japan as Foreign Students
   enrollment_application: ×
   enrollment_requirements: ''
@@ -156930,7 +156919,7 @@
 - class_id: '1401021'
   class_outline: 巨大な隣国である中国は、1976年の文化大革命の終結以降、経済の改革開放政策の成果により、大きな変貌をとげた。21世紀初頭の今、ますます存在感を増した中華人民共和国の現在の諸相を、学生にとって身近な目線で講じる。現在中国との関わりの深い筑波大学OBを講師とし、現代中国の文化、社会、経済、環境、日中翻訳など、様々な観点から、現場に立つ講師ならではの姿を描き出す。
   credits: '1.0'
-  data_update_date: '2026-03-09 15:52:52'
+  data_update_date: '2026-09-30 09:39:35'
   english_name: China in 21st Century
   enrollment_application: ×
   enrollment_requirements: ''
@@ -156947,7 +156936,7 @@
   short_term_students_requirements: ''
   standard_course_year: 3・4
   subject_code: '8050801'
-  teaching_staff: ジャイ イーダ,高見澤 学,松村 茂樹,?子田 章博,笹原 勉,佐々木 一郎,?木 宏治,飯田 一彦,河本 佳世,橋本 修
+  teaching_staff: ジャイ イーダ,高見澤 学,松村 茂樹,李 妍?,橋本 修,笹原 勉,佐々木 一郎,?木 宏治,飯田 一彦,河本 佳世
 - class_id: '1401031'
   class_outline: 哲学、史学、考古学・民俗学、言語学の4分野から成り、人間の思考や営みにかかわる多様な学問領域を扱い、人間とは何かを「見つける」きっかけを与える人文学の極意と深淵を提供する。入門ではなく、高年次生が人文知の深みに触れ、自らの専門を異なる視野から見直すきっかけとなるよう、10名のスペシャリストが問題提起する。
   credits: '1.0'
@@ -157200,7 +157189,7 @@
 - class_id: '1418011'
   class_outline: 「量子とは何だろうか」という根源的な問いを出発点に、数式を可能な限り用いずに量子論の歴史、量子技術の発展、そして実在をめぐる議論をオンデマンド講義で学ぶ。その基礎を踏まえ、対面授業では教員やゲストによる対談と受講者同士の議論を通じて多角的な視点から量子を考える。これにより、理系・文系を問わず幅広い学生が量子の世界に親しみ、自らの専門分野と結びつけて理解を深めることを目指す。
   credits: '1.0'
-  data_update_date: '2026-01-20 20:39:02'
+  data_update_date: '2026-10-01 16:59:48'
   english_name: What is quantum?
   enrollment_application: ''
   enrollment_requirements: ''
@@ -165656,15 +165645,15 @@
 - class_id: '3187022'
   class_outline: 世界で最も広く受け入れられている英語能力試験であるTOEFLのうち、Listening, Grammar, Readingを中心に学修し、学術的な課題を遂行する能力を養う。
   credits: '1.0'
-  data_update_date: '2026-02-06 10:22:26'
+  data_update_date: '2026-09-30 16:22:57'
   english_name: TOEFL Practice I
   enrollment_application: ×
   enrollment_requirements: ''
   method: '2'
   module: 秋C
   name: TOEFL Practice I
-  period: 集中
-  remarks: '履修対象英語レベルTOEFL ITP 450-499 TOEIC 450-600。 準備ができ次第開講。 卒業予定者は履修不可。
+  period: 金3,4
+  remarks: '履修対象英語レベルTOEFL ITP 450-499 TOEIC 450-600。
 
     詳細後日周知
 
@@ -165677,7 +165666,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '3187012'
-  teaching_staff: ''
+  teaching_staff: 山口 真由理
 - class_id: '3187032'
   class_outline: 世界で最も広く受け入れられている英語能力試験であるTOEFLのうち、Listening, Grammar, Readingを中心に学修し、学術的な課題を遂行する能力を養う。
   credits: '1.0'
@@ -165706,15 +165695,15 @@
 - class_id: '3187042'
   class_outline: 世界で最も広く受け入れられている英語能力試験であるTOEFLのうち、Listening, Grammar, Readingを中心に学修し、学術的な課題を遂行する能力を養う。
   credits: '1.0'
-  data_update_date: '2026-02-06 10:44:36'
+  data_update_date: '2026-09-30 16:29:04'
   english_name: TOEFL Practice II
   enrollment_application: ×
   enrollment_requirements: ''
   method: '2'
   module: 秋C
   name: TOEFL Practice II
-  period: 集中
-  remarks: '履修対象英語レベル TOEFL ITP500-550点、TOEIC600-730点レベル 準備ができ次第開講。卒業予定者は履修不可。
+  period: 水4,5
+  remarks: '履修対象英語レベル TOEFL ITP500-550点、TOEIC600-730点レベル
 
     詳細後日周知
 
@@ -165727,7 +165716,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '3187032'
-  teaching_staff: ''
+  teaching_staff: ?橋 直浩
 - class_id: '3187912'
   class_outline: TOEFL ITPのスコアアップを図るために必要なスタディスキルや英語でのアウトプット能力を身につけます。ペアワークやディスカッションといった参加型授業で、アカデミック英語を楽しく学びながら英語学習への意欲を高めます。
   credits: '1.0'
@@ -165760,7 +165749,7 @@
 
     ペアワークやディスカッションといった参加型授業で、アカデミック英語を楽しく学びながら英語学習への意欲を高めます。'
   credits: '1.0'
-  data_update_date: '2026-01-14 17:01:06'
+  data_update_date: '2026-09-30 16:33:20'
   english_name: TOEFL Academic English I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -165768,9 +165757,11 @@
   module: 春季休業中
   name: TOEFL Academic English I
   period: 集中
-  remarks: '原則としてTOEFL ITP 450-499点の学生対象。準備ができ次第開講。後日掲示で周知。卒業予定者は履修不可。
+  remarks: '原則としてTOEFL ITP 450-499点の学生対象。準備ができ次第開講。後日掲示で周知。今年度卒業予定者は履修不可。
 
     英語で授業。
+
+    3/2-3/4
 
     G科目
 
@@ -165781,7 +165772,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '3187912'
-  teaching_staff: ''
+  teaching_staff: 山口 真由理
 - class_id: '3187952'
   class_outline: 'TOEFL ITPのスコアアップを図るために必要なスタディスキルや英語でのアウトプット能力を身につけます。
 
@@ -165814,7 +165805,7 @@
 - class_id: '3187962'
   class_outline: TOEFL ITPのスコアアップを図るために必要なスタディスキルや英語でのアウトプット能力を身につけます。ペアワークやディスカッションといった参加型授業で、アカデミック英語を楽しく学びながら英語学習への意欲を高めます。
   credits: '1.0'
-  data_update_date: '2025-12-09 10:27:32'
+  data_update_date: '2026-09-30 16:40:53'
   english_name: TOEFL Academic English II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -165822,9 +165813,11 @@
   module: 春季休業中
   name: TOEFL Academic English II
   period: 集中
-  remarks: '原則としてTOEFL ITP 500-549点の学生対象。準備ができ次第開講、後日掲示で周知。卒業予定者は履修不可。
+  remarks: '原則としてTOEFL ITP 500-549点の学生対象。準備ができ次第開講、後日掲示で周知。今年度卒業予定者は履修不可。
 
     英語で授業。
+
+    3/9-3/11
 
     G科目
 
@@ -165835,7 +165828,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '3187952'
-  teaching_staff: ''
+  teaching_staff: 山口 真由理
 - class_id: '3188112'
   class_outline: 学群・学類における専門の英語(「特定学術目的の英語」)への橋渡しとなる「一般学術目的の英語」を学ぶ。5週間の短期集中でインプットとアウトプットを大量に行い、学術論文執筆の際に必要となるライティング力、表現力を身につける。
   credits: '1.0'
@@ -174642,7 +174635,7 @@
 - class_id: 32L5012
   class_outline: この授業では、すでにドイツ語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2026-01-19 12:00:00'
+  data_update_date: '2025-08-19 11:39:49'
   english_name: Basic German BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -188083,7 +188076,7 @@
   class_outline: 近年、性的マイノリティ(LGBTQ+)の人権は西洋社会だけでなく、アジア社会でもますます認められるようになってきた。しかし、同時に、性的マイノリティの人権、とりわけトランスジェンダーの人権や女性の人権を侵害するような言説も広く見られるようになっている。こうした分断や対立を考えるために、本授業では「フェミニズム」「クィア・スタディーズ」「インターセクショナリティ(交差性)」の基礎的知見を共有する。とくに第三波フェミニズム運動における「クィア・ターン(Queer
     Turn)」を手掛かりに、フェミニズム運動の主体について、クィア・スタディーズの観点から単一のアイデンティティに基づく運動・思想よりも、交差性(インターセクショナリティ)を重視した運動・思想が求められるようになった経緯等を踏まえ、問題の背景にある課題への理解を深める。
   credits: '1.0'
-  data_update_date: '2026-03-08 11:14:59'
+  data_update_date: '2026-10-01 08:01:14'
   english_name: Introduction to Intersectionality and Queer Studies
   enrollment_application: ×
   enrollment_requirements: ''
@@ -188104,7 +188097,7 @@
 - class_id: '8331112'
   class_outline: 1)「障害学生支援に関する基礎的理解」は、(a)全体オリエンテーションおよび(b)ニーズ別の支援内容に関する講義をオンデマンドで実施する。(a)では、障害学生および支援学生にも参加してもらい、本学における障害学生支援のしくみについて説明する。(b)では、視覚障害、聴覚障害、運動・内部障害、発達障害等のニーズに関する実際の支援内容について紹介する。その後、2)「各支援技術別に実施する講義・演習」を対面で実施する。具体的には、印刷物のテキストデータ化、パソコン要約筆記、ノートテイク、学習・コミュニケーション支援技術等の習得を目指す。なお、本授業を受講した後にはピア・チューターとして実際の支援活動に従事することができる。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-10-01 10:06:20'
   english_name: Skills in Support for Students with Disabilities
   enrollment_application: ×
   enrollment_requirements: ''
@@ -188130,7 +188123,7 @@
 - class_id: '8331124'
   class_outline: きこえること、きこえないことを意識して考えられるように説明する。自己紹介と日常会話ができる程度の手話を習得できるように演習を行う。
   credits: '1.0'
-  data_update_date: '2026-04-28 13:34:54'
+  data_update_date: '2026-10-01 10:08:57'
   english_name: Sign language communication I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -188153,7 +188146,7 @@
 - class_id: '8331134'
   class_outline: 手話コミュニケーションI(入門・基礎)で学んだ知識、習得した手話を基に、支援できる知識が深められるように講義をし、通常会話ができる手話の習得ができるように演習をおこなう。
   credits: '1.0'
-  data_update_date: '2026-08-04 12:03:19'
+  data_update_date: '2026-10-01 10:09:33'
   english_name: Sign language communication II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -188178,7 +188171,7 @@
 - class_id: '8331144'
   class_outline: 産業構造が急速に変化し、人々の生活文化、家族のあり方や社会が変容する中、多様な属性の人々の存在とともに、我々の生き方も多様性に満ちていることが明らかとなっている。そこにある個人や個人をとりまく人間関係、組織や地域社会では、どのような問題が生じているのか。本授業では、「人の多様性」のうち、特に「ジェンダー」及び「セクシュアリティ」を切り口として、近年注目されている「ダイバーシティ&インクルージョン」や「ダイバーシティ・エクイティ・インクルージョン」という概念について、その本質と実体について学ぶ。そのために、実践家の講師による話題提供とともに質疑応答や対話を重ね、より広い視野と柔軟な発想の獲得を目指しながら、受講生個人の生きる力、社会力を身につけることにつなげる
   credits: '1.0'
-  data_update_date: '2026-01-08 23:27:06'
+  data_update_date: '2026-10-01 08:03:44'
   english_name: Diversity and Gender/Sexuality
   enrollment_application: ×
   enrollment_requirements: ''
@@ -188203,7 +188196,7 @@
 - class_id: '8331153'
   class_outline: 春学期ないし夏季休業期間に国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人学生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-09-30 14:00:59'
   english_name: Problem solving through multicultural co-learning (in Japan) A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -188211,7 +188204,7 @@
   module: 春学期
   name: 多文化共修による課題解決実習(国内)A
   period: 随時
-  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画)
+  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。
   requirement_subject_name: 多文化共修による課題解決実習(国内)A
   room: ''
   short_term_students_application: ×
@@ -188222,7 +188215,7 @@
 - class_id: '8331163'
   class_outline: 秋学期ないし春季休業期間に国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人学生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-09-30 14:01:17'
   english_name: Problem solving through multicultural co-learning (in Japan) B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -188230,18 +188223,18 @@
   module: 秋学期
   name: 多文化共修による課題解決実習(国内)B
   period: 随時
-  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画)
+  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。
   requirement_subject_name: 多文化共修による課題解決実習(国内)B
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '8331163'
-  teaching_staff: 福嶋 美佐子,小野 裕子,阿部 淳一 ピーター,入江 賢児
+  teaching_staff: 福嶋 美佐子
 - class_id: '8331173'
   class_outline: 海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-09-30 14:04:30'
   english_name: Problem solving through multicultural co-learning (overseas) A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -188249,7 +188242,7 @@
   module: 春学期
   name: 多文化共修による課題解決実習(海外)A
   period: 随時
-  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画)
+  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。
   requirement_subject_name: 多文化共修による課題解決実習(海外)A
   room: ''
   short_term_students_application: ×
@@ -188261,7 +188254,7 @@
 - class_id: '8331183'
   class_outline: 海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-09-30 14:04:48'
   english_name: Problem solving through multicultural co-learning (overseas) B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -188269,14 +188262,14 @@
   module: 秋学期
   name: 多文化共修による課題解決実習(海外)B
   period: 随時
-  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画)
+  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。
   requirement_subject_name: 多文化共修による課題解決実習(海外)B
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '8331183'
-  teaching_staff: 福嶋 美佐子,朝倉 雅史,森尾 貴広,入江 賢児,松原 康介,田中 怜
+  teaching_staff: 福嶋 美佐子
 - class_id: '8331204'
   class_outline: '新規事業の立ち上げ(起業含む)に関心のある受講者に対して、実際に起業に携わった経営者陣が、様々な経験に基づく講義を行う。
 
@@ -188367,16 +188360,16 @@
 - class_id: '8331303'
   class_outline: 春学期ないし夏季休業期間に国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人大学院生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
-  english_name: Problem solving through multicultural co-learning (in Japan) A 2026
+  data_update_date: '2026-10-01 10:24:59'
+  english_name: Problem solving through multicultural co-learning (in Japan) A-I
   enrollment_application: ×
   enrollment_requirements: ''
   method: '3'
   module: 春学期
-  name: 多文化共修による課題解決実習(国内)A 2026
+  name: 多文化共修による課題解決実習(国内)A-I
   period: 随時
-  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画)
-  requirement_subject_name: 多文化共修による課題解決実習(国内)A 2026
+  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。
+  requirement_subject_name: 多文化共修による課題解決実習(国内)A-I
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
@@ -188386,35 +188379,35 @@
 - class_id: '8331353'
   class_outline: 秋学期ないし春季休業期間に国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人大学院生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-08-25 11:25:42'
-  english_name: Problem solving through multicultural co-learning (in Japan) B 2026
+  data_update_date: '2026-10-01 11:43:14'
+  english_name: Problem solving through multicultural co-learning (in Japan) B-I
   enrollment_application: ×
   enrollment_requirements: ''
   method: '3'
   module: 秋学期
-  name: 多文化共修による課題解決実習(国内)B 2026
+  name: 多文化共修による課題解決実習(国内)B-I
   period: 随時
-  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。
-  requirement_subject_name: 多文化共修による課題解決実習(国内)B 2026
+  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。 成績確定は、学期末になることに注意。
+  requirement_subject_name: 多文化共修による課題解決実習(国内)B-I
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '8331353'
-  teaching_staff: 福嶋 美佐子
+  teaching_staff: 福嶋 美佐子,小野 裕子,阿部 淳一 ピーター
 - class_id: '8331403'
   class_outline: 春学期ないし夏季休業期間に海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
-  english_name: Problem solving through multicultural co-learning (overseas) A 2026
+  data_update_date: '2026-10-01 10:31:11'
+  english_name: Problem solving through multicultural co-learning (overseas) A-I
   enrollment_application: ×
   enrollment_requirements: ''
   method: '3'
   module: 春学期
-  name: 多文化共修による課題解決実習(海外)A 2026
+  name: 多文化共修による課題解決実習(海外)A-I
   period: 随時
-  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画)
-  requirement_subject_name: 多文化共修による課題解決実習(海外)A 2026
+  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。
+  requirement_subject_name: 多文化共修による課題解決実習(海外)A-I
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
@@ -188424,22 +188417,22 @@
 - class_id: '8331453'
   class_outline: 秋学期ないし春季休業期間に海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-09-18 11:33:27'
-  english_name: Problem solving through multicultural co-learning (overseas) B 2026
+  data_update_date: '2026-10-01 11:41:56'
+  english_name: Problem solving through multicultural co-learning (overseas) B-I
   enrollment_application: ×
   enrollment_requirements: ''
   method: '3'
   module: 秋学期
-  name: 多文化共修による課題解決実習(海外)B 2026
+  name: 多文化共修による課題解決実習(海外)B-I
   period: 随時
-  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画)
-  requirement_subject_name: 多文化共修による課題解決実習(海外)B 2026
+  remarks: 履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。
+  requirement_subject_name: 多文化共修による課題解決実習(海外)B-I
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '8331453'
-  teaching_staff: 福嶋 美佐子,朝倉 雅史
+  teaching_staff: 福嶋 美佐子,朝倉 雅史,田中 怜,松原 康介,森尾 貴広
 - class_id: '8333204'
   class_outline: 日本語の歴史、方言などの様々なジャンルや目的の日本語に触れ、日本語に対する知識を深める。現代日本社会の特徴、魅力、課題を、日本語を通じて、日本人学生には外国語力としての発信力と多文化理解、留学生には日本理解を通じての母文化の理解を深めることで、アカデミックな国際交流を深化させる。
   credits: '1.0'
@@ -191289,7 +191282,7 @@
 - class_id: '9494001'
   class_outline: 中学校美術科における工芸ならびに高等学校芸術科における工芸の学習指導の実際について学ぶ。
   credits: '1.0'
-  data_update_date: '2026-01-19 12:00:00'
+  data_update_date: '2026-10-02 13:53:54'
   english_name: Handicraft in Art Education IV
   enrollment_application: △
   enrollment_requirements: ''
@@ -193827,7 +193820,7 @@
 - class_id: AB60B11
   class_outline: 倫理学の基本的概念と方法について考察する。
   credits: '1.0'
-  data_update_date: '2026-04-17 11:04:38'
+  data_update_date: '2026-09-30 15:13:47'
   english_name: Introduction to Ethics-a
   enrollment_application: ''
   enrollment_requirements: 備考に記載
@@ -193869,7 +193862,7 @@
 - class_id: AB60C11
   class_outline: 世界の諸宗教伝統や現代世界における宗教をめぐる諸問題について、宗教文化の観点から概説する。
   credits: '1.0'
-  data_update_date: '2026-01-19 20:23:49'
+  data_update_date: '2026-09-30 15:14:43'
   english_name: Introduction to the Study of Religions-a
   enrollment_application: ''
   enrollment_requirements: ''
@@ -193888,7 +193881,7 @@
 - class_id: AB60C21
   class_outline: 引き続き、世界の諸宗教伝統や現代世界における宗教をめぐる諸問題について、宗教文化の観点から概説する。
   credits: '1.0'
-  data_update_date: '2026-01-23 09:25:43'
+  data_update_date: '2026-09-30 15:15:11'
   english_name: Introduction to the Study of Religions-b
   enrollment_application: ''
   enrollment_requirements: ''
@@ -193907,7 +193900,7 @@
 - class_id: AB60G11
   class_outline: インドの古代の思想史を概観し,日本やアジア文化圏全般に深い影響を与えたインド思想,インド仏教思想に関する基礎知識を習得する。
   credits: '1.0'
-  data_update_date: '2026-01-26 09:08:41'
+  data_update_date: '2026-09-30 15:15:38'
   english_name: Oriental Thought-a
   enrollment_application: ''
   enrollment_requirements: ''
@@ -197235,7 +197228,7 @@
 - class_id: AB72F11
   class_outline: 古代西アジア史に関する講義を行う。
   credits: '1.0'
-  data_update_date: '2026-01-19 18:40:49'
+  data_update_date: '2026-09-30 16:48:12'
   english_name: Lecture in Ancient West Asian History I-a
   enrollment_application: ''
   enrollment_requirements: ''
@@ -197779,7 +197772,7 @@
 - class_id: AB73F21
   class_outline: 17~18世紀における清朝と内陸アジア諸勢力との関係について、特にチベットとその境界地帯の勢力に着目して解説する。それを通じて、清朝の内陸アジア政策の特徴とそれを規定した多面的な要因についての理解を深める。
   credits: '1.0'
-  data_update_date: '2026-01-19 21:03:24'
+  data_update_date: '2026-10-01 13:28:54'
   english_name: Topics in Chinese History I-b
   enrollment_application: ''
   enrollment_requirements: ''
@@ -199209,15 +199202,17 @@
 - class_id: AB81H43
   class_outline: 1週間の室内実習を行う。
   credits: '1.0'
-  data_update_date: '2023-02-08 14:04:39'
+  data_update_date: '2026-09-29 09:35:24'
   english_name: Field study in Prehistory-D
   enrollment_application: ×
   enrollment_requirements: ''
   method: '3'
-  module: 秋C
+  module: 秋C春季休業中
   name: 先史学実習-D
   period: 集中
   remarks: '2026年度より3年おき開講。
+
+    2/15-2/19
 
     対面'
   requirement_subject_name: 先史学実習-D
@@ -205201,7 +205196,7 @@
   class_outline: This course focuses on enhancing students' English reading, writing,
     speaking, and listening.
   credits: '1.0'
-  data_update_date: '2026-09-18 15:17:47'
+  data_update_date: '2026-09-29 17:35:26'
   english_name: English for Specific Purposes I-B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -205295,7 +205290,7 @@
 - class_id: AC53132
   class_outline: This course focuses on developing students' English academic writing.
   credits: '1.0'
-  data_update_date: '2026-09-18 15:19:54'
+  data_update_date: '2026-09-29 17:18:03'
   english_name: English for Specific Purposes II-2
   enrollment_application: ×
   enrollment_requirements: ''
@@ -205341,7 +205336,7 @@
   class_outline: This course focuses on further developing students’ presentation
     skills and introducing them to strategies for interviews and debates.
   credits: '1.0'
-  data_update_date: '2026-09-18 15:20:46'
+  data_update_date: '2026-09-29 17:41:54'
   english_name: English for Specific Purposes II-4
   enrollment_application: ×
   enrollment_requirements: ''
@@ -207642,17 +207637,27 @@
   subject_code: AC61A31
   teaching_staff: ''
 - class_id: AC61A41
-  class_outline: This course explores how the literary imagination, as put forward
-    by novels such as Mark Twain’s The Adventures of Huckleberry Finn (1884) and Joseph
-    Conrad’s Heart of Darkness (1899), serves as a medium of resistance to imperialism
-    led by European countries and the United States. This course also traces the political
-    and literary cross-media battle between Theodore Roosevelt and Mark Twain. It
-    examines how a nation’s imperial practice leads to a cultural conflict over the
-    principles of the United States, reflecting on Edward Said's Culture and Imperialism
-    (1993). Students will discuss and write reaction papers for each theme presented
-    in class.
+  class_outline: 'Private schools for the elite, also known as “public schools” in
+    the UK, still occupy a central place in British society today. According to a
+    2025 report by The Guardian, privately educated people make up 63% of high-ranking
+    military officers, 62% of senior judges, 53% of diplomats, 52% of the House of
+    Lords, around 50% of columnists and political commentators, and 47% of business
+    leaders. Given that only 7% of the UK population attends private schools, it is
+    clear how disproportionate the presence of the privately educated is in crucial
+    sectors such as defense, justice, politics, business, and the media.
+
+    This course examines elite private education in the UK and the US through literature
+    and film. Taking the school novel as a framework, we trace how cultural discussions
+    of elite education have evolved from the quintessential 19th-century text Tom
+    Brown’s Schooldays (1857) to Harry Potter and the Philosopher’s Stone (1997).
+    We explore the history and philosophy of these institutions alongside intersections
+    with gender, (post)colonialism, and different forms of institutional criticism
+    and resistance. The aim is twofold: to paint a concrete and multifaceted picture
+    of the most influential educational institutions in Britain and America, and to
+    construct a frame of reference to better understand this long-standing literary
+    and cinematic tradition.'
   credits: '1.0'
-  data_update_date: '2026-09-18 15:23:30'
+  data_update_date: '2026-09-29 17:20:07'
   english_name: Anglo-American Studies V
   enrollment_application: ''
   enrollment_requirements: ''
@@ -207830,7 +207835,7 @@
   class_outline: This course introduces students to a selection of English and American
     poems and various interpretative approaches to analysing their significance.
   credits: '1.0'
-  data_update_date: '2026-08-16 18:13:04'
+  data_update_date: '2026-09-29 17:34:13'
   english_name: Seminar in Anglo-American Studies I
   enrollment_application: ''
   enrollment_requirements: ''
@@ -208263,7 +208268,7 @@
 - class_id: AC61J51
   class_outline: 現代イギリス帝国史の講義
   credits: '1.0'
-  data_update_date: '2025-09-17 08:17:06'
+  data_update_date: '2026-10-02 15:44:28'
   english_name: European and American Culture VI
   enrollment_application: ''
   enrollment_requirements: ''
@@ -210182,7 +210187,7 @@
 - class_id: AC63E01
   class_outline: 〈社会理論研究〉社会理論に関する近現代思想の重要テキストを読む。今年度は、ミシェル・フーコーの講義『主体性と真理』を読解し、『性の歴史』プロジェクトとの関係について考察する。文化創造論研究IIと連続で授業を行うので、必ず両方の授業を履修すること。
   credits: '1.0'
-  data_update_date: '2026-01-30 09:45:06'
+  data_update_date: '2026-10-02 17:11:37'
   english_name: Studies in Culture and Creativity I
   enrollment_application: ''
   enrollment_requirements: ''
@@ -210205,7 +210210,7 @@
 - class_id: AC63E11
   class_outline: 〈社会理論研究〉社会理論に関する近現代思想の重要テキストを読む。今年度は、ミシェル・フーコーの講義『主体性と真理』を読解し、『性の歴史』プロジェクトとの関係について考察する。文化創造論研究Iと連続で授業を行うので、必ず両方の授業を履修すること。
   credits: '1.0'
-  data_update_date: '2026-01-30 09:45:43'
+  data_update_date: '2026-10-02 17:11:37'
   english_name: Studies in Culture and Creativity II
   enrollment_application: ''
   enrollment_requirements: ''
@@ -211444,7 +211449,7 @@
 - class_id: AC64E32
   class_outline: 本演習では、情報技術と社会・文化の関係をテーマとし、近年注目されている生成AIやソーシャル・メディアなどで活用され、身近な技術にもなっている人工知能(AI)を中心とする。情報文化学演習4では、ソーシャル・メディアをはじめとする「プラットフォーム」やその裏にある「アルゴリズム」の可能性と課題を取り上げ、その社会的影響について理解を深めることを目的とする。
   credits: '1.0'
-  data_update_date: '2026-01-30 10:00:13'
+  data_update_date: '2026-10-01 16:01:01'
   english_name: Semminer in Information Culture and Society 4
   enrollment_application: ''
   enrollment_requirements: ''
@@ -214522,7 +214527,7 @@
 - class_id: AE13G32
   class_outline: 近現代日本における戦争観、歴史教育問題をテーマにして議論し、テキスト批判トレーニングを行う。
   credits: '1.0'
-  data_update_date: '2025-09-24 10:25:28'
+  data_update_date: '2026-10-01 16:39:51'
   english_name: Seminar on Cultural Exchange in Modern Japan
   enrollment_application: ''
   enrollment_requirements: ''
@@ -216902,7 +216907,7 @@
 - class_id: BB11511
   class_outline: 現代の地域におけるコミュニティの衰退と再建について、国内外の事例を参照しながらさまざまな問題領域にわたって検討する。
   credits: '2.0'
-  data_update_date: '2026-09-25 14:07:01'
+  data_update_date: '2026-09-28 10:11:35'
   english_name: Sociology of Local Community
   enrollment_application: ''
   enrollment_requirements: ''
@@ -217164,7 +217169,7 @@
 - class_id: BB11811
   class_outline: 現代社会におけるスポーツの位置とその文化的特徴について、消費社会、メディアとの関係で捉え、人種、民族、ジェンダー、ナショナリティといった社会学の視点から人々の生きている日常を踏まえて、分析・考察を行う。
   credits: '2.0'
-  data_update_date: '2023-11-24 20:27:19'
+  data_update_date: '2026-09-29 17:07:22'
   english_name: Sociology of Sport
   enrollment_application: ''
   enrollment_requirements: ''
@@ -217185,7 +217190,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: W820501
-  teaching_staff: 下竹 亮志
+  teaching_staff: 下竹 亮志,清水 諭,宮澤 優士
 - class_id: BB11861
   class_outline: Globalization has brought many changes in social life, including
     increasing flows of financial resources, goods and persons. Among the new challenges
@@ -218268,7 +218273,7 @@
 - class_id: BB24011
   class_outline: 関連する条文及び判例を参考にしつつ,民法総則の基本的素養を身につけ,実生活でも役立てられるようにする。
   credits: '3.0'
-  data_update_date: '2026-01-09 12:09:27'
+  data_update_date: '2026-10-01 17:35:27'
   english_name: General Provisions of Civil Law
   enrollment_application: ×
   enrollment_requirements: ''
@@ -218831,7 +218836,7 @@
 - class_id: BB28211
   class_outline: 法人類学と聞いて、すぐにイメージが浮かぶ人は多くないと思います。この授業では、法律の条文や判例の解釈ではなく、世界各地の多様な社会や現場でのフィールドワークを通して「法とは何か」を問いなおす、この分野の基本的な考え方と最近の展開について学びます。
   credits: '2.0'
-  data_update_date: '2026-01-15 11:38:13'
+  data_update_date: '2026-10-01 17:34:21'
   english_name: Legal Anthropology
   enrollment_application: ''
   enrollment_requirements: ''
@@ -218862,7 +218867,7 @@
   period: 集中
   remarks: 'BB28771,BE22491を修得済の者は履修不可。
 
-    2/1-2/5
+    1/25-1/29
 
     対面'
   requirement_subject_name: 西洋法制史
@@ -218875,7 +218880,7 @@
 - class_id: BB28811
   class_outline: スイス連邦は非常に小さい国であるが,金融や国際仲裁の中心地であり,国際機関や国際スポーツ連盟,国際NGOが数多く本部を置いている。このようにして世界的に重要な国として位置付けれているスイス連邦の法制度や政治制度の基本知識を身につけ,日本との関わりを理解することを目的する。
   credits: '1.0'
-  data_update_date: '2026-01-15 11:39:00'
+  data_update_date: '2026-10-01 14:43:41'
   english_name: Swiss Law
   enrollment_application: ''
   enrollment_requirements: ''
@@ -220103,7 +220108,7 @@
 - class_id: BB31461
   class_outline: 本講義はインドネシアを中心に、20世紀初頭から現代までの東南アジア各国政治、経済、社会について理解を深めることを目的とする。講義では、植民地独立から現代までの政治史を検討するにあたって重要な時代毎の争点について知識を深める。また政治指導者だけでなく、反体制派や知識人の視点からも各時代を照射することで、多角的に東南アジアの政治史を捉えたい。
   credits: '2.0'
-  data_update_date: '2026-01-09 09:08:45'
+  data_update_date: '2026-09-30 16:56:13'
   english_name: Politics in Asia
   enrollment_application: ''
   enrollment_requirements: ''
@@ -220726,7 +220731,7 @@
 - class_id: BB41201
   class_outline: ミクロ経済学・ゲーム理論を用い、情報の非対称性を伴う状況下で経済主体のインセンティブを考慮した適切な制度設計について講義する。モラルハザード、逆選択、不完備契約をカバーする。株主と経営者、雇用主と被雇用者、メーカーとサプライヤー、これらの間の契約などを例に取り上げる。
   credits: '2.0'
-  data_update_date: '2025-09-04 10:58:03'
+  data_update_date: '2026-09-28 10:21:36'
   english_name: Economics of information and contracts
   enrollment_application: ''
   enrollment_requirements: ''
@@ -221271,7 +221276,7 @@
 - class_id: BB41732
   class_outline: 入門レベルの演習を通して、ゲーム理論やミクロ経済学が持つ汎用性への理解を深める。
   credits: '2.0'
-  data_update_date: '2026-01-21 23:00:36'
+  data_update_date: '2026-09-30 09:16:12'
   english_name: Introductory seminar I-1 of Economics
   enrollment_application: ''
   enrollment_requirements: ''
@@ -221487,7 +221492,7 @@
 - class_id: BC11021
   class_outline: 本講義はインドネシアを中心に、20世紀初頭から現代までの東南アジア各国政治、経済、社会について理解を深めることを目的とする。講義では、植民地独立から現代までの政治史を検討するにあたって重要な時代毎の争点について知識を深める。また政治指導者だけでなく、反体制派や知識人の視点からも各時代を照射することで、多角的に東南アジアの政治史を捉えたい。
   credits: '2.0'
-  data_update_date: '2026-01-09 09:08:45'
+  data_update_date: '2026-09-30 16:56:13'
   english_name: Asian Politics
   enrollment_application: ''
   enrollment_requirements: ''
@@ -224071,7 +224076,7 @@
     students, they may require to make oral presentations (individually or within
     teams).
   credits: '2.0'
-  data_update_date: '2025-01-14 08:50:52'
+  data_update_date: '2026-09-28 10:22:18'
   english_name: International Humanitarian Law
   enrollment_application: △
   enrollment_requirements: ''
@@ -226218,7 +226223,7 @@
 - class_id: BE21391
   class_outline: この授業は社会学における基礎概念を紹介するとともに、代表的な社会学者についても解説する。授業では、グロバリゼーション、国際人口移動、多様性、家族及び社会格差など、現代社会を理解するためにキーとなるテーマを議論する。
   credits: '2.0'
-  data_update_date: '2024-12-27 16:05:05'
+  data_update_date: '2026-10-01 15:27:46'
   english_name: Introduction to Sociology
   enrollment_application: ''
   enrollment_requirements: ''
@@ -227163,7 +227168,7 @@
     students, they may require to make oral presentations (individually or within
     teams).
   credits: '2.0'
-  data_update_date: '2025-01-14 08:50:52'
+  data_update_date: '2026-09-28 10:22:18'
   english_name: International Humanitarian Law
   enrollment_application: △
   enrollment_requirements: ''
@@ -233134,7 +233139,7 @@
 - class_id: CE23031
   class_outline: 視覚障害の特性に応じた各教科の指導法の基礎と実際について理解を深める。附属視覚特別支援学校での授業については対面を予定しているが、状況に応じてオンライン(オンデマンド型)変更にある場合がある。
   credits: '2.0'
-  data_update_date: '2026-01-17 17:12:22'
+  data_update_date: '2026-09-29 13:52:54'
   english_name: Teaching Method for the Students with Visual Impairment
   enrollment_application: ×
   enrollment_requirements: ''
@@ -235314,7 +235319,7 @@
 - class_id: EB11651
   class_outline: 英文の教科書を用いて、生態学全般にわたる基礎知識を解説する。
   credits: '1.0'
-  data_update_date: '2025-12-17 16:52:13'
+  data_update_date: '2026-10-02 20:29:49'
   english_name: Introduction to Ecology
   enrollment_application: ×
   enrollment_requirements: ''
@@ -235322,15 +235327,21 @@
   module: 秋AB
   name: 生態学概論
   period: 水5
-  remarks: "This lecture is planned as online. \nSee Syllabus or recent information\
-    \ from manaba for detail.\n英語で授業。\nオンライン(対面併用型)\nオンライン(同時双方向型)"
+  remarks: 'This lecture is planned as online. See Syllabus or recent information
+    from manaba for detail.
+
+    英語で授業。
+
+    オンライン(対面併用型)
+
+    オンライン(同時双方向型)'
   requirement_subject_name: 生態学概論
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: EB11611
-  teaching_staff: 廣田 充,徳永 幸彦,大橋 一晴,横井 智之,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール
+  teaching_staff: 廣田 充,徳永 幸彦,大橋 一晴,横井 智之,佐藤 幸恵,増本 翔太,ハーベイ ベンジャミン ポール,露木 葵唯
 - class_id: EB11721
   class_outline: 動物は地球上の様々な環境にうまく適応して生きている。それは時に私たちの常識をはるかに超えている。本講義では、動物が様々な環境で直面する困難をどのように克服し生命活動を維持しているのかを学ぶ。初めに、食物、体温調節、呼吸、循環、浸透調節、排出に関わる問題に着目し、動物がこれらの問題を解決するために進化させた様々な仕組みの基本原理と多様性について学ぶ。次に、動物の行動を協調的に制御する内分泌系と神経系について学ぶ。さらに、生命活動を次世代につなぐ仕組み(生殖・発生)や防御する仕組み(免疫系)にも踏み込む。
   credits: '1.0'
@@ -239506,7 +239517,7 @@
     animals, plants and microorganisms of the same (pheromone) or different (allelochemicals)
     species.'
   credits: '1.0'
-  data_update_date: '2023-03-12 11:26:12'
+  data_update_date: '2026-10-02 15:58:24'
   english_name: Chemical Ecology
   enrollment_application: △
   enrollment_requirements: ''
@@ -240123,7 +240134,7 @@
 - class_id: EC11212
   class_outline: ファーストイヤーセミナーに引き続き,現代の生物資源科学が扱う学問領域や課題について,演習や調査・発表を通じて学び,今後の勉学への理解を深める。
   credits: '1.0'
-  data_update_date: '2025-12-08 13:51:16'
+  data_update_date: '2026-09-30 18:20:59'
   english_name: Agro-Biological Resource Science, Exercises
   enrollment_application: ×
   enrollment_requirements: ''
@@ -240144,7 +240155,7 @@
 - class_id: EC11262
   class_outline: 現代の生物資源科学が扱う学問領域や課題について,演習や調査・発表を通じて学び,今後の勉学への理解を深める。
   credits: '1.0'
-  data_update_date: '2026-07-03 10:21:09'
+  data_update_date: '2026-09-30 11:39:06'
   english_name: Agro-Biological Resource Science, Exercises
   enrollment_application: ×
   enrollment_requirements: ''
@@ -240314,7 +240325,7 @@
 - class_id: EC12201
   class_outline: 食料生産に係る学術や産業について,生物資源学類では,生化学的,工学的あるいは経済学的な分野・アプローチで学習・研究を進めている。各授業では,それぞれの分野の基礎知識を解説するとともに,それらを基盤として展開される教員の最新研究を紹介し,国内外の食料供給を支える生物資源学の役割を示す。
   credits: '1.0'
-  data_update_date: '2026-02-03 16:28:15'
+  data_update_date: '2026-09-30 11:22:52'
   english_name: Forefront of Food Science and Technology in Agro-biological Resource
     Scienses
   enrollment_application: ×
@@ -244919,14 +244930,14 @@
 - class_id: EE21301
   class_outline: 都市地理学の基本的事項として,都市化,都市システム,都市の内部構造などについて,日本および世界の各地の事例を取り上げながら学習する。
   credits: '1.0'
-  data_update_date: '2026-07-15 15:30:43'
+  data_update_date: '2026-10-02 15:58:38'
   english_name: Urban Geography
   enrollment_application: ''
   enrollment_requirements: ''
   method: '1'
-  module: 秋AB
+  module: 秋C
   name: 都市地理学
-  period: 火3
+  period: 集中
   remarks: '「歴史地理学特講III-B」を修得済みの者は履修できない。
 
     対面'
@@ -246878,10 +246889,12 @@
   enrollment_application: ×
   enrollment_requirements: ''
   method: '3'
-  module: 秋C春季休業中
+  module: 春季休業中
   name: 国際地質学総合野外実験A
   period: 集中
   remarks: '西暦偶数年度開講。
+
+    3/4-3/10
 
     対面'
   requirement_subject_name: 国際地質学総合野外実験A
@@ -250358,7 +250371,7 @@
 - class_id: FA00011
   class_outline: 人類が安住できる地球の寿命はオゾン層の破壊,温暖化,大規模な事故などで年代と共に短縮されつつある。 その責任の多くは科学技術の発展と密接な関係がある。そのため,これらの危機を認識し,人類の安全,福祉に貢献する技術者の育成が必要である。本講義は人類が直面した危機の事例を多く紹介し,技術者として必要な倫理の基礎知識を理解させる。
   credits: '1.0'
-  data_update_date: '2026-02-22 18:45:53'
+  data_update_date: '2026-10-02 17:17:30'
   english_name: Science and Engineering Ethics
   enrollment_application: ''
   enrollment_requirements: ''
@@ -253801,7 +253814,7 @@
 - class_id: FB14181
   class_outline: 講師を招いて,普段の授業では学べないような内容の講義や,最先端の数学への入門的な講義をしてもらう.
   credits: '1.0'
-  data_update_date: '2026-07-27 14:44:00'
+  data_update_date: '2026-09-28 18:00:21'
   english_name: Lectures in Selected Topics of Mathematics II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -253809,9 +253822,11 @@
   module: 秋B
   name: 数学特別講義II
   period: 集中
-  remarks: '西暦偶数年度開講。
+  remarks: '各日、3・4限に実施します。2026年11月11日(火)までにTWINSにて履修申請登録を行ってください。
 
-    詳細後日周知
+    西暦偶数年度開講。
+
+    11/12-11/13,11/18-11/20
 
     対面'
   requirement_subject_name: 数学特別講義II
@@ -253824,7 +253839,7 @@
 - class_id: FB14191
   class_outline: 講師を招いて,普段の授業では学べないような内容の講義や,最先端の数学への入門的な講義をしてもらう.
   credits: '1.0'
-  data_update_date: '2024-11-22 11:17:13'
+  data_update_date: '2026-09-28 18:00:54'
   english_name: Lectures in Selected Topics of Mathematics III
   enrollment_application: ×
   enrollment_requirements: ''
@@ -253832,9 +253847,11 @@
   module: 秋B
   name: 数学特別講義III
   period: 集中
-  remarks: '西暦偶数年度開講。
+  remarks: '初日は12:25に教室に集合すること。 以降の予定は初回にお伝えします。履修登録は2026年11月24日(火)まで。
 
-    詳細後日周知
+    西暦偶数年度開講。
+
+    11/25-11/27
 
     対面'
   requirement_subject_name: 数学特別講義III
@@ -253843,7 +253860,7 @@
   short_term_students_requirements: ''
   standard_course_year: '4'
   subject_code: FB14191
-  teaching_staff: 木下 保
+  teaching_staff: 橋本 紘史,木下 保
 - class_id: FB14211
   class_outline: 代数方程式のガロア理論について解説する.
   credits: '1.5'
@@ -257557,7 +257574,7 @@
 
     (秋BC)有機化学の基礎実験を主とする。1)有機化合物の定性分析。2)機器及び化学的手法による官能基の定性。3)有機化合物の合成,例えば,酵素反応,環状付加反応,Grignard反応,芳香族置換反応等。4)未知有機化合物の定性,定量。'
   credits: '7.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-09-30 14:07:14'
   english_name: Advanced Chemistry Laboratory II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -257576,7 +257593,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: FE13333
-  teaching_staff: 石塚 智也,志賀 拓也,山? 信哉,坂口 綾,小谷 弘明,三原 のぞみ,吉田 将人,菅又 功,中村 貴志,正田 浩一朗
+  teaching_staff: 石塚 智也,志賀 拓也,山? 信哉,坂口 綾,小谷 弘明,三原 のぞみ,吉田 将人,中村 貴志,菅又 功,深谷 圭介,正田 浩一朗
 - class_id: FE13611
   class_outline: 放射化学は多くの化学・自然科学が複合した境界領域に位置する学問分野であるとともに、現代社会に生きる人間として備えておくべき基礎知識を提供してくれる分野である。本授業内では、物質の根源を元素ではなく原子核ととらえ、核構造、同位体、壊変、放射線、核反応の基礎から、放射線・放射能を利用する応用について解説する。
   credits: '1.0'
@@ -265164,9 +265181,10 @@
   subject_code: FG25401
   teaching_staff: 手塚 太郎
 - class_id: FG25411
-  class_outline: ''
-  credits: '?'
-  data_update_date: '2026-01-23 16:21:53'
+  class_outline: 本授業では、ニューロエンジニアリングを理解するために必要な神経科学、計算論的神経科学、認知科学、および神経工学の基礎を学ぶ。ニューロン・シナプスレベルの神経活動から、神経ネットワーク、知覚・意思決定・運動、認知・情動などの高次脳機能までを概観するとともに、脳活動の計測・解析方法について学ぶ。さらに、BMI(Brain-Machine
+    Interface)やニューロフィードバックなど、神経科学の医学・工学応用について理解する。
+  credits: '1.0'
+  data_update_date: '2026-10-01 10:01:35'
   english_name: ''
   enrollment_application: ''
   enrollment_requirements: ''
@@ -265174,12 +265192,12 @@
   module: 秋C
   name: ニューロエンジニアリング基礎
   period: 火1,2
-  remarks: ''
+  remarks: 対面(オンライン併用型)
   requirement_subject_name: ニューロエンジニアリング基礎
   room: ''
   short_term_students_application: ''
   short_term_students_requirements: ''
-  standard_course_year: '?'
+  standard_course_year: '3'
   subject_code: FG25411
   teaching_staff: 井澤 淳,手塚 太郎,川崎 真弘,プエンテス サンドラ ミレイナ,バラダス ビクター
 - class_id: FG25901
@@ -268204,7 +268222,7 @@
 - class_id: FH24031
   class_outline: 効用モデル、リスク態度、トレード・オフなどの習得を通して、リスク下でののぞましい意思決定について学習する。さらに、社会・経済問題における代表的な対応策である保険を通して、リスク・マネジメントの手法について学習する。
   credits: '2.0'
-  data_update_date: '2026-09-14 09:23:19'
+  data_update_date: '2026-09-30 14:44:27'
   english_name: Decision Theory
   enrollment_application: ×
   enrollment_requirements: ''
@@ -271097,7 +271115,7 @@
     field in vacuum is explained and Maxwell's equation is derived. Next, the application
     of Maxwell's equation to the static electric/magnetic field is described.
   credits: '1.0'
-  data_update_date: '2023-02-13 19:23:02'
+  data_update_date: '2026-09-28 17:13:18'
   english_name: Advanced Electromagnetism I
   enrollment_application: △
   enrollment_requirements: ''
@@ -274979,7 +274997,7 @@
 - class_id: GB31701
   class_outline: 情報検索に関する入門.情報検索の基本概念,ブール検索モデル,索引語の抽出と重み付け,ベクトル空間モデル,索引手法,情報検索システムの評価,クラスタリング,マルチメディア情報検索,XML,WWW検索に関して講述する.
   credits: '2.0'
-  data_update_date: '2026-01-29 14:48:40'
+  data_update_date: '2026-10-01 11:15:29'
   english_name: Information Retrieval
   enrollment_application: ''
   enrollment_requirements: ''
@@ -278012,7 +278030,7 @@
 - class_id: GE21862
   class_outline: 江戸時代の川柳は、当時の言葉・文化・風俗に加えて、日本の歴史や文芸などの知識がなければ読み解くことができない。本科目では、川柳の解釈をとおして、過去のメディアを読み解くために必要な知識・技術・能力を養う。また、メディアを読み解き得られた情報をもとに思考する方法を学ぶ。
   credits: '2.0'
-  data_update_date: '2025-05-27 11:55:35'
+  data_update_date: '2026-10-02 17:02:34'
   english_name: ''
   enrollment_application: ''
   enrollment_requirements: ''
@@ -284372,7 +284390,7 @@
 - class_id: HE30031
   class_outline: 様々な疾患の臨床検査がどのように行われるか,臨床検査データの理解のしかたやそれらのデータから何を読み取るかを各診療科別に解説する。授業は総論と各論からなり,オムニバス方式で行う。
   credits: '3.0'
-  data_update_date: '2026-01-05 11:53:41'
+  data_update_date: '2026-10-02 16:58:59'
   english_name: Clinical Laboratory Medicine
   enrollment_application: ×
   enrollment_requirements: ''
@@ -284396,7 +284414,7 @@
   standard_course_year: '3'
   subject_code: HE30031
   teaching_staff: 岡田 浩介,小原 直,森戸 直記,會田 雄一,前野 哲博,竹越 一博,塩澤 利博,野澤 大輔,村越 伸行,森島 祐子,人見 重美,平谷
-    太吾,坪井 洋人,小川 良子,土屋 輝一郎,中馬越 清隆,斉木 臣二,井汲 彰,佐藤 晋爾,星 智也,山本 昌良,山? 浩,船山 徹
+    太吾,坪井 洋人,小川 良子,土屋 輝一郎,中馬越 清隆,斉木 臣二,井汲 彰,佐藤 晋爾,星 智也,山本 昌良,山? 浩,船山 徹,酒井 千緒,西野 衆文
 - class_id: HE30033
   class_outline: 生理活性物質とその作用機序について理解し,薬物の作用機序について,実習を通して学ぶ。また、医薬品開発における臨床試験のプロセス、重要性を、ロールプレイを通して学ぶ。
   credits: '1.0'
@@ -287330,9 +287348,9 @@
     knowledge from lecture to understand problems and suggest solution for target
     area. Lastly, students will present the achievement of group work.
   credits: '6.0'
-  data_update_date: '2026-09-16 16:44:45'
+  data_update_date: '2026-09-30 10:24:54'
   english_name: Seminars on Global Issues A-I
-  enrollment_application: ×
+  enrollment_application: ''
   enrollment_requirements: ''
   method: '2'
   module: 春ABC
@@ -287508,9 +287526,9 @@
     \ multiple fields and formulate an initial solution, action plan, and/or research\
     \ idea for a real-world global issue."
   credits: '6.0'
-  data_update_date: '2026-09-16 16:42:58'
+  data_update_date: '2026-09-30 10:26:17'
   english_name: Seminars on Global Issues B-I
-  enrollment_application: ×
+  enrollment_application: ''
   enrollment_requirements: ''
   method: '2'
   module: 秋ABC
@@ -287518,10 +287536,7 @@
   period: '水4,5
 
     金4,5'
-  remarks: 'This course is for BPGI students, or students who have earned credits
-    of VB10001 and VB10011.
-
-    英語で授業。
+  remarks: '英語で授業。
 
     主専攻必修科目。
 
@@ -288219,7 +288234,7 @@
 - class_id: W150041
   class_outline: 武道学Iの内容を踏まえ、武道における技術論、心法論、身心関係論等を、画像・映像を援用しつつ学習する。このことにより世界的な視座から、武道の日本文化としての独自性を理解する。
   credits: '1.0'
-  data_update_date: '2025-04-14 16:36:59'
+  data_update_date: '2026-09-30 18:07:26'
   english_name: Theory of Budo II
   enrollment_application: ''
   enrollment_requirements: ''
@@ -288236,7 +288251,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: W150041
-  teaching_staff: 酒井 利信
+  teaching_staff: 酒井 利信,柴田 直生
 - class_id: W150061
   class_outline: 現代スポーツの特徴と課題について、スポーツと身体文化、スポーツと政治、スポーツと経済、スポーツと多様性といった多面的な視点から考察する。特に、メディア、人種、ジェンダー、ナショナリズム、マイノリティなどをめぐる現代の諸現象とスポーツの関係について、社会学的な視座から議論する。
   credits: '1.0'
@@ -288646,7 +288661,7 @@
 - class_id: W150301
   class_outline: スポーツ医学(内科系)の基礎知識を学び、運動・スポーツが疾患・症候の予防・治療・リハビリテーションに果たす役割や競技力向上に関連するコンディショニングについて学習する
   credits: '1.0'
-  data_update_date: '2025-12-25 15:41:13'
+  data_update_date: '2026-09-30 17:57:28'
   english_name: Sports Medicine II (Internal Medicine)
   enrollment_application: ''
   enrollment_requirements: ''
@@ -288661,7 +288676,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: W150301
-  teaching_staff: 渡部 厚一,中田 由夫,小? 恵生
+  teaching_staff: 渡部 厚一,中田 由夫,小? 恵生,眞下 苑子
 - class_id: W150311
   class_outline: 健康スポーツ及び競技スポーツが引き起こす各外傷・障害について医学的な見地から解説し、その治療の方法・方針や予後そして予防対策について講義する。
   credits: '1.0'
@@ -292211,7 +292226,7 @@
 - class_id: W870041
   class_outline: 現代社会におけるスポーツの位置とその文化的特徴について、消費社会、メディアとの関係で捉え、人種、民族、ジェンダー、ナショナリティといった社会学の視点から人々の生きている日常を踏まえて、分析・考察を行う。
   credits: '2.0'
-  data_update_date: '2023-11-24 20:27:19'
+  data_update_date: '2026-09-29 17:07:22'
   english_name: Sociology of Sport
   enrollment_application: ''
   enrollment_requirements: ''
@@ -292232,7 +292247,7 @@
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: W820501
-  teaching_staff: 下竹 亮志
+  teaching_staff: 下竹 亮志,清水 諭,宮澤 優士
 - class_id: W870051
   class_outline: 体育・スポーツの経営管理をめぐる基礎的理論について、経営の構造論・スポーツ事業論及び経営過程論を中心に講義する。
   credits: '2.0'
@@ -306301,7 +306316,7 @@
 - class_id: YBL1712
   class_outline: アナログとデジタルフォトメディアによる写真撮影への現代的なアプローチを模索する。写真プロセスの知識を身につけ、関心のあるテーマまたはトピックについてのフォトプロジェクトを制作します。
   credits: '2.0'
-  data_update_date: '2026-01-12 09:03:31'
+  data_update_date: '2026-10-02 01:04:57'
   english_name: Workshops on Contemporary Photography
   enrollment_application: ''
   enrollment_requirements: ''
