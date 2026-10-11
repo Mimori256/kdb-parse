@@ -39443,7 +39443,7 @@
   "0AJA022": {
     "class_id": "0AJA022",
     "name": "Introduction to Geometry II",
-    "description": "対面",
+    "description": "1/12-1/15\\n対面\\n一部授業を1/12-1/15に集中で実施。詳細は講義中等に別途連絡",
     "module": [
       [
         "秋ABC"
@@ -39453,6 +39453,9 @@
       [
         "水3",
         "水4"
+      ],
+      [
+        "集中"
       ]
     ],
     "room": " "
@@ -48099,7 +48102,7 @@
   "0AJMB31": {
     "class_id": "0AJMB31",
     "name": "Advanced Theoretical Quantum Physics I",
-    "description": "対面",
+    "description": "11/25-11/27\\n対面",
     "module": [
       [
         "秋B"
@@ -48566,7 +48569,7 @@
   "0AJME05": {
     "class_id": "0AJME05",
     "name": "Smart Biomaterials",
-    "description": "英語で授業。\\n対面",
+    "description": "英語で授業。\\n12/23-12/24\\n対面",
     "module": [
       [
         "秋B"
@@ -51219,7 +51222,7 @@
   "0AL5310": {
     "class_id": "0AL5310",
     "name": "Risk Communication",
-    "description": "オンライン(オンデマンド型)\\nオンライン(同時双方向型)",
+    "description": "対面\\nオンライン(同時双方向型)",
     "module": [
       [
         "秋AB"
@@ -55080,7 +55083,7 @@
   "0ANA025": {
     "class_id": "0ANA025",
     "name": "Practical Course on Proteome",
-    "description": "対面",
+    "description": "2/3-2/5\\n対面",
     "module": [
       [
         "秋C"
@@ -56868,7 +56871,7 @@
   "0ANB326": {
     "class_id": "0ANB326",
     "name": "Advanced Environmental Soil Chemistry",
-    "description": "対面",
+    "description": "11/21,22,28,29\\n対面",
     "module": [
       [
         "秋B"
@@ -79637,7 +79640,7 @@
   "0ATTB12": {
     "class_id": "0ATTB12",
     "name": "Methodology of Art Education A-2",
-    "description": "西暦偶数年度開講。\\n対面",
+    "description": "西暦偶数年度開講。\\nオンライン(対面併用型)",
     "module": [
       [
         "秋AB"
@@ -80642,7 +80645,7 @@
   "0ATTF21": {
     "class_id": "0ATTF21",
     "name": "Studio Work: Carving-1",
-    "description": "原則として「彫刻制作-2」とあわせて履修すること。原則として彫塑領域の学生に限る。\\n教室は他C110,作業コート\\n対面",
+    "description": "原則として「彫刻制作-2」とあわせて履修すること。原則として彫塑領域の学生に限る。教室は他C110,作業コート\\n対面",
     "module": [
       [
         "春ABC"
@@ -80663,7 +80666,7 @@
   "0ATTF22": {
     "class_id": "0ATTF22",
     "name": "Studio Work: Carving-2",
-    "description": "彫塑領域の学生に限る。原則として彫刻制作-1を履修していること。\\n教室は他C110,作業コート\\n対面",
+    "description": "彫塑領域の学生に限る。原則として彫刻制作-1を履修していること。教室は他C110,作業コート\\n対面",
     "module": [
       [
         "秋ABC"
@@ -82750,11 +82753,11 @@
   },
   "0ATV209": {
     "class_id": "0ATV209",
-    "name": "Advanced Practice of Heritage Studies ",
-    "description": "英語運用能力が求められる。(日本語話者向け)\\n英語で授業。\\n対面\\nオンライン(同時双方向型)\\n2025年度は対面(教室で国内外の大学とオンラインで接続する可能性はある)を予定する。隔年度実施。",
+    "name": "Advanced Practice of Heritage Studies",
+    "description": "英語運用能力が求められる。(日本語話者向け)\\n英語で授業。\\n11/2,11/3,11/4,1/19\\n対面\\nオンライン(同時双方向型)\\n2025年度は対面(教室で国内外の大学とオンラインで接続する可能性はある)を予定する。隔年度実施。",
     "module": [
       [
-        "通年"
+        "秋BC"
       ]
     ],
     "period": [
@@ -88908,7 +88911,7 @@
   "0BBC620": {
     "class_id": "0BBC620",
     "name": "Introduction to Academia-Industry Collaboration",
-    "description": "2月19日(木)3・4・5限 / 2月20日(金)3・4・5限 / 2月24日(火)3・4・5・6限\\n対面\\nオンライン(同時双方向型)",
+    "description": "2月18日(木)3-5限、2月19日(金)3-5限、2月22日(月)3-6限\\n2/18, 2/19, 2/22\\n対面\\nオンライン(同時双方向型)",
     "module": [
       [
         "夏季休業中"
@@ -107304,7 +107307,7 @@
   "0BTX002": {
     "class_id": "0BTX002",
     "name": "Initiation Seminar",
-    "description": "英語で授業。\\n英語で授業。\\n主専攻必修科目。\\n対面\\n※基本的に対面授業。対面授業受講が不可能な学生に対してのみオンライン(オンデマンド型)授業受講を認める。",
+    "description": "英語で授業。\\n英語で授業。\\n10/1\\n主専攻必修科目。\\n対面\\n※基本的に対面授業。対面授業受講が不可能な学生に対してのみオンライン(オンデマンド型)授業受講を認める。",
     "module": [
       [
         "秋A"
@@ -135610,7 +135613,7 @@
   "9432114": {
     "class_id": "9432114",
     "name": "Teaching Method in Japanese Language Teaching",
-    "description": "対面\\n2-6限",
+    "description": "1/10,1/11,2/20,2/21\\n対面\\n2-6限",
     "module": [
       [
         "秋C",
@@ -152533,6 +152536,23 @@
     ],
     "room": " "
   },
+  "AC66043": {
+    "class_id": "AC66043",
+    "name": "International Practicum in Comparative Culture V",
+    "description": "英語で授業。\\n2/16-26\\n対面(オンライン併用型)",
+    "module": [
+      [
+        "秋C",
+        "夏季休業中"
+      ]
+    ],
+    "period": [
+      [
+        "集中"
+      ]
+    ],
+    "room": " "
+  },
   "AC66102": {
     "class_id": "AC66102",
     "name": "International Seminar in Comparative Culture I",
@@ -159530,7 +159550,7 @@
   "BC11551": {
     "class_id": "BC11551",
     "name": "Postmodern Anthropology",
-    "description": "対面",
+    "description": "1/30,1/31,2/1,2/2\\n対面",
     "module": [
       [
         "秋C"
@@ -159978,7 +159998,7 @@
   "BC12291": {
     "class_id": "BC12291",
     "name": "Social Anthropology",
-    "description": "英語で授業。\\n対面\\n授業実施についてはmanabaにて連絡",
+    "description": "英語で授業。\\n1/25,26,27,29\\n対面\\n授業実施についてはmanabaにて連絡",
     "module": [
       [
         "秋C"
@@ -168528,7 +168548,7 @@
   "EB11651": {
     "class_id": "EB11651",
     "name": "Introduction to Ecology",
-    "description": "This lecture is planned as online. See Syllabus or recent information from manaba for detail.\\n英語で授業。\\nオンライン(対面併用型)\\nオンライン(同時双方向型)",
+    "description": "This lecture is planned as online. See Syllabus or recent information from manaba for detail.\\n英語で授業。\\nオンライン(同時双方向型)",
     "module": [
       [
         "秋AB"
@@ -176271,10 +176291,10 @@
   "EE31283": {
     "class_id": "EE31283",
     "name": "Field Works on Geology II",
-    "description": "地球進化学主専攻対象。受講制限あり。担当教員・実施日程・実施場所等は、決まり次第周知する。\\n西暦偶数年度開講。\\n対面\\n含野外調査",
+    "description": "地球進化学主専攻対象。受講制限あり。\\n西暦偶数年度開講。\\n2/12-2/14\\n対面\\n含野外調査",
     "module": [
       [
-        "通年"
+        "秋C"
       ]
     ],
     "period": [
@@ -178649,7 +178669,7 @@
   "EG92053": {
     "class_id": "EG92053",
     "name": "Field Work in Earth Evolution Science A",
-    "description": "西暦偶数年度開講。\\n英語で授業。\\n対面",
+    "description": "西暦偶数年度開講。\\n英語で授業。\\n3/4-3/10\\n対面",
     "module": [
       [
         "秋C",
@@ -181334,7 +181354,7 @@
   "FB14181": {
     "class_id": "FB14181",
     "name": "Lectures in Selected Topics of Mathematics II",
-    "description": "各日、3・4限に実施します。2026年11月11日(火)までにTWINSにて履修申請登録を行ってください。\\n西暦偶数年度開講。\\n11/12-11/13,11/18-11/20\\n対面",
+    "description": "履修登録は2026年11月11日(火)まで。\\n西暦偶数年度開講。\\n11/12-11/13,11/18-11/20(いずれも3・4限)\\n対面",
     "module": [
       [
         "秋B"
@@ -181350,7 +181370,7 @@
   "FB14191": {
     "class_id": "FB14191",
     "name": "Lectures in Selected Topics of Mathematics III",
-    "description": "初日は12:25に教室に集合すること。 以降の予定は初回にお伝えします。履修登録は2026年11月24日(火)まで。\\n西暦偶数年度開講。\\n11/25-11/27\\n対面",
+    "description": "初日は12:15に集合すること。 以降の予定は初回授業でお伝えします。履修登録は2026年11月24日(火)まで。\\n西暦偶数年度開講。\\n11/25-11/27\\n対面",
     "module": [
       [
         "秋B"
@@ -205841,7 +205861,7 @@
   "VB20001": {
     "class_id": "VB20001",
     "name": "Literacy in Global Issues (Environment)",
-    "description": "英語で授業。\\n主専攻必修科目。\\n対面",
+    "description": "英語で授業。\\n10/6-12/22\\n主専攻必修科目。\\n対面(オンライン併用型)",
     "module": [
       [
         "秋AB"
@@ -207305,7 +207325,7 @@
   "W160611": {
     "class_id": "W160611",
     "name": "Practical Self-Reflection: Foundations",
-    "description": "対面",
+    "description": "1/6-2/10\\n対面\\nオンライン(オンデマンド型)",
     "module": [
       [
         "秋C"
@@ -212846,6 +212866,22 @@
     "period": [
       [
         "応談"
+      ]
+    ],
+    "room": " "
+  },
+  "XJ20172": {
+    "class_id": "XJ20172",
+    "name": "Have fun telling and listening in Japanese",
+    "description": "2026年11月21日～2026年11月28日、詳細は授業、およびManabaで周知。先着30名まで。\\n11/21-11/28\\nオンライン(オンデマンド型)",
+    "module": [
+      [
+        "秋B"
+      ]
+    ],
+    "period": [
+      [
+        "集中"
       ]
     ],
     "room": " "
@@ -219766,7 +219802,7 @@
   "YBJ0362": {
     "class_id": "YBJ0362",
     "name": "Workshops on Public Art and Mixed Media II",
-    "description": "実務経験教員\\n対面(オンライン併用型)\\n人数制限あり(20名程度)「総合造形表現演習I」を履修済、または同等の知識・技術を有していることが望ましい。また、YBJ0322「総合造形表現演習II」を履修していない学生を優先する。",
+    "description": "1/15-1/17\\n実務経験教員\\n対面(オンライン併用型)\\n人数制限あり(20名程度)「総合造形表現演習I」を履修済、または同等の知識・技術を有していることが望ましい。また、YBJ0322「総合造形表現演習II」を履修していない学生を優先する。",
     "module": [
       [
         "通年"
