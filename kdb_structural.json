@@ -2248,16 +2248,37 @@
       "room": ""
     },
     {
+      "class_id": "01LA240",
+      "name": "相続税法",
+      "method": "1",
+      "credits": "1.0",
+      "standard_course_year": "1・2",
+      "module": "秋B\n秋C\n春季休業中",
+      "period": "集中",
+      "teaching_staff": "島? 明,中沢 道久",
+      "class_outline": "近年相続税法において重要性を増している事業承継税制について、税務、法務及び実務において重要な論点を中心に、事例等を用いて学習し、事業承継に関する実際の実務等を学習する。",
+      "remarks": "0ADL614と同一。\n12/7,12/14,12/21,1/11,1/18,1/25,12/7,12/14,12/21,1/11,1/18,1/25,2/1,2/8,2/15,2/22\nオンライン(同時双方向型)\n非常勤講師",
+      "enrollment_application": "×",
+      "enrollment_requirements": "",
+      "short_term_students_application": "",
+      "short_term_students_requirements": "",
+      "english_name": "Inheritance and Gift Tax",
+      "subject_code": "0ADL614",
+      "requirement_subject_name": "相続税法",
+      "data_update_date": "2026-10-31 14:23:41",
+      "room": ""
+    },
+    {
       "class_id": "01LA241",
       "name": "消費税法",
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "通年",
+      "module": "秋C春季休業中",
       "period": "集中",
-      "teaching_staff": "",
+      "teaching_staff": "鈴木 友康",
       "class_outline": "消費税法は、現在、日本の税収に占める割合が最も高くなるなど、所得税・法人税とともに税制の中心的な地位を占める租税となっている。本講義では、消費税法の全体像を俯瞰しながら、主要な制度の設立の背景や内容について学習するとともに、判例研究を通じて、消費税法における主要な論点について理解を深めていくこととする。",
-      "remarks": "0ADL610と同一。\n対面\n非常勤講師",
+      "remarks": "0ADL610と同一。\n1/9,1/16,1/23,1/30,2/6\n対面\n非常勤講師",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "",
@@ -2265,7 +2286,7 @@
       "english_name": "Consumption Tax",
       "subject_code": "0ADL610",
       "requirement_subject_name": "消費税法",
-      "data_update_date": "2026-02-09 13:19:59",
+      "data_update_date": "2026-10-31 14:13:38",
       "room": ""
     },
     {
@@ -2400,11 +2421,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "秋学期",
-      "period": "集中",
-      "teaching_staff": "",
+      "module": "秋BC",
+      "period": "月7,8",
+      "teaching_staff": "本田 光宏",
       "class_outline": "経済のグローバル化の中で重要性の高まっている国際租税制度について、近年の動向等を踏まえて論じる。具体的には、国内源泉所得、恒久的施設、外国子会社合算税制、移転価格税制、過少資本税制・過大支払利子税制、外国税額控除制度等を取り上げる。授業は講義形式とする。",
-      "remarks": "非常勤講師\n0ADL606と同一。",
+      "remarks": "非常勤講師\n0ADL606と同一。\n12/7,12/14,12/21,12/28,1/18",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "",
@@ -2412,7 +2433,7 @@
       "english_name": "International Taxation I",
       "subject_code": "01LA309",
       "requirement_subject_name": "国際課税法I",
-      "data_update_date": "2026-02-09 12:49:03",
+      "data_update_date": "2026-10-31 14:00:31",
       "room": ""
     },
     {
@@ -14407,6 +14428,27 @@
       "room": ""
     },
     {
+      "class_id": "02DBJ84",
+      "name": "宗教思想史II(3)B",
+      "method": "1",
+      "credits": "1.0",
+      "standard_course_year": "1・2",
+      "module": "秋C",
+      "period": "集中",
+      "teaching_staff": "島薗 進",
+      "class_outline": "救済宗教と現代人のスピリチュアリティ\n現代人の自己理解を宗教との関わりかた考えていく。人類の宗教史を救済宗教という観点から捉え、日本の精神文化の歴史をそれとの関わりから理解する。また、宗教以後という意識をもつ人々が、それでもスピリチュアリティに関心をもつことが多いこと、またスピリチュアリティの諸相について理解する。さらに、死生観という側面から現代人の自己理解を問い直す。また、死生をめぐり、全人的な臨床実践という視点が提起されていることについて考え、その具体的な様相について理解を深める。",
+      "remarks": "0ABAAS1と同一。\n1/28-1/30\n対面",
+      "enrollment_application": "",
+      "enrollment_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
+      "short_term_students_application": "△",
+      "short_term_students_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
+      "english_name": "History of Religious Thought II(3)B",
+      "subject_code": "0ABAAS1",
+      "requirement_subject_name": "宗教思想史II(1)B",
+      "data_update_date": "2026-10-30 22:17:13",
+      "room": ""
+    },
+    {
       "class_id": "02DBJ87",
       "name": "宗教思想史II演習(3)A",
       "method": "2",
@@ -16167,7 +16209,7 @@
       "english_name": "Dissertation Writing Seminar II",
       "subject_code": "0BBAJB2",
       "requirement_subject_name": "博士論文プロポーザル演習II",
-      "data_update_date": "2025-12-18 11:48:26",
+      "data_update_date": "2026-10-30 20:48:29",
       "room": ""
     },
     {
@@ -26090,7 +26132,7 @@
       "standard_course_year": "1 - 5",
       "module": "春ABC夏季休業中秋ABC春季休業中",
       "period": "随時",
-      "teaching_staff": "柏木 健一,金 ?辰,朝倉 雅史,小野 裕子,森尾 貴広,LIU Soraya,阿部 淳一 ピーター,田中 怜,大根田 修,ゲオンゾン レスター カンケ,平井 悠介,MENA Aaron,五月女 颯,入江 賢児,松原 康介,廣田 充",
+      "teaching_staff": "柏木 健一,金 ?辰,朝倉 雅史,小野 裕子,森尾 貴広,LIU Soraya,阿部 淳一 ピーター,田中 怜,大根田 修,ゲオンゾン レスター カンケ,平井 悠介,MENA Aaron,五月女 颯,入江 賢児,松原 康介,廣田 充,石賀 康博",
       "class_outline": "海外協定校等を共修の場とし、本学の日本人大学院生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。",
       "remarks": "履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。 (多文化共修・推進企画会議企画) 成績確定は、年度末になることに注意。\n対面",
       "enrollment_application": "×",
@@ -26100,7 +26142,7 @@
       "english_name": "Problem solving through multicultural co-learning (overseas)",
       "subject_code": "0A00323",
       "requirement_subject_name": "多文化共修による課題解決実習(海外)",
-      "data_update_date": "2026-10-14 10:06:55",
+      "data_update_date": "2026-10-21 13:42:51",
       "room": ""
     },
     {
@@ -29422,6 +29464,27 @@
       "room": ""
     },
     {
+      "class_id": "0ABAAS1",
+      "name": "宗教思想史II(1)B",
+      "method": "1",
+      "credits": "1.0",
+      "standard_course_year": "1・2",
+      "module": "秋C",
+      "period": "集中",
+      "teaching_staff": "島薗 進",
+      "class_outline": "救済宗教と現代人のスピリチュアリティ\n現代人の自己理解を宗教との関わりかた考えていく。人類の宗教史を救済宗教という観点から捉え、日本の精神文化の歴史をそれとの関わりから理解する。また、宗教以後という意識をもつ人々が、それでもスピリチュアリティに関心をもつことが多いこと、またスピリチュアリティの諸相について理解する。さらに、死生観という側面から現代人の自己理解を問い直す。また、死生をめぐり、全人的な臨床実践という視点が提起されていることについて考え、その具体的な様相について理解を深める。",
+      "remarks": "02DBJ84と同一。\n1/28-1/30\n対面",
+      "enrollment_application": "",
+      "enrollment_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
+      "short_term_students_application": "△",
+      "short_term_students_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
+      "english_name": "History of Religious Thought II(1)B",
+      "subject_code": "0ABAAS1",
+      "requirement_subject_name": "宗教思想史II(1)B",
+      "data_update_date": "2026-10-30 22:17:13",
+      "room": ""
+    },
+    {
       "class_id": "0ABAAS4",
       "name": "宗教思想史II演習(1)A",
       "method": "2",
@@ -31405,7 +31468,7 @@
       "period": "集中",
       "teaching_staff": "滝沢 誠,前田 修,板橋 悠,谷口 陽子",
       "class_outline": "発掘調査や測量調査などのフィールドワークに参加し、基本的な作業を修得することを目標とする。あわせて、フィールドワークに参加している学群生を指導し、調査指導者として必要な基礎的能力を養うことを目標とする。",
-      "remarks": "対面",
+      "remarks": "11/30-12/19\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -38259,7 +38322,7 @@
       "english_name": "Southeast Asian and Oceanian Comparative Politics A",
       "subject_code": "0ABC324",
       "requirement_subject_name": "東南アジア・オセアニア比較政治研究A",
-      "data_update_date": "2026-03-02 12:09:22",
+      "data_update_date": "2026-01-26 10:05:55",
       "room": ""
     },
     {
@@ -40307,7 +40370,7 @@
       "standard_course_year": "1",
       "module": "秋AB",
       "period": "月3",
-      "teaching_staff": "内藤 久裕,中野 優子,柏木 健一,モゲス アブ ギルマ,松島 みどり,ファトゥワ ラムダニ",
+      "teaching_staff": "内藤 久裕,中野 優子,柏木 健一,モゲス アブ ギルマ,松島 みどり,ファトゥワ ラムダニ,藤本 丈史,ブオング ディン トゥアン グエン",
       "class_outline": "プログラムの教員全員参加するセミナーで、学生全員が修士論文の構想発表、研究進捗状況を発表する。教員全員から、多角的なコメントを受けることで、問題発見能力、より高いレベルの経済分析能力、プレゼン能力、コメント対応力を身につける。1年次最後に修士論文構想発表を行う。その過程において、2年次生の中間発表会、論文審査口頭試問、優秀論文発表会に出席する。",
       "remarks": "英語で授業。\n授業形式はシラバスの「その他」欄で確認してください。",
       "enrollment_application": "×",
@@ -40317,7 +40380,7 @@
       "english_name": "Seminar on Economics I",
       "subject_code": "01DZ610",
       "requirement_subject_name": "経済学リサーチ・ワークショップI",
-      "data_update_date": "2024-01-19 12:34:35",
+      "data_update_date": "2026-10-28 11:59:18",
       "room": ""
     },
     {
@@ -40349,7 +40412,7 @@
       "standard_course_year": "2",
       "module": "秋AB",
       "period": "応談",
-      "teaching_staff": "内藤 久裕,中野 優子,柏木 健一,モゲス アブ ギルマ,松島 みどり,ファトゥワ ラムダニ",
+      "teaching_staff": "内藤 久裕,中野 優子,柏木 健一,モゲス アブ ギルマ,松島 みどり,ファトゥワ ラムダニ,藤本 丈史,ブオング ディン トゥアン グエン",
       "class_outline": "経済学セミナーI-IIの受講を踏まえ、プログラムの教員全員参加するセミナーで、学生全員が修士論文の構想発表、研究進捗状況を発表する。教員全員から、多角的なコメントを受けることで、問題発見能力、より高いレベルの経済分析能力、プレゼン能力、コメント対応力を身につける。なお、その過程において、中間発表および修士論文発表会での研究発表を課す。",
       "remarks": "英語で授業。\n授業形式はシラバスの「その他」欄で確認してください。",
       "enrollment_application": "×",
@@ -40359,7 +40422,7 @@
       "english_name": "Seminar on Economics III",
       "subject_code": "01DZ612",
       "requirement_subject_name": "経済学リサーチ・ワークショップIII",
-      "data_update_date": "2024-01-30 10:23:07",
+      "data_update_date": "2026-10-28 12:04:34",
       "room": ""
     },
     {
@@ -45177,11 +45240,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "秋学期",
-      "period": "集中",
-      "teaching_staff": "",
+      "module": "秋BC",
+      "period": "月7,8",
+      "teaching_staff": "本田 光宏",
       "class_outline": "経済のグローバル化の中で重要性の高まっている国際租税制度について、近年の動向等を踏まえて論じる。具体的には、国内源泉所得、恒久的施設、外国子会社合算税制、移転価格税制、過少資本税制・過大支払利子税制、外国税額控除制度等を取り上げる。授業は講義形式とする。",
-      "remarks": "非常勤講師\n01LA309と同一。",
+      "remarks": "非常勤講師\n01LA309と同一。\n12/7,12/14,12/21,12/28,1/18",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -45189,7 +45252,7 @@
       "english_name": "International Taxation I",
       "subject_code": "01LA309",
       "requirement_subject_name": "国際課税法I",
-      "data_update_date": "2026-02-09 12:49:03",
+      "data_update_date": "2026-10-31 14:00:31",
       "room": ""
     },
     {
@@ -45219,11 +45282,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "通年",
+      "module": "秋C春季休業中",
       "period": "集中",
-      "teaching_staff": "",
+      "teaching_staff": "鈴木 友康",
       "class_outline": "消費税法は、現在、日本の税収に占める割合が最も高くなるなど、所得税・法人税とともに税制の中心的な地位を占める租税となっている。本講義では、消費税法の全体像を俯瞰しながら、主要な制度の設立の背景や内容について学習するとともに、判例研究を通じて、消費税法における主要な論点について理解を深めていくこととする。",
-      "remarks": "オフィスアワー:授業終了後に対応する。\n01LA241と同一。\n対面\n非常勤講師",
+      "remarks": "2.3限\n01LA241と同一。\n1/9,1/16,1/23,1/30,2/6\n対面\n非常勤講師",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -45231,7 +45294,28 @@
       "english_name": "Consumption Tax",
       "subject_code": "0ADL610",
       "requirement_subject_name": "消費税法",
-      "data_update_date": "2026-02-09 13:19:59",
+      "data_update_date": "2026-10-31 14:13:38",
+      "room": ""
+    },
+    {
+      "class_id": "0ADL614",
+      "name": "相続税法",
+      "method": "1",
+      "credits": "1.0",
+      "standard_course_year": "1・2",
+      "module": "秋B\n秋C\n春季休業中",
+      "period": "集中",
+      "teaching_staff": "島? 明,中沢 道久",
+      "class_outline": "近年相続税法において重要性を増している事業承継税制について、税務、法務及び実務において重要な論点を中心に、事例等を用いて学習し、事業承継に関する実際の実務等を学習する。",
+      "remarks": "01LA240と同一。\n12/7,12/14,12/21,1/11,1/18,1/25,12/7,12/14,12/21,1/11,1/18,1/25,2/1,2/8,2/15,2/22\nオンライン(同時双方向型)\n非常勤講師による講義である。",
+      "enrollment_application": "×",
+      "enrollment_requirements": "",
+      "short_term_students_application": "×",
+      "short_term_students_requirements": "",
+      "english_name": "Inheritance and Gift Tax",
+      "subject_code": "0ADL614",
+      "requirement_subject_name": "相続税法",
+      "data_update_date": "2026-10-31 14:23:41",
       "room": ""
     },
     {
@@ -51225,11 +51309,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "秋A",
+      "module": "秋B",
       "period": "集中",
-      "teaching_staff": "",
+      "teaching_staff": "山本 光,山田 澄生",
       "class_outline": "この講義では、調和写像と極小曲面のモジュライ空間、対称空間の部分多様体論、カオス・フラクタル、低・高次元多様体と結び目理論等に関する最近の話題について大局的な視点から解説する。",
-      "remarks": "西暦偶数年度開講。\n対面",
+      "remarks": "西暦偶数年度開講。\n12/21,12/22,12/23\n対面\n12/21 2,4,5限、12/22 2,4,5限、12/23 2,4,5,6限",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -51237,7 +51321,7 @@
       "english_name": "Special Lecture on Geometry I",
       "subject_code": "01BB050",
       "requirement_subject_name": "幾何学特論I",
-      "data_update_date": "2025-01-28 15:42:41",
+      "data_update_date": "2026-10-23 14:05:16",
       "room": ""
     },
     {
@@ -51540,11 +51624,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "秋B",
+      "module": "秋C",
       "period": "集中",
-      "teaching_staff": "竹内 耕太",
+      "teaching_staff": "及川 一誠,磯部 伸",
       "class_outline": "学外の講師により、情報数学、数理統計学・数理論理学・計算機数学における各種のトピックスに関する最新の知見について講義を行う。",
-      "remarks": "西暦偶数年度開講。\n対面\n非常勤講師担当科目",
+      "remarks": "西暦偶数年度開講。\n1/12,1/13,1/14\n対面\n非常勤講師担当科目、1/12 10:10開始",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -51552,7 +51636,7 @@
       "english_name": "Special Lecture on Mathematics of Information  I",
       "subject_code": "01BB156",
       "requirement_subject_name": "情報数学特論I",
-      "data_update_date": "2024-07-24 15:38:58",
+      "data_update_date": "2026-10-26 14:46:14",
       "room": ""
     },
     {
@@ -63512,7 +63596,7 @@
       "standard_course_year": "1",
       "module": "秋BC",
       "period": "集中",
-      "teaching_staff": "デニス ユウ,陳 少強,大久保 勇男,榊 浩司,長谷 宗明",
+      "teaching_staff": "デニス ユウ,陳 少強,Jer Shing Huang,大久保 勇男,榊 浩司,長谷 宗明",
       "class_outline": "The aim of this course is to give the knowledge, understand and concept in the area of energy materials science.  The topics that will be discussed include basic principles and methods of power generation, materials properties that restrict photovoltaics performances, stability and eco-friendliness and so on; followed with the properties of organic semiconductors including intrinsic and extrinsic properties, structure-properties relationship, electrical and optoelectronics properties. The energy band and charge transport mechanism, new molecule approaches to high-efficiency photovoltaics devices will also be discussed. From this, the organic/inorganic photovoltaics were introduced, and the relevance simple devices fabrication technique and associated effects, concepts underlying heterojunctions, interface properties, stability and cost-effectiveness for commercials aspects will also be discussed.",
       "remarks": "英語で授業。\n11/16(月),11/30(月),12/7(月),12/14(月),12/21(月) 5,6時限目",
       "enrollment_application": "×",
@@ -63522,7 +63606,7 @@
       "english_name": "Energy Materials I",
       "subject_code": "0AJR040",
       "requirement_subject_name": "Energy Materials I",
-      "data_update_date": "2026-10-15 09:05:40",
+      "data_update_date": "2026-10-19 14:26:53",
       "room": ""
     },
     {
@@ -63533,7 +63617,7 @@
       "standard_course_year": "1",
       "module": "秋BC",
       "period": "集中",
-      "teaching_staff": "衛 慶碩,内藤 昌信,青木 寛,パラジュリ ドゥルガ,山本 洋平",
+      "teaching_staff": "衛 慶碩,内藤 昌信,青木 寛,パラジュリ ドゥルガ,井上 茂義,山本 洋平",
       "class_outline": "This course introduces the recent development of sensor technology, recent trend on IoT and sensors, and nano materials and its application on sensor technology. The various sensors and the materials as its sensitive layers will be describe. Moreover some sensor technology also will be introduce including resistance sensors, electrochemical sensors, and optical sensors. This course will involve the students in preparing tasks and review some papers for each chapter.",
       "remarks": "英語で授業。\n11/20(金), 12/4(金), 12/18(金), 1/8(金), 1/22(金) 5,6時限目\n対面(オンライン併用型)",
       "enrollment_application": "×",
@@ -63543,7 +63627,7 @@
       "english_name": "Environmental Materials I",
       "subject_code": "0AJR050",
       "requirement_subject_name": "Environmental Materials I",
-      "data_update_date": "2026-10-15 08:58:35",
+      "data_update_date": "2026-10-19 14:03:20",
       "room": ""
     },
     {
@@ -64582,8 +64666,8 @@
       "credits": "2.0",
       "standard_course_year": "1・2",
       "module": "秋ABC",
-      "period": "随時",
-      "teaching_staff": "浦田 淳司,川島 宏一,飛田 幹男,讃井 知,長谷部 浩二",
+      "period": "応談",
+      "teaching_staff": "浦田 淳司,飛田 幹男,讃井 知,長谷部 浩二,梅本 通孝",
       "class_outline": "国内外研究者・企業・自治体などによる数理・データサイエンス・AI分野の最新の動向に関する専門家によるオムニバス授業を実施し、最近の重要課題について講述する。データサイエンス分野の問題解決能力を養うことを狙いとする。",
       "remarks": "",
       "enrollment_application": "",
@@ -64593,7 +64677,7 @@
       "english_name": "MDA Interdisciplinary Collaborative Seminar",
       "subject_code": "0AL0013",
       "requirement_subject_name": "MDA異分野連携ゼミナール",
-      "data_update_date": "2026-08-03 04:16:33",
+      "data_update_date": "2026-10-30 11:00:30",
       "room": ""
     },
     {
@@ -64614,7 +64698,7 @@
       "english_name": "MDA Special Exercise for Top-level Human Resource Training",
       "subject_code": "0AL0014",
       "requirement_subject_name": "MDAトップ人材育成特別演習",
-      "data_update_date": "2026-08-03 04:16:33",
+      "data_update_date": "2026-10-30 11:01:53",
       "room": ""
     },
     {
@@ -64644,8 +64728,8 @@
       "method": "4",
       "credits": "2.0",
       "standard_course_year": "1・2",
-      "module": "春C夏季休業中",
-      "period": "随時",
+      "module": "通年",
+      "period": "応談",
       "teaching_staff": "星野 准一",
       "class_outline": "メタバースによる臨場感の高いコミュニケーション環境を構築するための、アバターや3D環境モデルの制作手法や、ユーザー体験設計および評価手法、リアル環境とメタバース環境のシームレスな連結、生成AIの統合化および倫理的課題について学ぶ。メタバースを活用した、学生と学外研究者、企業参加者によるコミュニケーションにより、研究やキャリアに役立つ発見や知の創出を促進するための環境構築を実践する。",
       "remarks": "メタバースの利用経験や 3Dコンテンツ制作,Unity/Unrealプログラミングなどの経験があること。R8は試行のため10名程度に制限する。",
@@ -64656,7 +64740,7 @@
       "english_name": "Metaverse Engineering Workshop",
       "subject_code": "0AL0016",
       "requirement_subject_name": "メタバース工学演習",
-      "data_update_date": "2026-08-03 04:16:33",
+      "data_update_date": "2026-10-21 13:55:22",
       "room": ""
     },
     {
@@ -70755,11 +70839,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "通年",
+      "module": "秋B",
       "period": "集中",
       "teaching_staff": "角替 敏昭",
       "class_outline": "地球進化科学に関する国内外の最新の研究トピックについて講義する。特に受講生は現在の各研究分野の動向と今後の方向性を理解することにより、自身の研究の将来計画や研究目標、社会への貢献方法などについて考察する。本講義により、知識と理解力および問題解決能力を向上させ、理論的な思考を養い、専門領域を超えた自らの研究能力の向上に役立てる。本講義では、生物圏変遷科学、地圏変遷科学、地球変動科学、惑星資源科学、岩石学、および鉱物学のうち1分野の内容を中心に扱い、授業内容は毎年変更する。",
-      "remarks": "対面",
+      "remarks": "12/4,12/11\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -70767,7 +70851,7 @@
       "english_name": "Special Lecture in Earth Evolution Sciences I",
       "subject_code": "0AN0301",
       "requirement_subject_name": "地球進化科学特別講義I",
-      "data_update_date": "2025-12-17 16:06:22",
+      "data_update_date": "2025-12-17 14:23:41",
       "room": ""
     },
     {
@@ -71124,7 +71208,7 @@
       "english_name": "Science Mediation Internship I",
       "subject_code": "01AA026",
       "requirement_subject_name": "サイエンスメディエーション実践I (インターンシップ)",
-      "data_update_date": "2025-04-24 09:15:15",
+      "data_update_date": "2026-10-20 16:12:20",
       "room": ""
     },
     {
@@ -71145,7 +71229,7 @@
       "english_name": "Science Mediation Internship II",
       "subject_code": "01AA027",
       "requirement_subject_name": "サイエンスメディエーション実践II(インターンシップ)",
-      "data_update_date": "2025-04-24 09:16:13",
+      "data_update_date": "2026-10-20 16:12:53",
       "room": ""
     },
     {
@@ -71166,7 +71250,7 @@
       "english_name": "Science Mediation Internship III",
       "subject_code": "01AA028",
       "requirement_subject_name": "サイエンスメディエーション実践III(インターンシップ)",
-      "data_update_date": "2025-04-24 09:17:01",
+      "data_update_date": "2026-10-20 16:13:37",
       "room": ""
     },
     {
@@ -71187,7 +71271,7 @@
       "english_name": "Science Mediation Internship IV",
       "subject_code": "01AA029",
       "requirement_subject_name": "サイエンスメディエーション実践IV(インターンシップ)",
-      "data_update_date": "2025-04-24 09:18:21",
+      "data_update_date": "2026-10-20 16:14:17",
       "room": ""
     },
     {
@@ -75291,11 +75375,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "通年",
-      "period": "応談",
-      "teaching_staff": "日下 博幸",
+      "module": "秋B",
+      "period": "集中",
+      "teaching_staff": "日下 博幸,Melnikova Irina",
       "class_outline": "地球環境科学(特に人文地理学、地誌学、地形学、水文科学、大気科学、空間情報科学、環境動態解析学、水災害科学、海洋大気相互システムに関する分野)において、新しい考え方、新しいツール、新しい関連研究領域に関する話題など、研究上でホットなトピックス、社会的に要請の高いテーマなどの中からテーマを選び、先端科学分野における研究成果をわかりやすく解説する。この授業により、知識と理解力、問題解決能力、創造力の向上を図る。",
-      "remarks": "開催決定・日程掲示後に履修申請。",
+      "remarks": "開催決定・日程掲示後に履修申請。\n12/24-12/25",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -75303,7 +75387,7 @@
       "english_name": "Special Lecture in Geoenvironmental Sciences",
       "subject_code": "0ANC003",
       "requirement_subject_name": "地球環境科学特論",
-      "data_update_date": "2025-12-10 15:30:10",
+      "data_update_date": "2026-10-21 15:12:13",
       "room": ""
     },
     {
@@ -76551,11 +76635,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "通年",
-      "period": "応談",
-      "teaching_staff": "釜江 陽一,植田 宏昭,日下 博幸,ドアン グアン ヴァン",
+      "module": "秋C",
+      "period": "集中",
+      "teaching_staff": "釜江 陽一,植田 宏昭,日下 博幸,ドアン グアン ヴァン,関澤 偲温",
       "class_outline": "大気科学に関する最近のトピックを講義する。内容は、大気境界層、メソ気象、総観気象、気候システム、気候変動などから選択し、それらの研究での実践方法を学ぶ。",
-      "remarks": "開催決定・日程掲示後に履修申請。\n西暦偶数年度開講。",
+      "remarks": "開催決定・日程掲示後に履修申請。\n西暦偶数年度開講。\n2/8-2/9",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -76563,7 +76647,7 @@
       "english_name": "Special Lecture in Atmospheric Sciences II",
       "subject_code": "01AC272",
       "requirement_subject_name": "大気科学特別講義II",
-      "data_update_date": "2026-01-23 09:11:11",
+      "data_update_date": "2026-10-21 15:39:38",
       "room": ""
     },
     {
@@ -85375,7 +85459,7 @@
       "period": "集中",
       "teaching_staff": "長田 友紀,馬場 美佳,石塚 修,島田 康行,橋本 修,吉森 佳奈子,稀代 麻也子,今田 水穂,那須 昭夫,田川 拓海,勝田 光,菊池 そのみ",
       "class_outline": "小学校国語科での授業に必要な国語に関する基礎的な事項を確認したうえで、応用的な知見や技能を身につけることを目標とする。具体的には、小学校での国語科の授業に必要な国語に関する知識・技能の向上をねらう。特に伝統的な言語文化について国文学を中心に取り扱う。また、話すこと・聞くこと・読むこと・書くことなどの国語に関する技能についてもトレーニングしていく。なお、いずれの時間も小学校での実践的な指導や教材化に関する討議を含む。",
-      "remarks": "オンライン(オンデマンド型)",
+      "remarks": "1/6~2/15の間のmanabaで学習する\n1/6-2/15\nオンライン(オンデマンド型)",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -85383,7 +85467,7 @@
       "english_name": "Japanese Language Education for Elementary School",
       "subject_code": "01B2351",
       "requirement_subject_name": "初等国語特論B",
-      "data_update_date": "2026-01-17 19:22:03",
+      "data_update_date": "2026-10-20 14:50:42",
       "room": ""
     },
     {
@@ -92282,7 +92366,7 @@
       "standard_course_year": "1",
       "module": "秋AB",
       "period": "水7\n木6",
-      "teaching_staff": "土屋 輝一郎,斉木 臣二,高田 英俊,五十嵐 都,臼井 丈一,坂田(柳元) 麻実子,鈴木 寿人,村越 伸行,際本 拓未,近藤 裕也,長谷川 直之,保坂 孝史",
+      "teaching_staff": "土屋 輝一郎,斉木 臣二,関谷 元博,高田 英俊,五十嵐 都,臼井 丈一,坂田(柳元) 麻実子,鈴木 寿人,村越 伸行,際本 拓未,近藤 裕也,長谷川 直之,保坂 孝史",
       "class_outline": "内科学、小児科学の概要について、特に成人、小児の基本的疾患について疾患概念、発症機序、診断、治療の概要について学ぶ。\n 目標:成人、小児の基本的疾患についてさまざまな観点から論じることができる。",
       "remarks": "対面",
       "enrollment_application": "",
@@ -92292,7 +92376,7 @@
       "english_name": "Outline of Internal Medicine",
       "subject_code": "01EQ031",
       "requirement_subject_name": "内科学概論",
-      "data_update_date": "2026-07-21 09:24:06",
+      "data_update_date": "2026-10-22 14:06:44",
       "room": ""
     },
     {
@@ -102719,7 +102803,7 @@
       "standard_course_year": "1",
       "module": "秋AB",
       "period": "木2,3",
-      "teaching_staff": "田島 直樹",
+      "teaching_staff": "田島 直樹,日? 衣紅",
       "class_outline": "エッチング・アクアチントの原理を理解し、技法を習得する。合わせて、教材としての版画の指導方法について実践を通して考察する。",
       "remarks": "対面",
       "enrollment_application": "×",
@@ -102729,7 +102813,7 @@
       "english_name": "Studio Work: Printmaking A-2",
       "subject_code": "0ATTD02",
       "requirement_subject_name": "版画制作A-2",
-      "data_update_date": "2025-12-25 15:01:37",
+      "data_update_date": "2026-10-26 16:38:22",
       "room": ""
     },
     {
@@ -102761,7 +102845,7 @@
       "standard_course_year": "1",
       "module": "秋AB",
       "period": "金4,5",
-      "teaching_staff": "田島 直樹",
+      "teaching_staff": "田島 直樹,日? 衣紅",
       "class_outline": "受講者が専門とする版種に関する技法について、これまでとは異なるアプローチから調査・研究・実験制作を通して自己の制作に活かす。",
       "remarks": "対面",
       "enrollment_application": "×",
@@ -102771,7 +102855,7 @@
       "english_name": "Studio Work: Printmaking B-2",
       "subject_code": "0ATTD04",
       "requirement_subject_name": "版画制作B-2",
-      "data_update_date": "2025-12-25 14:59:14",
+      "data_update_date": "2026-10-26 16:39:10",
       "room": ""
     },
     {
@@ -102803,7 +102887,7 @@
       "standard_course_year": "2",
       "module": "秋AB",
       "period": "金4,5",
-      "teaching_staff": "田島 直樹",
+      "teaching_staff": "田島 直樹,日? 衣紅",
       "class_outline": "個別に設定されたテーマによって版種を選び、修了研究に関連した版画の制作研究を行う。また、学外で作品の成果発表を行う。",
       "remarks": "対面",
       "enrollment_application": "×",
@@ -102813,7 +102897,7 @@
       "english_name": "Advanced Studio Works: Printmaking -2",
       "subject_code": "0ATTD12",
       "requirement_subject_name": "版画特別制作-2",
-      "data_update_date": "2025-12-25 14:56:18",
+      "data_update_date": "2026-10-26 16:39:46",
       "room": ""
     },
     {
@@ -105879,7 +105963,7 @@
       "english_name": "Advanced Practice of Heritage Studies",
       "subject_code": "0ATV209",
       "requirement_subject_name": "Advanced Practice of Heritage Studies (市民参加研究演習)",
-      "data_update_date": "2026-10-07 18:00:22",
+      "data_update_date": "2026-10-19 11:48:16",
       "room": ""
     },
     {
@@ -108597,11 +108681,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1",
-      "module": "秋C",
+      "module": "秋B",
       "period": "集中",
       "teaching_staff": "佐藤 貴弘",
       "class_outline": "高度にグローバル化した今日、文化の違いに起因する問題も多い。本授業では、異文化に対する意識、異文化コミュニケーション、異文化交流等、異文化にまつわる種々の問題の疑似体験やプレゼンテーション、ディスカッションを通して、多文化の環境において、自ら行動指針を決定し解決策を創出するためのスキルを修得する。",
-      "remarks": "鹿屋開設科目。<鹿屋>国重 徹、石原 豊一、ヨーコ ゼッターランド\n英語で授業。\nオンライン(同時双方向型)\nWebexで実施。スポーツ国際開発学共同専攻学生のみ履修可。",
+      "remarks": "鹿屋開設科目。<鹿屋>国重 徹、石原 豊一、ヨーコ ゼッターランド\n英語で授業。\n12/11,12/16,12/18\nオンライン(同時双方向型)\nWebexで実施。スポーツ国際開発学共同専攻学生のみ履修可。",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -108609,7 +108693,7 @@
       "english_name": "Intercultural Exchange and Communication",
       "subject_code": "0AVA317",
       "requirement_subject_name": "Intercultural Exchange and Communication(異文化交流・コミュニケーション)",
-      "data_update_date": "2026-01-19 19:29:47",
+      "data_update_date": "2026-10-26 11:27:01",
       "room": ""
     },
     {
@@ -110953,7 +111037,7 @@
       "period": "集中",
       "teaching_staff": "滝沢 誠,前田 修,板橋 悠,谷口 陽子",
       "class_outline": "発掘調査や測量調査などのフィールドワークに主導的な立場で参加する。調査計画の立案から調査の円滑な遂行、調査成果の取りまとめまでの一連の方法を修得することを目標とする。あわせて、フィールドワークに参加している博士前期課程の大学院生及び学群生を指導し、調査指導者として必要な実践的能力を養うことを目標とする。",
-      "remarks": "対面",
+      "remarks": "11/30-12/19\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -111612,7 +111696,7 @@
       "english_name": "Dissertation Proposal Seminar II",
       "subject_code": "0BBAJB2",
       "requirement_subject_name": "博士論文プロポーザル演習II",
-      "data_update_date": "2025-12-18 11:48:26",
+      "data_update_date": "2026-10-30 20:48:29",
       "room": ""
     },
     {
@@ -124181,7 +124265,7 @@
       "standard_course_year": "1 - 3",
       "module": "秋ABC",
       "period": "随時",
-      "teaching_staff": "浦田 淳司,川島 宏一,飛田 幹男,讃井 知,長谷部 浩二",
+      "teaching_staff": "浦田 淳司,飛田 幹男,讃井 知,長谷部 浩二,梅本 通孝",
       "class_outline": "国内外研究者・企業・自治体などによる数理・データサイエンス・AI分野(MDA分野)の最新の動向に関する専門家によるオムニバス授業を実施し、最近の重要課題について講述する。MDAを活用し、学際的な他分野との融合も通じて、問題解決やイノベーション行う能力を養うことを狙いとする。",
       "remarks": "",
       "enrollment_application": "",
@@ -124191,7 +124275,7 @@
       "english_name": "MDA Interdisciplinary Integrated Seminar",
       "subject_code": "0BL0000",
       "requirement_subject_name": "MDA異分野融合ゼミナール",
-      "data_update_date": "2026-08-03 04:16:34",
+      "data_update_date": "2026-10-30 10:59:42",
       "room": ""
     },
     {
@@ -124202,7 +124286,7 @@
       "standard_course_year": "1 - 3",
       "module": "通年",
       "period": "随時",
-      "teaching_staff": "飛田 幹男,川島 宏一,浦田 淳司,讃井 知",
+      "teaching_staff": "飛田 幹男,川島 宏一,浦田 淳司,讃井 知,梅本 通孝",
       "class_outline": "企業・行政・研究機関等(以下「企業等」という。)が抱える現実課題の解決や企業等が有するデータの活用に関する共同研究またはインターンシップ、あるいは教員の共同研究先との共同研究またはインターンシップを通して、課題解決にデータを活用できる実践的な力を養う。",
       "remarks": "",
       "enrollment_application": "",
@@ -124212,7 +124296,7 @@
       "english_name": "MDA Advanced Project Research",
       "subject_code": "0BL0001",
       "requirement_subject_name": "MDA後期プロジェクト研究",
-      "data_update_date": "2026-08-03 04:16:34",
+      "data_update_date": "2026-10-30 10:58:54",
       "room": ""
     },
     {
@@ -124221,9 +124305,9 @@
       "method": "3",
       "credits": "2.0",
       "standard_course_year": "1 - 3",
-      "module": "通年",
+      "module": "春ABC\n秋ABC",
       "period": "随時",
-      "teaching_staff": "讃井 知,川島 宏一,飛田 幹男,浦田 淳司",
+      "teaching_staff": "讃井 知,川島 宏一,飛田 幹男,浦田 淳司\n讃井 知,川島 宏一,飛田 幹男,浦田 淳司,梅本 通孝",
       "class_outline": "データサイエンス関連で、国外の研究機関との共同研究、海外企業でのインターンシップ等を実施し、世界レベルでの最先端のデータ解析能力を習得し、様々な知識を融合しながらその能力を実践できる能力を向上させる。",
       "remarks": "",
       "enrollment_application": "",
@@ -124233,7 +124317,7 @@
       "english_name": "MDA Advanced Research Study Abroad",
       "subject_code": "0BL0002",
       "requirement_subject_name": "MDA後期研究留学",
-      "data_update_date": "2026-08-03 04:16:34",
+      "data_update_date": "2026-10-30 10:58:25",
       "room": ""
     },
     {
@@ -124254,7 +124338,7 @@
       "english_name": "MDA Special Exercise for Top-level Human Resource Development",
       "subject_code": "0BL0003",
       "requirement_subject_name": "MDAトップ人材養成特別演習",
-      "data_update_date": "2026-08-03 04:16:34",
+      "data_update_date": "2026-10-30 10:56:47",
       "room": ""
     },
     {
@@ -128463,11 +128547,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "1・2",
-      "module": "通年",
-      "period": "応談",
-      "teaching_staff": "釜江 陽一,植田 宏昭,日下 博幸,ドアン グアン ヴァン",
+      "module": "秋C",
+      "period": "集中",
+      "teaching_staff": "釜江 陽一,植田 宏昭,日下 博幸,ドアン グアン ヴァン,関澤 偲温",
       "class_outline": "大気科学は空間的には地表付近の天候の変化から対流圏の気象、成層圏のオゾンホールの研究、超高層大気のオーロラに至るまで多岐にわたる。空間スケールでは、地球を取り巻く大気大循環研究から、温帯低気圧、台風、集中豪雨、都市気候に至るスケールをカバーし、時間スケールでは、過去46億年の歴史から現在気候、将来の温暖化に至るまでをカバーする。本講義では大気科学に関する最近のトピックIIを講義する。",
-      "remarks": "開催決定・日程掲示後に履修申請。\n西暦偶数年度開講。",
+      "remarks": "開催決定・日程掲示後に履修申請。\n西暦偶数年度開講。\n2/8-2/9",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -128475,7 +128559,7 @@
       "english_name": "Special Lecture in Atmospheric Sciences II",
       "subject_code": "01AC272",
       "requirement_subject_name": "大気科学特別講義II",
-      "data_update_date": "2026-01-23 09:16:37",
+      "data_update_date": "2026-10-21 15:42:03",
       "room": ""
     },
     {
@@ -140508,7 +140592,7 @@
       "english_name": "First Year Seminar",
       "subject_code": "1101102",
       "requirement_subject_name": "フレッシュマン・セミナー",
-      "data_update_date": "2026-01-13 09:10:43",
+      "data_update_date": "2026-10-30 21:29:15",
       "room": ""
     },
     {
@@ -142881,7 +142965,7 @@
       "english_name": "Introduction to diversity & inclusion",
       "subject_code": "1226181",
       "requirement_subject_name": "ダイバーシティ&インクルージョン入門",
-      "data_update_date": "2026-09-30 15:49:24",
+      "data_update_date": "2026-10-19 10:43:43",
       "room": ""
     },
     {
@@ -142986,7 +143070,7 @@
       "english_name": "Fieldwork for co-creating harmonious future (B)",
       "subject_code": "1226223",
       "requirement_subject_name": "地球社会共創実習B",
-      "data_update_date": "2026-07-07 12:13:45",
+      "data_update_date": "2026-10-30 15:56:38",
       "room": ""
     },
     {
@@ -143238,7 +143322,7 @@
       "english_name": "Invitation to Arts and Sciences",
       "subject_code": "1227011",
       "requirement_subject_name": "学問への誘い",
-      "data_update_date": "2026-04-06 17:27:56",
+      "data_update_date": "2026-10-30 21:29:38",
       "room": ""
     },
     {
@@ -145821,7 +145905,7 @@
       "english_name": "Introduction to International Studies III",
       "subject_code": "1F05014",
       "requirement_subject_name": "国際学を学ぶIII",
-      "data_update_date": "2026-04-13 15:30:55",
+      "data_update_date": "2026-10-21 13:54:58",
       "room": ""
     },
     {
@@ -152566,27 +152650,6 @@
       "room": ""
     },
     {
-      "class_id": "2857343",
-      "name": "ポタツーリング",
-      "method": "3",
-      "credits": "0.5",
-      "standard_course_year": "1 - 4",
-      "module": "夏季休業中",
-      "period": "集中",
-      "teaching_staff": "福田 崇",
-      "class_outline": "ポタツーリングとは、「自転車で安全にのんびりと長く走る」という意味である。本授業では、風を切る爽快さを感じながら自転車に乗ること、時には目的地にまで電車で移動をして、そこから自転車で散策をする。",
-      "remarks": "フロントとリアのタイヤを外すことができる自転車を受講生で用意する必要がある。オリエンテーション時に購入アドバイスを行う。これからスポーツバイクに乗りたい初・中級者が対象。\n9/9-9/11\n実務経験教員\n対面\nG科目\n詳細後日周知\n自転車(クロスバイク)はレンタルします。自分の自転車を持ち込む際には要相談。これからスポーツバイクに乗りたい初・中級者が対象。 対面 G科目 詳細後日周知 受講を希望する学生は、オリエンテーションに必ず出席してください。詳細は、体育センターHPで確認してください。受講を希望する学生は、オリエンテーションに必ず出席してください。詳細は、体育センターHPで確認してください。",
-      "enrollment_application": "×",
-      "enrollment_requirements": "",
-      "short_term_students_application": "×",
-      "short_term_students_requirements": "",
-      "english_name": "Potter-touring",
-      "subject_code": "2857343",
-      "requirement_subject_name": "ポタツーリング",
-      "data_update_date": "2026-01-30 11:51:29",
-      "room": ""
-    },
-    {
       "class_id": "2859352",
       "name": "ラグビー精神と文化",
       "method": "2",
@@ -154822,7 +154885,7 @@
       "period": "集中",
       "teaching_staff": "イスマイロフ ムロド",
       "class_outline": "「一般学術目的の英語」の枠組みで、実践的リーディング方略を中心に学ぶことができる。これにより、言語としての英語を深く理解するとともに、大学生として学術的及び学際的素養を養い、思考力・判断力・表現力を向上させることができる。",
-      "remarks": "2019年度以降入学者対象 再履修者用クラス 人数制限あり 先着順\n詳細後日周知\nG科目\nオンライン(オンデマンド型)\n原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。開講当該年度の卒業予定者は履修不可。1年次学生は、再履修学生、当該年度秋学期入学者のみ履修可。",
+      "remarks": "2019年度以降入学者対象 再履修者用クラス 人数制限あり 先着順\n2/17-2/19\n詳細後日周知\nG科目\nオンライン(オンデマンド型)\n原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。開講当該年度の卒業予定者は履修不可。1年次学生は、再履修学生、当該年度秋学期入学者のみ履修可。",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -156397,7 +156460,7 @@
       "period": "集中",
       "teaching_staff": "末森 咲",
       "class_outline": "「一般学術目的の英語」の枠組みで、国際的学術交流を目標とした実践的コミュニケーション・スキルを学ぶことができる。プレゼンテーションやディスカッションを中心にインプットとアウトプットの両面から、未知への気付きや理解を養うことができる。教授言語は主に英語。",
-      "remarks": "2019年度以降入学者対象 再履修者用クラス 人数制限あり 先着順\n詳細後日周知\nG科目\nオンライン(オンデマンド型)\n原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。開講当該年度の卒業予定者は履修不可。1年次学生は、再履修学生、当該年度秋学期入学者のみ履修可。",
+      "remarks": "2019年度以降入学者対象 再履修者用クラス 人数制限あり 先着順\n2/17-2/19\n詳細後日周知\nG科目\nオンライン(オンデマンド型)\n原則としてオンライン(オンデマンド)とする。但し、状況に応じて、同時双方向型のオンライン授業を併用する。開講当該年度の卒業予定者は履修不可。1年次学生は、再履修学生、当該年度秋学期入学者のみ履修可。",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -159921,11 +159984,11 @@
       "method": "2",
       "credits": "1.0",
       "standard_course_year": "1",
-      "module": "秋C",
-      "period": "月5,6",
-      "teaching_staff": "カネマツ ゲブ クルガノワ ニーナ",
+      "module": "",
+      "period": "",
+      "teaching_staff": "",
       "class_outline": "A・Bモジュールで学んだ語彙・表現を活用したプロジェクト型学習を行う。学んだことを単に繰り返すのではなく、自分の言葉で表現する力を育成する。参加者は「祭り」「名所」「余暇」などをテーマに、グループで調査・比較を行い、ドイツと日本の文化を紹介するプロジェクトに関わる。最終成果物として、観光ガイド風ポスター/スライド/短い観光動画の作成を目指す。",
-      "remarks": "全学群対象 選択必修クラスの単位に代替することはできない。原則、「基礎ドイツ語」AIIまたは\nBIIの履修者に限る。主にドイツ語で授業を行います。英語での対応可能。\nG科目\n対面(オンライン併用型)",
+      "remarks": "全学群対象 選択必修クラスの単位に代替することはできない。原則、「基礎ドイツ語」AIIまたはBIIの履修者に限る。主にドイツ語で授業を行います。英語での対応可能。\n2026年度開講せず。\nG科目\n対面(オンライン併用型)",
       "enrollment_application": "△",
       "enrollment_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
       "short_term_students_application": "△",
@@ -159933,7 +159996,7 @@
       "english_name": "Practical German B",
       "subject_code": "3270012",
       "requirement_subject_name": "実践ドイツ語B",
-      "data_update_date": "2026-02-17 10:24:40",
+      "data_update_date": "2026-10-29 11:25:05",
       "room": ""
     },
     {
@@ -159963,11 +160026,11 @@
       "method": "2",
       "credits": "1.0",
       "standard_course_year": "2",
-      "module": "秋C",
-      "period": "火5,6",
-      "teaching_staff": "カネマツ ゲブ クルガノワ ニーナ",
+      "module": "",
+      "period": "",
+      "teaching_staff": "",
       "class_outline": "A・Bモジュールで学んだ語彙・表現を活用したプロジェクト型学習を行う。学んだことを単に繰り返すのではなく、自分の言葉で表現する力を育成する。参加者は仕事や職業に関する語彙・表現を用いて、自分の価値観や理想の働き方を整理してまとめる。グループ討論や調査、比較分析を行い、ポスターやプレゼンテーションで発表する。",
-      "remarks": "全学群対象 選択必修クラスの単位に代替することはできない。原則、「ドイツ語圏の言語と文化」AまたはBの履修者に限る。主にドイツ語で授業を行います。英語での対応可能。\nG科目\n対面(オンライン併用型)",
+      "remarks": "全学群対象 選択必修クラスの単位に代替することはできない。原則、「ドイツ語圏の言語と文化」AまたはBの履修者に限る。主にドイツ語で授業を行います。英語での対応可能。\n2026年度開講せず。\nG科目\n対面(オンライン併用型)",
       "enrollment_application": "△",
       "enrollment_requirements": "受講前に授業担当教員に連絡し受講許可を得る事",
       "short_term_students_application": "△",
@@ -168270,7 +168333,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2025-01-16 11:25:00",
+      "data_update_date": "2026-10-23 18:22:31",
       "room": ""
     },
     {
@@ -168291,7 +168354,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2026-02-03 11:24:06",
+      "data_update_date": "2026-10-23 18:23:01",
       "room": ""
     },
     {
@@ -168312,7 +168375,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2025-01-16 11:25:01",
+      "data_update_date": "2026-10-23 18:17:17",
       "room": ""
     },
     {
@@ -168333,7 +168396,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2025-01-16 11:25:01",
+      "data_update_date": "2026-10-23 18:24:58",
       "room": ""
     },
     {
@@ -168417,7 +168480,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2026-03-17 12:05:28",
+      "data_update_date": "2026-10-23 18:25:33",
       "room": ""
     },
     {
@@ -168438,7 +168501,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2026-02-03 11:24:53",
+      "data_update_date": "2026-10-23 18:26:21",
       "room": ""
     },
     {
@@ -168459,7 +168522,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2025-01-16 11:25:02",
+      "data_update_date": "2026-10-23 18:26:52",
       "room": ""
     },
     {
@@ -168501,7 +168564,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2025-12-09 18:21:15",
+      "data_update_date": "2026-10-23 18:27:27",
       "room": ""
     },
     {
@@ -168564,7 +168627,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2025-01-16 11:25:05",
+      "data_update_date": "2026-10-23 18:27:55",
       "room": ""
     },
     {
@@ -168606,7 +168669,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2026-02-03 11:25:25",
+      "data_update_date": "2026-10-23 18:28:31",
       "room": ""
     },
     {
@@ -168690,7 +168753,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2026-02-03 11:26:44",
+      "data_update_date": "2026-10-23 18:29:15",
       "room": ""
     },
     {
@@ -168711,7 +168774,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2025-01-16 11:25:08",
+      "data_update_date": "2026-10-23 18:29:37",
       "room": ""
     },
     {
@@ -168732,7 +168795,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2026-01-19 12:00:00",
+      "data_update_date": "2026-10-23 18:30:10",
       "room": ""
     },
     {
@@ -168774,7 +168837,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2026-03-17 12:05:28",
+      "data_update_date": "2026-10-23 18:30:35",
       "room": ""
     },
     {
@@ -168795,7 +168858,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2025-01-16 11:25:09",
+      "data_update_date": "2026-10-23 18:30:55",
       "room": ""
     },
     {
@@ -168816,7 +168879,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2026-03-17 12:05:28",
+      "data_update_date": "2026-10-23 18:31:08",
       "room": ""
     },
     {
@@ -168837,7 +168900,7 @@
       "english_name": "Japanese Language I",
       "subject_code": "5101011",
       "requirement_subject_name": "国語I",
-      "data_update_date": "2026-03-06 14:54:19",
+      "data_update_date": "2026-10-23 19:12:02",
       "room": ""
     },
     {
@@ -168879,7 +168942,7 @@
       "english_name": "Japanese Language II",
       "subject_code": "5201011",
       "requirement_subject_name": "国語II",
-      "data_update_date": "2026-02-03 11:27:25",
+      "data_update_date": "2026-10-23 18:31:58",
       "room": ""
     },
     {
@@ -168921,7 +168984,7 @@
       "english_name": "Japanese Language II",
       "subject_code": "5201011",
       "requirement_subject_name": "国語II",
-      "data_update_date": "2025-01-16 11:25:11",
+      "data_update_date": "2026-10-23 18:32:38",
       "room": ""
     },
     {
@@ -169110,7 +169173,7 @@
       "english_name": "Japanese Language II",
       "subject_code": "5201011",
       "requirement_subject_name": "国語II",
-      "data_update_date": "2025-01-16 11:25:15",
+      "data_update_date": "2026-10-23 18:33:05",
       "room": ""
     },
     {
@@ -169152,7 +169215,7 @@
       "english_name": "Japanese Language II",
       "subject_code": "5201011",
       "requirement_subject_name": "国語II",
-      "data_update_date": "2025-01-16 11:25:16",
+      "data_update_date": "2026-10-23 18:33:34",
       "room": ""
     },
     {
@@ -169173,7 +169236,7 @@
       "english_name": "Japanese Language II",
       "subject_code": "5201011",
       "requirement_subject_name": "国語II",
-      "data_update_date": "2025-01-16 11:25:16",
+      "data_update_date": "2026-10-23 19:15:46",
       "room": ""
     },
     {
@@ -169593,7 +169656,7 @@
       "english_name": "Information Literacy(Lectures)",
       "subject_code": "6101101",
       "requirement_subject_name": "情報処理(講義)",
-      "data_update_date": "2026-01-20 11:00:24",
+      "data_update_date": "2026-10-20 13:29:48",
       "room": ""
     },
     {
@@ -169614,7 +169677,7 @@
       "english_name": "Information Literacy(Lectures)",
       "subject_code": "6101101",
       "requirement_subject_name": "情報処理(講義)",
-      "data_update_date": "2026-01-20 11:01:32",
+      "data_update_date": "2026-10-20 13:30:28",
       "room": ""
     },
     {
@@ -169635,7 +169698,7 @@
       "english_name": "Information Literacy(Lectures)",
       "subject_code": "6101101",
       "requirement_subject_name": "情報処理(講義)",
-      "data_update_date": "2026-01-20 11:01:50",
+      "data_update_date": "2026-10-20 13:30:48",
       "room": ""
     },
     {
@@ -169656,7 +169719,7 @@
       "english_name": "Information Literacy(Lectures)",
       "subject_code": "6101101",
       "requirement_subject_name": "情報処理(講義)",
-      "data_update_date": "2026-01-20 11:02:06",
+      "data_update_date": "2026-10-20 13:31:09",
       "room": ""
     },
     {
@@ -169677,7 +169740,7 @@
       "english_name": "Information Literacy(Lectures)",
       "subject_code": "6101101",
       "requirement_subject_name": "情報処理(講義)",
-      "data_update_date": "2026-01-20 11:02:23",
+      "data_update_date": "2026-10-20 13:31:29",
       "room": ""
     },
     {
@@ -169698,7 +169761,7 @@
       "english_name": "Information Literacy(Lectures)",
       "subject_code": "6101101",
       "requirement_subject_name": "情報処理(講義)",
-      "data_update_date": "2026-01-20 11:02:41",
+      "data_update_date": "2026-10-20 13:31:47",
       "room": ""
     },
     {
@@ -169719,7 +169782,7 @@
       "english_name": "Information Literacy(Lectures)",
       "subject_code": "6101101",
       "requirement_subject_name": "情報処理(講義)",
-      "data_update_date": "2026-01-20 11:02:56",
+      "data_update_date": "2026-10-20 13:32:08",
       "room": ""
     },
     {
@@ -169740,7 +169803,7 @@
       "english_name": "Information Literacy(Lectures)",
       "subject_code": "6101101",
       "requirement_subject_name": "情報処理(講義)",
-      "data_update_date": "2026-01-20 11:03:16",
+      "data_update_date": "2026-10-20 13:32:26",
       "room": ""
     },
     {
@@ -169761,7 +169824,7 @@
       "english_name": "Information Literacy(Lectures)",
       "subject_code": "6101101",
       "requirement_subject_name": "情報処理(講義)",
-      "data_update_date": "2026-01-20 11:03:37",
+      "data_update_date": "2026-10-20 13:32:45",
       "room": ""
     },
     {
@@ -172932,28 +172995,7 @@
       "english_name": "Problem solving through multicultural co-learning (in Japan) A",
       "subject_code": "8331153",
       "requirement_subject_name": "多文化共修による課題解決実習(国内)A",
-      "data_update_date": "2026-09-30 14:00:59",
-      "room": ""
-    },
-    {
-      "class_id": "8331163",
-      "name": "多文化共修による課題解決実習(国内)B",
-      "method": "3",
-      "credits": "1.0",
-      "standard_course_year": "1 - 4",
-      "module": "秋学期",
-      "period": "随時",
-      "teaching_staff": "福嶋 美佐子",
-      "class_outline": "秋学期ないし春季休業期間に国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人学生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。",
-      "remarks": "履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。",
-      "enrollment_application": "×",
-      "enrollment_requirements": "",
-      "short_term_students_application": "×",
-      "short_term_students_requirements": "",
-      "english_name": "Problem solving through multicultural co-learning (in Japan) B",
-      "subject_code": "8331163",
-      "requirement_subject_name": "多文化共修による課題解決実習(国内)B",
-      "data_update_date": "2026-09-30 14:01:17",
+      "data_update_date": "2026-10-20 15:56:11",
       "room": ""
     },
     {
@@ -172974,28 +173016,7 @@
       "english_name": "Problem solving through multicultural co-learning (overseas) A",
       "subject_code": "8331173",
       "requirement_subject_name": "多文化共修による課題解決実習(海外)A",
-      "data_update_date": "2026-09-30 14:04:30",
-      "room": ""
-    },
-    {
-      "class_id": "8331183",
-      "name": "多文化共修による課題解決実習(海外)B",
-      "method": "3",
-      "credits": "1.0",
-      "standard_course_year": "1 - 4",
-      "module": "秋学期",
-      "period": "随時",
-      "teaching_staff": "福嶋 美佐子",
-      "class_outline": "海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。",
-      "remarks": "履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。",
-      "enrollment_application": "×",
-      "enrollment_requirements": "",
-      "short_term_students_application": "×",
-      "short_term_students_requirements": "",
-      "english_name": "Problem solving through multicultural co-learning (overseas) B",
-      "subject_code": "8331183",
-      "requirement_subject_name": "多文化共修による課題解決実習(海外)B",
-      "data_update_date": "2026-09-30 14:04:48",
+      "data_update_date": "2026-10-20 15:56:52",
       "room": ""
     },
     {
@@ -173079,7 +173100,7 @@
       "english_name": "Problem solving through multicultural co-learning (in Japan) I-A",
       "subject_code": "8331303",
       "requirement_subject_name": "多文化共修による課題解決実習(国内)I-A",
-      "data_update_date": "2026-10-14 10:08:30",
+      "data_update_date": "2026-10-20 15:57:28",
       "room": ""
     },
     {
@@ -173100,28 +173121,7 @@
       "english_name": "Problem solving through multicultural co-learning (in Japan) I-B",
       "subject_code": "8331353",
       "requirement_subject_name": "多文化共修による課題解決実習(国内)I-B",
-      "data_update_date": "2026-10-14 10:09:29",
-      "room": ""
-    },
-    {
-      "class_id": "8331363",
-      "name": "多文化共修による課題解決実習(国内)II-B",
-      "method": "3",
-      "credits": "1.0",
-      "standard_course_year": "1 - 4",
-      "module": "秋学期",
-      "period": "応談",
-      "teaching_staff": "福嶋 美佐子,MENA Aaron,LIU Soraya",
-      "class_outline": "秋学期ないし春季休業期間に国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人学生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。",
-      "remarks": "履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。 成績確定は、学期末になることに注意。(多文化共修・推進企画会議企画)\n対面",
-      "enrollment_application": "×",
-      "enrollment_requirements": "",
-      "short_term_students_application": "×",
-      "short_term_students_requirements": "",
-      "english_name": "Problem solving through multicultural co-learning (in Japan) II-B",
-      "subject_code": "8331363",
-      "requirement_subject_name": "多文化共修による課題解決実習(国内)II-B",
-      "data_update_date": "2026-10-14 10:13:15",
+      "data_update_date": "2026-10-27 10:48:35",
       "room": ""
     },
     {
@@ -173142,7 +173142,28 @@
       "english_name": "Problem solving through multicultural co-learning (overseas) I-A",
       "subject_code": "8331403",
       "requirement_subject_name": "多文化共修による課題解決実習(海外)I-A",
-      "data_update_date": "2026-10-14 10:09:56",
+      "data_update_date": "2026-10-20 15:59:22",
+      "room": ""
+    },
+    {
+      "class_id": "8331413",
+      "name": "多文化共修による課題解決実習(海外)II-A",
+      "method": "3",
+      "credits": "1.0",
+      "standard_course_year": "1 - 4",
+      "module": "春学期",
+      "period": "応談",
+      "teaching_staff": "福嶋 美佐子,MENA Aaron,LIU Soraya",
+      "class_outline": "春学期ないし夏季休業期間に海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。",
+      "remarks": "履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。",
+      "enrollment_application": "×",
+      "enrollment_requirements": "",
+      "short_term_students_application": "×",
+      "short_term_students_requirements": "",
+      "english_name": "Problem solving through multicultural co-learning (overseas) II-A",
+      "subject_code": "8331413",
+      "requirement_subject_name": "多文化共修による課題解決実習(海外)II-A",
+      "data_update_date": "2026-10-28 11:43:58",
       "room": ""
     },
     {
@@ -173153,7 +173174,7 @@
       "standard_course_year": "1 - 4",
       "module": "秋学期",
       "period": "随時",
-      "teaching_staff": "福嶋 美佐子,朝倉 雅史,田中 怜,松原 康介,森尾 貴広,MENA Aaron,LIU Soraya,ゲオンゾン レスター カンケ",
+      "teaching_staff": "福嶋 美佐子,朝倉 雅史,田中 怜,松原 康介,森尾 貴広,MENA Aaron,LIU Soraya,ゲオンゾン レスター カンケ,入江 賢児,石賀 康博",
       "class_outline": "秋学期ないし春季休業期間に海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。",
       "remarks": "履修登録の方法は担当教員の指示に従うこと。学生側から登録できないので注意。(多文化共修・推進企画会議企画) 成績確定は、学期末になることに注意。",
       "enrollment_application": "×",
@@ -173163,7 +173184,7 @@
       "english_name": "Problem solving through multicultural co-learning (overseas) I-B",
       "subject_code": "8331453",
       "requirement_subject_name": "多文化共修による課題解決実習(海外)I-B",
-      "data_update_date": "2026-10-14 10:10:15",
+      "data_update_date": "2026-10-21 13:41:57",
       "room": ""
     },
     {
@@ -173218,7 +173239,7 @@
       "period": "集中",
       "teaching_staff": "三田部 勇",
       "class_outline": "介護等体験の制度と趣旨及び目的を概説する。体験の実施先である特別支援学校及び社会福祉施設における教育や介助・介護の実際と守るべきマナー等について概説する。",
-      "remarks": "【1年次生及び介護等体験事前指導未受講者対象】 介護等の体験を行なうための事前指導の科目(小学校・中学校の免許状を取得しようとする者は必修) 平成30年度以前入学者の「教科又は教職に関する科目」に対応し、平成31年度以降入学者の「大学が独自に設定する科目」に対応する\n対面",
+      "remarks": "【1年次生及び介護等体験事前指導未受講者対象】 介護等の体験を行なうための事前指導の科目(小学校・中学校の免許状を取得しようとする者は必修) 平成30年度以前入学者の「教科又は教職に関する科目」に対応し、平成31年度以降入学者の「大学が独自に設定する科目」に対応する\n2/18,2/19\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -173226,7 +173247,7 @@
       "english_name": "Lecture on Care Experiences for Person with Handicap",
       "subject_code": "9004001",
       "requirement_subject_name": "介護等体験の意義",
-      "data_update_date": "2025-10-16 10:09:33",
+      "data_update_date": "2026-10-21 08:45:31",
       "room": ""
     },
     {
@@ -181311,7 +181332,7 @@
       "english_name": "Akkadian Reading III-a",
       "subject_code": "AB72C52",
       "requirement_subject_name": "古代西アジア史文献学III-a",
-      "data_update_date": "2026-03-23 17:54:09",
+      "data_update_date": "2026-10-21 08:35:21",
       "room": ""
     },
     {
@@ -181332,7 +181353,7 @@
       "english_name": "Akkadian Reading III-b",
       "subject_code": "AB72C62",
       "requirement_subject_name": "古代西アジア史文献学III-b",
-      "data_update_date": "2026-03-23 17:54:24",
+      "data_update_date": "2026-10-21 08:35:51",
       "room": ""
     },
     {
@@ -183550,7 +183571,7 @@
       "period": "集中",
       "teaching_staff": "滝沢 誠,前田 修,新井 才二",
       "class_outline": "約1週間の野外実習を行う。受講生は、定められた実習期間のうち必要な日数分の野外実習に参加する。",
-      "remarks": "2026年度より3年おき開講。\n含野外調査\n対面",
+      "remarks": "2026年度より3年おき開講。\n11/30-12/16\n含野外調査\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -188577,7 +188598,7 @@
       "english_name": "Introduction to German Literature and Culture",
       "subject_code": "AC50B51",
       "requirement_subject_name": "ドイツ語圏文学・文化概論",
-      "data_update_date": "2026-02-02 14:29:02",
+      "data_update_date": "2026-10-20 13:58:57",
       "room": ""
     },
     {
@@ -188682,7 +188703,7 @@
       "english_name": "Introduction to Cultural Geography",
       "subject_code": "AC50E41",
       "requirement_subject_name": "文化地理学概論",
-      "data_update_date": "2025-12-15 13:53:32",
+      "data_update_date": "2026-10-28 14:42:40",
       "room": ""
     },
     {
@@ -188724,7 +188745,7 @@
       "english_name": "Introduction to Culture and Creativity",
       "subject_code": "AC50F31",
       "requirement_subject_name": "文化創造論概論",
-      "data_update_date": "2025-12-17 16:03:40",
+      "data_update_date": "2026-10-23 10:13:02",
       "room": ""
     },
     {
@@ -188766,7 +188787,7 @@
       "english_name": "Introduction to Advanced Studies in Culture",
       "subject_code": "AC50G01",
       "requirement_subject_name": "先端文化学概論",
-      "data_update_date": "2025-12-15 13:54:03",
+      "data_update_date": "2026-10-23 15:31:26",
       "room": ""
     },
     {
@@ -188934,7 +188955,7 @@
       "english_name": "Introductory Seminar in Anglo-American and European Studies I",
       "subject_code": "AC51602",
       "requirement_subject_name": "英米・ヨーロッパ領域専門導入基礎演習I",
-      "data_update_date": "2026-09-17 19:32:22",
+      "data_update_date": "2026-10-21 20:30:11",
       "room": ""
     },
     {
@@ -188997,7 +189018,7 @@
       "english_name": "Introductory Seminar in Field Studies II",
       "subject_code": "AC51652",
       "requirement_subject_name": "フィールド文化領域専門導入基礎演習II",
-      "data_update_date": "2025-12-06 18:25:31",
+      "data_update_date": "2026-10-28 14:47:52",
       "room": ""
     },
     {
@@ -189060,7 +189081,7 @@
       "english_name": "Introductory Seminar in Cultural and Social Sciences I",
       "subject_code": "AC51722",
       "requirement_subject_name": "文化科学領域専門導入基礎演習I",
-      "data_update_date": "2025-10-21 12:02:08",
+      "data_update_date": "2026-10-27 14:36:37",
       "room": ""
     },
     {
@@ -189081,7 +189102,7 @@
       "english_name": "Introductory Seminar in Cultural and Social Sciences II",
       "subject_code": "AC51732",
       "requirement_subject_name": "文化科学領域専門導入基礎演習II",
-      "data_update_date": "2025-12-09 09:53:41",
+      "data_update_date": "2026-10-21 17:32:42",
       "room": ""
     },
     {
@@ -189396,7 +189417,7 @@
       "english_name": "German for Specialized Subjects",
       "subject_code": "AC54022",
       "requirement_subject_name": "専門ドイツ語",
-      "data_update_date": "2026-09-04 15:59:32",
+      "data_update_date": "2026-10-20 14:02:23",
       "room": ""
     },
     {
@@ -189921,7 +189942,7 @@
       "english_name": "Studies in Comparative Culture: Cultural and Social Sciences",
       "subject_code": "AC56051",
       "requirement_subject_name": "文化科学領域比較文化研究",
-      "data_update_date": "2026-09-14 09:41:30",
+      "data_update_date": "2026-10-26 10:42:58",
       "room": ""
     },
     {
@@ -191748,7 +191769,7 @@
       "english_name": "German Literature and Culture I",
       "subject_code": "AC61E61",
       "requirement_subject_name": "ドイツ語圏文学・文化論I",
-      "data_update_date": "2025-10-06 11:19:34",
+      "data_update_date": "2026-10-20 14:00:11",
       "room": ""
     },
     {
@@ -191769,7 +191790,7 @@
       "english_name": "German Literature and Culture II",
       "subject_code": "AC61E71",
       "requirement_subject_name": "ドイツ語圏文学・文化論II",
-      "data_update_date": "2025-10-15 19:29:34",
+      "data_update_date": "2026-10-20 14:00:37",
       "room": ""
     },
     {
@@ -191790,7 +191811,7 @@
       "english_name": "Seminar in German-Japanese Translation I",
       "subject_code": "AC61F02",
       "requirement_subject_name": "ドイツ語翻訳演習I",
-      "data_update_date": "2025-10-03 20:30:55",
+      "data_update_date": "2026-10-20 13:57:35",
       "room": ""
     },
     {
@@ -191811,7 +191832,7 @@
       "english_name": "Seminar in German-Japanese Translation II",
       "subject_code": "AC61F12",
       "requirement_subject_name": "ドイツ語翻訳演習II",
-      "data_update_date": "2025-10-03 20:31:23",
+      "data_update_date": "2026-10-20 13:57:59",
       "room": ""
     },
     {
@@ -192630,7 +192651,7 @@
       "english_name": "Anglo-American and European Studies: Special Topics III",
       "subject_code": "AC61N81",
       "requirement_subject_name": "英米・ヨーロッパ領域特論III",
-      "data_update_date": "2025-10-08 12:26:30",
+      "data_update_date": "2026-10-23 15:42:30",
       "room": ""
     },
     {
@@ -192756,7 +192777,7 @@
       "english_name": "Seminar in Cultural Anthropology III",
       "subject_code": "AC62A62",
       "requirement_subject_name": "文化人類学研究演習III",
-      "data_update_date": "2026-01-14 21:18:01",
+      "data_update_date": "2026-10-23 15:28:58",
       "room": ""
     },
     {
@@ -192945,7 +192966,7 @@
       "english_name": "Culture in Middle East and Central Asia I",
       "subject_code": "AC62C01",
       "requirement_subject_name": "中東・中央アジア文化研究I",
-      "data_update_date": "2026-01-14 21:19:28",
+      "data_update_date": "2026-10-23 15:29:40",
       "room": ""
     },
     {
@@ -193281,7 +193302,7 @@
       "english_name": "Seminar in Comparative Cultural Geography I",
       "subject_code": "AC62F42",
       "requirement_subject_name": "比較文化地理学演習I",
-      "data_update_date": "2025-07-07 09:03:30",
+      "data_update_date": "2026-10-28 14:52:54",
       "room": ""
     },
     {
@@ -193470,7 +193491,7 @@
       "english_name": "Fieldwork on Cultural Geography II",
       "subject_code": "AC62G33",
       "requirement_subject_name": "文化地理学野外実習II",
-      "data_update_date": "2025-01-08 11:16:29",
+      "data_update_date": "2026-10-28 14:55:24",
       "room": ""
     },
     {
@@ -194121,7 +194142,7 @@
       "english_name": "Studies in Art and Representation II",
       "subject_code": "AC63G11",
       "requirement_subject_name": "表象芸術論研究II",
-      "data_update_date": "2025-12-17 12:23:28",
+      "data_update_date": "2026-10-26 14:41:09",
       "room": ""
     },
     {
@@ -194142,7 +194163,7 @@
       "english_name": "Seminar in Art and Representation I",
       "subject_code": "AC63G52",
       "requirement_subject_name": "表象芸術論演習I",
-      "data_update_date": "2025-10-17 18:02:58",
+      "data_update_date": "2026-10-23 10:39:58",
       "room": ""
     },
     {
@@ -194205,7 +194226,7 @@
       "english_name": "Studies in Music and Culture II",
       "subject_code": "AC63H11",
       "requirement_subject_name": "音楽文化論研究II",
-      "data_update_date": "2025-10-17 18:05:04",
+      "data_update_date": "2026-10-26 14:42:03",
       "room": ""
     },
     {
@@ -194520,7 +194541,7 @@
       "english_name": "Advanced Studies in Culture IV",
       "subject_code": "AC64A31",
       "requirement_subject_name": "先端文化学研究IV",
-      "data_update_date": "2025-10-14 15:38:20",
+      "data_update_date": "2026-10-21 17:20:18",
       "room": ""
     },
     {
@@ -194541,7 +194562,7 @@
       "english_name": "Advanced Studies in Culture V",
       "subject_code": "AC64A41",
       "requirement_subject_name": "先端文化学研究V",
-      "data_update_date": "2026-04-09 16:02:31",
+      "data_update_date": "2026-10-21 17:37:33",
       "room": ""
     },
     {
@@ -194562,7 +194583,7 @@
       "english_name": "Advanced Studies in Culture VI",
       "subject_code": "AC64A51",
       "requirement_subject_name": "先端文化学研究VI",
-      "data_update_date": "2025-09-18 20:43:03",
+      "data_update_date": "2026-10-21 17:38:22",
       "room": ""
     },
     {
@@ -194583,7 +194604,7 @@
       "english_name": "Advanced Studies in Culture VII",
       "subject_code": "AC64A61",
       "requirement_subject_name": "先端文化学研究VII",
-      "data_update_date": "2026-01-30 09:54:27",
+      "data_update_date": "2026-10-23 09:17:50",
       "room": ""
     },
     {
@@ -194688,7 +194709,7 @@
       "english_name": "Seminar on Advanced Studies in Culture II",
       "subject_code": "AC64B62",
       "requirement_subject_name": "先端文化学演習II",
-      "data_update_date": "2025-09-18 15:03:38",
+      "data_update_date": "2026-10-21 17:40:28",
       "room": ""
     },
     {
@@ -195024,7 +195045,7 @@
       "english_name": "Semminer in Information Culture and Society 4",
       "subject_code": "AC64E32",
       "requirement_subject_name": "情報文化学演習4",
-      "data_update_date": "2026-10-01 16:01:01",
+      "data_update_date": "2026-10-22 14:13:42",
       "room": ""
     },
     {
@@ -195066,7 +195087,7 @@
       "english_name": "Seminar in Communication Theory 1",
       "subject_code": "AC64F02",
       "requirement_subject_name": "コミュニケーション論演習1",
-      "data_update_date": "2026-04-06 11:54:10",
+      "data_update_date": "2026-10-28 11:25:50",
       "room": ""
     },
     {
@@ -195087,7 +195108,7 @@
       "english_name": "Seminar in Communication Theory 2",
       "subject_code": "AC64F12",
       "requirement_subject_name": "コミュニケーション論演習2",
-      "data_update_date": "2026-04-06 11:54:10",
+      "data_update_date": "2026-10-28 11:25:03",
       "room": ""
     },
     {
@@ -195108,7 +195129,7 @@
       "english_name": "Seminar in Communication Theory 3",
       "subject_code": "AC64F22",
       "requirement_subject_name": "コミュニケーション論演習3",
-      "data_update_date": "2024-09-05 15:52:47",
+      "data_update_date": "2026-10-28 11:24:54",
       "room": ""
     },
     {
@@ -195129,7 +195150,7 @@
       "english_name": "Seminar in Communication Theory 4",
       "subject_code": "AC64F32",
       "requirement_subject_name": "コミュニケーション論演習4",
-      "data_update_date": "2025-01-08 11:29:39",
+      "data_update_date": "2026-10-28 11:24:46",
       "room": ""
     },
     {
@@ -195234,7 +195255,7 @@
       "english_name": "Cultural and Social Sciences: Special Topics I",
       "subject_code": "AC64H01",
       "requirement_subject_name": "文化科学領域特論I",
-      "data_update_date": "2025-01-21 00:25:33",
+      "data_update_date": "2026-10-28 11:26:28",
       "room": ""
     },
     {
@@ -196515,7 +196536,7 @@
       "english_name": "Seminar in Planning a Graduation Thesis: Field Studies I",
       "subject_code": "AC67042",
       "requirement_subject_name": "フィールド文化領域卒業論文基礎演習I",
-      "data_update_date": "2025-12-19 15:47:30",
+      "data_update_date": "2026-10-28 14:58:50",
       "room": ""
     },
     {
@@ -196536,7 +196557,7 @@
       "english_name": "Seminar in Planning a Graduation Thesis: Field Studies II",
       "subject_code": "AC67052",
       "requirement_subject_name": "フィールド文化領域卒業論文基礎演習II",
-      "data_update_date": "2025-12-19 15:53:45",
+      "data_update_date": "2026-10-28 14:59:16",
       "room": ""
     },
     {
@@ -196599,7 +196620,7 @@
       "english_name": "Seminar in Planning a Graduation Thesis: Cultural and Social Sciences I",
       "subject_code": "AC67082",
       "requirement_subject_name": "文化科学領域卒業論文基礎演習I",
-      "data_update_date": "2026-08-03 04:16:35",
+      "data_update_date": "2026-10-26 10:42:38",
       "room": ""
     },
     {
@@ -196620,7 +196641,7 @@
       "english_name": "Seminar in Planning a Graduation Thesis: Cultural and Social Sciences II",
       "subject_code": "AC67092",
       "requirement_subject_name": "文化科学領域卒業論文基礎演習II",
-      "data_update_date": "2026-08-03 04:16:35",
+      "data_update_date": "2026-10-26 10:42:49",
       "room": ""
     },
     {
@@ -197691,7 +197712,7 @@
       "english_name": "Second Language Acquisition",
       "subject_code": "AE13E31",
       "requirement_subject_name": "第二言語習得論",
-      "data_update_date": "2026-10-17 15:29:11",
+      "data_update_date": "2026-10-29 12:58:41",
       "room": ""
     },
     {
@@ -198145,7 +198166,7 @@
       "period": "金2",
       "teaching_staff": "藤井 嘉章",
       "class_outline": "近世江戸時代の日本で中国研究をしていたグループの中に「古文辞学」という学派があります。この学派の理念は古代中国人と同じ思考回路を作ることでした。本演習は古文辞学派の文学理念と実際の文学表現(漢詩)を丹念に追っていきます。\n その過程で古代中国語の言語としての構造について理解し、日本語との対照を通して訓読文を自力でつくるための基礎、つまり白文に自身で返点(レ点や一二点など)を振る方法を学びます。また漢詩の複雑な規則を身に付けます。",
-      "remarks": "対面",
+      "remarks": "西暦偶数年度開講。\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -198153,7 +198174,7 @@
       "english_name": "Seminar on Chinese Literature and Japanese Literature",
       "subject_code": "AE13H12",
       "requirement_subject_name": "中国文学と日本文学演習I",
-      "data_update_date": "2026-10-17 15:59:14",
+      "data_update_date": "2026-10-19 08:56:02",
       "room": ""
     },
     {
@@ -198804,7 +198825,7 @@
       "english_name": "Japan-Expert Internship II",
       "subject_code": "AE18K23",
       "requirement_subject_name": "Japan-ExpertインターンシップII",
-      "data_update_date": "2026-01-06 14:14:34",
+      "data_update_date": "2026-10-29 13:28:49",
       "room": ""
     },
     {
@@ -199833,7 +199854,7 @@
       "english_name": "Current Topics in Sociology",
       "subject_code": "BB05011",
       "requirement_subject_name": "社会学の最前線",
-      "data_update_date": "2025-12-17 16:03:40",
+      "data_update_date": "2026-10-22 09:20:48",
       "room": ""
     },
     {
@@ -199854,7 +199875,7 @@
       "english_name": "Current Topics in Law",
       "subject_code": "BB05021",
       "requirement_subject_name": "法学の最前線",
-      "data_update_date": "2025-12-17 16:03:40",
+      "data_update_date": "2026-10-22 09:21:06",
       "room": ""
     },
     {
@@ -199875,7 +199896,7 @@
       "english_name": "Current Topics in Political Science",
       "subject_code": "BB05031",
       "requirement_subject_name": "政治学の最前線",
-      "data_update_date": "2025-10-14 13:27:16",
+      "data_update_date": "2026-10-22 09:21:41",
       "room": ""
     },
     {
@@ -199896,7 +199917,7 @@
       "english_name": "Current Topics in Economics",
       "subject_code": "BB05041",
       "requirement_subject_name": "経済学の最前線",
-      "data_update_date": "2026-03-22 18:45:14",
+      "data_update_date": "2026-10-22 09:22:03",
       "room": ""
     },
     {
@@ -215961,7 +215982,7 @@
       "english_name": "Fundamental Biology, Laboratory I",
       "subject_code": "EB10013",
       "requirement_subject_name": "基礎生物学実験I",
-      "data_update_date": "2025-12-25 16:34:27",
+      "data_update_date": "2026-10-30 09:52:45",
       "room": ""
     },
     {
@@ -217389,7 +217410,7 @@
       "english_name": "Extension Course of Laboratory and Field Studies in Marine Biology",
       "subject_code": "EB16953",
       "requirement_subject_name": "生物学公開臨海実習",
-      "data_update_date": "2026-08-04 12:56:20",
+      "data_update_date": "2026-10-30 09:51:32",
       "room": ""
     },
     {
@@ -218418,7 +218439,7 @@
       "english_name": "Bioinformatics",
       "subject_code": "EB62104",
       "requirement_subject_name": "バイオインフォマティクス",
-      "data_update_date": "2025-12-25 16:48:15",
+      "data_update_date": "2026-10-29 09:56:17",
       "room": ""
     },
     {
@@ -218880,7 +218901,7 @@
       "english_name": "Marine Course in Reproductive Biology",
       "subject_code": "EB72263",
       "requirement_subject_name": "生殖生物学臨海実習",
-      "data_update_date": "2025-12-18 18:09:04",
+      "data_update_date": "2026-10-30 09:50:11",
       "room": ""
     },
     {
@@ -219888,7 +219909,7 @@
       "english_name": "Agrobiology, Practice",
       "subject_code": "EC11203",
       "requirement_subject_name": "生物資源科学実習",
-      "data_update_date": "2026-05-08 15:23:53",
+      "data_update_date": "2026-10-27 16:13:42",
       "room": ""
     },
     {
@@ -220266,7 +220287,7 @@
       "english_name": "English for Specialized Subjects II",
       "subject_code": "EC14112",
       "requirement_subject_name": "専門語学(英語)II",
-      "data_update_date": "2026-04-07 10:10:53",
+      "data_update_date": "2026-10-28 09:58:16",
       "room": ""
     },
     {
@@ -220287,7 +220308,7 @@
       "english_name": "English for Specialized Subjects II",
       "subject_code": "EC14122",
       "requirement_subject_name": "専門語学(英語)II",
-      "data_update_date": "2026-04-07 10:26:16",
+      "data_update_date": "2026-10-28 10:05:39",
       "room": ""
     },
     {
@@ -221631,7 +221652,7 @@
       "english_name": "Animal Physiology",
       "subject_code": "EC31301",
       "requirement_subject_name": "動物機能生理学",
-      "data_update_date": "2026-09-25 09:03:47",
+      "data_update_date": "2026-10-28 09:52:08",
       "room": ""
     },
     {
@@ -221841,7 +221862,7 @@
       "english_name": "Special Practices in Biological Sciences for Agrobiology and Forestry",
       "subject_code": "EC31502",
       "requirement_subject_name": "農林生物学コース専門演習",
-      "data_update_date": "2026-01-05 10:45:16",
+      "data_update_date": "2026-10-28 10:12:44",
       "room": ""
     },
     {
@@ -221904,7 +221925,7 @@
       "english_name": "Laboratory and Farm Practice on Animal Science",
       "subject_code": "EC31533",
       "requirement_subject_name": "アニマルサイエンス実験実習",
-      "data_update_date": "2026-06-29 08:23:48",
+      "data_update_date": "2026-10-28 09:55:01",
       "room": ""
     },
     {
@@ -223353,7 +223374,7 @@
       "english_name": "Comprehensive Practice of Forests",
       "subject_code": "EC35013",
       "requirement_subject_name": "森林総合実習",
-      "data_update_date": "2026-04-14 19:51:25",
+      "data_update_date": "2026-10-30 17:04:16",
       "room": ""
     },
     {
@@ -223920,7 +223941,7 @@
       "english_name": "Graduation Thesis",
       "subject_code": "EC51998",
       "requirement_subject_name": "卒業研究",
-      "data_update_date": "2026-08-03 04:16:35",
+      "data_update_date": "2026-10-20 14:00:40",
       "room": ""
     },
     {
@@ -224374,7 +224395,7 @@
       "period": "集中",
       "teaching_staff": "",
       "class_outline": "都市地理学の基本的事項として,都市化,都市システム,都市の内部構造などについて,日本および世界の各地の事例を取り上げながら学習する。",
-      "remarks": "「歴史地理学特講III-B」を修得済みの者は履修できない。\n対面",
+      "remarks": "「歴史地理学特講III-B」を修得済みの者は履修できない。日程未定。\n対面",
       "enrollment_application": "",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -224382,7 +224403,7 @@
       "english_name": "Urban Geography",
       "subject_code": "EE21301",
       "requirement_subject_name": "都市地理学",
-      "data_update_date": "2026-10-02 15:58:38",
+      "data_update_date": "2026-10-26 16:04:32",
       "room": ""
     },
     {
@@ -225273,11 +225294,11 @@
       "method": "1",
       "credits": "1.0",
       "standard_course_year": "3・4",
-      "module": "夏季休業中",
+      "module": "春季休業中",
       "period": "集中",
       "teaching_staff": "釜江 陽一",
       "class_outline": "海洋は地球の気候システムに重要な役割をもつ。本講義では、深さ1000mまでの表層に着目し、水温・塩分分布の特徴や黒潮などの風成循環の物理プロセスを解説する。そして、エルニーニョ現象や地球温暖化に関する知識を整理し、気候変動/変化における海洋の役割についても議論する。",
-      "remarks": "非常勤講師による\n詳細後日周知",
+      "remarks": "非常勤講師による\n2/17-2/19",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -225285,7 +225306,7 @@
       "english_name": "Oceanography",
       "subject_code": "EE22691",
       "requirement_subject_name": "海洋学",
-      "data_update_date": "2025-08-20 15:28:14",
+      "data_update_date": "2026-10-23 15:24:43",
       "room": ""
     },
     {
@@ -226818,7 +226839,7 @@
       "english_name": "Agro-Biological Resource Science, Exercises",
       "subject_code": "EC11212",
       "requirement_subject_name": "生物資源科学演習",
-      "data_update_date": "2026-10-13 17:51:15",
+      "data_update_date": "2026-10-28 13:55:26",
       "room": ""
     },
     {
@@ -227637,7 +227658,7 @@
       "english_name": "Biomaterial Science",
       "subject_code": "EG60411",
       "requirement_subject_name": "Biomaterial Science",
-      "data_update_date": "2025-12-08 19:34:05",
+      "data_update_date": "2026-10-28 08:44:55",
       "room": ""
     },
     {
@@ -231540,10 +231561,10 @@
       "enrollment_requirements": "",
       "short_term_students_application": "×",
       "short_term_students_requirements": "",
-      "english_name": "problems for Students in Elementary Statistics",
+      "english_name": "Problems for Students in Elementary Statistics",
       "subject_code": "FB12732",
       "requirement_subject_name": "統計学演習",
-      "data_update_date": "2024-10-02 17:03:51",
+      "data_update_date": "2026-10-26 11:23:04",
       "room": ""
     },
     {
@@ -233517,7 +233538,7 @@
       "english_name": "Mechanics 2",
       "subject_code": "FCB1241",
       "requirement_subject_name": "力学2",
-      "data_update_date": "2025-03-04 16:28:56",
+      "data_update_date": "2026-10-30 11:18:10",
       "room": ""
     },
     {
@@ -233958,7 +233979,7 @@
       "english_name": "Quantum mechanics I",
       "subject_code": "FCC2244",
       "requirement_subject_name": "量子力学I",
-      "data_update_date": "2026-01-19 13:33:07",
+      "data_update_date": "2026-10-30 10:59:10",
       "room": ""
     },
     {
@@ -234126,7 +234147,7 @@
       "english_name": "Analytical mechanics",
       "subject_code": "FCC2464",
       "requirement_subject_name": "解析力学",
-      "data_update_date": "2026-01-19 13:34:33",
+      "data_update_date": "2026-10-30 11:01:53",
       "room": ""
     },
     {
@@ -234651,7 +234672,7 @@
       "english_name": "Introductory nuclear physics",
       "subject_code": "FCC3811",
       "requirement_subject_name": "原子核物理学概論",
-      "data_update_date": "2026-01-19 13:38:14",
+      "data_update_date": "2026-10-30 11:10:45",
       "room": ""
     },
     {
@@ -234672,7 +234693,7 @@
       "english_name": "Introductory astrophysics",
       "subject_code": "FCC3821",
       "requirement_subject_name": "宇宙物理学概論",
-      "data_update_date": "2026-01-19 13:38:24",
+      "data_update_date": "2026-10-30 11:08:47",
       "room": ""
     },
     {
@@ -234714,7 +234735,7 @@
       "english_name": "Introductory plasma physics",
       "subject_code": "FCC3841",
       "requirement_subject_name": "プラズマ物理学概論",
-      "data_update_date": "2026-01-19 13:38:49",
+      "data_update_date": "2026-10-30 11:15:37",
       "room": ""
     },
     {
@@ -234861,7 +234882,7 @@
       "english_name": "Nuclear Physics",
       "subject_code": "FC14061",
       "requirement_subject_name": "原子核物理学II",
-      "data_update_date": "2026-01-19 13:39:41",
+      "data_update_date": "2026-10-30 11:14:09",
       "room": ""
     },
     {
@@ -235050,7 +235071,7 @@
       "english_name": "Basic Chemistry Seminar",
       "subject_code": "FE00012",
       "requirement_subject_name": "化学基礎セミナー",
-      "data_update_date": "2026-04-02 09:10:16",
+      "data_update_date": "2026-10-28 11:47:45",
       "room": ""
     },
     {
@@ -236016,7 +236037,7 @@
       "english_name": "Advanced Lecture in Inorganic Analytical Chemistry III",
       "subject_code": "FE14171",
       "requirement_subject_name": "無機・分析化学特論III",
-      "data_update_date": "2026-10-15 16:33:01",
+      "data_update_date": "2026-10-30 18:12:46",
       "room": ""
     },
     {
@@ -244248,7 +244269,7 @@
       "english_name": "Engineering Fluid Dynamics",
       "subject_code": "FG45851",
       "requirement_subject_name": "流体工学",
-      "data_update_date": "2023-12-28 14:10:17",
+      "data_update_date": "2026-10-23 17:44:31",
       "room": ""
     },
     {
@@ -245151,7 +245172,7 @@
       "english_name": "Engineering Fluid Dynamics",
       "subject_code": "FG45851",
       "requirement_subject_name": "流体工学",
-      "data_update_date": "2023-12-28 14:10:17",
+      "data_update_date": "2026-10-23 17:44:31",
       "room": ""
     },
     {
@@ -246466,7 +246487,7 @@
       "period": "集中",
       "teaching_staff": "飯田 直彦,五條 渉,石? 和志",
       "class_outline": "建築基準法を主体に、都市計画・土地利用関係法令、建設事業関係法令など、建築全般に関する法令を、実例を引用して具体的に講義することにより、法令の基礎的な仕組みを理解する。",
-      "remarks": "都市計画共通。\n対面",
+      "remarks": "都市計画共通。\n12/12,12/13\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -246474,7 +246495,7 @@
       "english_name": "Independent Study : Related laws and regulations on building",
       "subject_code": "FH45051",
       "requirement_subject_name": "建築関連法規",
-      "data_update_date": "2025-10-07 08:38:25",
+      "data_update_date": "2026-10-22 11:10:31",
       "room": ""
     },
     {
@@ -248469,7 +248490,7 @@
       "english_name": "Interdisciplinary Engineering PBL I",
       "subject_code": "FJ19003",
       "requirement_subject_name": "Interdisciplinary Engineering PBL I",
-      "data_update_date": "2025-11-02 12:13:16",
+      "data_update_date": "2026-10-27 14:27:14",
       "room": ""
     },
     {
@@ -248721,7 +248742,7 @@
       "english_name": "Linear Algebra I",
       "subject_code": "FJ20004",
       "requirement_subject_name": "Linear Algebra I",
-      "data_update_date": "2025-01-06 15:18:59",
+      "data_update_date": "2026-10-28 16:15:52",
       "room": ""
     },
     {
@@ -248742,7 +248763,7 @@
       "english_name": "Linear Algebra II",
       "subject_code": "FJ20014",
       "requirement_subject_name": "Linear Algebra II",
-      "data_update_date": "2025-11-02 12:13:16",
+      "data_update_date": "2026-10-28 16:15:08",
       "room": ""
     },
     {
@@ -248805,7 +248826,7 @@
       "english_name": "Advanced Calculus",
       "subject_code": "FJ20144",
       "requirement_subject_name": "Advanced Calculus",
-      "data_update_date": "2026-01-09 14:05:54",
+      "data_update_date": "2026-10-23 13:34:41",
       "room": ""
     },
     {
@@ -248910,7 +248931,7 @@
       "english_name": "Mechanics I",
       "subject_code": "FJ26004",
       "requirement_subject_name": "Mechanics I",
-      "data_update_date": "2026-08-26 17:33:31",
+      "data_update_date": "2026-10-23 10:15:42",
       "room": ""
     },
     {
@@ -248920,7 +248941,7 @@
       "credits": "2.0",
       "standard_course_year": "1",
       "module": "春AB",
-      "period": "水5,6",
+      "period": "金5,6",
       "teaching_staff": "大楽 浩司",
       "class_outline": "Following “Mechanics I”, “Mechanics II ” will just concentrate on the basics of mechanics. Emphasis will be given to topics that will be useful in other disciplines, such as systems of particles, kinematics and plane motion of rigid bodies and principles about analytical vector mechanics.",
       "remarks": "英語で授業。\n対面",
@@ -248931,7 +248952,7 @@
       "english_name": "Mechanics II",
       "subject_code": "FJ26014",
       "requirement_subject_name": "Mechanics II",
-      "data_update_date": "2026-06-19 13:15:05",
+      "data_update_date": "2026-10-23 11:50:20",
       "room": ""
     },
     {
@@ -249330,7 +249351,7 @@
       "english_name": "Introduction to Information Science:Information Systems",
       "subject_code": "GA12301",
       "requirement_subject_name": "システムと情報科学",
-      "data_update_date": "2023-01-18 14:27:44",
+      "data_update_date": "2026-10-21 23:05:44",
       "room": ""
     },
     {
@@ -249351,7 +249372,7 @@
       "english_name": "Introduction to Information Science",
       "subject_code": "GA12401",
       "requirement_subject_name": "情報科学概論",
-      "data_update_date": "2026-01-19 08:38:11",
+      "data_update_date": "2026-10-20 00:10:47",
       "room": ""
     },
     {
@@ -250443,7 +250464,7 @@
       "english_name": "Special Exercise in Information Science I",
       "subject_code": "GB13312",
       "requirement_subject_name": "情報特別演習I",
-      "data_update_date": "2026-08-03 04:16:35",
+      "data_update_date": "2026-10-20 00:08:11",
       "room": ""
     },
     {
@@ -250464,7 +250485,7 @@
       "english_name": "Special Exercise in Information Science II",
       "subject_code": "GB13322",
       "requirement_subject_name": "情報特別演習II",
-      "data_update_date": "2026-08-03 04:16:35",
+      "data_update_date": "2026-10-20 00:08:30",
       "room": ""
     },
     {
@@ -250485,7 +250506,7 @@
       "english_name": "Introductory Special Exercise in Information Science",
       "subject_code": "GB13332",
       "requirement_subject_name": "情報科学特別演習",
-      "data_update_date": "2026-08-03 04:16:35",
+      "data_update_date": "2026-10-20 00:09:07",
       "room": ""
     },
     {
@@ -251094,7 +251115,7 @@
       "english_name": "Mathematical Systems Theory II",
       "subject_code": "GC53801",
       "requirement_subject_name": "システム数理II",
-      "data_update_date": "2024-11-15 11:31:51",
+      "data_update_date": "2026-10-21 09:25:34",
       "room": ""
     },
     {
@@ -251178,7 +251199,7 @@
       "english_name": "Software and Computing Science Laboratory A",
       "subject_code": "GB26403",
       "requirement_subject_name": "ソフトウェアサイエンス実験A",
-      "data_update_date": "2026-10-05 13:25:56",
+      "data_update_date": "2026-10-20 00:05:34",
       "room": ""
     },
     {
@@ -251199,7 +251220,7 @@
       "english_name": "Software and Computing Science Laboratory B",
       "subject_code": "GB26503",
       "requirement_subject_name": "ソフトウェアサイエンス実験B",
-      "data_update_date": "2026-10-05 13:26:13",
+      "data_update_date": "2026-10-20 00:06:15",
       "room": ""
     },
     {
@@ -251212,7 +251233,7 @@
       "period": "集中",
       "teaching_staff": "伊藤 誠,吉田 光男 他",
       "class_outline": "ソフトウェアサイエンスの分野で活躍する外部講師による,オムニバス講義。",
-      "remarks": "対面",
+      "remarks": "2/13-2/14\n対面",
       "enrollment_application": "×",
       "enrollment_requirements": "",
       "short_term_students_application": "×",
@@ -251325,7 +251346,7 @@
       "english_name": "Computer Architecture",
       "subject_code": "GB30201",
       "requirement_subject_name": "計算機アーキテクチャ",
-      "data_update_date": "2023-01-10 13:18:58",
+      "data_update_date": "2026-10-21 23:13:46",
       "room": ""
     },
     {
@@ -251661,7 +251682,7 @@
       "english_name": "Computer Systems Laboratory A",
       "subject_code": "GB36403",
       "requirement_subject_name": "情報システム実験A",
-      "data_update_date": "2026-10-05 13:27:01",
+      "data_update_date": "2026-10-20 00:06:58",
       "room": ""
     },
     {
@@ -251682,7 +251703,7 @@
       "english_name": "Computer Systems Laboratory B",
       "subject_code": "GB36503",
       "requirement_subject_name": "情報システム実験B",
-      "data_update_date": "2026-10-05 13:27:14",
+      "data_update_date": "2026-10-20 00:07:29",
       "room": ""
     },
     {
@@ -251871,7 +251892,7 @@
       "english_name": "Information Theory",
       "subject_code": "GB40601",
       "requirement_subject_name": "情報理論",
-      "data_update_date": "2026-02-12 17:09:02",
+      "data_update_date": "2026-10-22 15:25:12",
       "room": ""
     },
     {
@@ -252396,7 +252417,7 @@
       "english_name": "Mathematics for Informatics B",
       "subject_code": "GC21201",
       "requirement_subject_name": "情報数学II",
-      "data_update_date": "2026-02-03 13:19:37",
+      "data_update_date": "2026-10-22 14:07:15",
       "room": ""
     },
     {
@@ -253215,7 +253236,7 @@
       "english_name": "Content Producing",
       "subject_code": "GC52401",
       "requirement_subject_name": "コンテンツプロデュース論",
-      "data_update_date": "2026-03-10 23:55:29",
+      "data_update_date": "2026-10-22 07:21:32",
       "room": ""
     },
     {
@@ -253404,7 +253425,7 @@
       "english_name": "Mathematical Systems Theory II",
       "subject_code": "GC53801",
       "requirement_subject_name": "システム数理II",
-      "data_update_date": "2024-11-15 11:31:51",
+      "data_update_date": "2026-10-21 09:25:34",
       "room": ""
     },
     {
@@ -254496,7 +254517,7 @@
       "english_name": "Mathematics for Informatics B",
       "subject_code": "GC21201",
       "requirement_subject_name": "情報数学II",
-      "data_update_date": "2026-02-03 13:19:37",
+      "data_update_date": "2026-10-22 14:07:15",
       "room": ""
     },
     {
@@ -260030,7 +260051,7 @@
       "standard_course_year": "3",
       "module": "秋ABC",
       "period": "集中",
-      "teaching_staff": "岡田 浩介,小原 直,森戸 直記,會田 雄一,前野 哲博,竹越 一博,塩澤 利博,野澤 大輔,村越 伸行,森島 祐子,人見 重美,平谷 太吾,坪井 洋人,小川 良子,土屋 輝一郎,中馬越 清隆,斉木 臣二,井汲 彰,佐藤 晋爾,星 智也,山本 昌良,山? 浩,船山 徹,酒井 千緒,西野 衆文",
+      "teaching_staff": "岡田 浩介,小原 直,森戸 直記,會田 雄一,前野 哲博,竹越 一博,塩澤 利博,野澤 大輔,村越 伸行,森島 祐子,人見 重美,平谷 太吾,坪井 洋人,小川 良子,土屋 輝一郎,中馬越 清隆,斉木 臣二,井汲 彰,佐藤 晋爾,星 智也,山本 昌良,山? 浩,船山 徹,酒井 千緒,西野 衆文,保坂 孝史,寺内 泰観,神山 翔,篠田 康俊",
       "class_outline": "様々な疾患の臨床検査がどのように行われるか,臨床検査データの理解のしかたやそれらのデータから何を読み取るかを各診療科別に解説する。授業は総論と各論からなり,オムニバス方式で行う。",
       "remarks": "10/5-29,11/4-6,12/7-8\n詳細後日周知\n実務経験教員\n対面(オンライン併用型)\n授業スケジュールを参照すること。",
       "enrollment_application": "×",
@@ -260040,7 +260061,7 @@
       "english_name": "Clinical Laboratory Medicine",
       "subject_code": "HE30031",
       "requirement_subject_name": "病態検査学",
-      "data_update_date": "2026-10-02 16:58:59",
+      "data_update_date": "2026-10-27 15:13:37",
       "room": ""
     },
     {
@@ -260502,7 +260523,7 @@
       "english_name": "Clinical Physiology",
       "subject_code": "HE34001",
       "requirement_subject_name": "生理機能検査学",
-      "data_update_date": "2026-04-07 17:27:25",
+      "data_update_date": "2026-10-27 15:14:36",
       "room": ""
     },
     {
@@ -261836,7 +261857,7 @@
       "standard_course_year": "2",
       "module": "秋AB",
       "period": "月6-8\n木1-3",
-      "teaching_staff": "辻村 真貴,鈴木 石根,西村 健,山田 洋一,望山 洋,手塚 太郎,善甫 啓一,渡邊 幸秀,釜江 陽一,高橋 純子",
+      "teaching_staff": "辻村 真貴,鈴木 石根,西村 健,山田 洋一,望山 洋,手塚 太郎,善甫 啓一,渡邊 幸秀,釜江 陽一,高橋 純子,張 宇攀",
       "class_outline": "地球規模課題を解決するために必要な地球環境、生命科学、物質科学、システム工学に関する基礎知識、\n考え方、技術等を教授する。地球規模課題の根幹たる地球環境を理解する上での基礎事項、人間を含む生\n命の起源と進化に関わる基礎事項、地球上の様々な物質の動態を理解・解析する上での基礎事項、これら\nの基礎事項を人間活動に適用し課題解決に繋げる上で必要なシステム構築の基礎事項を、我々の身の周り\nの様々な現象、事象、課題等と結びつけて解説する。単なる基礎情報や理論の表層的説明ではなく、なぜ\nそのような考え方や知識が我々の生存をより良くするために必要なのかを、履修生が常に意識できるよ\nう、講義する。",
       "remarks": "オムニバス方式、共同\n英語で授業。\n対面\nマレーシア校開講科目",
       "enrollment_application": "×",
@@ -261846,7 +261867,7 @@
       "english_name": "Fundamentals of Natural Sciences I",
       "subject_code": "UAD2011",
       "requirement_subject_name": "自然科学基礎I",
-      "data_update_date": "2025-04-15 18:34:50",
+      "data_update_date": "2026-10-23 11:03:06",
       "room": ""
     },
     {
@@ -261857,7 +261878,7 @@
       "standard_course_year": "2",
       "module": "春AB",
       "period": "月・木1-3",
-      "teaching_staff": "辻村 真貴,鈴木 石根,西村 健,山田 洋一,望山 洋,手塚 太郎,善甫 啓一,廣田 充,内海 真生,丹羽 隆介,大森 裕子",
+      "teaching_staff": "辻村 真貴,鈴木 石根,西村 健,山田 洋一,望山 洋,手塚 太郎,善甫 啓一,廣田 充,内海 真生,丹羽 隆介,大森 裕子,張 宇攀",
       "class_outline": "地球規模課題を解決するために必要不可欠な地球環境と資源、生命科学の工学的展開、電磁気・量子力\n学、運動学に関する基礎知識、考え方、技術等を教授する。地球規模課題の相当部分を占める資源問題を\n理解する上での基礎事項、汚染、ウィルス等、人間の生存に関わる問題解決に必須な基礎事項、様々な機\n械等に必須技術である電場・磁場の動態を理解・解析する上での基礎事項、さらに地球上の構成物質にお\nける動態を理解する上で必須である運動学の基礎事項を様々な現象、事象、課題等と結びつけて解説す\nる。基礎情報や理論の説明だけではなく、なぜそのような考え方や知識が我々の生存をより良くするため\nに必要なのかを、履修生が常に意識できるよう、講義する。",
       "remarks": "オムニバス方式、共同\n英語で授業。\n対面\nマレーシア校開講科目",
       "enrollment_application": "×",
@@ -261867,7 +261888,7 @@
       "english_name": "Fundamentals of Natural Sciences II",
       "subject_code": "UAD2021",
       "requirement_subject_name": "自然科学基礎II",
-      "data_update_date": "2025-04-16 15:02:39",
+      "data_update_date": "2026-10-23 11:04:18",
       "room": ""
     },
     {
@@ -261983,7 +262004,7 @@
       "standard_course_year": "3",
       "module": "秋AB",
       "period": "水・金1-3",
-      "teaching_staff": "辻村 真貴,鈴木 石根,西村 健,山田 洋一,望山 洋,手塚 太郎,善甫 啓一,甲斐田 直子,水野谷 剛,高橋 純子,渡邊 幸秀,大宮 朋子,伊藤 智子,井坂 ゆかり",
+      "teaching_staff": "辻村 真貴,鈴木 石根,西村 健,山田 洋一,望山 洋,手塚 太郎,善甫 啓一,甲斐田 直子,水野谷 剛,高橋 純子,渡邊 幸秀,大宮 朋子,伊藤 智子,井坂 ゆかり,張 宇攀",
       "class_outline": "環境問題の根幹とも言える汚染、都市問題の基礎事項、健康に係る地球規模課題の重要項目、課題解決に必須である固体物理学・化学分野における半導体、絶縁体等の技術の知識、さらに問題解決に必須である映像・音声による情報伝達技術の基礎事項を教授する。汚染・都市問題は環境科学の出発点でありその基礎を理解することは、地球規模課題解決には必須である。さらに、汚染・都市問題は人間の健康と繋がっており、感染症等を理解することは環境問題解決にとっても重要である。さらに、こうした諸問題解決において、各種技術を適用する上で必須の知識である固体物理学・化学を半導体・絶縁体等の技術面から解説し、加えて情報伝達の基礎である画像、映像、音声伝達の技術を教授することにより、課題解決に向けた能力涵養が進展する。本授業で身につけた知識、考え方は、時事課題解決法提案演習I・IIにおいて適用される。",
       "remarks": "オムニバス方式、共同\n英語で授業。\n対面\nマレーシア校開講科目",
       "enrollment_application": "×",
@@ -261993,7 +262014,7 @@
       "english_name": "General Introduction to Natural Sciences I",
       "subject_code": "UBD3011",
       "requirement_subject_name": "自然科学通論I",
-      "data_update_date": "2026-08-20 11:37:58",
+      "data_update_date": "2026-10-23 11:05:57",
       "room": ""
     },
     {
@@ -263936,7 +263957,7 @@
       "standard_course_year": "2",
       "module": "秋AB",
       "period": "水2",
-      "teaching_staff": "川村 卓",
+      "teaching_staff": "川村 卓,仲澤 眞,秋山 央,雨宮 怜,成? 和弥",
       "class_outline": "スポーツ・体育・健康に関する多様な専門領域で活躍している社会人との交流と、具体的な進路の検討および就職への準備を通して、自己と社会に関する理解を深め、自分の将来やキャリアについて実践的に考える。",
       "remarks": "必修授業の後半は3クラスに分かれる。体育専門学群生のみ受講可 「スポーツキャリア形成I」、「スポーツキャリア形成II」、「スポーツキャリア形成III」を必修とする体育専門学生のうち、未修得科目がある場合には、「スポーツキャリア形成A」「スポーツキャリア形成B」「スポーツキャリア形成」から不足単位数分履修すること。ただし、「スポーツキャリア形成」は3科目すべて未履修の学生に限り履修可。\nCDP\n対面(オンライン併用型)",
       "enrollment_application": "",
@@ -263946,7 +263967,7 @@
       "english_name": "Career Development with Sport B",
       "subject_code": "W852001",
       "requirement_subject_name": "スポーツキャリアデザイン",
-      "data_update_date": "2026-04-21 18:36:55",
+      "data_update_date": "2026-10-29 10:20:45",
       "room": ""
     },
     {
@@ -267222,7 +267243,7 @@
       "english_name": "Philosophy of Physical Education",
       "subject_code": "W870011",
       "requirement_subject_name": "体育哲学",
-      "data_update_date": "2025-03-06 18:02:56",
+      "data_update_date": "2026-10-30 16:11:07",
       "room": ""
     },
     {
@@ -275276,7 +275297,7 @@
       "standard_course_year": "1・2",
       "module": "秋ABC",
       "period": "随時",
-      "teaching_staff": "直江 俊雄,吉田 奈穂子",
+      "teaching_staff": "直江 俊雄,吉田 奈穂子,中川 三千代",
       "class_outline": "美術館教育に関する演習を行う。",
       "remarks": "対面(オンライン併用型)",
       "enrollment_application": "△",
@@ -275286,7 +275307,7 @@
       "english_name": "Seminars on Art Museum Education I",
       "subject_code": "YBB1142",
       "requirement_subject_name": "美術館教育演習I",
-      "data_update_date": "2026-08-03 04:16:35",
+      "data_update_date": "2026-10-28 17:05:44",
       "room": ""
     },
     {
@@ -275297,7 +275318,7 @@
       "standard_course_year": "2・3",
       "module": "秋ABC",
       "period": "随時",
-      "teaching_staff": "直江 俊雄,吉田 奈穂子",
+      "teaching_staff": "直江 俊雄,吉田 奈穂子,中川 三千代",
       "class_outline": "美術館教育に関する演習を行う。",
       "remarks": "対面(オンライン併用型)",
       "enrollment_application": "△",
@@ -275307,7 +275328,7 @@
       "english_name": "Seminars on Art Museum Education II",
       "subject_code": "YBB1152",
       "requirement_subject_name": "美術館教育演習II",
-      "data_update_date": "2026-08-03 04:16:35",
+      "data_update_date": "2026-10-28 17:06:03",
       "room": ""
     },
     {
@@ -275318,7 +275339,7 @@
       "standard_course_year": "3・4",
       "module": "秋ABC",
       "period": "随時",
-      "teaching_staff": "直江 俊雄,吉田 奈穂子",
+      "teaching_staff": "直江 俊雄,吉田 奈穂子,中川 三千代",
       "class_outline": "美術館教育に関する演習を行う。",
       "remarks": "対面(オンライン併用型)",
       "enrollment_application": "△",
@@ -275328,7 +275349,7 @@
       "english_name": "Seminars on Art Museum Education III",
       "subject_code": "YBB1162",
       "requirement_subject_name": "美術館教育演習III",
-      "data_update_date": "2026-08-03 04:16:35",
+      "data_update_date": "2026-10-28 17:06:30",
       "room": ""
     },
     {
