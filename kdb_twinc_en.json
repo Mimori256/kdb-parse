@@ -32791,7 +32791,7 @@
   "0ABE333": {
     "class_id": "0ABE333",
     "name": "Conversation Analysis in Japanese 2",
-    "description": "対面",
+    "description": "1/29, 2/15は2-4限 2/6は2-5限\\n1/29, 2/6, 2/15\\n対面",
     "module": [
       [
         "秋C"
@@ -39050,10 +39050,10 @@
   "0AH0301": {
     "class_id": "0AH0301",
     "name": "Introduction to Earth Evolution Sciences",
-    "description": "",
+    "description": "2/1,2/2",
     "module": [
       [
-        "通年"
+        "秋C"
       ]
     ],
     "period": [
@@ -52574,7 +52574,7 @@
   "0AL5602": {
     "class_id": "0AL5602",
     "name": "Advanced Space-Development Technology",
-    "description": "世話人: 藤野\\nオンライン(オンデマンド型)",
+    "description": "世話人: 藤野\\n1/12,1/13,1/14\\nオンライン(オンデマンド型)",
     "module": [
       [
         "秋C"
@@ -52816,7 +52816,7 @@
   "0AL5619": {
     "class_id": "0AL5619",
     "name": "Topics in Engineering Mechanics and Energy IV",
-    "description": "世話人:金子\\nオンライン(オンデマンド型)",
+    "description": "世話人:金子\\n1/12,1/13,1/14\\nオンライン(オンデマンド型)",
     "module": [
       [
         "秋C"
@@ -54950,10 +54950,10 @@
   "0AN0301": {
     "class_id": "0AN0301",
     "name": "Special Lecture in Earth Evolution Sciences I",
-    "description": "12/4,12/11\\n対面",
+    "description": "12/3,12/11,12/18,1/21,1/22\\n対面",
     "module": [
       [
-        "秋B"
+        "秋BC"
       ]
     ],
     "period": [
@@ -56516,7 +56516,7 @@
   "0ANB013": {
     "class_id": "0ANB013",
     "name": "Metabolomics",
-    "description": "0AVC208と同一。\\n1/4",
+    "description": "0AVC208と同一。\\n1/4,1/5,1/6,1/7,1/8",
     "module": [
       [
         "秋C"
@@ -58366,15 +58366,15 @@
   "0ANB721": {
     "class_id": "0ANB721",
     "name": "R&D Policy of Life and Bio-Resource Industrial Sciences",
-    "description": "対面",
+    "description": "12/10,11\\n対面",
     "module": [
       [
-        "秋ABC"
+        "秋B"
       ]
     ],
     "period": [
       [
-        "応談"
+        "集中"
       ]
     ],
     "room": " "
@@ -58529,10 +58529,10 @@
   "0ANC021": {
     "class_id": "0ANC021",
     "name": "Special Lecture in Earth Evolution Sciences II",
-    "description": "",
+    "description": "12/21,12/22",
     "module": [
       [
-        "通年"
+        "秋B"
       ]
     ],
     "period": [
@@ -59126,15 +59126,15 @@
   "0ANC329": {
     "class_id": "0ANC329",
     "name": "Special Lecture in Regional Geography II",
-    "description": "開催決定・日程掲示後に履修申請。\\n西暦偶数年度開講。",
+    "description": "開催決定・日程掲示後に履修申請。\\n西暦偶数年度開講。\\n3/13-3/14",
     "module": [
       [
-        "通年"
+        "夏季休業中"
       ]
     ],
     "period": [
       [
-        "応談"
+        "集中"
       ]
     ],
     "room": " "
@@ -85655,7 +85655,7 @@
   "0AVC208": {
     "class_id": "0AVC208",
     "name": "Metabolomics",
-    "description": "0ANB013と同一。\\n1/4\\n対面",
+    "description": "0ANB013と同一。\\n1/4,1/5,1/6,1/7,1/8\\n対面",
     "module": [
       [
         "秋C"
@@ -100046,15 +100046,15 @@
   "0BNN224": {
     "class_id": "0BNN224",
     "name": "Special Lecture in Regional Geography II",
-    "description": "開催決定・日程掲示後に履修申請。\\n西暦偶数年度開講。",
+    "description": "開催決定・日程掲示後に履修申請。\\n西暦偶数年度開講。\\n3/13-3/14",
     "module": [
       [
-        "通年"
+        "夏季休業中"
       ]
     ],
     "period": [
       [
-        "応談"
+        "集中"
       ]
     ],
     "room": " "
@@ -102699,7 +102699,7 @@
   "0BTD204": {
     "class_id": "0BTD204",
     "name": "Special Lecture on Career Formation I",
-    "description": "西暦偶数年度開講。\\n対面\\n・受講は、カウンセリング科学学位プログラム(博士後期課程)の在学生に限る。",
+    "description": "西暦偶数年度開講。\\n11/7,11/8\\n対面\\n・受講は、カウンセリング科学学位プログラム(博士後期課程)の在学生に限る。",
     "module": [
       [
         "秋B"
@@ -136153,7 +136153,7 @@
   "9451001": {
     "class_id": "9451001",
     "name": "Mathematics for Mathematics Teachers",
-    "description": "対面\\n秋C木1限、秋C集中2-6限(1日間)",
+    "description": "2/6\\n対面\\n秋C木1限、秋C集中2-6限(1日間)",
     "module": [
       [
         "秋C"
@@ -145883,7 +145883,7 @@
   "AB95C51": {
     "class_id": "AB95C51",
     "name": "Readings in English Linguistics (3)-a",
-    "description": "履修制限を設けることがある。開講学期は開講年度により異なる(令和7年度は秋ABモジュール)。\\n2026年度より4年おき開講。\\n2026年度開講せず。\\n対面",
+    "description": "履修制限を設けることがある。開講学期は開講年度により異なる(令和7年度は秋ABモジュール)。\\n2026年度開講せず。\\n対面",
     "module": [
       [
         "通年"
@@ -145915,7 +145915,7 @@
   "AB95C81": {
     "class_id": "AB95C81",
     "name": "Readings in English Linguistics (4)-b",
-    "description": "履修制限を設けることがある。開講学期は開講年度により異なる(令和8年度は秋ABモジュール)。\\n2026年度より4年おき開講。\\n対面",
+    "description": "履修制限を設けることがある。開講学期は開講年度により異なる(令和8年度は秋ABモジュール)。\\n2026年度より3年おき開講。\\n対面",
     "module": [
       [
         "秋AB"
@@ -152842,6 +152842,22 @@
     ],
     "room": " "
   },
+  "AC66222": {
+    "class_id": "AC66222",
+    "name": "International Seminar in Comparative Culture XII",
+    "description": "今年度の卒業予定者は履修不可\\n英語で授業。\\n1/19-28\\n対面(オンライン併用型)",
+    "module": [
+      [
+        "秋C"
+      ]
+    ],
+    "period": [
+      [
+        "集中"
+      ]
+    ],
+    "room": " "
+  },
   "AC67002": {
     "class_id": "AC67002",
     "name": "Seminar in Planning a Graduation Thesis: Japanese and Asian Studies I",
@@ -155754,6 +155770,22 @@
     "class_id": "BB11291",
     "name": "Sociology of Culture",
     "description": "2026年度開講せず。\\n対面(オンライン併用型)",
+    "module": [
+      [
+        "通年"
+      ]
+    ],
+    "period": [
+      [
+        "随時"
+      ]
+    ],
+    "room": " "
+  },
+  "BB11331": {
+    "class_id": "BB11331",
+    "name": "Environmental Sociology",
+    "description": "2026年度開講せず。\\n対面",
     "module": [
       [
         "通年"
@@ -175399,7 +175431,7 @@
   "EE21552": {
     "class_id": "EE21552",
     "name": "Seminar on Human Geography and Regional Geography C",
-    "description": "オンライン(同時双方向型)と対面の併用。「人文地理学演習B(EE21372)」「地誌学演習B(EE21482)」を修得済みの者は履修できない。下記日程以外にもオリエンテーション等が実施される場合がある。\\n対面",
+    "description": "オンライン(同時双方向型)と対面の併用。「人文地理学演習B(EE21372)」「地誌学演習B(EE21482)」を修得済みの者は履修できない。下記日程以外にもオリエンテーション等が実施される場合がある。\\n1/8,1/22,1/29\\n対面",
     "module": [
       [
         "秋C"
@@ -217417,7 +217449,7 @@
   "YBD9037": {
     "class_id": "YBD9037",
     "name": "Special Workshops: Printmaking I",
-    "description": "・版画領域学生を希望する学生。\\n・いずれかの領域研究I,II(版画領域のものが望ましい)を履修済で、専門科目(YBD、YBC、YBE、YBK、YBL)を10単位程度取得していることが望ましい。事前に担当教員に相談する事。\\n実務経験教員\\n対面\\n・TOEICR IPテストの受験必須\\n・自己達成度評価をおこなうこと。",
+    "description": "・版画領域学生を希望する学生。・いずれかの領域研究I,II(版画領域のものが望ましい)を履修済で、専門科目(YBD、YBC、YBE、YBK、YBL)を10単位程度取得していることが望ましい。事前に担当教員に相談する事。\\n実務経験教員\\n対面\\n・TOEICR IPテストの受験必須・自己達成度評価をおこなうこと。",
     "module": [
       [
         "秋ABC"

@@ -29175,8 +29175,8 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 5
   subject_code: 0A00323
-  teaching_staff: 柏木 健一,金 ?辰,朝倉 雅史,小野 裕子,森尾 貴広,LIU Soraya,阿部 淳一 ピーター,田中 怜,大根田 修,ゲオンゾン
-    レスター カンケ,平井 悠介,MENA Aaron,五月女 颯,入江 賢児,松原 康介,廣田 充,石賀 康博
+  teaching_staff: 柏木 健一,金 ?辰,朝倉 雅史,小野 裕子,森尾 貴広,LIU Soraya,阿部 淳一 ピーター,田中 怜,大根田 修,平井
+    悠介,MENA Aaron,五月女 颯,入江 賢児,松原 康介,廣田 充,石賀 康博
 - class_id: 0A00324
   class_outline: 国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人大学院生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
@@ -30705,7 +30705,7 @@
 - class_id: 0AA3008
   class_outline: この授業は現代文化研究に不可避の「トピック」を設定し、旧来の方法論を総合人間学の視点から批判的に問い直し、新たな研究領域と価値を切り開く能力を養成することを目的としている。授業は現代文化学サブプログラム担当教員によるオムニバス形式(全10回)で実施する。諸条件が複雑に絡み合う現代文化を深く研究するために不可欠となっている協働研究の状況にも触れる。受講者には全授業の最後にレポートの提出が求められる。
   credits: '1.0'
-  data_update_date: '2026-10-16 13:25:05'
+  data_update_date: '2026-11-02 11:10:39'
   english_name: Introduction to Modern Culture Studies I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -30950,7 +30950,7 @@
 - class_id: 0AB0003
   class_outline: 人文社会科学に共通する研究倫理や情報倫理について修得するとともに、研究者に求められる基本的態度や情報リテラシー、論文作成法についても学ぶ。また研究者のキャリアについても考える。
   credits: '1.0'
-  data_update_date: '2026-06-03 13:21:23'
+  data_update_date: '2026-11-02 11:21:03'
   english_name: Introduction to Research Methods
   enrollment_application: ×
   enrollment_requirements: ''
@@ -46919,7 +46919,7 @@
   class_outline: 「日常会話」は、言語を問わず、様々な言語使用状況の中でも最も一般的かつ根源的な社会的相互行為場面である。その「日常会話」をフィールドとして、社会学者のHarvey
     Sacks、 Emanuel Schegloff、 Gail Jeffersonらによって日常的相互行為の組織を明らかにするべく創始され、開発されたのが「会話分析」である。本授業では、春学期に学んだ基本的分析概念を踏まえて、人間関係や社会的関係が日常会話の組織にどのように組み込まれているのかを厳密に分析する力を身につける。
   credits: '1.0'
-  data_update_date: '2025-12-18 10:33:45'
+  data_update_date: '2026-11-06 13:59:55'
   english_name: Conversation Analysis in Japanese 2
   enrollment_application: ×
   enrollment_requirements: ''
@@ -46927,14 +46927,18 @@
   module: 秋C
   name: 日本語相互行為分析2
   period: 集中
-  remarks: 対面
+  remarks: '1/29, 2/15は2-4限 2/6は2-5限
+
+    1/29, 2/6, 2/15
+
+    対面'
   requirement_subject_name: 日本語相互行為分析2
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 0ABE333
-  teaching_staff: 高木 智世
+  teaching_staff: 高木 智世,黒嶋 智美
 - class_id: 0ABE334
   class_outline: 当たり前の現象としてある「日常会話」から社会と文化に切り込む方法について学える。言語人類学の会話やディスコースへのアプローチを理論的に学び、談話や会話を分析する上での方法論について考える。「日常会話のエスノグラフィー1」とは異なるトピックスを扱う。
   credits: '1.0'
@@ -55879,10 +55883,10 @@
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 通年
+  module: 秋C
   name: 地球進化学概論
   period: 集中
-  remarks: ''
+  remarks: 2/1,2/2
   requirement_subject_name: 地球進化学概論
   room: ''
   short_term_students_application: ×
@@ -67330,7 +67334,7 @@
 - class_id: 0AJJL01
   class_outline: 本講義では、超伝導材料、半導体材料、表面物性、エネルギーデバイス、嗅覚センサ、磁性材料、超高速分光計測等の各種先端分光法、マルチプローブ顕微鏡、等の最先端研究をいくつか取り上げ、研究分野の俯瞰、個々の研究内容、成果の世界的位置づけ等を紹介する。各種材料研究をナノテクノロジーの視点から見直すことにより、新たな研究手法・概念を理解できる能力を身につけ、先端的な研究課題の適切な設定、課題解決のための知識の収得を目標とする。
   credits: '1.0'
-  data_update_date: '2024-09-26 12:07:12'
+  data_update_date: '2026-11-02 14:36:37'
   english_name: Nanomaterials I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -68627,7 +68631,7 @@
 - class_id: 0AJME01
   class_outline: 本講義では、金属材料、電極材料、半導体材料、二次元材料、蓄電池、表面化学、第一原理計算、データ駆動型科学等の最先端研究をいくつか取り上げ、研究分野の俯瞰、個々の研究内容、成果の世界的位置づけ等を紹介する。各種材料研究をナノテクノロジーの視点から見直すことにより、新たな研究手法・概念を理解できる能力を身につけ、先端的な研究課題の適切な設定、課題解決のための知識の収得を目標とする。
   credits: '1.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-11-02 14:38:14'
   english_name: Nanomaterials II
   enrollment_application: ''
   enrollment_requirements: ''
@@ -68763,7 +68767,7 @@
 - class_id: 0AJME07
   class_outline: ナノ組織工学分野における最新の研究論文について、内容の紹介と関連した討論を、特に研究計画、研究方針を学ぶ観点から重点的に行い、ナノ組織工学研究の基礎知識、工学基礎力、専門知識を幅広く高度に習得させるとともに、課題解決のための知識力を学ぶ。また、ナノ組織工学分野おいて指導をうけた研究成果についての討論を行い、ナノ組織工学分野の成果を的確にわかりやすく伝える能力、国際的な研究活動に必要な語学力、知識の活用力、計画立案・実行能力、課題解決能力を習得させる。
   credits: '1.0'
-  data_update_date: '2024-12-17 14:05:23'
+  data_update_date: '2026-11-02 14:19:11'
   english_name: Seminar in Nanostructured Materials I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -74136,6 +74140,8 @@
   period: 集中
   remarks: '世話人: 藤野
 
+    1/12,1/13,1/14
+
     オンライン(オンデマンド型)'
   requirement_subject_name: 宇宙開発工学特論
   room: ''
@@ -74427,6 +74433,8 @@
   name: 構造エネルギー工学特別講義IV
   period: 集中
   remarks: '世話人:金子
+
+    1/12,1/13,1/14
 
     オンライン(オンデマンド型)'
   requirement_subject_name: 構造エネルギー工学特別講義IV
@@ -77190,15 +77198,15 @@
 - class_id: 0AN0301
   class_outline: 地球進化科学に関する国内外の最新の研究トピックについて講義する。特に受講生は現在の各研究分野の動向と今後の方向性を理解することにより、自身の研究の将来計画や研究目標、社会への貢献方法などについて考察する。本講義により、知識と理解力および問題解決能力を向上させ、理論的な思考を養い、専門領域を超えた自らの研究能力の向上に役立てる。本講義では、生物圏変遷科学、地圏変遷科学、地球変動科学、惑星資源科学、岩石学、および鉱物学のうち1分野の内容を中心に扱い、授業内容は毎年変更する。
   credits: '1.0'
-  data_update_date: '2025-12-17 14:23:41'
+  data_update_date: '2026-11-05 14:26:09'
   english_name: Special Lecture in Earth Evolution Sciences I
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 秋B
+  module: 秋BC
   name: 地球進化科学特別講義I
   period: 集中
-  remarks: '12/4,12/11
+  remarks: '12/3,12/11,12/18,1/21,1/22
 
     対面'
   requirement_subject_name: 地球進化科学特別講義I
@@ -79197,7 +79205,7 @@
   period: 集中
   remarks: '0AVC208と同一。
 
-    1/4'
+    1/4,1/5,1/6,1/7,1/8'
   requirement_subject_name: Metabolomics
   room: ''
   short_term_students_application: ×
@@ -81628,22 +81636,24 @@
 - class_id: 0ANB721
   class_outline: 生命産業の現状とフロンティアについて具体的な事例を挙げながら紹介し、基礎研究から開発研究プロセスにおけるさまざまなフェーズでの情報収集や解析について学ぶ。また、生命産業分野における研究開発時の諸問題について解説すると共に、問題解決に向けた議論を行う。本科目を履修することで、生命産業分野でイノベーションを創出する基礎となる論理的な思考力や判断力など総合的なスキルを習得することができる。
   credits: '1.0'
-  data_update_date: '2026-01-08 12:20:49'
+  data_update_date: '2026-11-06 12:10:10'
   english_name: R&D Policy of Life and Bio-Resource Industrial Sciences
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 秋ABC
+  module: 秋B
   name: 生命産業科学R&D特論
-  period: 応談
-  remarks: 対面
+  period: 集中
+  remarks: '12/10,11
+
+    対面'
   requirement_subject_name: 生命産業科学R&D特論
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: '1'
   subject_code: 01AB919
-  teaching_staff: 繁森 英幸,山田 小須弥,宮前 友策
+  teaching_staff: 繁森 英幸,山田 小須弥,宮前 友策,辻野 義雄
 - class_id: 0ANB722
   class_outline: 動物細胞バイオテクノロジーに関連する諸課題、ならびに修士論文執筆のための研究課題に関する著書や国内外の学術論文を収集して講読・講義することで、動物細胞バイオテクノロジーの基本的な知識と様々な研究手法についてその原理と共に学習する。また、当分野の最新のトピックスを取り上げて紹介することで、世界的に注目されている課題や最新の研究について学ぶ。関連する幅広い知識を系統的に学習することで、修士論文の研究課題の設定と計画の立案・遂行に必要な基礎及び専門的な知識と能力を習得する。
   credits: '2.0'
@@ -81842,10 +81852,10 @@
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 通年
+  module: 秋B
   name: 地球進化科学特別講義II
   period: 集中
-  remarks: ''
+  remarks: 12/21,12/22
   requirement_subject_name: 地球進化科学特別講義II
   room: ''
   short_term_students_application: ×
@@ -82602,24 +82612,26 @@
 - class_id: 0ANC329
   class_outline: 地誌学に関する特定のテーマを取り上げ、そのテーマの研究背景、研究史、最新の見方・考え方、研究手法や研究成果および他分野との関連性について、トピック的に解説する。講義で取り上げる具体的なトピックおよび外部講師の人選については、その都度検討し、決定する。本授業により、知識、理解力および問題解決能力を向上させる。
   credits: '1.0'
-  data_update_date: '2025-12-16 17:19:04'
+  data_update_date: '2026-11-04 11:14:04'
   english_name: Special Lecture in Regional Geography II
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 通年
+  module: 春季休業中
   name: 地誌学特別講義II
-  period: 応談
+  period: 集中
   remarks: '開催決定・日程掲示後に履修申請。
 
-    西暦偶数年度開講。'
+    西暦偶数年度開講。
+
+    3/13-3/14'
   requirement_subject_name: 地誌学特別講義II
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01AC152
-  teaching_staff: 呉羽 正昭,堤 純
+  teaching_staff: 呉羽 正昭,堤 純,中川 秀一
 - class_id: 0ANC331
   class_outline: 山地や丘陵地を中心に、地表流の侵食あるいはマスムーブメントにより形成される地形について概説する。また侵食・マスムーブメント現象を理解する上で重要な斜面水文プロセスや岩石の風化作用についても学ぶ。
     具体的には、地表流、地下水流、地中水流(表層崩壊)による水路の発生、表層崩壊発生の時空間的予測、深層崩壊・地すべりの発生機構と崩土到達の予測、 カルスト地域の溶食プロセス、宇宙線生成核種と風化・侵食速度について検討する。
@@ -118182,7 +118194,7 @@
   period: 集中
   remarks: '0ANB013と同一。
 
-    1/4
+    1/4,1/5,1/6,1/7,1/8
 
     対面'
   requirement_subject_name: Metabolomics
@@ -120529,7 +120541,7 @@
 - class_id: 0BBAJD1
   class_outline: この授業は現代文化学サブプログラムの学生を対象とし、学生が主体的に独創的な研究プロジェクトを立て、実践し、その成果を国内外の学会で専門家に向けて発信する力の養成を目的とする。指導教員は研究プロジェクトに対する助言、学問的誠実性の重要性や渡航安全等の事前指導を行い、学会終了後に報告を受ける。学会発表の成果を評価の対象とする。
   credits: '1.0'
-  data_update_date: '2026-01-06 14:18:11'
+  data_update_date: '2026-11-02 13:38:48'
   english_name: Academic Conference Presentations IA
   enrollment_application: ×
   enrollment_requirements: ''
@@ -120571,7 +120583,7 @@
 - class_id: 0BBAJD3
   class_outline: この授業は現代文化学サブプログラムの学生を対象とし、学生が主体的に独創的な研究プロジェクトを立て、実践し、その成果を国内外の学会で専門家に向けて発信する力の養成を目的とする。指導教員は研究プロジェクトに対する助言、学問的誠実性の重要性や渡航安全等の事前指導を行い、学会終了後に報告を受ける。学会発表の成果を評価の対象とする。
   credits: '1.0'
-  data_update_date: '2025-12-30 09:27:35'
+  data_update_date: '2026-11-02 13:39:48'
   english_name: Academic Conference Presentations IIA
   enrollment_application: ×
   enrollment_requirements: ''
@@ -120592,7 +120604,7 @@
 - class_id: 0BBAJD4
   class_outline: この授業は現代文化学サブプログラムの学生を対象とし、学生が主体的に独創的な研究プロジェクトを立て、実践し、その成果を国内外の学会で専門家に向けて発信する力の養成を目的とする。指導教員は研究プロジェクトに対する助言、学問的誠実性の重要性や渡航安全等の事前指導を行い、学会終了後に報告を受ける。学会発表の成果を評価の対象とする。
   credits: '1.0'
-  data_update_date: '2025-12-30 09:27:54'
+  data_update_date: '2026-11-02 13:40:23'
   english_name: Academic Conference Presentations IIB
   enrollment_application: ×
   enrollment_requirements: ''
@@ -132164,7 +132176,7 @@
 - class_id: 0BJPA01
   class_outline: 1年次生を対象にして、有機・生体材料分野、物理工学分野、金属・セラミック材料分野に関して、文献の調査と自身の研究の比較、研究計画の妥当性、具体化手法、さらには、研究課題の進捗状況について報告させることにより、研究成果のまとめ方と発表方法を習得させる。有機・生体材料分野、物理工学分野、金属・セラミック材料分野の研究成果について、資料作成能力、論理的説明能力、国際的な研究活動に必要な語学力、研究課題の適切な設定能力、高度な専門知識による課題解決運用力を学ぶ。
   credits: '1.0'
-  data_update_date: '2025-12-19 08:58:59'
+  data_update_date: '2026-11-02 14:17:30'
   english_name: Seminar in Materials Science and Engineering I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -132183,7 +132195,7 @@
 - class_id: 0BJPA02
   class_outline: 2年次生を対象にして、有機・生体材料分野、物理工学分野、金属・セラミック材料分野に関して、博士論文作成に向けた準備状況あるいは研究課題の進捗状況と問題点の抽出と解決方法について報告させることにより、研究成果のまとめ方と発表方法を習得させる。有機・生体材料分野、物理工学分野、金属・セラミック材料分野の研究成果について、資料作成能力、論理的説明能力、国際的な研究活動に必要な語学力、研究課題の適切な設定能力、高度な専門知識による課題解決運用力を学ぶ。
   credits: '1.0'
-  data_update_date: '2025-12-19 08:58:59'
+  data_update_date: '2026-11-02 14:17:49'
   english_name: Seminar in Materials Science and Engineering II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -132316,7 +132328,7 @@
 - class_id: 0BJQB01
   class_outline: 1年次生を対象にして、有機・生体材料分野、物理工学分野、金属・セラミック材料分野に関して、文献の調査と自身の研究の比較、研究計画の妥当性、具体化手法、さらには、研究課題の進捗状況について報告させることにより、研究成果のまとめ方と発表方法を習得させる。有機・生体材料分野、物理工学分野、金属・セラミック材料分野の研究成果について、資料作成能力、論理的説明能力、国際的な研究活動に必要な語学力、研究課題の適切な設定能力、高度な専門知識による課題解決運用力を学ぶ。
   credits: '1.0'
-  data_update_date: '2025-12-19 08:59:54'
+  data_update_date: '2026-11-02 14:18:18'
   english_name: Seminar in Materials Science and Engineering I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -132337,7 +132349,7 @@
 - class_id: 0BJQB02
   class_outline: 2年次生を対象にして、有機・生体材料分野、物理工学分野、金属・セラミック材料分野に関して、博士論文作成に向けた準備状況あるいは研究課題の進捗状況と問題点の抽出と解決方法について報告させることにより、研究成果のまとめ方と発表方法を習得させる。有機・生体材料分野、物理工学分野、金属・セラミック材料分野の研究成果について、資料作成能力、論理的説明能力、国際的な研究活動に必要な語学力、研究課題の適切な設定能力、高度な専門知識による課題解決運用力を学ぶ。
   credits: '1.0'
-  data_update_date: '2025-12-19 08:58:51'
+  data_update_date: '2026-11-02 14:18:32'
   english_name: Seminar in Materials Science and Engineering II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -137264,24 +137276,26 @@
 - class_id: 0BNN224
   class_outline: 地誌学に関する最近の研究動向を検討し、その中から特に重要と考えられる課題について具体例をあげながら講義する。取りあげられたテーマに関する最新の手法や研究成果について、さまざまな地域における研究事例とともに、地誌学に関するより専門的な学術的内容を含めて体系的に解説する。講義で取り上げる具体的なテーマおよび外部講師の人選については、その都度検討し、決定する。
   credits: '1.0'
-  data_update_date: '2022-12-15 11:10:41'
+  data_update_date: '2026-11-04 11:16:32'
   english_name: Special Lecture in Regional Geography II
   enrollment_application: ×
   enrollment_requirements: ''
   method: '1'
-  module: 通年
+  module: 春季休業中
   name: 地誌学特殊講義II
-  period: 応談
+  period: 集中
   remarks: '開催決定・日程掲示後に履修申請。
 
-    西暦偶数年度開講。'
+    西暦偶数年度開講。
+
+    3/13-3/14'
   requirement_subject_name: 地誌学特別講義II
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: 1・2
   subject_code: 01AC152
-  teaching_staff: 呉羽 正昭,堤 純
+  teaching_staff: 呉羽 正昭,堤 純,中川 秀一
 - class_id: 0BNN231
   class_outline: 地形学にかかわる諸研究分野に関して、研究課題・研究方法をめぐる最近の動向を、国内外の研究論文や世界各地の事例研究を詳しく分析して検討する。それに基づいて、地形学および周辺分野の多様かつ最先端の研究手法と考え方を身につけ、研究レビューや英語での研究論文・学位論文のより実践的な作成方法を取得する。
   credits: '1.0'
@@ -140765,6 +140779,8 @@
   period: 随時
   remarks: '西暦偶数年度開講。
 
+    11/7,11/8
+
     対面
 
     ・受講は、カウンセリング科学学位プログラム(博士後期課程)の在学生に限る。'
@@ -140779,7 +140795,7 @@
   class_outline: "目的・ねらい:カウンセリング科学の方法に関して、英文での論文作成法、文献研究、質的方法、統計的方法等に関して、博士後期課程にふさわしいアドバンスドコース用の技術・能力を獲得・実力アップを図る。\n\
     \ 授業概要;各自の研究テーマと関連付けながら、上記の方法に関して一つのテーマについて、具体例を受講者から提出してもらい、それをもとに 講義・授業を進める。"
   credits: '1.0'
-  data_update_date: '2025-09-30 11:02:54'
+  data_update_date: '2026-11-02 13:34:21'
   english_name: Special Lecture on Career Formation II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -173515,7 +173531,7 @@
 - class_id: '3251112'
   class_outline: 「基礎ドイツ語AI/AII」「基礎ドイツ語BI」で修得した言語知識を踏まえて、4技能(読む・聞く・話す・書く)の総合的な伸長に配慮しながら、ドイツ語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
-  data_update_date: '2025-08-19 10:40:48'
+  data_update_date: '2026-11-06 20:54:54'
   english_name: Language and Culture A (German)
   enrollment_application: △
   enrollment_requirements: ''
@@ -173538,7 +173554,7 @@
 - class_id: '3251122'
   class_outline: 「基礎ドイツ語AI/AII」「基礎ドイツ語BI」で修得した言語知識を踏まえて、4技能(読む・聞く・話す・書く)の総合的な伸長に配慮しながら、ドイツ語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
-  data_update_date: '2026-02-19 15:12:08'
+  data_update_date: '2026-11-06 20:55:47'
   english_name: Language and Culture A (German)
   enrollment_application: △
   enrollment_requirements: ''
@@ -173561,7 +173577,7 @@
 - class_id: '3251132'
   class_outline: 「基礎ドイツ語AI/AII」「基礎ドイツ語BI」で修得した言語知識を踏まえて、4技能(読む・聞く・話す・書く)の総合的な伸長に配慮しながら、ドイツ語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
-  data_update_date: '2025-08-19 10:41:53'
+  data_update_date: '2026-11-06 20:56:32'
   english_name: Language and Culture A (German)
   enrollment_application: △
   enrollment_requirements: ''
@@ -173584,7 +173600,7 @@
 - class_id: '3251212'
   class_outline: 「基礎ドイツ語AI/AII」「基礎ドイツ語BI」で修得した言語知識を踏まえて、4技能(読む・聞く・話す・書く)の総合的な伸長に配慮しながら、ドイツ語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
-  data_update_date: '2025-08-19 10:43:07'
+  data_update_date: '2026-11-06 20:57:36'
   english_name: Language and Culture A (German)
   enrollment_application: △
   enrollment_requirements: ''
@@ -173607,7 +173623,7 @@
 - class_id: '3251412'
   class_outline: 「基礎ドイツ語AI/AII」「基礎ドイツ語BI」で修得した言語知識を踏まえて、4技能(読む・聞く・話す・書く)の総合的な伸長に配慮しながら、ドイツ語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
-  data_update_date: '2025-08-19 10:43:34'
+  data_update_date: '2026-11-06 20:59:35'
   english_name: Language and Culture A (German)
   enrollment_application: △
   enrollment_requirements: ''
@@ -173630,7 +173646,7 @@
 - class_id: '3254112'
   class_outline: 「基礎ドイツ語AI/AII」「基礎ドイツ語BI」で修得した言語知識を踏まえて、より実践的なコミュニケーション能力の向上に配慮しながら、ドイツ語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
-  data_update_date: '2025-08-19 10:44:50'
+  data_update_date: '2026-11-06 21:01:32'
   english_name: Language and Culture B (German)
   enrollment_application: △
   enrollment_requirements: ''
@@ -173653,7 +173669,7 @@
 - class_id: '3254122'
   class_outline: 「基礎ドイツ語AI/AII」「基礎ドイツ語BI」で修得した言語知識を踏まえて、より実践的なコミュニケーション能力の向上に配慮しながら、ドイツ語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
-  data_update_date: '2026-02-19 15:12:24'
+  data_update_date: '2026-11-06 21:02:22'
   english_name: Language and Culture B (German)
   enrollment_application: △
   enrollment_requirements: ''
@@ -173676,7 +173692,7 @@
 - class_id: '3254132'
   class_outline: 「基礎ドイツ語AI/AII」「基礎ドイツ語BI」で修得した言語知識を踏まえて、より実践的なコミュニケーション能力の向上に配慮しながら、ドイツ語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
-  data_update_date: '2025-08-19 10:45:50'
+  data_update_date: '2026-11-06 21:03:26'
   english_name: Language and Culture B (German)
   enrollment_application: △
   enrollment_requirements: ''
@@ -173699,7 +173715,7 @@
 - class_id: '3254212'
   class_outline: 「基礎ドイツ語AI/AII」「基礎ドイツ語BI」で修得した言語知識を踏まえて、より実践的なコミュニケーション能力の向上に配慮しながら、ドイツ語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
-  data_update_date: '2025-08-19 10:46:26'
+  data_update_date: '2026-11-06 21:05:07'
   english_name: Language and Culture B (German)
   enrollment_application: △
   enrollment_requirements: ''
@@ -173722,7 +173738,7 @@
 - class_id: '3254412'
   class_outline: 「基礎ドイツ語AI/AII」「基礎ドイツ語BI」で修得した言語知識を踏まえて、より実践的なコミュニケーション能力の向上に配慮しながら、ドイツ語圏の文化と社会の理解をさらに深めることを目指します。
   credits: '1.0'
-  data_update_date: '2025-08-19 10:46:59'
+  data_update_date: '2026-11-06 21:06:15'
   english_name: Language and Culture B (German)
   enrollment_application: △
   enrollment_requirements: ''
@@ -173745,7 +173761,7 @@
 - class_id: '3260012'
   class_outline: ドイツ語の様々なテクストに即した読解能力を養成する。CEFR(ヨーロッパ共通参照枠)のA2レベルに到達することを目標とする。
   credits: '1.0'
-  data_update_date: '2026-02-17 10:22:27'
+  data_update_date: '2026-11-06 21:19:51'
   english_name: Advanced German Reading A
   enrollment_application: △
   enrollment_requirements: ''
@@ -173768,7 +173784,7 @@
 - class_id: '3261012'
   class_outline: ドイツ語の様々な必要に応じた作文能力を養成する。CEFR(ヨーロッパ共通参照枠)のA2レベルに到達することを目標とする。
   credits: '1.0'
-  data_update_date: '2026-01-19 10:32:24'
+  data_update_date: '2026-11-06 21:18:05'
   english_name: Advanced German Writing A
   enrollment_application: △
   enrollment_requirements: ''
@@ -173793,7 +173809,7 @@
 - class_id: '3262012'
   class_outline: ドイツ語による総合的コミュニケーション能力を養成する。CEFR(ヨーロッパ共通参照枠)のA2レベルに到達することを目標とする。
   credits: '1.0'
-  data_update_date: '2025-12-09 15:03:36'
+  data_update_date: '2026-11-06 21:12:07'
   english_name: Advanced German Conversation A
   enrollment_application: △
   enrollment_requirements: ''
@@ -173816,7 +173832,7 @@
 - class_id: '3265012'
   class_outline: ドイツ語の様々なテクストに即した読解能力を養成する。CEFR(ヨーロッパ共通参照枠)のB1レベルに到達することを目標とする。
   credits: '1.0'
-  data_update_date: '2026-01-19 10:33:02'
+  data_update_date: '2026-11-06 21:20:49'
   english_name: Advanced German Reading B
   enrollment_application: △
   enrollment_requirements: ''
@@ -173841,7 +173857,7 @@
 - class_id: '3266012'
   class_outline: ドイツ語の様々な必要に応じた作文能力を養成する。CEFR(ヨーロッパ共通参照枠)のB1レベルに到達することを目標とする。
   credits: '1.0'
-  data_update_date: '2026-02-17 10:23:22'
+  data_update_date: '2026-11-06 21:18:54'
   english_name: Advanced German Writing B
   enrollment_application: △
   enrollment_requirements: ''
@@ -173864,7 +173880,7 @@
 - class_id: '3267012'
   class_outline: ドイツ語による総合的コミュニケーション能力を養成する。CEFR(ヨーロッパ共通参照枠)のB1レベルに到達することを目標とする。
   credits: '1.0'
-  data_update_date: '2025-12-09 15:05:32'
+  data_update_date: '2026-11-06 21:15:35'
   english_name: Advanced German Conversation B
   enrollment_application: △
   enrollment_requirements: ''
@@ -173887,7 +173903,7 @@
 - class_id: '3270002'
   class_outline: A・Bモジュールで学んだ語彙・表現を活用したプロジェクト型学習を行う。学んだことを単に繰り返すのではなく、自分の言葉で表現する力を育成する。参加者は「家族」や「食事」などをテーマに、小グループやペアでプロジェクト学習を行う。またインタビュー、比較調査、発表や簡単な動画制作による相互交流を通じた自己表現力の向上を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-17 10:24:03'
+  data_update_date: '2026-11-06 21:22:08'
   english_name: Practical German A
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -173910,7 +173926,7 @@
 - class_id: '3270012'
   class_outline: A・Bモジュールで学んだ語彙・表現を活用したプロジェクト型学習を行う。学んだことを単に繰り返すのではなく、自分の言葉で表現する力を育成する。参加者は「祭り」「名所」「余暇」などをテーマに、グループで調査・比較を行い、ドイツと日本の文化を紹介するプロジェクトに関わる。最終成果物として、観光ガイド風ポスター/スライド/短い観光動画の作成を目指す。
   credits: '1.0'
-  data_update_date: '2026-10-29 11:25:05'
+  data_update_date: '2026-11-06 21:23:54'
   english_name: Practical German B
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -173935,7 +173951,7 @@
 - class_id: '3271002'
   class_outline: A・Bモジュールで学んだ語彙・表現を活用したプロジェクト型学習を行う。学んだことを単に繰り返すのではなく、自分の言葉で表現する力を育成する。参加者は「未来の町や社会のビジョン」をテーマに、日本とドイツの視点を比較しながら、自らのアイデアを調査・議論してまとめる。環境問題、都市の暮らし、テクノロジー、教育や価値観などについて、日本とドイツの現状や議論を手がかりに、将来の理想像を考え、ポスターやプレゼンテーションで発表する。
   credits: '1.0'
-  data_update_date: '2026-02-17 10:25:40'
+  data_update_date: '2026-11-06 21:25:27'
   english_name: Advanced Practical German A
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -173958,7 +173974,7 @@
 - class_id: '3271012'
   class_outline: A・Bモジュールで学んだ語彙・表現を活用したプロジェクト型学習を行う。学んだことを単に繰り返すのではなく、自分の言葉で表現する力を育成する。参加者は仕事や職業に関する語彙・表現を用いて、自分の価値観や理想の働き方を整理してまとめる。グループ討論や調査、比較分析を行い、ポスターやプレゼンテーションで発表する。
   credits: '1.0'
-  data_update_date: '2026-02-17 10:25:12'
+  data_update_date: '2026-11-06 21:26:22'
   english_name: Advanced Practical German B
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -173983,7 +173999,7 @@
 - class_id: 32H1012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(入門レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-17 09:10:47'
+  data_update_date: '2026-11-06 20:12:15'
   english_name: Basic German AI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174006,7 +174022,7 @@
 - class_id: 32H1022
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(入門レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 10:51:52'
+  data_update_date: '2026-11-06 20:12:36'
   english_name: Basic German AI
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -174029,7 +174045,7 @@
 - class_id: 32H1032
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(入門レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-19 15:13:03'
+  data_update_date: '2026-11-06 20:16:11'
   english_name: Basic German AI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174052,7 +174068,7 @@
 - class_id: 32H1042
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(入門レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-17 09:10:47'
+  data_update_date: '2026-11-06 20:13:09'
   english_name: Basic German AI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174075,7 +174091,7 @@
 - class_id: 32H2012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(入門レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:15:51'
+  data_update_date: '2026-11-06 20:13:37'
   english_name: Basic German AI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174098,7 +174114,7 @@
 - class_id: 32H2022
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(入門レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-19 15:13:21'
+  data_update_date: '2026-11-06 20:04:15'
   english_name: Basic German AI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174121,7 +174137,7 @@
 - class_id: 32H3012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(入門レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:16:49'
+  data_update_date: '2026-11-06 20:14:30'
   english_name: Basic German AI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174144,7 +174160,7 @@
 - class_id: 32H3022
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(入門レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-17 09:11:28'
+  data_update_date: '2026-11-06 20:14:55'
   english_name: Basic German AI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174167,7 +174183,7 @@
 - class_id: 32H4012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(入門レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:17:45'
+  data_update_date: '2026-11-06 20:17:41'
   english_name: Basic German AI
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -174190,7 +174206,7 @@
 - class_id: 32H5012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(入門レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-24 19:14:28'
+  data_update_date: '2026-11-06 20:18:03'
   english_name: Basic German AI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174213,7 +174229,7 @@
 - class_id: 32H6022
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(入門レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-12-09 14:02:00'
+  data_update_date: '2026-11-06 20:20:40'
   english_name: Basic German AI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174236,7 +174252,7 @@
 - class_id: 32J1012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、基本文法(入門レベル)の重要項目を確認しながら、社会生活の場面に即した基礎的なコミュニケーション能力の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-12-09 14:12:13'
+  data_update_date: '2026-11-06 20:24:33'
   english_name: Basic German BI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174259,7 +174275,7 @@
 - class_id: 32J1022
   class_outline: 初修者を対象にしたこのドイツ語の授業では、基本文法(入門レベル)の重要項目を確認しながら、社会生活の場面に即した基礎的なコミュニケーション能力の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:21:23'
+  data_update_date: '2026-11-06 20:27:52'
   english_name: Basic German BI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174282,7 +174298,7 @@
 - class_id: 32J1032
   class_outline: 初修者を対象にしたこのドイツ語の授業では、基本文法(入門レベル)の重要項目を確認しながら、社会生活の場面に即した基礎的なコミュニケーション能力の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:22:02'
+  data_update_date: '2026-11-06 20:28:33'
   english_name: Basic German BI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174305,7 +174321,7 @@
 - class_id: 32J2012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、基本文法(入門レベル)の重要項目を確認しながら、社会生活の場面に即した基礎的なコミュニケーション能力の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:22:27'
+  data_update_date: '2026-11-06 20:29:40'
   english_name: Basic German BI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174328,7 +174344,7 @@
 - class_id: 32J3012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、基本文法(入門レベル)の重要項目を確認しながら、社会生活の場面に即した基礎的なコミュニケーション能力の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-12-09 14:19:49'
+  data_update_date: '2026-11-06 20:31:20'
   english_name: Basic German BI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174351,7 +174367,7 @@
 - class_id: 32J4012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、基本文法(入門レベル)の重要項目を確認しながら、社会生活の場面に即した基礎的なコミュニケーション能力の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:24:17'
+  data_update_date: '2026-11-06 20:32:39'
   english_name: Basic German BI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174374,7 +174390,7 @@
 - class_id: 32J5012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、基本文法(入門レベル)の重要項目を確認しながら、社会生活の場面に即した基礎的なコミュニケーション能力の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-12-09 14:17:05'
+  data_update_date: '2026-11-06 20:25:22'
   english_name: Basic German BI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174397,7 +174413,7 @@
 - class_id: 32J6012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、基本文法(入門レベル)の重要項目を確認しながら、社会生活の場面に即した基礎的なコミュニケーション能力の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:26:25'
+  data_update_date: '2026-11-06 20:33:48'
   english_name: Basic German BI
   enrollment_application: △
   enrollment_requirements: ''
@@ -174420,7 +174436,7 @@
 - class_id: 32K1012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-17 09:14:49'
+  data_update_date: '2026-11-06 20:35:27'
   english_name: Basic German AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174443,7 +174459,7 @@
 - class_id: 32K1022
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:28:25'
+  data_update_date: '2026-11-06 20:36:09'
   english_name: Basic German AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174466,7 +174482,7 @@
 - class_id: 32K1032
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:28:54'
+  data_update_date: '2026-11-06 20:37:25'
   english_name: Basic German AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174489,7 +174505,7 @@
 - class_id: 32K1042
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-17 09:14:49'
+  data_update_date: '2026-11-06 20:37:49'
   english_name: Basic German AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174512,7 +174528,7 @@
 - class_id: 32K2012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:29:59'
+  data_update_date: '2026-11-06 20:38:37'
   english_name: Basic German AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174535,7 +174551,7 @@
 - class_id: 32K2022
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:30:45'
+  data_update_date: '2026-11-06 20:39:26'
   english_name: Basic German AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174558,7 +174574,7 @@
 - class_id: 32K3012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:31:21'
+  data_update_date: '2026-11-06 20:40:31'
   english_name: Basic German AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174581,7 +174597,7 @@
 - class_id: 32K3022
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-17 10:21:21'
+  data_update_date: '2026-11-06 20:40:51'
   english_name: Basic German AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174604,7 +174620,7 @@
 - class_id: 32K4012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:32:19'
+  data_update_date: '2026-11-06 20:41:29'
   english_name: Basic German AII
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -174627,7 +174643,7 @@
 - class_id: 32K5012
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2026-02-19 17:07:17'
+  data_update_date: '2026-11-06 20:41:50'
   english_name: Basic German AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174650,7 +174666,7 @@
 - class_id: 32K6022
   class_outline: 初修者を対象にしたこのドイツ語の授業では、4技能(聞く・読む・話す・書く)の総合的な修得に配慮しながら、とくに基本文法(基礎レベル)の修得を目指す。
   credits: '1.0'
-  data_update_date: '2025-12-09 14:26:27'
+  data_update_date: '2026-11-06 20:44:11'
   english_name: Basic German AII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174673,7 +174689,7 @@
 - class_id: 32L1012
   class_outline: この授業では、すでにドイツ語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2026-01-19 12:00:00'
+  data_update_date: '2026-11-06 20:46:41'
   english_name: Basic German BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174696,7 +174712,7 @@
 - class_id: 32L1022
   class_outline: この授業では、すでにドイツ語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:36:01'
+  data_update_date: '2026-11-06 20:47:42'
   english_name: Basic German BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174719,7 +174735,7 @@
 - class_id: 32L1032
   class_outline: この授業では、すでにドイツ語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:36:29'
+  data_update_date: '2026-11-06 20:48:21'
   english_name: Basic German BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174742,7 +174758,7 @@
 - class_id: 32L2012
   class_outline: この授業では、すでにドイツ語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:37:00'
+  data_update_date: '2026-11-06 20:49:31'
   english_name: Basic German BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174765,7 +174781,7 @@
 - class_id: 32L3012
   class_outline: この授業では、すでにドイツ語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2025-12-09 14:29:55'
+  data_update_date: '2026-11-06 20:50:36'
   english_name: Basic German BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174788,7 +174804,7 @@
 - class_id: 32L4012
   class_outline: この授業では、すでにドイツ語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:39:21'
+  data_update_date: '2026-11-06 20:51:25'
   english_name: Basic German BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174811,7 +174827,7 @@
 - class_id: 32L5012
   class_outline: この授業では、すでにドイツ語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2026-10-05 11:26:20'
+  data_update_date: '2026-11-06 20:52:19'
   english_name: Basic German BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -174834,7 +174850,7 @@
 - class_id: 32L6012
   class_outline: この授業では、すでにドイツ語の初歩的な文法やコミュニケーション能力を身につけている学習者を対象に、さらなる実践的なコミュニケーション能力の伸長を図りながら、2年次以降の継続的な学習に十分な語学能力の獲得を目指す。
   credits: '1.0'
-  data_update_date: '2025-08-19 11:40:19'
+  data_update_date: '2026-11-06 20:52:56'
   english_name: Basic German BII
   enrollment_application: △
   enrollment_requirements: ''
@@ -188519,7 +188535,7 @@
 - class_id: '8331353'
   class_outline: 秋学期ないし春季休業期間に国内を共修の場とし、本学ないし海外協定校の外国人学生と本学の日本人大学院生、国内企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
-  data_update_date: '2026-10-27 10:48:35'
+  data_update_date: '2026-11-05 09:44:51'
   english_name: Problem solving through multicultural co-learning (in Japan) I-B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -188534,7 +188550,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '8331353'
-  teaching_staff: 福嶋 美佐子,小野 裕子,阿部 淳一 ピーター,MENA Aaron,LIU Soraya
+  teaching_staff: 福嶋 美佐子,小野 裕子,阿部 淳一 ピーター,MENA Aaron,LIU Soraya,野村 名可男
 - class_id: '8331403'
   class_outline: 春学期ないし夏季休業期間に海外協定校等を共修の場とし、本学の日本人学生と現地学生、海外企業等が参加し、地球規模課題などの解決を図るための多文化共修を行う。これにより、グローバルな環境下で文化や専門分野の相違を超えて多彩なステークホルダーと協働し、課題の発見・分析・解決に挑むスキルとマインドセットを習得する。
   credits: '1.0'
@@ -188591,8 +188607,7 @@
   short_term_students_requirements: ''
   standard_course_year: 1 - 4
   subject_code: '8331453'
-  teaching_staff: 福嶋 美佐子,朝倉 雅史,田中 怜,松原 康介,森尾 貴広,MENA Aaron,LIU Soraya,ゲオンゾン レスター カンケ,入江
-    賢児,石賀 康博
+  teaching_staff: 福嶋 美佐子,朝倉 雅史,田中 怜,松原 康介,森尾 貴広,MENA Aaron,LIU Soraya,入江 賢児,石賀 康博
 - class_id: '8333204'
   class_outline: 日本語の歴史、方言などの様々なジャンルや目的の日本語に触れ、日本語に対する知識を深める。現代日本社会の特徴、魅力、課題を、日本語を通じて、日本人学生には外国語力としての発信力と多文化理解、留学生には日本理解を通じての母文化の理解を深めることで、アカデミックな国際交流を深化させる。
   credits: '1.0'
@@ -190270,7 +190285,7 @@
 - class_id: '9451001'
   class_outline: 高等学校までに学ぶ数学を題材に,より高い立場から数学における論理構成の方法,理論の拡張と体系化の方法を,具体的な事例の検討を通して学ぶ。現在の学校数学では扱われていない凹四角形やたこ形のような図形を多角形のなかに位置づける活動を通して公理,公準,定義の重要性を考えるとともに,演算の可能性を広げるという立場から数の範囲を拡大していくなかでの代数的構造の位置を検討する。また、Geogebra等のソフトについて、効果的な活用を検討する。
   credits: '1.0'
-  data_update_date: '2026-02-06 11:54:09'
+  data_update_date: '2026-11-06 16:13:48'
   english_name: Mathematics for Mathematics Teachers
   enrollment_application: △
   enrollment_requirements: ''
@@ -190280,7 +190295,9 @@
   period: '木1
 
     集中'
-  remarks: '対面
+  remarks: '2/6
+
+    対面
 
     秋C木1限、秋C集中2-6限(1日間)'
   requirement_subject_name: 数学教育内容論
@@ -193621,7 +193638,7 @@
 - class_id: AA21703
   class_outline: 本学の協定校であるホーチミン市師範大学において、ベトナム語の基礎を集中的に学ぶとともに、体験学習を通してベトナムの社会や文化について理解を深める。
   credits: '3.0'
-  data_update_date: '2025-01-21 17:47:34'
+  data_update_date: '2026-11-04 15:59:43'
   english_name: Study Abroad in Vietnam
   enrollment_application: ×
   enrollment_requirements: ''
@@ -195281,7 +195298,7 @@
 - class_id: AB62G72
   class_outline: 日本倫理思想史上で重要な古典文献を原典で講読する。
   credits: '1.0'
-  data_update_date: '2025-12-15 15:04:23'
+  data_update_date: '2026-11-07 00:47:55'
   english_name: Seminar in Ethics IV-a
   enrollment_application: ''
   enrollment_requirements: ''
@@ -195304,7 +195321,7 @@
 - class_id: AB62G82
   class_outline: 日本倫理思想史上で重要な古典文献を原典で講読する。
   credits: '1.0'
-  data_update_date: '2025-12-15 15:04:44'
+  data_update_date: '2026-11-07 00:48:06'
   english_name: Seminar in Ethics IV-b
   enrollment_application: ''
   enrollment_requirements: ''
@@ -196364,7 +196381,7 @@
 - class_id: AB70C11
   class_outline: 「草原と中華の関係史」前編:農耕の始まりから12世紀まで。
   credits: '1.0'
-  data_update_date: '2025-01-17 08:28:12'
+  data_update_date: '2026-11-06 17:12:42'
   english_name: Introduction to Chinese History-a
   enrollment_application: ''
   enrollment_requirements: ''
@@ -196383,7 +196400,7 @@
 - class_id: AB70C21
   class_outline: 「草原と中華の関係史」後編:13世紀から現在まで。
   credits: '1.0'
-  data_update_date: '2025-01-16 12:01:56'
+  data_update_date: '2026-11-06 17:13:11'
   english_name: Introduction to Chinese History-b
   enrollment_application: ''
   enrollment_requirements: ''
@@ -197647,7 +197664,7 @@
 - class_id: AB73A12
   class_outline: 『清実録』の講読を通して漢文史料の基礎的な読解能力を身につける。全履修生が各々の担当部分についてレジュメを作成し報告を行う。『大漢和辞典』および『中日大辞典』の使用が最低限のノルマとして課される。
   credits: '1.0'
-  data_update_date: '2025-10-16 15:44:29'
+  data_update_date: '2026-11-06 17:18:30'
   english_name: Sources of Chinese History I-a
   enrollment_application: ''
   enrollment_requirements: ''
@@ -197670,7 +197687,7 @@
 - class_id: AB73A22
   class_outline: 『清実録』の講読を通して漢文史料の読解能力を実践的な水準に高める。全履修生が各々の担当部分についてレジュメを作成し報告を行う。『大漢和辞典』および『中日大辞典』の使用が最低限のノルマとして課される。
   credits: '1.0'
-  data_update_date: '2026-01-13 13:42:42'
+  data_update_date: '2026-11-06 17:19:29'
   english_name: Sources of Chinese History I-b
   enrollment_application: ''
   enrollment_requirements: ''
@@ -197739,7 +197756,7 @@
 - class_id: AB73A52
   class_outline: 『石渠余紀』の対外貿易関係記事の講読を通して漢文史料の基礎的な読解能力を身につける。全履修生が各々の担当部分についてレジュメを作成し報告を行う。「愛知大学中国語語彙データベース」等の使用が最低限のノルマとして課される。
   credits: '1.0'
-  data_update_date: '2026-04-06 14:51:06'
+  data_update_date: '2026-11-06 17:19:46'
   english_name: Sources of Chinese History III-a
   enrollment_application: ''
   enrollment_requirements: ''
@@ -197760,7 +197777,7 @@
 - class_id: AB73A62
   class_outline: 『石渠余紀』の対外貿易関係記事の講読を通して漢文史料の読解能力を実践的な水準に高める。全履修生が各々の担当部分についてレジュメを作成し報告を行う。「愛知大学中国語語彙データベース」等の使用が最低限のノルマとして課される。
   credits: '1.0'
-  data_update_date: '2026-04-06 14:51:33'
+  data_update_date: '2026-11-06 17:19:56'
   english_name: Sources of Chinese History III-b
   enrollment_application: ''
   enrollment_requirements: ''
@@ -201180,7 +201197,7 @@
 - class_id: AB90F11
   class_outline: ことばの一定の形式(音調・強勢も含む)に対して意味がどのような規則性で対応するかという問題について、文法化などの通時的変化も考慮しながら検討する。特に、高校までに習った英文法の知識をもとに扱える現象を中心に概観し、英語の意味理解を深めるとともに、意味研究の面白さを伝える。
   credits: '1.0'
-  data_update_date: '2025-12-17 17:04:51'
+  data_update_date: '2026-11-02 14:22:28'
   english_name: Introduction to English Linguistics-a
   enrollment_application: ''
   enrollment_requirements: ''
@@ -201205,7 +201222,7 @@
 - class_id: AB90F21
   class_outline: 英語の統語的特性および形態的特性を、日本語や古い英語と対比させながら概観し、形式が語順などの統語面や形態などの語彙面にどのように反映されているかについて考える。また、英語の方言や多様性、他言語との接触についても検討し、国際共通語としての姿を理解する。
   credits: '1.0'
-  data_update_date: '2026-02-03 11:46:18'
+  data_update_date: '2026-11-02 14:24:58'
   english_name: Introduction to English Linguistics-b
   enrollment_application: ''
   enrollment_requirements: ''
@@ -203051,7 +203068,7 @@
 - class_id: AB95A11
   class_outline: 理論言語学(主に生成文法理論)の観点で、体系的で魅力的な文法研究の動向を探る。とりわけ、英語を中心に言語の基本的な構造について考察する。
   credits: '1.0'
-  data_update_date: '2025-12-06 15:18:45'
+  data_update_date: '2026-11-02 14:26:37'
   english_name: English Grammar and Syntax (1)-a
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -203074,7 +203091,7 @@
 - class_id: AB95A21
   class_outline: 理論言語学(主に生成文法理論)の観点で、体系的で魅力的な文法研究の動向を探る。とりわけ、英語を中心として、言語にみられる要素の依存関係について考察する。
   credits: '1.0'
-  data_update_date: '2025-12-09 08:43:03'
+  data_update_date: '2026-11-02 14:27:41'
   english_name: English Grammar and Syntax (1)-b
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -203189,7 +203206,7 @@
 - class_id: AB95A71
   class_outline: 身近な英語表現を基にして、意味論・語用論研究の基礎(射程・目標・方法・意義・成果など)を具体的に学ぶ。随所で対応する日本語表現との比較・対照をしながら、日英語の共通点と相違点についても考察する。
   credits: '1.0'
-  data_update_date: '2025-12-06 15:21:21'
+  data_update_date: '2026-11-04 13:01:38'
   english_name: English Semantics and Pragmatics (2)-a
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -203212,7 +203229,7 @@
 - class_id: AB95A81
   class_outline: 最近の意味論・語用論研究の動向を把握するとともに、具体的な言語現象の検討を通して、言語と意味・認知の関係について考察する。
   credits: '1.0'
-  data_update_date: '2025-12-06 15:22:29'
+  data_update_date: '2026-11-02 14:32:18'
   english_name: English Semantics and Pragmatics (2)-b
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -203235,7 +203252,7 @@
 - class_id: AB95B11
   class_outline: 英語音韻論を理解するための基礎として、英語音声学について学ぶ。
   credits: '1.0'
-  data_update_date: '2025-12-06 15:23:13'
+  data_update_date: '2026-11-02 14:33:32'
   english_name: English Phonology and Morphology (1)-a
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -203256,7 +203273,7 @@
 - class_id: AB95B21
   class_outline: 英語音韻論に関する基本的概念と理論的枠組を広範に学ぶ。
   credits: '1.0'
-  data_update_date: '2025-12-06 15:23:45'
+  data_update_date: '2026-11-02 14:34:17'
   english_name: English Phonology and Morphology (1)-b
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -203325,7 +203342,7 @@
 - class_id: AB95C11
   class_outline: 言語学の入門レベルの英文テキストの読解を通して、英語で書かれた学術論文を正確に読む力を養いながら、言語学の基礎知識と科学的研究の方法論を学ぶ。
   credits: '1.0'
-  data_update_date: '2025-12-17 12:23:28'
+  data_update_date: '2026-11-02 14:35:57'
   english_name: Readings in English Linguistics (1)-a
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -203350,7 +203367,7 @@
 - class_id: AB95C21
   class_outline: 春学期に引き続き、言語学の入門レベルの英文テキストの読解を通して、英語で書かれた学術論文を正確に読む力を養いながら、言語学の基礎知識と科学的研究の方法論を学ぶ。
   credits: '1.0'
-  data_update_date: '2025-12-06 15:29:10'
+  data_update_date: '2026-11-04 12:57:17'
   english_name: Readings in English Linguistics (1)-b
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -203419,7 +203436,7 @@
 - class_id: AB95C51
   class_outline: 言語学の入門レベルの英文テキストの読解を通して、英語で書かれた学術論文を正確に読む力を養いながら、言語学の基礎知識と科学的研究の方法論を学ぶ。
   credits: '1.0'
-  data_update_date: '2025-12-12 16:46:08'
+  data_update_date: '2025-12-06 15:30:39'
   english_name: Readings in English Linguistics (3)-a
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -203428,8 +203445,6 @@
   name: 英語論文講読(3)-a
   period: ''
   remarks: '履修制限を設けることがある。開講学期は開講年度により異なる(令和7年度は秋ABモジュール)。
-
-    2026年度より4年おき開講。
 
     2026年度開講せず。
 
@@ -203469,7 +203484,7 @@
 - class_id: AB95C81
   class_outline: 言語学の入門レベルの英文テキストの読解を通して、英語で書かれた学術論文を正確に読む力を養いながら、言語学の基礎知識と科学的研究の方法論を学ぶ。
   credits: '1.0'
-  data_update_date: '2026-10-05 15:40:02'
+  data_update_date: '2026-11-05 11:27:43'
   english_name: Readings in English Linguistics (4)-b
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -203479,7 +203494,7 @@
   period: 月4
   remarks: '履修制限を設けることがある。開講学期は開講年度により異なる(令和8年度は秋ABモジュール)。
 
-    2026年度より4年おき開講。
+    2026年度より3年おき開講。
 
     対面'
   requirement_subject_name: 英語論文講読(4)-b
@@ -203538,7 +203553,7 @@
 - class_id: AB95E32
   class_outline: 英語で書かれた言語学(主に意味論)のテキストを正確に読み解く訓練をしながら、言語学の基礎知識と研究の方法論を学ぶ。
   credits: '1.0'
-  data_update_date: '2025-12-06 15:15:45'
+  data_update_date: '2026-11-02 14:50:10'
   english_name: Seminar in English Linguistics (2)-a
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -203563,7 +203578,7 @@
 - class_id: AB95E42
   class_outline: 春学期に引き続き、英語で書かれた言語学(主に意味論)のテキストを正確に読み解く訓練をしながら、言語学の基礎知識と研究の方法論を学ぶ。
   credits: '1.0'
-  data_update_date: '2025-12-06 15:16:35'
+  data_update_date: '2026-11-02 14:51:18'
   english_name: Seminar in English Linguistics (2)-b
   enrollment_application: △
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -203688,7 +203703,7 @@
 - class_id: AB95J12
   class_outline: 言語学の論文を英語で書くための訓練を行う(基礎編)。
   credits: '1.0'
-  data_update_date: '2026-01-19 23:35:37'
+  data_update_date: '2026-11-02 14:53:38'
   english_name: Thesis-Writing in English Linguistics (Seminar)-a
   enrollment_application: ×
   enrollment_requirements: ''
@@ -203709,7 +203724,7 @@
 - class_id: AB95J22
   class_outline: 言語学の論文を英語で書くための訓練を行う(応用編)。
   credits: '1.0'
-  data_update_date: '2025-12-26 14:44:29'
+  data_update_date: '2026-11-02 14:54:26'
   english_name: Thesis-Writing in English Linguistics (Seminar)-b
   enrollment_application: ×
   enrollment_requirements: ''
@@ -203730,7 +203745,7 @@
 - class_id: AB95K12
   class_outline: 英語学の卒業論文を書くための指導を行う(基本編)。
   credits: '2.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-11-02 14:55:46'
   english_name: Studies in English Linguistics-a
   enrollment_application: ×
   enrollment_requirements: ''
@@ -203751,7 +203766,7 @@
 - class_id: AB95K22
   class_outline: 英語学の卒業論文を書くための指導を行う(実践編)。
   credits: '2.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-11-02 14:56:32'
   english_name: Studies in English Linguistics-b
   enrollment_application: ×
   enrollment_requirements: ''
@@ -203772,7 +203787,7 @@
 - class_id: AB95K38
   class_outline: 英語学に関する卒業論文。
   credits: '6.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-11-02 14:57:37'
   english_name: Graduation Thesis (English Linguistics)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -204409,7 +204424,7 @@
 
     ・対照言語論の基礎を学び、併せて言語の普遍性と個別性について考察を行う。'
   credits: '1.0'
-  data_update_date: '2025-02-21 18:43:15'
+  data_update_date: '2026-11-02 14:48:19'
   english_name: Comparative Linguistics I-a
   enrollment_application: ''
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -213150,6 +213165,31 @@
   standard_course_year: 1 - 4
   subject_code: AC66212
   teaching_staff: 吉原 ゆかり
+- class_id: AC66222
+  class_outline: 韓国と日本の多文化共修活動。韓国・全州から本学を訪問する全州大学校学部生とともに、本学を拠点とし多文化共修活動を行う。
+  credits: '1.0'
+  data_update_date: '2026-11-04 15:22:29'
+  english_name: International Seminar in Comparative Culture XII
+  enrollment_application: ×
+  enrollment_requirements: ''
+  method: '2'
+  module: 秋C
+  name: 比較文化国際演習XII
+  period: 集中
+  remarks: '今年度の卒業予定者は履修不可
+
+    英語で授業。
+
+    1/19-28
+
+    対面(オンライン併用型)'
+  requirement_subject_name: 比較文化国際演習XII
+  room: ''
+  short_term_students_application: ×
+  short_term_students_requirements: ''
+  standard_course_year: 1 - 4
+  subject_code: AC66222
+  teaching_staff: 吉原 ゆかり
 - class_id: AC67002
   class_outline: 日本・アジア領域に所属して卒業論文を執筆するために、各自の問題意識を深めるとともに、研究の対象・方法を考える。履修にあたっては各コース世話人教員の指示に従うこと。
   credits: '1.0'
@@ -214819,7 +214859,7 @@
 - class_id: AE13G92
   class_outline: 中等教育の国語科でよく扱われる文学教材を中心にして、その内容や授業方法について考察する。教員免許を取得して実際に国語科教員になることを熱望する人材のみ受講していただきたい。
   credits: '1.0'
-  data_update_date: '2026-01-14 12:55:17'
+  data_update_date: '2026-11-04 16:25:07'
   english_name: Seminar on Japanese Language Teaching and Japanese Literature
   enrollment_application: ×
   enrollment_requirements: ''
@@ -215068,7 +215108,7 @@
 - class_id: AE14C23
   class_outline: マレーシアの中等教育機関及びマレーシア工科大学にて、3週間、日本語を教える。
   credits: '3.0'
-  data_update_date: '2026-10-17 15:30:57'
+  data_update_date: '2026-11-04 16:25:49'
   english_name: International Practicum in Japanese Language Education
   enrollment_application: △
   enrollment_requirements: ''
@@ -215388,7 +215428,7 @@
 - class_id: AE14G53
   class_outline: 今日、日本の地域社会を取り巻く「まちづくり」という現象は、観光という大きな流れと不可分に結びついている。この実習ではまちづくりに焦点を当て、特に現地での聞き取りからデータ収集し、レポートをまとめるという一連の作業を通して、フィールド調査の基礎を実践的に学ぶ。
   credits: '3.0'
-  data_update_date: '2026-10-05 23:19:11'
+  data_update_date: '2026-11-04 16:27:50'
   english_name: Fieldwork Practicum in Japanese Culture I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -215411,7 +215451,7 @@
 - class_id: AE14G63
   class_outline: 今日、日本の地域社会を取り巻く「まちづくり」という現象は、観光という大きな流れと不可分に結びついている。この実習ではまちづくりに焦点を当て、特に現地での聞き取りからデータ収集し、レポートをまとめるという一連の作業を通して、フィールド調査の基礎を実践的に学ぶ。
   credits: '3.0'
-  data_update_date: '2026-10-05 23:19:24'
+  data_update_date: '2026-11-04 16:28:00'
   english_name: Fieldwork Practicum in Japanese Culture II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -216204,7 +216244,7 @@
 - class_id: AE56A41
   class_outline: 近現代日本における多文化社会の形成と変遷について歴史学の視点から考察する。
   credits: '1.0'
-  data_update_date: '2026-10-17 15:31:48'
+  data_update_date: '2026-11-04 16:24:09'
   english_name: History and Diversity
   enrollment_application: ''
   enrollment_requirements: ''
@@ -216820,7 +216860,7 @@
 - class_id: BB11011
   class_outline: 本講義では、近代社会の歩みとともに誕生、発展してきた社会学という学問について、基礎的な概念や理論、問いの立て方について概説する。社会学的な思考方法を身につけ、社会を生きる自らの経験を再帰的に検討する力を養い、社会問題への想像力を高め、社会学的な観点から検討できるようになることを目標とする。
   credits: '2.0'
-  data_update_date: '2026-01-15 08:52:24'
+  data_update_date: '2026-11-02 10:34:30'
   english_name: Introduction to Sociology
   enrollment_application: △
   enrollment_requirements: ''
@@ -216845,7 +216885,7 @@
 - class_id: BB11021
   class_outline: 本講義では、第一に現代社会がどのような趨勢にあるのかを解説する。グローバル化、個人化、リスク社会化、液状化、脱工業化などをはじめ様々な社会変動が生じている。現代社会が従来の社会とどのように異なっているのか、またこの先どうなるのかを考えることを目指す。第二に、現代社会のより身近なトピックを扱いながら、個々の学生たちが、現代社会の多様な問題を的確に把握・考察できるようになることを目指す。
   credits: '2.0'
-  data_update_date: '2026-01-14 10:45:02'
+  data_update_date: '2026-11-02 10:43:42'
   english_name: Modern Society
   enrollment_application: △
   enrollment_requirements: 備考に記載
@@ -216998,6 +217038,27 @@
   short_term_students_requirements: ''
   standard_course_year: 2 - 4
   subject_code: BB11291
+  teaching_staff: ''
+- class_id: BB11331
+  class_outline: 本授業は、人間と自然・環境との相互作用について社会学的な研究を紹介するとともに、里山をめぐる具体的な事例から、近現代社会において環境問題や地域社会のあり方がどのように問われてきたのかを検討していく。
+  credits: '2.0'
+  data_update_date: '2026-11-04 12:03:40'
+  english_name: Environmental Sociology
+  enrollment_application: ×
+  enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
+  method: '1'
+  module: ''
+  name: 環境社会学
+  period: ''
+  remarks: '2026年度開講せず。
+
+    対面'
+  requirement_subject_name: 環境社会学
+  room: ''
+  short_term_students_application: △
+  short_term_students_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
+  standard_course_year: 2 - 4
+  subject_code: BB11331
   teaching_staff: ''
 - class_id: BB11361
   class_outline: 近現代社会を対象とする社会学の研究において、歴史を検討することは重要なアプローチのひとつとなってきた。本講義では、近現代日本におけるセクシュアリティの歴史に着目し、歴史社会学的な研究がどのように展開されてきたかを検討するとともに、具体的な事例から様々な現代社会における課題とのつながりを考察する。
@@ -217182,7 +217243,7 @@
 - class_id: BB11571
   class_outline: 都市空間を把握するための基礎的な分析視角や社会理論をおさえながら、グローバルな流動化の影響を色濃く受ける現代の都市/地域のいくつかの領域(観光、商業、居住など)について考察してゆく。
   credits: '2.0'
-  data_update_date: '2024-12-16 14:10:28'
+  data_update_date: '2026-11-02 10:51:44'
   english_name: Urban Sociology
   enrollment_application: ''
   enrollment_requirements: ''
@@ -217247,7 +217308,7 @@
 - class_id: BB11641
   class_outline: この授業では、家族社会学の領域における基本的概念や考え方を学ぶとともに、現代社会における家族および家族をめぐる状況を各種データをふまえながら論じる。家族とは普遍的なものではなく、社会構造や法律、政治、経済といった外的要因から影響を受け、つねに変化し続けてきた/いるものであることを理解し、家族をめぐる社会的諸現象を社会学的に論じられるようになることを目指す。
   credits: '2.0'
-  data_update_date: '2025-12-05 17:18:24'
+  data_update_date: '2026-11-02 10:54:07'
   english_name: Sociology of Family
   enrollment_application: ''
   enrollment_requirements: ''
@@ -217268,7 +217329,7 @@
 - class_id: BB11651
   class_outline: 「LGBTQ」「性の多様性」が盛んにメディアなどで取りあげられている現在においても、その理解にはさまざまな誤解やステレオタイプが見出せる。この授業では、ジェンダー・セクシュアリティの社会学やクィア・スタディーズの視座から、同性愛者、バイセクシュアル、アセクシュアル、トランスジェンダー、ノンバイナリーなど性において社会的マイノリティに置かれたアイデンティティの多様性や、社会的障壁となる性をめぐる日常的な規範、当事者による主体的な活動の蓄積を中心に、適切な知識を身につけ、マジョリティ中心の社会の仕組みを問いなおすことをめざす。
   credits: '1.0'
-  data_update_date: '2026-05-29 11:26:50'
+  data_update_date: '2026-11-02 11:47:58'
   english_name: Sociology of Identity
   enrollment_application: ×
   enrollment_requirements: ''
@@ -217506,7 +217567,7 @@
 - class_id: BB11942
   class_outline: 社会学主専攻で卒論執筆予定の学生に対し、社会学的探究を進める上で必要となる社会学的文献の選び方・読み方、論文の書き方の習得を目指す。
   credits: '1.0'
-  data_update_date: '2025-12-17 10:46:36'
+  data_update_date: '2026-11-02 10:56:41'
   english_name: Sociological Method B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -217619,7 +217680,7 @@
 - class_id: BB16152
   class_outline: フェミニズムおよびジェンダーに関する社会学的課題をテーマに、主要文献の講読を行う。あわせて、論理的な文章構成や引用方法など、学術的な文章を書くための基本的スキルの修得をめざす。
   credits: '3.0'
-  data_update_date: '2025-12-06 11:34:55'
+  data_update_date: '2026-11-02 10:59:16'
   english_name: Seminar on Sociology Ic
   enrollment_application: ×
   enrollment_requirements: ''
@@ -217906,7 +217967,7 @@
 - class_id: BB16632
   class_outline: メディアやデザインをテーマにした文化社会学の演習を行う。この演習では文献講読と質的調査(雑誌分析やフィールドワーク)を行う。特にメディアやデザインの歴史的な変遷と現代的な動向の関係に注目する。
   credits: '3.0'
-  data_update_date: '2025-12-06 12:49:58'
+  data_update_date: '2026-11-02 11:26:18'
   english_name: Seminar on Sociology VIa
   enrollment_application: ×
   enrollment_requirements: ''
@@ -217950,7 +218011,7 @@
 - class_id: BB16652
   class_outline: メディアやデザインをテーマにした文化社会学の演習を行う。この演習では文献講読と質的調査(雑誌分析やフィールドワーク)を行う。特にメディアやデザインの産業的な構造と歴史的な変遷の関係に注目する。
   credits: '3.0'
-  data_update_date: '2025-12-06 13:13:24'
+  data_update_date: '2026-11-02 11:27:04'
   english_name: Seminar on Sociology VIc
   enrollment_application: ×
   enrollment_requirements: ''
@@ -218092,7 +218153,7 @@
 - class_id: BB16952
   class_outline: 社会的不平等を扱う社会階層論や貧困・社会的排除に関する実証研究をベースとしたテキスト群を輪読する。教育/労働/福祉といった諸領域の交差・関係を視野に収めた検討をおこなう。
   credits: '3.0'
-  data_update_date: '2025-12-06 13:06:03'
+  data_update_date: '2026-11-06 14:27:07'
   english_name: Seminar on Sociology IXc
   enrollment_application: ×
   enrollment_requirements: ''
@@ -218136,7 +218197,7 @@
 - class_id: BB19143
   class_outline: フェミニズムおよびジェンダーに関する社会学的課題をテーマに、質的社会調査を実施する。インタビューや文献・資料収集などを通してデータを収集し、成形、分析、考察へと進む一連のプロセスを学ぶ。調査を通じて、社会現象を自らの問いとして捉え、質的調査の基礎的な技能を身につけることを目指す。
   credits: '6.0'
-  data_update_date: '2026-01-15 13:49:25'
+  data_update_date: '2026-11-02 11:30:55'
   english_name: Sociological Survey Ib
   enrollment_application: ×
   enrollment_requirements: ''
@@ -218203,7 +218264,7 @@
 - class_id: BB19243
   class_outline: ''
   credits: '6.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-11-02 11:32:02'
   english_name: Sociological Survey IIb
   enrollment_application: ×
   enrollment_requirements: ''
@@ -218228,7 +218289,7 @@
 - class_id: BB19253
   class_outline: ''
   credits: '6.0'
-  data_update_date: '2024-11-05 18:19:25'
+  data_update_date: '2026-11-02 11:32:53'
   english_name: Sociological Survey IIc
   enrollment_application: ×
   enrollment_requirements: ''
@@ -222494,7 +222555,7 @@
 - class_id: BC11801
   class_outline: 本講義では、第一に現代社会がどのような趨勢にあるのかを解説する。グローバル化、個人化、リスク社会化、液状化、脱工業化などをはじめ様々な社会変動が生じている。現代社会が従来の社会とどのように異なっているのか、またこの先どうなるのかを考えることを目指す。第二に、現代社会のより身近なトピックを扱いながら、個々の学生たちが、現代社会の多様な問題を的確に把握・考察できるようになることを目指す。
   credits: '2.0'
-  data_update_date: '2026-01-14 10:45:02'
+  data_update_date: '2026-11-02 10:43:42'
   english_name: Modern Society
   enrollment_application: △
   enrollment_requirements: 備考に記載
@@ -232555,7 +232616,7 @@
 - class_id: CE11011
   class_outline: 附属視覚特別支援学校、聴覚特別支援学校、桐が丘特別支援学校、大塚特別支援学校、及び久里浜特別支援学校の見学・授業参観をとおして、障害のある子どもと彼らへの支援の実際について理解を深める。
   credits: '2.0'
-  data_update_date: '2026-01-14 11:12:43'
+  data_update_date: '2026-11-06 16:34:00'
   english_name: Introduction to Practices of Disabilities Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -232578,7 +232639,7 @@
 - class_id: CE11021
   class_outline: 障害および障害のある人々にかかわる問題について、歴史、政治、科学の発展、教育や福祉など幅広い視点から考えていくことで、「障害とは何か」について基礎的な知識を得る。
   credits: '2.0'
-  data_update_date: '2023-02-08 16:35:03'
+  data_update_date: '2026-11-06 16:35:46'
   english_name: Lectures on Principles of Disabilities Problems
   enrollment_application: ''
   enrollment_requirements: ''
@@ -232597,7 +232658,7 @@
 - class_id: CE11101
   class_outline: 障害科学研究にかかわる基礎知識と技術について講義する。
   credits: '2.0'
-  data_update_date: '2026-01-15 16:59:02'
+  data_update_date: '2026-11-06 16:36:49'
   english_name: Introduction to Method of Disability Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -232618,7 +232679,7 @@
 - class_id: CE11113
   class_outline: 障害科学研究にかかわる基礎知識と技術を体験的に修得するため,各種の実験と実習を行う。
   credits: '1.0'
-  data_update_date: '2026-02-04 13:52:14'
+  data_update_date: '2026-11-06 16:37:28'
   english_name: Practical Work in Disability Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -232723,7 +232784,7 @@
 - class_id: CE12014
   class_outline: 障害とは何か、障害と人間・社会についての考察を目的として,比較的易しいテキストを使用し,演習形式を取り入れた学習を行う。
   credits: '1.0'
-  data_update_date: '2026-01-30 13:00:21'
+  data_update_date: '2026-11-06 16:37:53'
   english_name: Seminar on Disabilities Sciences
   enrollment_application: ×
   enrollment_requirements: ''
@@ -233086,7 +233147,7 @@
 - class_id: CE21421
   class_outline: 聴覚障害のある幼児、児童又は生徒の聴覚器官の生理と病理及び心理的側面及び生理面の特徴並びにそれらの相互作用について理解し、幼児、児童又は生徒一人一人の聞こえや言語発達の状態等を理解するとともに、家庭や関係機関との連携について理解する。具体的には、聴覚障害教育・福祉に関連する聴覚器官の生理機能について、外耳、中耳、内耳、そして中枢聴覚系の概要とともに、聴覚障害教育・福祉に関連する聴覚活用を支援する上で必要な音響学および人工内耳の基礎について講述する。また、聴覚障害児の心理的発達に関する基礎的知識にふれ、聴覚障害と社会(環境)との相互作用の側面から、聴覚障害児の発達についての理解を深める。
   credits: '2.0'
-  data_update_date: '2026-03-18 11:42:20'
+  data_update_date: '2026-11-06 16:41:53'
   english_name: Psychology, Physiology and Pathology of Children with Deaf and Hard
     of Hearing
   enrollment_application: ''
@@ -233196,7 +233257,7 @@
 - class_id: CE21918
   class_outline: 関心のある研究テーマについてレビューレポートを作成する。この取り組みを通じてテーマに関連する教員への相談を重ね、次年度の「卒業研究II」の準備とする。
   credits: '2.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-11-06 16:42:43'
   english_name: Graduation Thesis I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -233217,7 +233278,7 @@
 - class_id: CE21928
   class_outline: 指導教員の指導の下で卒業研究を完成させる。
   credits: '4.0'
-  data_update_date: '2026-09-05 17:22:08'
+  data_update_date: '2026-11-06 16:43:59'
   english_name: Graduation Thesis II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -233244,7 +233305,7 @@
 - class_id: CE21948
   class_outline: ''
   credits: '4.0'
-  data_update_date: '2026-09-05 17:22:47'
+  data_update_date: '2026-11-06 16:44:51'
   english_name: Graduation Thesis II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -233286,7 +233347,7 @@
 - class_id: CE23011
   class_outline: 視覚障害児教育の基本的配慮事項と視覚障害児の指導法の概要について講述する。
   credits: '1.0'
-  data_update_date: '2026-06-02 08:53:41'
+  data_update_date: '2026-11-06 16:47:44'
   english_name: Education of the Children with Visual Impairment
   enrollment_application: ×
   enrollment_requirements: ''
@@ -233311,7 +233372,7 @@
 - class_id: CE23021
   class_outline: 視覚障害児の自立活動について、その意義、目的、内容、指導方法、指導計画、評価等について講述する。
   credits: '2.0'
-  data_update_date: '2026-06-02 08:53:14'
+  data_update_date: '2026-11-06 16:48:47'
   english_name: JIRITSU-KATSUDO for the Visually Impaired
   enrollment_application: ×
   enrollment_requirements: ''
@@ -233523,7 +233584,7 @@
 - class_id: CE24051
   class_outline: 聴覚活用における他の感覚情報との併用の効果、補聴器フィッティングの基礎について講述するとともに、近年の聴覚障害学校における聴覚補償による教育の現状と課題について講述する。
   credits: '1.0'
-  data_update_date: '2024-02-08 15:12:18'
+  data_update_date: '2026-11-06 16:49:20'
   english_name: Auditory Compensation for Person with Hearing Impairments
   enrollment_application: ''
   enrollment_requirements: ''
@@ -233590,7 +233651,7 @@
 - class_id: CE26011
   class_outline: 運動障害教育における今日の主要な教育課題として、障害の重度・重複化、多様化にともなう個別化した教育内容、教育方法、移行期支援、医療的ケアなどを取り上げる。内外の参考文献を通して講述する。その際に、歴史的視座から医療、福祉等の領域との連携のあり方についても論及する。
   credits: '1.0'
-  data_update_date: '2026-03-18 18:51:04'
+  data_update_date: '2026-11-06 16:49:50'
   english_name: Education of Children with Physical Disabilities
   enrollment_application: ''
   enrollment_requirements: ''
@@ -234089,7 +234150,7 @@
 - class_id: CE31291
   class_outline: 様々な機関や施設で相談援助に関わる専門職の役割と機能,専門職の職業倫理と倫理的ジレンマの解決方法,多職種・多機関連携におけるコーディネートとサービスマネジメントの役割,国際ソーシャルワークの現状と課題について概説する。
   credits: '2.0'
-  data_update_date: '2023-02-08 16:31:30'
+  data_update_date: '2026-11-06 16:52:44'
   english_name: Professional basis of Social Work practice II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -234131,7 +234192,7 @@
 - class_id: CE31401
   class_outline: (総論)社会福祉援助実践の方法論(=ソーシャルワーク論)の基礎となる援助の思想と歴史,援助(ケア)の視点と技法(援助実践モデルとアプローチ)について具体的な事例を活用しながら検討したい。さらに,対人援助職としてのあり方について問いかけながら,各自の相談援助の方法論を考える契機としたい。
   credits: '2.0'
-  data_update_date: '2024-01-23 12:56:17'
+  data_update_date: '2026-11-06 16:52:59'
   english_name: Theory and Methods of Social Work I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -234271,7 +234332,7 @@
 - class_id: CE31481
   class_outline: 医学に関する一般的な知識のうち、主として人の成長・発達と老化、身体構造と心身の機能、疾病の概要について講述する。
   credits: '1.0'
-  data_update_date: '2026-04-13 13:27:09'
+  data_update_date: '2026-11-06 16:53:36'
   english_name: Introduction to Medicine I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -234294,7 +234355,7 @@
 - class_id: CE31491
   class_outline: 医学に関する一般的な知識のうち、主として障害の概要、リハビリテーションの概要、国際生活機能分類(ICF)の基本的考え方と概要、健康のとらえ方について講述する。
   credits: '1.0'
-  data_update_date: '2026-04-13 13:27:55'
+  data_update_date: '2026-11-06 16:54:15'
   english_name: Introduction to Medicine II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -240772,7 +240833,7 @@
 - class_id: EC14212
   class_outline: 応用生命化学コースに関係する様々な分野の英文教科書・学術論文をテキストとした講読を通して,専門分野の英文読解能力を養う。さらに,国際会議での発表や英語学術論文を作成するための論理構成力・手法を学ぶ。
   credits: '1.0'
-  data_update_date: '2026-04-07 10:31:49'
+  data_update_date: '2026-11-04 15:47:40'
   english_name: English for Specialized Subjects II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -240793,7 +240854,7 @@
 - class_id: EC14222
   class_outline: 応用生命化学コースに関係する様々な分野の英文教科書・学術論文をテキストとした講読を通して,専門分野の英文読解能力を養う。さらに,国際会議での発表や英語学術論文を作成するための論理構成力・手法を学ぶ。
   credits: '1.0'
-  data_update_date: '2026-10-13 14:21:35'
+  data_update_date: '2026-11-04 15:51:10'
   english_name: English for Specialized Subjects II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -241907,7 +241968,7 @@
 - class_id: EC31041
   class_outline: わが国における蔬菜栽培の現状を概観し,蔬菜の種類・品種の特徴を述べ,育種・栽培技術,施設利用,作型などの現状について解説する。
   credits: '2.0'
-  data_update_date: '2026-01-28 16:16:10'
+  data_update_date: '2026-11-06 15:21:45'
   english_name: Vegetable Production
   enrollment_application: ''
   enrollment_requirements: ''
@@ -244084,7 +244145,7 @@
 - class_id: EC35091
   class_outline: 農産物や食品の物理・生化学的特性,健康機能性および加工流通のためのポストハーベスト・食品加工の技術を学習する。また食品の安全安心のための基礎知識やマネージメントシステム,関係法令や認証制度についても解説する。
   credits: '2.0'
-  data_update_date: '2026-10-13 17:50:45'
+  data_update_date: '2026-11-06 15:48:16'
   english_name: Food Safety Control and Quality Evaluation
   enrollment_application: ''
   enrollment_requirements: ''
@@ -244103,7 +244164,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: EC33661
-  teaching_staff: 粉川 美踏,北村 豊,ダス ネヴェス マルコス アントニオ,内海 真生
+  teaching_staff: 粉川 美踏,北村 豊,ダス ネヴェス マルコス アントニオ,内海 真生,BUI THI BAO CHAU
 - class_id: EC35101
   class_outline: 森林環境と人間社会の諸々の相互関係を社会科学的に追究する一環として,持続可能な地域森林管理(SFM)の主体形成の理論的枠組み(主として政治経済学、環境社会学および村落社会学等),実証研究の紹介およびSFM構築に向けた課題を検討する。
   credits: '2.0'
@@ -245373,7 +245434,7 @@
 - class_id: EE21552
   class_outline: 人文地理学・地誌学に関する卒業論文の課題設定と研究計画の立て方等を学ぶ。人文地理学または地誌学分野で卒業論文を作成しようとする者は、「人文地理学演習A・B」「地誌学演習A・B」「人文地理学・地誌学セミナーA・B」をあわせて履修すること。
   credits: '1.0'
-  data_update_date: '2025-12-24 16:33:42'
+  data_update_date: '2026-11-06 17:22:22'
   english_name: Seminar on Human Geography and Regional Geography C
   enrollment_application: ×
   enrollment_requirements: ''
@@ -245383,6 +245444,8 @@
   period: 集中
   remarks: 'オンライン(同時双方向型)と対面の併用。「人文地理学演習B(EE21372)」「地誌学演習B(EE21482)」を修得済みの者は履修できない。下記日程以外にもオリエンテーション等が実施される場合がある。
 
+    1/8,1/22,1/29
+
     対面'
   requirement_subject_name: 人文地理学・地誌学演習C
   room: ''
@@ -245390,7 +245453,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: EE21552
-  teaching_staff: 松井 圭介,呉羽 正昭,堤 純,山下 亜紀郎,久保 倫子
+  teaching_staff: 松井 圭介,呉羽 正昭,堤 純,山下 亜紀郎,久保 倫子,岩井 優祈
 - class_id: EE21681
   class_outline: さまざまな国の人々の暮らしや文化、歴史について特定の地理的環境と関連させて考察する。特に、ブラジル、カナダ、バングラデシュ、ベトナム、キルギス、モンゴル、ブータンなどの国における水環境と山岳地帯・高原地域に焦点をあてる。こうした知識から世界各地における多様な暮らしを比較的に分析する視野を涵養し、国際的視野を醸成する。
   credits: '1.0'
@@ -248940,7 +249003,7 @@
 - class_id: EG60671
   class_outline: 農産物や食品の物理・生化学的特性,健康機能性および加工流通のためのポストハーベスト・食品加工の技術を学習する。また食品の安全安心のための基礎知識やマネージメントシステム,関係法令や認証制度についても解説する。
   credits: '2.0'
-  data_update_date: '2026-10-13 17:50:45'
+  data_update_date: '2026-11-06 15:48:16'
   english_name: Food Safety Control and Quality Evaluation
   enrollment_application: ''
   enrollment_requirements: ''
@@ -248959,7 +249022,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: EC33661
-  teaching_staff: 粉川 美踏,北村 豊,ダス ネヴェス マルコス アントニオ,内海 真生
+  teaching_staff: 粉川 美踏,北村 豊,ダス ネヴェス マルコス アントニオ,内海 真生,BUI THI BAO CHAU
 - class_id: EG60681
   class_outline: "More than a century after Darwin and Mendel, and half a century\
     \ after the discovery of DNA, the idea that biology is dominated by genes is being\
@@ -256336,7 +256399,7 @@
 - class_id: FCC3144
   class_outline: 「量子力学II」に連続した科目であり、量子力学における摂動論、同種粒子理論、場の量子化(第二量子化)、散乱理論を学ぶ。講義に加え、十分な演習的学習を行う。
   credits: '3.0'
-  data_update_date: '2026-01-19 13:36:49'
+  data_update_date: '2026-11-03 00:49:32'
   english_name: Quantum mechanics III
   enrollment_application: ''
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -256481,7 +256544,7 @@
 - class_id: FCC3655
   class_outline: 専門分野に特有な英語表現,数式等の読み方,英語による口頭発表の仕方など専門分野に必要な英語力を身につける。
   credits: '2.0'
-  data_update_date: '2026-09-08 16:38:54'
+  data_update_date: '2026-11-04 08:32:05'
   english_name: English Seminar on Physics II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -256500,7 +256563,7 @@
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: FCC3655
-  teaching_staff: シューリー ピーター ヘンリー
+  teaching_staff: シューリー ピーター ヘンリー,江角 晋一
 - class_id: FCC3733
   class_outline: 素粒子物理学、原子核物理学、プラズマ物理学、物性物理学、宇宙物理学の中から精選された実験テーマに取り組むことにより現代物理学の理解を深め、各分野における実験研究の基礎を習得する。(1)「μ粒子の寿命測定とZ粒子の質量測定」、(2)「α線、β線、γ線の測定」、(3)「プラズマと原子過程、マイクロ波」、(4)「物質の磁性」、「半導体物理」、「低温実験・超伝導現象」、「X線回折と可視吸収」から2テーマ、(5)「宇宙観測」の計6テーマを行う。
   credits: '6.0'
@@ -256619,7 +256682,7 @@
 - class_id: FCC3801
   class_outline: 素粒子物理学を主に実験面から理解する。素粒子の分類や基本的相互作用の概説から始め、相互作用前後での保存量や実験で測定される物理量、質量、スピン、パリティ等の素粒子の基本的性質の測定法を論ずる。粒子加速器や粒子検出器についても言及する。
   credits: '1.0'
-  data_update_date: '2026-01-19 13:37:57'
+  data_update_date: '2026-11-04 09:46:54'
   english_name: Introductory elementary particle physics
   enrollment_application: ''
   enrollment_requirements: 受講前に授業担当教員に連絡し受講許可を得る事
@@ -263992,7 +264055,7 @@
 - class_id: FG10814
   class_outline: 力学1, 2, 3の続きとして、講義と演習を通じて、力学についての理解を深め定着を図る。講義には発展的な内容も含まれる。質点の力学、仕事とエネルギー、剛体の力学、解析力学、などを扱う。
   credits: '1.0'
-  data_update_date: '2023-12-22 10:34:33'
+  data_update_date: '2026-11-07 13:02:10'
   english_name: Advanced Dynamics
   enrollment_application: ×
   enrollment_requirements: ''
@@ -266870,7 +266933,7 @@
 - class_id: FG45611
   class_outline: 構造物や機械の自由振動と強制振動に関わる基礎理論を1質点系,多質点系,及び,連続体(弦,はり,膜)の順番で学習する.工学上重要な共振や振動モードの考え方を修得することがポイントとなる.また,ハミルトンの原理とラグランジュの方程式,及び,回転体の振動に関わる応用的な内容についても学習する.
   credits: '3.0'
-  data_update_date: '2023-12-28 14:07:36'
+  data_update_date: '2026-11-07 12:56:50'
   english_name: Theory of Vibration
   enrollment_application: ''
   enrollment_requirements: ''
@@ -267896,7 +267959,7 @@
 - class_id: FG55611
   class_outline: 構造物や機械の自由振動と強制振動に関わる基礎理論を1質点系,多質点系,及び,連続体(弦,はり,膜)の順番で学習する.工学上重要な共振や振動モードの考え方を修得することがポイントとなる.また,ハミルトンの原理とラグランジュの方程式,及び,回転体の振動に関わる応用的な内容についても学習する.
   credits: '3.0'
-  data_update_date: '2023-12-28 14:07:36'
+  data_update_date: '2026-11-07 12:56:50'
   english_name: Theory of Vibration
   enrollment_application: ''
   enrollment_requirements: ''
@@ -271255,7 +271318,7 @@
     will then cover Dirac notation and Hilbert spaces. The postulates of quantum mechanics
     will then be formalized and illustrated with examples.
   credits: '1.0'
-  data_update_date: '2024-10-11 11:33:12'
+  data_update_date: '2026-11-05 09:05:44'
   english_name: Quantum Mechanics I
   enrollment_application: △
   enrollment_requirements: ''
@@ -271281,7 +271344,7 @@
     an introduction to the physics of the hydrogen atom. Other topics covered include
     the density operator, the Bloch vector, and two-state systems.'
   credits: '1.0'
-  data_update_date: '2024-10-11 11:44:17'
+  data_update_date: '2026-11-05 09:06:46'
   english_name: Quantum Mechanics II
   enrollment_application: △
   enrollment_requirements: ''
@@ -271306,7 +271369,7 @@
     such as scattering, identical particles, addition of angular momentum, higher
     Z atoms, and the WKB approximation.
   credits: '1.0'
-  data_update_date: '2025-01-20 14:37:34'
+  data_update_date: '2026-11-05 09:07:53'
   english_name: Quantum Mechanics III
   enrollment_application: △
   enrollment_requirements: ''
@@ -271543,7 +271606,7 @@
     comparison with feedforward control. Finally, control system design is also treated
     for stabilization as well as better steady-state and transient performances. '
   credits: '2.0'
-  data_update_date: '2024-01-25 13:44:42'
+  data_update_date: '2026-11-05 09:20:42'
   english_name: Control Systems II
   enrollment_application: △
   enrollment_requirements: ''
@@ -271596,7 +271659,7 @@
     Topics include basic laws of fluids, analysis of irrotational flow and vortex,
     introduction to compressible flows and viscos flows.
   credits: '1.0'
-  data_update_date: '2023-05-23 12:02:25'
+  data_update_date: '2026-11-05 09:25:05'
   english_name: Fluid Dynamics
   enrollment_application: △
   enrollment_requirements: ''
@@ -271763,7 +271826,7 @@
     advisors chosen in PBL I. The students are expected to complete the research proposals
     for the full-scale research pursued in PBL III and PBL IV. '
   credits: '6.0'
-  data_update_date: '2025-11-02 12:13:16'
+  data_update_date: '2026-11-04 12:31:16'
   english_name: Interdisciplinary Engineering PBL II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -271818,7 +271881,7 @@
     are required, in addition to their undergraduate research thesis, to submit at
     least one refereed paper that must be accepted before completing PBL IV.
   credits: '6.0'
-  data_update_date: '2026-01-20 11:10:56'
+  data_update_date: '2026-11-05 09:34:30'
   english_name: Interdisciplinary Engineering PBL IV
   enrollment_application: ×
   enrollment_requirements: ''
@@ -271957,7 +272020,7 @@
 - class_id: FJ19101
   class_outline: 自身の研究成果を効果的に発表する方法を、学外の学会等での発表活動を通じて習得する。
   credits: '1.0'
-  data_update_date: '2023-12-06 17:09:15'
+  data_update_date: '2026-11-05 09:35:42'
   english_name: Research Paper Presentation Workshop in IDE I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -271980,7 +272043,7 @@
 - class_id: FJ19111
   class_outline: 自身の研究成果を効果的に発表する方法を、学外の学会等での発表活動を通じて習得する。
   credits: '1.0'
-  data_update_date: '2023-12-06 17:10:27'
+  data_update_date: '2026-11-05 09:36:15'
   english_name: Research Paper Presentation Workshop in IDE I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -272003,7 +272066,7 @@
 - class_id: FJ19121
   class_outline: 自身の研究成果を効果的に発表する方法を、学外の学会等での発表活動を通じて習得する。
   credits: '1.0'
-  data_update_date: '2023-12-06 17:14:53'
+  data_update_date: '2026-11-05 09:36:37'
   english_name: Research Paper Presentation Workshop in IDE II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -272026,7 +272089,7 @@
 - class_id: FJ19131
   class_outline: 自身の研究成果を効果的に発表する方法を、学外の学会等での発表活動を通じて習得する。
   credits: '1.0'
-  data_update_date: '2023-12-06 17:14:12'
+  data_update_date: '2026-11-05 09:37:04'
   english_name: Research Paper Presentation Workshop in IDE II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -272085,7 +272148,7 @@
     \ important tool for numerical linear algebra.\n No previous programming experience\
     \ is required."
   credits: '3.0'
-  data_update_date: '2026-10-28 16:15:08'
+  data_update_date: '2026-11-05 09:38:27'
   english_name: Linear Algebra II
   enrollment_application: △
   enrollment_requirements: ''
@@ -272212,7 +272275,7 @@
     Evaluation will be done through class quiz,  homework on regular basis, and final
     examinations.
   credits: '2.0'
-  data_update_date: '2023-02-13 18:43:55'
+  data_update_date: '2026-11-05 09:40:53'
   english_name: Probability and Statistics
   enrollment_application: △
   enrollment_requirements: ''
@@ -272247,7 +272310,7 @@
     in matter (the concepts of polarization and linear dielectrics), as well as electric
     fields due to polarized objects.
   credits: '3.0'
-  data_update_date: '2023-10-02 15:02:26'
+  data_update_date: '2026-11-05 09:43:36'
   english_name: Electromagnetism I
   enrollment_application: △
   enrollment_requirements: ''
@@ -272821,7 +272884,7 @@
 - class_id: GA12111
   class_outline: 本講義では、大規模なデータ解析および数理アルゴリズムを基盤とし、計算機によって知的かつ高度に情報処理を行う技術について、その基礎から応用まで幅広く学習する。
   credits: '1.0'
-  data_update_date: '2026-04-30 14:45:33'
+  data_update_date: '2026-11-04 18:52:58'
   english_name: Introduction to Information Science:Artificial Intelligence
   enrollment_application: ×
   enrollment_requirements: ''
@@ -272865,7 +272928,7 @@
 - class_id: GA12301
   class_outline: 情報科学への導入となる基礎理論から応用までを概説し、専門的科目への導入としての基礎知識を習得する。本科目は特に、システムを中心に専門性を習得する上での事前知識となる原理や技術、理論について説明する。
   credits: '1.0'
-  data_update_date: '2026-10-21 23:05:44'
+  data_update_date: '2026-11-04 18:58:48'
   english_name: Introduction to Information Science:Information Systems
   enrollment_application: ×
   enrollment_requirements: ''
@@ -272930,7 +272993,7 @@
 - class_id: GA13501
   class_outline: 情報メディア創成学類の専門領域としての各学問分野を概観する。前半5週では、メディアアート、グラフィックデザイン、メタデータ、データ工学とデータベース、音響・音楽情報処理、認知心理学、数理と情報技術などの学問分野を概観する。後半5週では、メディア・コンテンツ産業の潮流や社会的ニーズを理解するため、第一線で活躍するクリエータ、プロデューサ、エンジニアを講師にお招きし、最先端の創作活動や最新のビジネス動向を議論する。
   credits: '2.0'
-  data_update_date: '2025-02-13 17:37:20'
+  data_update_date: '2026-11-06 09:57:18'
   english_name: Introduction to Content Application
   enrollment_application: ×
   enrollment_requirements: ''
@@ -273203,7 +273266,7 @@
 - class_id: GA15241
   class_outline: 行列の基礎概念を学び、それを基に行列演算、連立1次方程式の解法、行列式の性質や展開について講義と演習を行なう。
   credits: '2.0'
-  data_update_date: '2026-08-25 07:25:38'
+  data_update_date: '2026-11-06 15:11:26'
   english_name: Linear Algebra A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -273291,7 +273354,7 @@
 - class_id: GA15341
   class_outline: 解析学の基礎として,実数,関数,数列ならびに連続性や極限などの基本概念と,1変数関数の微分法および積分法について講義を行う。
   credits: '2.0'
-  data_update_date: '2026-10-14 17:09:59'
+  data_update_date: '2026-11-06 15:14:06'
   english_name: Calculus A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -273816,7 +273879,7 @@
 - class_id: GB11964
   class_outline: コンピュータの構成およびシステムプログラミングの基礎について講義する。コンピュータとプログラミングを命令セットアーキテクチャやシステムプログラミングインタフェースのレベルで説明する。扱う内容には命令実行の仕組み、演算命令、制御命令、システムコール、標準ライブラリなどが含まれる。実際のマシン上でアセンブリ言語およびC言語によるプログラムを作成する演習を含む。
   credits: '3.0'
-  data_update_date: '2026-02-06 16:18:33'
+  data_update_date: '2026-11-04 19:01:05'
   english_name: Computers and Programming
   enrollment_application: ×
   enrollment_requirements: ''
@@ -274726,7 +274789,7 @@
 - class_id: GB22021
   class_outline: 情報メディア創成学や情報科学,工学の対象となる各種システムの数理モデルに対し,システムの設計・運用に必要な最適化手法について学ぶ.
   credits: '1.0'
-  data_update_date: '2026-10-21 09:25:34'
+  data_update_date: '2026-11-03 09:01:46'
   english_name: Mathematical Systems Theory II
   enrollment_application: ''
   enrollment_requirements: ''
@@ -274791,7 +274854,7 @@
 - class_id: GB22621
   class_outline: 膨大なデータや情報が溢れる現代において、コンピュータによって情報を視覚的に提示する技術(情報可視化技術)は、情報処理を目的としたコンピュータと人間を有機的につなぐ重要な技術である。この授業では、情報可視化に関する基礎知識として、情報可視化の枠組、ヒトの視覚に関する認知的な性質、データを表現するための基本的な技術、様々なデータを対象とした表現技術について学ぶ。
   credits: '2.0'
-  data_update_date: '2025-12-17 16:23:12'
+  data_update_date: '2026-11-06 10:50:16'
   english_name: Information Visualization
   enrollment_application: ''
   enrollment_requirements: ''
@@ -275094,7 +275157,7 @@
     UML, デザインパターン, ソフトウェアテスト, ウォーターフォールモデル, リファクタリング, アジャイル開発, エクストリームプログラミング, スクラム等について,
     演習を行いながら学習する.
   credits: '2.0'
-  data_update_date: '2026-02-06 15:53:26'
+  data_update_date: '2026-11-04 19:03:28'
   english_name: Software Engineering
   enrollment_application: ''
   enrollment_requirements: ''
@@ -275878,7 +275941,7 @@
 - class_id: GC11801
   class_outline: 「線形代数A」に続き、ベクトル空間、内積空間、線形変換、不変空間(核・像・固有空間)、固有値と対角化、標準形等の線形代数の基本概念が学べる。
   credits: '2.0'
-  data_update_date: '2026-10-08 16:26:38'
+  data_update_date: '2026-11-03 08:58:49'
   english_name: Linear Algebra B
   enrollment_application: ''
   enrollment_requirements: ''
@@ -275941,7 +276004,7 @@
 - class_id: GC12401
   class_outline: ソフトウェアを書く上で基本となるデータ構造とアルゴリズムの考え方について学ぶ。線形構造, 木構造, グラフ構造, データ整列, データ探索について学習する。
   credits: '2.0'
-  data_update_date: '2026-10-08 16:29:27'
+  data_update_date: '2026-11-06 09:58:32'
   english_name: Data Structures and Algorithms
   enrollment_application: ''
   enrollment_requirements: ''
@@ -276023,7 +276086,7 @@
 - class_id: GC13201
   class_outline: 計算機を用いて大量のデータを管理する技術の概要を学ぶ。また、プログラミング言語からデータベースを操作する埋込みSQL手法と、その際に生じるセキュリティリスク対策についても学習する。
   credits: '2.0'
-  data_update_date: '2026-03-10 16:10:00'
+  data_update_date: '2026-11-06 10:01:21'
   english_name: Introduction to Data Engineering
   enrollment_application: △
   enrollment_requirements: ''
@@ -276179,7 +276242,7 @@
 - class_id: GC23101
   class_outline: 連続時間信号システム,連続時間信号のディジタル化,ディジタル信号システム,および信号処理技術について,基本概念,重要技術に関する理論と応用を講義し,信号処理の基本技術を習得する。
   credits: '2.0'
-  data_update_date: '2024-01-11 15:20:44'
+  data_update_date: '2026-11-04 15:09:10'
   english_name: Signals and Systems
   enrollment_application: △
   enrollment_requirements: ''
@@ -276536,7 +276599,7 @@
 - class_id: GC41103
   class_outline: 情報メディア創成学類に関わるテーマについて,各担当教員のもと,各学期完結で実験を実施し,結果を報告・発表する。
   credits: '3.0'
-  data_update_date: '2025-12-05 14:48:16'
+  data_update_date: '2026-11-03 08:04:50'
   english_name: Information Media Laboratory A
   enrollment_application: ×
   enrollment_requirements: ''
@@ -276559,7 +276622,7 @@
 - class_id: GC41203
   class_outline: 情報メディア創成学類に関わるテーマについて,各担当教員のもと,各学期完結で実験を実施し,結果を報告・発表する。
   credits: '3.0'
-  data_update_date: '2025-12-05 14:49:23'
+  data_update_date: '2026-11-03 08:04:50'
   english_name: Information Media Laboratory B
   enrollment_application: ×
   enrollment_requirements: ''
@@ -277140,7 +277203,7 @@
 - class_id: GC53801
   class_outline: 情報メディア創成学や情報科学,工学の対象となる各種システムの数理モデルに対し,システムの設計・運用に必要な最適化手法について学ぶ.
   credits: '1.0'
-  data_update_date: '2026-10-21 09:25:34'
+  data_update_date: '2026-11-03 09:01:46'
   english_name: Mathematical Systems Theory II
   enrollment_application: ''
   enrollment_requirements: ''
@@ -277184,7 +277247,7 @@
 - class_id: GC54091
   class_outline: 膨大なデータや情報が溢れる現代において、コンピュータによって情報を視覚的に提示する技術(情報可視化技術)は、情報処理を目的としたコンピュータと人間を有機的につなぐ重要な技術である。この授業では、情報可視化に関する基礎知識として、情報可視化の枠組、ヒトの視覚に関する認知的な性質、データを表現するための基本的な技術、様々なデータを対象とした表現技術について学ぶ。
   credits: '2.0'
-  data_update_date: '2025-12-17 16:23:12'
+  data_update_date: '2026-11-06 10:50:16'
   english_name: Information Visualization
   enrollment_application: ''
   enrollment_requirements: ''
@@ -277317,7 +277380,7 @@
 - class_id: GC55002
   class_outline: 筑波大学海外留学支援事業(はばたけ!筑大生)の「海外学会等参加支援プログラム」採択者が履修するための科目である。
   credits: '1.0'
-  data_update_date: '2025-01-23 09:15:26'
+  data_update_date: '2026-11-04 08:52:59'
   english_name: Overseas Special Seminar I
   enrollment_application: ×
   enrollment_requirements: ''
@@ -277340,7 +277403,7 @@
 - class_id: GC55102
   class_outline: 筑波大学海外留学支援事業(はばたけ!筑大生)の「海外学会等参加支援プログラム」採択者が履修するための科目である。
   credits: '1.0'
-  data_update_date: '2025-01-23 09:15:54'
+  data_update_date: '2026-11-04 08:53:30'
   english_name: Overseas Special Seminar II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -288442,7 +288505,7 @@
 - class_id: W150021
   class_outline: スポーツをめぐる倫理的諸問題(暴力、ドーピング、差別等)について、スポーツ哲学分野における基本的な論点を学ぶとともに、具体的な事例の考察を通して、受講生自身の実践的な思考を深めていく。
   credits: '1.0'
-  data_update_date: '2026-04-14 11:02:06'
+  data_update_date: '2026-11-02 09:55:16'
   english_name: Sport Ethics
   enrollment_application: ''
   enrollment_requirements: ''
@@ -290365,7 +290428,7 @@
 - class_id: W181022
   class_outline: 発生運動学に関する基本文献を精読することによって、発生運動学における基本概念を理解するとともに、発生運動学の運動認識の仕方、理論体系および研究方法について学習する。
   credits: '2.0'
-  data_update_date: '2023-11-24 20:10:24'
+  data_update_date: '2026-11-04 18:38:27'
   english_name: Seminar in Movement Theory of Sport II
   enrollment_application: ×
   enrollment_requirements: ''
@@ -298635,7 +298698,7 @@
 - class_id: YAD1012
   class_outline: ふたつの異なる版種の版画制作を通して、版表現の幅広さを体感する。本授業では、エッチング(腐蝕銅版画)とスクリーンプリントの作品制作を行なう。
   credits: '2.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-11-04 15:00:01'
   english_name: 'Fundamental Studio Work: Printmaking'
   enrollment_application: △
   enrollment_requirements: 受講者多数の場合は不可となる場合がある
@@ -298656,7 +298719,7 @@
   short_term_students_requirements: 受講者多数の場合は不可となる場合がある
   standard_course_year: 1・2
   subject_code: YAD1012
-  teaching_staff: 田島 直樹
+  teaching_staff: 田島 直樹,日? 衣紅
 - class_id: YAE1011
   class_outline: 絵画の中でジャンル分けされる「日本画」とは何か。その基本的意味及び特徴等について日本絵画史をたどりながら,技法・材料・概念の変遷を考察し,現代の日本画に対する理解を深める。
   credits: '1.0'
@@ -301971,7 +302034,7 @@
 - class_id: YBD0923
   class_outline: 版画表現の基礎的な技法を修得する。 銅版画のエッチングとアクアチントについて実習を行う。
   credits: '1.0'
-  data_update_date: '2026-01-19 18:39:21'
+  data_update_date: '2026-11-04 15:01:05'
   english_name: 'Fundamental Studio Works: Printmaking 2'
   enrollment_application: △
   enrollment_requirements: 受講者多数の場合は不可となる場合がある
@@ -301992,11 +302055,11 @@
   short_term_students_requirements: 受講者多数の場合は不可となる場合がある
   standard_course_year: '2'
   subject_code: YBD0923
-  teaching_staff: 田島 直樹
+  teaching_staff: 田島 直樹,日? 衣紅
 - class_id: YBD1202
   class_outline: さまざまな描画材を用いた多色刷りリトグラフの実習を行う。制作プロセス、原理の理解が重要となる。
   credits: '2.0'
-  data_update_date: '2025-12-17 12:17:01'
+  data_update_date: '2026-11-04 14:58:47'
   english_name: Workshops on Lithography
   enrollment_application: ×
   enrollment_requirements: ''
@@ -302015,7 +302078,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2・3
   subject_code: Y251202
-  teaching_staff: 田島 直樹
+  teaching_staff: 田島 直樹,日? 衣紅
 - class_id: YBD1312
   class_outline: 水性絵具を用いた木版画の演習を行う。墨によるの摺り、回転摺りによる色の重なりに関する実験を行う。
   credits: '2.0'
@@ -302042,7 +302105,7 @@
 - class_id: YBD1322
   class_outline: 複数の版のかけ合わせによる版画制作。木版画の演習を行う。色の摺り重ねによって絵を作るため,そのメカニズムの理解が大切になる。
   credits: '2.0'
-  data_update_date: '2026-01-19 18:43:28'
+  data_update_date: '2026-11-04 15:00:34'
   english_name: Workshop:Woodcut Printmaking -2
   enrollment_application: ×
   enrollment_requirements: 受講者多数の場合は不可となる場合がある
@@ -302061,7 +302124,7 @@
   short_term_students_requirements: 受講者多数の場合は不可となる場合がある
   standard_course_year: '3'
   subject_code: YBD1322
-  teaching_staff: 田島 直樹
+  teaching_staff: 田島 直樹,日? 衣紅
 - class_id: YBD1332
   class_outline: 銅版画の技法は他の版画に比較して,多岐にわたり奥深い。さまざまな銅版画の技法を学ぶことにより,技術の修得のみならず,技法によってイメージを触発され,新しい表現へと向わしめることを期す。春学期はラインエッチングによる自画像及び、様々な技法の実験制作を行う。
   credits: '2.0'
@@ -302088,7 +302151,7 @@
 - class_id: YBD1342
   class_outline: 春学期に行った技法実験の結果をもとに、秋学期は各自技法を選び、テーマを設定して自主制作するが、どちらかといえば技法に触発された表現を期待したい。
   credits: '2.0'
-  data_update_date: '2026-01-19 18:49:19'
+  data_update_date: '2026-11-04 14:59:28'
   english_name: Workshop:Copper Printmaking B-2
   enrollment_application: ×
   enrollment_requirements: 受講者多数の場合は不可となる場合がある
@@ -302107,7 +302170,7 @@
   short_term_students_requirements: 受講者多数の場合は不可となる場合がある
   standard_course_year: '3'
   subject_code: YBD1342
-  teaching_staff: 田島 直樹
+  teaching_staff: 田島 直樹,日? 衣紅
 - class_id: YBD1352
   class_outline: スクリーンプリントの原稿制作、感光による製版、スキージによる刷りを通して作品制作を行う。制作プロセス、原理の理解が重要となる。
   credits: '2.0'
@@ -302309,7 +302372,7 @@
 - class_id: YBD1582
   class_outline: 各自,自分に合った版画技法を選び,テーマを設定する。学外での展示を想定して計画的に作品を制作する。
   credits: '1.0'
-  data_update_date: '2026-01-20 20:48:13'
+  data_update_date: '2026-11-04 15:02:01'
   english_name: 'Workshop: Printmaking C'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -302330,7 +302393,7 @@
   short_term_students_requirements: ''
   standard_course_year: 2・3
   subject_code: YBD1582
-  teaching_staff: 田島 直樹
+  teaching_staff: 田島 直樹,日? 衣紅
 - class_id: YBD1592
   class_outline: 各自,自分に合った版画技法を選び,テーマを設定する。学外での展示を想定して計画的に作品を制作する。
   credits: '1.0'
@@ -302359,7 +302422,7 @@
 - class_id: YBD1712
   class_outline: 版画制作に必要不可欠なプロセス・素材について、学外の美術館・博物館や紙漉き場等でのワークショップに参加し、実体験を通して学習する。また、学外において展覧会を開催し、作品の成果発表を行う。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-11-04 15:04:37'
   english_name: 'Field WorkI: Printmaking'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -302378,11 +302441,11 @@
   short_term_students_requirements: ''
   standard_course_year: 2・3
   subject_code: Y251502
-  teaching_staff: 田島 直樹
+  teaching_staff: 田島 直樹,日? 衣紅
 - class_id: YBD1722
   class_outline: 版画制作に必要不可欠なプロセス・素材について、学外の美術館・博物館や紙漉き場等でのワークショップに参加し、実体験を通して学習する。また、学外において展覧会を開催し、作品の成果発表を行う。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-11-04 15:05:05'
   english_name: 'Field WorkII: Printmaking'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -302401,11 +302464,11 @@
   short_term_students_requirements: ''
   standard_course_year: 3・4
   subject_code: YBD1722
-  teaching_staff: 田島 直樹
+  teaching_staff: 田島 直樹,日? 衣紅
 - class_id: YBD9017
   class_outline: 版画の基本的な版種や技法の原理、版種によって異なる表現効果について演習を通して学ぶ。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-11-04 15:02:23'
   english_name: Introductory Seminar on Specific Field I (Printmaking)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -302422,7 +302485,7 @@
   short_term_students_requirements: ''
   standard_course_year: '2'
   subject_code: YBD9017
-  teaching_staff: 田島 直樹
+  teaching_staff: 田島 直樹,日? 衣紅
 - class_id: YBD9027
   class_outline: 版画の基本的な版種や技法の原理、版種によって異なる表現効果について演習を通して学ぶ。
   credits: '1.0'
@@ -302447,7 +302510,7 @@
 - class_id: YBD9037
   class_outline: 版画の基本的な版種や技法の原理、版種によって異なる表現効果について演習を通して学ぶ。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-11-04 15:02:46'
   english_name: 'Special Workshops: Printmaking I'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -302455,24 +302518,20 @@
   module: 秋ABC
   name: 版画領域特別演習I
   period: 随時
-  remarks: '・版画領域学生を希望する学生。
-
-    ・いずれかの領域研究I,II(版画領域のものが望ましい)を履修済で、専門科目(YBD、YBC、YBE、YBK、YBL)を10単位程度取得していることが望ましい。事前に担当教員に相談する事。
+  remarks: '・版画領域学生を希望する学生。・いずれかの領域研究I,II(版画領域のものが望ましい)を履修済で、専門科目(YBD、YBC、YBE、YBK、YBL)を10単位程度取得していることが望ましい。事前に担当教員に相談する事。
 
     実務経験教員
 
     対面
 
-    ・TOEICR IPテストの受験必須
-
-    ・自己達成度評価をおこなうこと。'
+    ・TOEICR IPテストの受験必須・自己達成度評価をおこなうこと。'
   requirement_subject_name: 版画領域特別演習I
   room: ''
   short_term_students_application: ×
   short_term_students_requirements: ''
   standard_course_year: '3'
   subject_code: YBD9037
-  teaching_staff: 田島 直樹
+  teaching_staff: 田島 直樹,日? 衣紅
 - class_id: YBD9047
   class_outline: 版画領域における卒業研究の指導を行う。
   credits: '1.0'
@@ -302495,7 +302554,7 @@
 - class_id: YBD9057
   class_outline: 版画領域における卒業研究の指導を行う。
   credits: '1.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-11-04 15:03:32'
   english_name: 'Special Workshops: Printmaking III'
   enrollment_application: ×
   enrollment_requirements: ''
@@ -302516,7 +302575,7 @@
   short_term_students_requirements: ''
   standard_course_year: '4'
   subject_code: YBD9057
-  teaching_staff: 田島 直樹
+  teaching_staff: 田島 直樹,日? 衣紅
 - class_id: YBD9918
   class_outline: 専門に関する研究を行い、制作と論文にまとめる。
   credits: '3.0'
@@ -302543,7 +302602,7 @@
 - class_id: YBD9928
   class_outline: 専門に関する研究を行い、制作と論文にまとめる。
   credits: '3.0'
-  data_update_date: '2026-08-03 04:16:35'
+  data_update_date: '2026-11-04 15:03:59'
   english_name: Graduation Thesis and Production B (Printmaking)
   enrollment_application: ×
   enrollment_requirements: ''
@@ -302562,7 +302621,7 @@
   short_term_students_requirements: ''
   standard_course_year: '4'
   subject_code: YBD9928
-  teaching_staff: 田島 直樹
+  teaching_staff: 田島 直樹,日? 衣紅
 - class_id: YBE0302
   class_outline: 古典から現代までの日本画の鑑賞を通して美術史的な背景を調査し、作品を観察、文章化することで、日本画表現の理解を深める。
   credits: '1.0'
