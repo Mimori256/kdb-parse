@@ -802,7 +802,7 @@
   "01LA005": {
     "class_id": "01LA005",
     "name": "ビジネス法入門",
-    "description": "開講日時は決定後、在学生サイトへ掲示します。\\n0AA1102と同一。\\nオンライン(同時双方向型)",
+    "description": "開講日時は決定後、在学生サイトへ掲示します。\\n0AA1102と同一。\\n2/16,2/18,2/24,2/25,2/26,3/1\\nオンライン(同時双方向型)",
     "module": [
       [
         "夏季休業中"
@@ -14354,38 +14354,6 @@
     ],
     "room": " "
   },
-  "02DT541": {
-    "class_id": "02DT541",
-    "name": "英語学特講(1A)",
-    "description": "2021/4/8 開講中止決定\\n2026年度より4年おき開講。",
-    "module": [
-      [
-        "春ABC"
-      ]
-    ],
-    "period": [
-      [
-        "木3"
-      ]
-    ],
-    "room": " "
-  },
-  "02DT542": {
-    "class_id": "02DT542",
-    "name": "英語学特講(1B)",
-    "description": "2021/4/8 開講中止決定\\n2026年度より4年おき開講。",
-    "module": [
-      [
-        "秋ABC"
-      ]
-    ],
-    "period": [
-      [
-        "木3"
-      ]
-    ],
-    "room": " "
-  },
   "02DT543": {
     "class_id": "02DT543",
     "name": "英語学特講(2A)",
@@ -21336,7 +21304,7 @@
   "0AA1102": {
     "class_id": "0AA1102",
     "name": "ビジネス法入門",
-    "description": "開講日時は決定後、在学生サイトへ掲示します。\\n01LA005と同一。\\nオンライン(同時双方向型)",
+    "description": "開講日時は決定後、在学生サイトへ掲示します。\\n01LA005と同一。\\n2/16,2/18,2/24,2/25,2/26,3/1\\nオンライン(同時双方向型)",
     "module": [
       [
         "夏季休業中"
@@ -48310,7 +48278,7 @@
   "0AJMC07": {
     "class_id": "0AJMC07",
     "name": "材料技術戦略論",
-    "description": "西暦奇数年度開講。\\n英語で授業。\\n要望があれば英語で授業\\nオンライン(オンデマンド型)\\n英語で授業",
+    "description": "西暦奇数年度開講。\\n英語で授業。\\nオンライン(オンデマンド型)\\n英語で授業",
     "module": [
       [
         "通年"
@@ -55145,7 +55113,7 @@
   "0ANA021": {
     "class_id": "0ANA021",
     "name": "大規模分子系統解析演習",
-    "description": "対面",
+    "description": "1/7,1/14\\n対面",
     "module": [
       [
         "秋C"
@@ -83358,7 +83326,7 @@
   "0ATW129": {
     "class_id": "0ATW129",
     "name": "Music and Information",
-    "description": "Classes are offered in English in even-years and in Japanese in odd-years, respectively; Special subjects for Media Science\\n西暦偶数年度開講。\\n対面(オンライン併用型)",
+    "description": "Classes are offered in English in even-years and in Japanese in odd-years, respectively; Special subjects for Media Science\\n西暦偶数年度開講。\\n英語で授業。\\n対面(オンライン併用型)",
     "module": [
       [
         "秋AB"
@@ -83657,7 +83625,7 @@
   "0ATW149": {
     "class_id": "0ATW149",
     "name": "Management of Educational Organizations and Data",
-    "description": "Classes are offered in Japanese in even-years and in English in odd-years, respectively; Special subjects for Information Interaction\\n西暦奇数年度開講。\\nオンライン(オンデマンド型)\\nSee Course Number 0ATW139 for Japanese Syllabus",
+    "description": "Classes are offered in Japanese in even-years and in English in odd-years, respectively; Special subjects for Information Interaction\\n西暦奇数年度開講。\\n英語で授業。\\nオンライン(オンデマンド型)\\nSee Course Number 0ATW139 for Japanese Syllabus",
     "module": [
       [
         "通年"
@@ -84636,7 +84604,7 @@
   "0ATW341": {
     "class_id": "0ATW341",
     "name": "Media and Well-being",
-    "description": "Classes are offered in English in even-years and in Japanese in odd-years, respectively; Special subjects for Information Interaction; Teacher Training Course\\n西暦偶数年度開講。\\n対面(オンライン併用型)",
+    "description": "Classes are offered in English in even-years and in Japanese in odd-years, respectively; Special subjects for Information Interaction; Teacher Training Course\\n西暦偶数年度開講。\\n英語で授業。\\n対面(オンライン併用型)",
     "module": [
       [
         "春AB"
@@ -99515,7 +99483,7 @@
   "0BNM015": {
     "class_id": "0BNM015",
     "name": "生命産業技術移転論",
-    "description": "1/22,29,2/5,12\\n西暦偶数年度開講。\\n対面(オンライン併用型)",
+    "description": "1/22,29,2/5,12\\n西暦偶数年度開講。\\n1/22, 1/29, 2/5, 2/12\\n対面(オンライン併用型)",
     "module": [
       [
         "秋C"
@@ -133053,7 +133021,7 @@
   "6428012": {
     "class_id": "6428012",
     "name": "情報リテラシー(演習)",
-    "description": "英語で授業。\\n対面",
+    "description": "英語で授業。\\n対面\\nマレーシア校開講科目",
     "module": [
       [
         "秋B"
@@ -138489,10 +138457,9 @@
   "AA21781": {
     "class_id": "AA21781",
     "name": "東南アジアの言語と文化I",
-    "description": "西暦偶数年度開講。",
+    "description": "西暦偶数年度開講。\\n3/1-3/3",
     "module": [
       [
-        "秋C",
         "夏季休業中"
       ]
     ],
@@ -138554,7 +138521,7 @@
   "AA23031": {
     "class_id": "AA23031",
     "name": "サブサハラアフリカの言語と文化II",
-    "description": "西暦偶数年度開講。",
+    "description": "西暦偶数年度開講。\\n1/30, 2/6, 2/20, 2/27, 3/6",
     "module": [
       [
         "秋C",
@@ -144278,7 +144245,7 @@
   "AB91A71": {
     "class_id": "AB91A71",
     "name": "実験言語・音声学",
-    "description": "対面",
+    "description": "1/7,1/13,1/14,1/21\\n対面",
     "module": [
       [
         "秋C"
@@ -151371,7 +151338,7 @@
   "AC64A31": {
     "class_id": "AC64A31",
     "name": "先端文化学研究IV",
-    "description": "対面\\n対面(オンライン併用型)\\nAC64031の単位取得者は履修できない。",
+    "description": "対面(オンライン併用型)\\nAC64031の単位取得者は履修できない。",
     "module": [
       [
         "秋AB"
@@ -151531,7 +151498,7 @@
   "AC64B82": {
     "class_id": "AC64B82",
     "name": "先端文化学演習IV",
-    "description": "教室についてはmanabaで周知する。\\n対面\\n対面(オンライン併用型)\\nAC64132の単位取得者は履修できない。",
+    "description": "教室についてはmanabaで周知する。\\n対面(オンライン併用型)\\nAC64132の単位取得者は履修できない。",
     "module": [
       [
         "秋AB"
@@ -155768,15 +155735,15 @@
   "BB11331": {
     "class_id": "BB11331",
     "name": "環境社会学",
-    "description": "2026年度開講せず。\\n対面",
+    "description": "2/3-2/5\\n対面",
     "module": [
       [
-        "通年"
+        "秋C"
       ]
     ],
     "period": [
       [
-        "随時"
+        "集中"
       ]
     ],
     "room": " "
@@ -160094,7 +160061,7 @@
   "BC12291": {
     "class_id": "BC12291",
     "name": "Social Anthropology(社会人類学)",
-    "description": "英語で授業。\\n1/25,26,27,29\\n対面\\n授業実施についてはmanabaにて連絡",
+    "description": "英語で授業。\\n1/25,26,27,29\\n授業実施についてはmanabaにて連絡",
     "module": [
       [
         "秋C"
@@ -175160,10 +175127,10 @@
   "EE21163": {
     "class_id": "EE21163",
     "name": "人文地理学野外実験B",
-    "description": "「人文地理学野外実験B(EE21123)」を修得済みの者は履修できない。\\n西暦偶数年度開講。\\n対面",
+    "description": "「人文地理学野外実験B(EE21123)」を修得済みの者は履修できない。\\n西暦偶数年度開講。\\n2/7-2/10\\n対面",
     "module": [
       [
-        "通年"
+        "秋C"
       ]
     ],
     "period": [
@@ -176862,7 +176829,7 @@
   "EE51908": {
     "class_id": "EE51908",
     "name": "卒業研究",
-    "description": "令和2年度以前入学者対象\\n対面",
+    "description": "「2026/11/19 開講中止決定」令和2年度以前入学者対象\\n2026年度開講せず。\\n対面\\n本年度開講中止",
     "module": [
       [
         "通年"
@@ -176878,7 +176845,7 @@
   "EE51918": {
     "class_id": "EE51918",
     "name": "卒業研究",
-    "description": "令和2年度以前入学者対象\\n対面",
+    "description": "「2026/11/19 開講中止決定」令和2年度以前入学者対象\\n2026年度開講せず。\\n対面\\n本年度開講中止",
     "module": [
       [
         "通年"
@@ -176894,15 +176861,15 @@
   "EE51928": {
     "class_id": "EE51928",
     "name": "卒業研究",
-    "description": "令和2年度以前入学者対象\\n留学等特別な事情があると認められた者が受講する場合に限り開講する。履修登録は事務で行う。\\n対面",
+    "description": "「2026/11/19 開講中止決定」令和2年度以前入学者対象留学等特別な事情があると認められた者が受講する場合に限り開講する。履修登録は事務で行う。\\n2026年度開講せず。\\n対面\\n本年度開講中止",
     "module": [
       [
-        "春ABC"
+        "通年"
       ]
     ],
     "period": [
       [
-        "応談"
+        "随時"
       ]
     ],
     "room": " "
@@ -176910,15 +176877,15 @@
   "EE51938": {
     "class_id": "EE51938",
     "name": "卒業研究",
-    "description": "令和2年度以前入学者対象\\n留学等特別な事情があると認められた者が受講する場合に限り開講する。履修登録は事務で行う。\\n対面",
+    "description": "「2026/11/19 開講中止決定」令和2年度以前入学者対象留学等特別な事情があると認められた者が受講する場合に限り開講する。履修登録は事務で行う。\\n2026年度開講せず。\\n対面\\n本年度開講中止",
     "module": [
       [
-        "春ABC"
+        "通年"
       ]
     ],
     "period": [
       [
-        "応談"
+        "随時"
       ]
     ],
     "room": " "
@@ -176926,15 +176893,15 @@
   "EE51948": {
     "class_id": "EE51948",
     "name": "卒業研究",
-    "description": "令和2年度以前入学者対象\\n留学等特別な事情があると認められた者が受講する場合に限り開講する。履修登録は事務で行う。\\n対面",
+    "description": "「2026/11/19 開講中止決定」令和2年度以前入学者対象留学等特別な事情があると認められた者が受講する場合に限り開講する。履修登録は事務で行う。\\n2026年度開講せず。\\n対面\\n本年度開講中止",
     "module": [
       [
-        "秋ABC"
+        "通年"
       ]
     ],
     "period": [
       [
-        "応談"
+        "随時"
       ]
     ],
     "room": " "
@@ -176942,15 +176909,15 @@
   "EE51958": {
     "class_id": "EE51958",
     "name": "卒業研究",
-    "description": "令和2年度以前入学者対象\\n留学等特別な事情があると認められた者が受講する場合に限り開講する。履修登録は事務で行う。\\n対面",
+    "description": "「2026/11/19 開講中止決定」令和2年度以前入学者対象留学等特別な事情があると認められた者が受講する場合に限り開講する。履修登録は事務で行う。\\n2026年度開講せず。\\n対面\\n本年度開講中止",
     "module": [
       [
-        "秋ABC"
+        "通年"
       ]
     ],
     "period": [
       [
-        "応談"
+        "随時"
       ]
     ],
     "room": " "
@@ -177431,7 +177398,7 @@
   "EG50061": {
     "class_id": "EG50061",
     "name": "Vegetation Ecology",
-    "description": "英語で授業。\\n対面",
+    "description": "英語で授業。\\n1/13, 1/14\\n対面",
     "module": [
       [
         "秋C"
@@ -177614,7 +177581,7 @@
   "EG60101": {
     "class_id": "EG60101",
     "name": "Soil Science",
-    "description": "Same as EC32161\\n西暦偶数年度開講。\\n英語で授業。\\n対面",
+    "description": "Same as EC32161\\n西暦偶数年度開講。\\n英語で授業。\\n1/23, 1/24, 1/30, 1/31\\n対面",
     "module": [
       [
         "秋C"
@@ -178637,10 +178604,10 @@
   "EG91223": {
     "class_id": "EG91223",
     "name": "地球環境学野外実験III",
-    "description": "Offered in 2026. This course is offered every 3 years. Permission by teachers.\\n2026年度より3年おき開講。\\n英語で授業。\\n対面",
+    "description": "Offered in 2026. This course is offered every 3 years. Permission by teachers.\\n2026年度より3年おき開講。\\n英語で授業。\\n2/7-2/10\\n対面",
     "module": [
       [
-        "通年"
+        "秋C"
       ]
     ],
     "period": [
@@ -180633,22 +180600,6 @@
       ],
       [
         "水4"
-      ]
-    ],
-    "room": " "
-  },
-  "FA45224": {
-    "class_id": "FA45224",
-    "name": "線形代数基礎",
-    "description": "応用理工学類、工学システム学類、社会工学類、総合学域群生に限る。応用理工学類、工学システム学類、社会工学類の卒業要件には含まない。成績評価は合否 (P/F) にて判定する。世話人:工学システム学類長\\n2026年度開講せず。\\n対面",
-    "module": [
-      [
-        "通年"
-      ]
-    ],
-    "period": [
-      [
-        "随時"
       ]
     ],
     "room": " "
@@ -193828,7 +193779,7 @@
   "FH60811": {
     "class_id": "FH60811",
     "name": "統計学",
-    "description": "選択必修科目(2019年度以降入学者)。1年次生は学籍番号(9桁)の下2桁を3で割った余りが0の学生対象。2018年度以前に「統計I(FH60711,FH60721)」を修得したものの履修は不可。\\n対面\\n「データ・AI 活用 企画・実施・評価」に資する内容である。",
+    "description": "選択必修科目(2019年度以降入学者)。1年次生は学籍番号(9桁)の下2桁を3で割った余りが0の学生対象。2018年度以前に「統計I(FH60711,FH60721)」を修得したものの履修は不可。\\n対面\\n本科目は「データ・AI 活用 企画・実施・評価」に資する内容である。",
     "module": [
       [
         "秋AB"
@@ -199970,7 +199921,10 @@
     "description": "知識情報システム主専攻生対象.\\n対面(オンライン併用型)",
     "module": [
       [
-        "秋AB"
+        "秋A"
+      ],
+      [
+        "秋B"
       ]
     ],
     "period": [
@@ -214829,7 +214783,7 @@
   "YAH1122": {
     "class_id": "YAH1122",
     "name": "工芸基礎演習(陶磁)B",
-    "description": "人数制限あり24名程度まで\\n実務経験教員\\n対面",
+    "description": "人数制限あり24名程度まで。YAH1022工芸基礎演習(陶磁)の落選者を優先する。\\n実務経験教員\\n対面",
     "module": [
       [
         "秋C"
